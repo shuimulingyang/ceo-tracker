@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-04T22:18:30Z",
-  "total": 80,
+  "updated_at": "2026-03-04T23:18:46Z",
+  "total": 82,
   "by_ceo": {
-    "Brian Armstrong": 41,
+    "Brian Armstrong": 42,
     "CZ": 8,
     "Richard Teng": 13,
-    "Ben Zhou": 12,
+    "Ben Zhou": 13,
     "Star Xu": 6
   },
   "articles": [
@@ -514,6 +514,17 @@
       "key_quote": "Coinbase CEO Brian Armstrong 'more bullish than ever' as company navigates latest crypto downturn Yahoo Finance"
     },
     {
+      "title": "$10 Billion Gone In 7 Months: Coinbase's Brian Armstrong Falls Off Billionaire Leaderboard As Crypto Fortunes Evaporate",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBpQ19aYXp0MUFrTUw0NlFmeENvSFFvVExHQlpEaHJOQWhZSTdtbkVmdTFpdmxmNl9ud1lIbGJPT085YmlsSHBZcjZNV2s5LU14VnBSN3owR1hPby03VGs1RldBU2pqcXlTMFZlTi10Z0FLNldvQ0J1ZFhR?oc=5\" target=\"_blank\">$10 Billion Gone In 7 Months: Coinbase's Brian Armstrong Falls Off Billionaire Leaderboard As Crypto Fortunes Evaporate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpQ19aYXp0MUFrTUw0NlFmeENvSFFvVExHQlpEaHJOQWhZSTdtbkVmdTFpdmxmNl9ud1lIbGJPT085YmlsSHBZcjZNV2s5LU14VnBSN3owR1hPby03VGs1RldBU2pqcXlTMFZlTi10Z0FLNldvQ0J1ZFhR?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-13T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "$10 Billion Gone In 7 Months: Coinbase's Brian Armstrong Falls Off Billionaire Leaderboard As Crypto Fortunes Evaporate Yahoo Finance"
+    },
+    {
       "title": "The $300M move: Richard Teng on tokenizing Wall Street",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmRxMXlCR3dLeG43ZC1jVGtWdUJOOVp3TFJxZFhEWnJheEtsNHI4N3RucVRZLUE3MVZoQ0hJOHhxZkJUdmRiVGdGM0ZxcjVEdUtoekQ5WmQtU0VabDhrYWMzb1JsT1phNjNHS01OblVOWVM4UG94U211SHd4UTZobTJReEFtcEU?oc=5\" target=\"_blank\">The $300M move: Richard Teng on tokenizing Wall Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmRxMXlCR3dLeG43ZC1jVGtWdUJOOVp3TFJxZFhEWnJheEtsNHI4N3RucVRZLUE3MVZoQ0hJOHhxZkJUdmRiVGdGM0ZxcjVEdUtoekQ5WmQtU0VabDhrYWMzb1JsT1phNjNHS01OblVOWVM4UG94U211SHd4UTZobTJReEFtcEU?oc=5",
@@ -768,6 +779,20 @@
         "市场 Market"
       ],
       "key_quote": "What Will 2026 Bring for the Crypto Market? Binance CEO Richard Teng Shares His Outlook Binance"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou on perps, RWAs, and what's next for 2026",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDd2bWI4OXU2Vmw2TkdoN0lMS3ZFQXJ4VmxYLWVZVDRuNFZZcG5XVVFYUWFQUzBwOUs4OGFMWUVoSDF5d1FNLUpBWlJJdG80dHl4UTBkSU42aGZZcWFBcGNETk1TOVd5TW92RzdrVXl2OEJxNGxRMEliYlZoRDlNZmlIVzZtTURhaEZLVEkxeTh5WC1vSkNj?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou on perps, RWAs, and what's next for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUDd2bWI4OXU2Vmw2TkdoN0lMS3ZFQXJ4VmxYLWVZVDRuNFZZcG5XVVFYUWFQUzBwOUs4OGFMWUVoSDF5d1FNLUpBWlJJdG80dHl4UTBkSU42aGZZcWFBcGNETk1TOVd5TW92RzdrVXl2OEJxNGxRMEliYlZoRDlNZmlIVzZtTURhaEZLVEkxeTh5WC1vSkNj?oc=5",
+      "source": "The Block",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2025-12-11T08:00:00+00:00",
+      "tags": [
+        "Ethereum",
+        "Layer2"
+      ],
+      "key_quote": "Bybit CEO Ben Zhou on perps, RWAs, and what's next for 2026 The Block"
     },
     {
       "title": "Bybit CEO Ben Zhou Signals a New Era for Regulated Institutional Crypto",
