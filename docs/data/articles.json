@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-03-04T15:27:39Z",
-  "total": 66,
+  "updated_at": "2026-03-04T16:28:55Z",
+  "total": 69,
   "by_ceo": {
-    "Brian Armstrong": 30,
-    "CZ": 6,
+    "Brian Armstrong": 32,
+    "CZ": 7,
     "Richard Teng": 12,
     "Ben Zhou": 12,
     "Star Xu": 6
   },
   "articles": [
+    {
+      "title": "President Trump Meets With Coinbase’s Brian Armstrong, Then Blasts Banks Over Stalled Crypto Legislation",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBSZTJLdkliaDh0ZGo5ZVZWaVJFSUU2eFlzenVYenUwQWp6X1NQV05MVXJmbDJzdEE0OFRnT0JEbUZQalBkS1ktRy16UG9TcTRMc3JsekMwakpOWG1jNkcyRkk0SmVmZ3hJdXZzSDhEQnh2VC0zdGNYeXNyaThnUQ?oc=5\" target=\"_blank\">President Trump Meets With Coinbase’s Brian Armstrong, Then Blasts Banks Over Stalled Crypto Legislation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Magazine</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSZTJLdkliaDh0ZGo5ZVZWaVJFSUU2eFlzenVYenUwQWp6X1NQV05MVXJmbDJzdEE0OFRnT0JEbUZQalBkS1ktRy16UG9TcTRMc3JsekMwakpOWG1jNkcyRkk0SmVmZ3hJdXZzSDhEQnh2VC0zdGNYeXNyaThnUQ?oc=5",
+      "source": "Bitcoin Magazine",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T15:53:58+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "President Trump Meets With Coinbase’s Brian Armstrong, Then Blasts Banks Over Stalled Crypto Legislation Bitcoin Magazine"
+    },
+    {
+      "title": "Changpeng Zhao backs Predict.fun’s acquisition of Probable",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGpnaG1hUW9pN2JNeVhrRHF4emdranBnZlhBWHBJRFdHbjItTVEzR2h4TzN5Z1ZvWWpKWmNjb2J3R0tha2JONm92bVczbGxYaks4NFFMeGxzQ0hkYk1lN2gyTkVNbGxCaVFNWmxwdl96Mkd3ejA3UjNUeklnR3R6S2R4eGE?oc=5\" target=\"_blank\">Changpeng Zhao backs Predict.fun’s acquisition of Probable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGpnaG1hUW9pN2JNeVhrRHF4emdranBnZlhBWHBJRFdHbjItTVEzR2h4TzN5Z1ZvWWpKWmNjb2J3R0tha2JONm92bVczbGxYaks4NFFMeGxzQ0hkYk1lN2gyTkVNbGxCaVFNWmxwdl96Mkd3ejA3UjNUeklnR3R6S2R4eGE?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-04T15:35:00+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao backs Predict.fun’s acquisition of Probable crypto.news"
+    },
     {
       "title": "Coinbase CEO: The Business Of Crypto Has 'Never Been Stronger'",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFB4OHNrY0FJR2JlRURHMkVBUi02VWxscGgwQTBkUGlEa1JjbnNkYlZJN0dYNnRtSFRBT3BGQ05ueXQtU2U0bl9hRnFyS1pZVFRmeUNHbktJcFlCZWJtcnhlbVVRcXdvSUtURTlUdmItMS1jT2xWSEowVk13dUdubGl0Z0dwcEk4OFJReTBuQVhtY2xhaTBsZA?oc=5\" target=\"_blank\">Coinbase CEO: The Business Of Crypto Has 'Never Been Stronger'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wealth Advisor</font>",
@@ -30,6 +54,17 @@
       "published_at": "2026-03-04T14:08:16+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO: The business of crypto has 'never been stronger' National Today"
+    },
+    {
+      "title": "Coinbase CEO: The business of crypto has 'never been stronger'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVpFbzY5OTJHemhMX3M0dTMzaks2RU9MVlZkazdtalcwSEdvWHYtNFVaYjR3eDZvanBrV2syU1hUNnFKYk5uMURHTmhybkp4UEhQWXJoal9paDZFM2cxVmp4a08xdmdlR3N3TlhRY19wLVhtOXBQTUFyajgzbDVhNjlibkVRd1JYbFRvRDg2ME1Ub0pIQUJOazZ0a21rRVFZdDJUNkwzZ0g?oc=5\" target=\"_blank\">Coinbase CEO: The business of crypto has 'never been stronger'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVpFbzY5OTJHemhMX3M0dTMzaks2RU9MVlZkazdtalcwSEdvWHYtNFVaYjR3eDZvanBrV2syU1hUNnFKYk5uMURHTmhybkp4UEhQWXJoal9paDZFM2cxVmp4a08xdmdlR3N3TlhRY19wLVhtOXBQTUFyajgzbDVhNjlibkVRd1JYbFRvRDg2ME1Ub0pIQUJOazZ0a21rRVFZdDJUNkwzZ0g?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T13:18:31+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO: The business of crypto has 'never been stronger' Yahoo Finance"
     },
     {
       "title": "Coinbase CEO Wins Trump’s Support in Crypto Bill Battle",
