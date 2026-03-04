@@ -1,0 +1,32 @@
+{
+  "Brian Armstrong": {
+    "exchange": "Coinbase",
+    "role": "CEO",
+    "twitter": "brian_armstrong",
+    "color": "#0052FF"
+  },
+  "CZ": {
+    "exchange": "Binance",
+    "role": "Founder / Former CEO",
+    "twitter": "cz_binance",
+    "color": "#F0B90B"
+  },
+  "Richard Teng": {
+    "exchange": "Binance",
+    "role": "CEO",
+    "twitter": "_RichardTeng",
+    "color": "#e8a500"
+  },
+  "Ben Zhou": {
+    "exchange": "Bybit",
+    "role": "CEO",
+    "twitter": "benbybit",
+    "color": "#1DA462"
+  },
+  "Star Xu": {
+    "exchange": "OKX",
+    "role": "Founder",
+    "twitter": "staroversea",
+    "color": "#2E59DA"
+  }
+}

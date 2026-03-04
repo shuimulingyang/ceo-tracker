@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Crypto CEO Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-icon">⬡</span>
+        <div>
+          <h1 class="brand-title">Crypto CEO Tracker</h1>
+          <p class="brand-sub">实时追踪顶级交易所 CEO 核心观点 · 每小时自动更新</p>
+        </div>
+      </div>
+
+      <div class="header-right">
+        <div class="stats-chips" id="statsChips">
+          <span class="stat-chip" id="statTotal">
+            <span class="stat-num">—</span> 条资讯
+          </span>
+          <span class="stat-chip update-chip">
+            数据更新：<span id="lastUpdated">加载中…</span>
+          </span>
+        </div>
+        <!-- No manual refresh button in static version — data updates via GitHub Actions -->
+        <span class="gh-badge">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/>
+          </svg>
+          GitHub Pages
+        </span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== CONTROLS ===== -->
+  <div class="controls-bar">
+    <div class="controls-inner">
+      <div class="ceo-tabs" id="ceoTabs">
+        <button class="ceo-tab active" data-ceo="all" onclick="filterByCEO('all', this)">
+          全部
+        </button>
+      </div>
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="searchInput" class="search-input"
+               placeholder="搜索关键词…" oninput="onSearch()" />
+        <button class="search-clear" id="searchClear" onclick="clearSearch()">✕</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== CEO STATS BAR ===== -->
+  <div class="ceo-stats-bar" id="ceoStatsBar"></div>
+
+  <!-- ===== ACTIVE TAG FILTER ===== -->
+  <div class="active-tag-bar" id="activeTagBar" style="display:none;">
+    <span>标签筛选：</span>
+    <span class="active-tag" id="activeTagLabel"></span>
+    <button onclick="clearTagFilter()">✕ 清除</button>
+  </div>
+
+  <!-- ===== MAIN TIMELINE ===== -->
+  <main class="main-content">
+    <div id="loadingState" class="loading-state">
+      <div class="spinner"></div>
+      <p>正在加载数据…</p>
+    </div>
+    <div id="emptyState" class="empty-state" style="display:none;">
+      <span class="empty-icon">📭</span>
+      <p>暂无匹配结果</p>
+    </div>
+    <div class="timeline" id="timeline"></div>
+    <div class="load-more-wrap" id="loadMoreWrap" style="display:none;">
+      <button class="btn-load-more" onclick="showMore()">加载更多</button>
+    </div>
+  </main>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
