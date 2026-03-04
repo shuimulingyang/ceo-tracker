@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-04T14:29:43Z",
-  "total": 64,
+  "updated_at": "2026-03-04T15:27:39Z",
+  "total": 66,
   "by_ceo": {
-    "Brian Armstrong": 29,
+    "Brian Armstrong": 30,
     "CZ": 6,
-    "Richard Teng": 11,
+    "Richard Teng": 12,
     "Ben Zhou": 12,
     "Star Xu": 6
   },
   "articles": [
+    {
+      "title": "Coinbase CEO: The Business Of Crypto Has 'Never Been Stronger'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFB4OHNrY0FJR2JlRURHMkVBUi02VWxscGgwQTBkUGlEa1JjbnNkYlZJN0dYNnRtSFRBT3BGQ05ueXQtU2U0bl9hRnFyS1pZVFRmeUNHbktJcFlCZWJtcnhlbVVRcXdvSUtURTlUdmItMS1jT2xWSEowVk13dUdubGl0Z0dwcEk4OFJReTBuQVhtY2xhaTBsZA?oc=5\" target=\"_blank\">Coinbase CEO: The Business Of Crypto Has 'Never Been Stronger'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wealth Advisor</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFB4OHNrY0FJR2JlRURHMkVBUi02VWxscGgwQTBkUGlEa1JjbnNkYlZJN0dYNnRtSFRBT3BGQ05ueXQtU2U0bl9hRnFyS1pZVFRmeUNHbktJcFlCZWJtcnhlbVVRcXdvSUtURTlUdmItMS1jT2xWSEowVk13dUdubGl0Z0dwcEk4OFJReTBuQVhtY2xhaTBsZA?oc=5",
+      "source": "The Wealth Advisor",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T14:40:33+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO: The Business Of Crypto Has 'Never Been Stronger' The Wealth Advisor"
+    },
     {
       "title": "Coinbase CEO: The business of crypto has 'never been stronger'",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHN3Z09QU2k4Z3RoUktXZVlLeHNqYVVBSzd6S18tMmdZZTVtOGZMRWxzbldsQS1xc19LQXBEWU1WTUZGVk12MHc2NU52T3hoZkNRNUNPb0FwWFI0WWEwWS1WNjlxb0tsMnNraVNlSEVEa2RNNmJ2QW5DNWhVRmdGOUtjYTgtU1NwYjlMd2pBNnkxVDVkekhVWmFMa2U1bWRKQnZpTE93R1gyUkRrTzhGd0NHTkM0eEpIT3RV?oc=5\" target=\"_blank\">Coinbase CEO: The business of crypto has 'never been stronger'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
@@ -379,6 +390,17 @@
       "published_at": "2026-02-12T08:00:00+00:00",
       "tags": [],
       "key_quote": "Binance's Richard Teng breaks down the ‘10/10’ nightmare that rocked crypto CoinDesk"
+    },
+    {
+      "title": "The $300M move: Richard Teng on tokenizing Wall Street",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzJPclhPaFE3QjdldTliQXo1UDBvejN6VkZacVExZUxFcXJZUkt1R3lRQWp4STJ4OE83Mk5ram1GcnNfMmNrT0JpT2NTeVd2S1Qteno2YTdCMFdUd1ZfdE5fWkh2N1BQb2FJQmk3ZmxaTEpFaEZYUmNSRVVrN0JsU2F4TkFDUm5HdUFJ?oc=5\" target=\"_blank\">The $300M move: Richard Teng on tokenizing Wall Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzJPclhPaFE3QjdldTliQXo1UDBvejN6VkZacVExZUxFcXJZUkt1R3lRQWp4STJ4OE83Mk5ram1GcnNfMmNrT0JpT2NTeVd2S1Qteno2YTdCMFdUd1ZfdE5fWkh2N1BQb2FJQmk3ZmxaTEpFaEZYUmNSRVVrN0JsU2F4TkFDUm5HdUFJ?oc=5",
+      "source": "CoinDesk",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-02-12T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "The $300M move: Richard Teng on tokenizing Wall Street CoinDesk"
     },
     {
       "title": "Coinbase CEO Falls From List Of World’s Richest as Crypto Slides",
