@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-04T13:46:53Z",
-  "total": 58,
+  "updated_at": "2026-03-04T14:29:43Z",
+  "total": 64,
   "by_ceo": {
-    "Brian Armstrong": 23,
+    "Brian Armstrong": 29,
     "CZ": 6,
     "Richard Teng": 11,
     "Ben Zhou": 12,
     "Star Xu": 6
   },
   "articles": [
+    {
+      "title": "Coinbase CEO: The business of crypto has 'never been stronger'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHN3Z09QU2k4Z3RoUktXZVlLeHNqYVVBSzd6S18tMmdZZTVtOGZMRWxzbldsQS1xc19LQXBEWU1WTUZGVk12MHc2NU52T3hoZkNRNUNPb0FwWFI0WWEwWS1WNjlxb0tsMnNraVNlSEVEa2RNNmJ2QW5DNWhVRmdGOUtjYTgtU1NwYjlMd2pBNnkxVDVkekhVWmFMa2U1bWRKQnZpTE93R1gyUkRrTzhGd0NHTkM0eEpIT3RV?oc=5\" target=\"_blank\">Coinbase CEO: The business of crypto has 'never been stronger'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHN3Z09QU2k4Z3RoUktXZVlLeHNqYVVBSzd6S18tMmdZZTVtOGZMRWxzbldsQS1xc19LQXBEWU1WTUZGVk12MHc2NU52T3hoZkNRNUNPb0FwWFI0WWEwWS1WNjlxb0tsMnNraVNlSEVEa2RNNmJ2QW5DNWhVRmdGOUtjYTgtU1NwYjlMd2pBNnkxVDVkekhVWmFMa2U1bWRKQnZpTE93R1gyUkRrTzhGd0NHTkM0eEpIT3RV?oc=5",
+      "source": "National Today",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T14:08:16+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO: The business of crypto has 'never been stronger' National Today"
+    },
     {
       "title": "Coinbase CEO Wins Trump’s Support in Crypto Bill Battle",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1FQTjBsSzZrUkxQMXRGeHRkZXJ0LUpWaHA2dTVqcFp6TlkxaFF1VDB6LWRsZzhhNk1OU1gxYTNIeTFoTkdyaTZDRTJxZERwZ0cxRTgtMkRjMUxrTEVCVjJ2U3BhWTZyU3AtZzRHWDF3ZmxRS3c3V3dxdnQxYkk5UndDUVczTnFVVWIzQTZra2VDdWg1NE54eFRyby1KbkE?oc=5\" target=\"_blank\">Coinbase CEO Wins Trump’s Support in Crypto Bill Battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
@@ -21,6 +32,17 @@
         "ETF"
       ],
       "key_quote": "Coinbase CEO Wins Trump’s Support in Crypto Bill Battle PYMNTS.com"
+    },
+    {
+      "title": "Coinbase CEO: Crypto Foundations Stronger Than Ever",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWwtY0JtUm9HOGJiWkFUT3VNekNZemMyRTVGYW5CdHJZYmloNGdnbWVadGI0RjFsdXpLSmNaenhXLUhtTFpwNVVxTVlWS0EycXB0T1JTbXNqN3JUdVZFclcyakZXMGRaTkI2SS1wVFRUeFVvclpKSENacnAzSEFDSEpQZ1FHMk93aGV6OGFjZHZvTFdm0gGaAUFVX3lxTE5LU2ZfZXMyUDFCYnJwb0hSMzVGNTR4OUhER2cydEZOUzhyVkRTWFNQMHUyUkNGUFo5c1dpcGNOekN3al8tbkN0VnVscVlMZFpUdXlmYXMyZlNLaE1FVVlYN3lnall0cXNOeE9iVXdqZWdkWHdLUnRIMkMyaERVSWkzVDl0R21sQTBzVjE2V210UjNMdGJNMVFhNUE?oc=5\" target=\"_blank\">Coinbase CEO: Crypto Foundations Stronger Than Ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpedia Fintech News</font>",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWwtY0JtUm9HOGJiWkFUT3VNekNZemMyRTVGYW5CdHJZYmloNGdnbWVadGI0RjFsdXpLSmNaenhXLUhtTFpwNVVxTVlWS0EycXB0T1JTbXNqN3JUdVZFclcyakZXMGRaTkI2SS1wVFRUeFVvclpKSENacnAzSEFDSEpQZ1FHMk93aGV6OGFjZHZvTFdm0gGaAUFVX3lxTE5LU2ZfZXMyUDFCYnJwb0hSMzVGNTR4OUhER2cydEZOUzhyVkRTWFNQMHUyUkNGUFo5c1dpcGNOekN3al8tbkN0VnVscVlMZFpUdXlmYXMyZlNLaE1FVVlYN3lnall0cXNOeE9iVXdqZWdkWHdLUnRIMkMyaERVSWkzVDl0R21sQTBzVjE2V210UjNMdGJNMVFhNUE?oc=5",
+      "source": "Coinpedia Fintech News",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T11:07:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO: Crypto Foundations Stronger Than Ever Coinpedia Fintech News"
     },
     {
       "title": "Changpeng Zhao says he sold $900,000 apartment in 2014 to go all in on bitcoin",
@@ -36,6 +58,19 @@
       "key_quote": "Changpeng Zhao says he sold $900,000 apartment in 2014 to go all in on bitcoin 디지털투데이"
     },
     {
+      "title": "Coinbase CEO says Base app SocialFi features fell short of expectations",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2lJOFhKcVJuMUFtWXBTampUV09FOWRTZjgtZVpGMGg5cWRQX0ttSC1BSTRvTUdaY0ZBRllmYWI3WlUtSGFfVWhWMFhIbFFISHhiRTQxbXkyaXhCZGc0TFdnTjB2c3o1dmF5TS1rYzhYWVlkQjJ6bXNEQXdFNXgtWGJFWlVZMzJYSnh6THhiYUhnQ3lsOGxET1diSFctR0FJaTMtdmJzdkdLZ1VINzBXbGF5ZjJKWkU?oc=5\" target=\"_blank\">Coinbase CEO says Base app SocialFi features fell short of expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2lJOFhKcVJuMUFtWXBTampUV09FOWRTZjgtZVpGMGg5cWRQX0ttSC1BSTRvTUdaY0ZBRllmYWI3WlUtSGFfVWhWMFhIbFFISHhiRTQxbXkyaXhCZGc0TFdnTjB2c3o1dmF5TS1rYzhYWVlkQjJ6bXNEQXdFNXgtWGJFWlVZMzJYSnh6THhiYUhnQ3lsOGxET1diSFctR0FJaTMtdmJzdkdLZ1VINzBXbGF5ZjJKWkU?oc=5",
+      "source": "디지털투데이",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T09:55:00+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO says Base app SocialFi features fell short of expectations 디지털투데이"
+    },
+    {
       "title": "Trump meets Coinbase CEO, criticizes banks over stalled crypto bill",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObl9vbFV0TVVvM24wUlJCS21zLVNPZHVsdmpCNXlBcUtXZ0RvSlh4eU90NmxGVXVBUWh2b1BKdGlhR0EtUXRQSlMtcWlzdTRpOW5PM2ctb3pTZlhCVTZicldOcWphWElqMXpJRE5rRkM4b2hHQkVGR3gwaXI3THdfcnZ3RGI2ZFpBMkJaSXh0eEhvT1VhQWNWdmhIX3Y0d1g1ZzBjRzdERVFzUFc4VW5qNm9SaW44dw?oc=5\" target=\"_blank\">Trump meets Coinbase CEO, criticizes banks over stalled crypto bill - Politico (COIN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObl9vbFV0TVVvM24wUlJCS21zLVNPZHVsdmpCNXlBcUtXZ0RvSlh4eU90NmxGVXVBUWh2b1BKdGlhR0EtUXRQSlMtcWlzdTRpOW5PM2ctb3pTZlhCVTZicldOcWphWElqMXpJRE5rRkM4b2hHQkVGR3gwaXI3THdfcnZ3RGI2ZFpBMkJaSXh0eEhvT1VhQWNWdmhIX3Y0d1g1ZzBjRzdERVFzUFc4VW5qNm9SaW44dw?oc=5",
@@ -45,6 +80,17 @@
       "published_at": "2026-03-04T06:32:11+00:00",
       "tags": [],
       "key_quote": "Trump meets Coinbase CEO, criticizes banks over stalled crypto bill - Politico (COIN:NASDAQ) Seeking Alpha"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Reportedly Visits White House",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0RDMlBfWlRGQ05MZUdsS1BTTGxZUHRBeGFLbTRXWnhuQkNMWTVCT2Q3RlQ2NGxpVk00YW5USmx3REIzM09RVmVGeGdkSmNRbUR0bmliRXQ2Z3djX24wQUhILWd5UHZGSllrQkdGSHhWaDN1YzZHb2lIZndRTDNFSVprXzlOWUVUUWMw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Reportedly Visits White House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinfomania</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0RDMlBfWlRGQ05MZUdsS1BTTGxZUHRBeGFLbTRXWnhuQkNMWTVCT2Q3RlQ2NGxpVk00YW5USmx3REIzM09RVmVGeGdkSmNRbUR0bmliRXQ2Z3djX24wQUhILWd5UHZGSllrQkdGSHhWaDN1YzZHb2lIZndRTDNFSVprXzlOWUVUUWMw?oc=5",
+      "source": "Coinfomania",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T05:58:38+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Reportedly Visits White House Coinfomania"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Visits White House Amid CLARITY Act Stalemate: Report",
@@ -300,6 +346,19 @@
       "key_quote": "US$2 trillion evaporates in crypto, Bybit CEO still urges buying IDNFinancials"
     },
     {
+      "title": "Coinbase CEO Brian Armstrong 'more bullish than ever' as company navigates latest crypto downturn",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUE5CU3E5RkhfX29hWjl3YkJqVHc2N0FIMHBMcFFfaVBkZFZ6YmlYeS1WcENIbzBydEp3WkE1eXgyaTdVUlotdVU3RmN0NVJ2NGFBZG9uMmFPUWNzaDByWkwxOTlMOHEwLU1sQ1N0eUxjYzRpVG1qZFc0YlhYNGFHekpSemtQNFlrT2dJQm45Sjk5WUw1MzcwblZ4Q016dGFiREptYW51czE3eHJEQ1VYMmNRV0hOZVVRSk1tSzVlenFqX09laUl0c19YQUhpTEtPUjdHZUN2TzE?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong 'more bullish than ever' as company navigates latest crypto downturn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUE5CU3E5RkhfX29hWjl3YkJqVHc2N0FIMHBMcFFfaVBkZFZ6YmlYeS1WcENIbzBydEp3WkE1eXgyaTdVUlotdVU3RmN0NVJ2NGFBZG9uMmFPUWNzaDByWkwxOTlMOHEwLU1sQ1N0eUxjYzRpVG1qZFc0YlhYNGFHekpSemtQNFlrT2dJQm45Sjk5WUw1MzcwblZ4Q016dGFiREptYW51czE3eHJEQ1VYMmNRV0hOZVVRSk1tSzVlenFqX09laUl0c19YQUhpTEtPUjdHZUN2TzE?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-13T08:00:00+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong 'more bullish than ever' as company navigates latest crypto downturn Yahoo Finance"
+    },
+    {
       "title": "The $300M move: Richard Teng on tokenizing Wall Street",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmRxMXlCR3dLeG43ZC1jVGtWdUJOOVp3TFJxZFhEWnJheEtsNHI4N3RucVRZLUE3MVZoQ0hJOHhxZkJUdmRiVGdGM0ZxcjVEdUtoekQ5WmQtU0VabDhrYWMzb1JsT1phNjNHS01OblVOWVM4UG94U211SHd4UTZobTJReEFtcEU?oc=5\" target=\"_blank\">The $300M move: Richard Teng on tokenizing Wall Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmRxMXlCR3dLeG43ZC1jVGtWdUJOOVp3TFJxZFhEWnJheEtsNHI4N3RucVRZLUE3MVZoQ0hJOHhxZkJUdmRiVGdGM0ZxcjVEdUtoekQ5WmQtU0VabDhrYWMzb1JsT1phNjNHS01OblVOWVM4UG94U211SHd4UTZobTJReEFtcEU?oc=5",
@@ -320,6 +379,19 @@
       "published_at": "2026-02-12T08:00:00+00:00",
       "tags": [],
       "key_quote": "Binance's Richard Teng breaks down the ‘10/10’ nightmare that rocked crypto CoinDesk"
+    },
+    {
+      "title": "Coinbase CEO Falls From List Of World’s Richest as Crypto Slides",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHZXTUtYUGxsaUpXbzYxQ3RaQjdWcWo2WmRBd2QtcURQbUI4czVwT3FuaFVHTjVxNmY0NUFraXp5VFl2c2htb2lLUWhaQS0yWlVHSmNaQWNGN1JyckNkWlB3MVRCRXdVVFdYb09pa29KVUJwMXdVbGtnRE9iREF3cGMtZURIRExMWEVyVWcxUUlxYnJCeUpYRnFFSDU3ZnpjOFFXQmhUbFlORFoxVFdfTHRNYUVrUk9oYTRlUg?oc=5\" target=\"_blank\">Coinbase CEO Falls From List Of World’s Richest as Crypto Slides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHZXTUtYUGxsaUpXbzYxQ3RaQjdWcWo2WmRBd2QtcURQbUI4czVwT3FuaFVHTjVxNmY0NUFraXp5VFl2c2htb2lLUWhaQS0yWlVHSmNaQWNGN1JyckNkWlB3MVRCRXdVVFdYb09pa29KVUJwMXdVbGtnRE9iREF3cGMtZURIRExMWEVyVWcxUUlxYnJCeUpYRnFFSDU3ZnpjOFFXQmhUbFlORFoxVFdfTHRNYUVrUk9oYTRlUg?oc=5",
+      "source": "Bloomberg",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-10T08:00:00+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Coinbase CEO Falls From List Of World’s Richest as Crypto Slides Bloomberg"
     },
     {
       "title": "OKX CEO Star Xu Warns October 2025 Crash Did 'Lasting Damage' — Criticism Appears Aimed at Binance",
