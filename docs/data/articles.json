@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-04T11:28:01Z",
-  "total": 55,
+  "updated_at": "2026-03-04T12:27:59Z",
+  "total": 57,
   "by_ceo": {
+    "Brian Armstrong": 23,
     "CZ": 6,
-    "Brian Armstrong": 21,
     "Richard Teng": 11,
     "Ben Zhou": 11,
     "Star Xu": 6
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Wins Trump’s Support in Crypto Bill Battle",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1FQTjBsSzZrUkxQMXRGeHRkZXJ0LUpWaHA2dTVqcFp6TlkxaFF1VDB6LWRsZzhhNk1OU1gxYTNIeTFoTkdyaTZDRTJxZERwZ0cxRTgtMkRjMUxrTEVCVjJ2U3BhWTZyU3AtZzRHWDF3ZmxRS3c3V3dxdnQxYkk5UndDUVczTnFVVWIzQTZra2VDdWg1NE54eFRyby1KbkE?oc=5\" target=\"_blank\">Coinbase CEO Wins Trump’s Support in Crypto Bill Battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1FQTjBsSzZrUkxQMXRGeHRkZXJ0LUpWaHA2dTVqcFp6TlkxaFF1VDB6LWRsZzhhNk1OU1gxYTNIeTFoTkdyaTZDRTJxZERwZ0cxRTgtMkRjMUxrTEVCVjJ2U3BhWTZyU3AtZzRHWDF3ZmxRS3c3V3dxdnQxYkk5UndDUVczTnFVVWIzQTZra2VDdWg1NE54eFRyby1KbkE?oc=5",
+      "source": "PYMNTS.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T11:47:02+00:00",
+      "tags": [
+        "ETF"
+      ],
+      "key_quote": "Coinbase CEO Wins Trump’s Support in Crypto Bill Battle PYMNTS.com"
+    },
     {
       "title": "Changpeng Zhao says he sold $900,000 apartment in 2014 to go all in on bitcoin",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFJCbHBock5oLTR0UVpXUkVyMFJsenAwUFlVRUx2U28zV3l4cmJZQi0tdzBuWWlWWlM3YjBuLVZUcXRINGgwSWdqU242b1BtdjFoRHp1NjlBc1VabHdJcHczZnQ3ekRWaW91NGYyb1R0VG9NNHJvVlhLcVhEaVd4UGpPVk42bFpCd1hDSERFaTZVVHR2cEZUaDM0U3JuazFZUkIxRkRsWTREbHlySkpaaklHUWZySU40cGQ1elZR?oc=5\" target=\"_blank\">Changpeng Zhao says he sold $900,000 apartment in 2014 to go all in on bitcoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
@@ -248,6 +261,19 @@
       "published_at": "2026-02-18T08:00:00+00:00",
       "tags": [],
       "key_quote": "Watch CNBC's full interview with Coinbase CEO Brian Armstrong and U.S."
+    },
+    {
+      "title": "Banking trade groups responsible for impasse on market structure bill, Brian Armstrong says",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHBJOXJZWWNadzdZdXRRZzRXQVNGZFNRWUMyczRVQ0p3OGVlVVNldTMxeG1OcEZ5amxINDRFcEZTNHlmUGJhUEVadWo2RzM0U0pPMlFQa2lzRndiNTJRSTlQMm5MT1Fpb3YxUE83cTRCN2JaZ05pYXV0Q2NEUEJHSVZkbVhGN2VpRTlMMzVINVZxLWxha3VoaS02UFhTZVJJaUJUYUY1WFpqVWpfNDE2V1FMQkZtbTBoWDlKalVRSzdLMEJJN0tiRHdXa19TZw?oc=5\" target=\"_blank\">Banking trade groups responsible for impasse on market structure bill, Brian Armstrong says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHBJOXJZWWNadzdZdXRRZzRXQVNGZFNRWUMyczRVQ0p3OGVlVVNldTMxeG1OcEZ5amxINDRFcEZTNHlmUGJhUEVadWo2RzM0U0pPMlFQa2lzRndiNTJRSTlQMm5MT1Fpb3YxUE83cTRCN2JaZ05pYXV0Q2NEUEJHSVZkbVhGN2VpRTlMMzVINVZxLWxha3VoaS02UFhTZVJJaUJUYUY1WFpqVWpfNDE2V1FMQkZtbTBoWDlKalVRSzdLMEJJN0tiRHdXa19TZw?oc=5",
+      "source": "CoinDesk",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-18T08:00:00+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Banking trade groups responsible for impasse on market structure bill, Brian Armstrong says CoinDesk"
     },
     {
       "title": "Binance Co-CEO Richard Teng: \"The Smart Money Is Deploying\" Amid Market Volatility",
