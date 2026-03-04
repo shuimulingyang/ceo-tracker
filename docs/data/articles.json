@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-04T10:15:25Z",
-  "total": 48,
+  "updated_at": "2026-03-04T11:28:01Z",
+  "total": 55,
   "by_ceo": {
-    "Brian Armstrong": 19,
-    "CZ": 5,
-    "Richard Teng": 9,
-    "Ben Zhou": 9,
+    "CZ": 6,
+    "Brian Armstrong": 21,
+    "Richard Teng": 11,
+    "Ben Zhou": 11,
     "Star Xu": 6
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao says he sold $900,000 apartment in 2014 to go all in on bitcoin",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFJCbHBock5oLTR0UVpXUkVyMFJsenAwUFlVRUx2U28zV3l4cmJZQi0tdzBuWWlWWlM3YjBuLVZUcXRINGgwSWdqU242b1BtdjFoRHp1NjlBc1VabHdJcHczZnQ3ekRWaW91NGYyb1R0VG9NNHJvVlhLcVhEaVd4UGpPVk42bFpCd1hDSERFaTZVVHR2cEZUaDM0U3JuazFZUkIxRkRsWTREbHlySkpaaklHUWZySU40cGQ1elZR?oc=5\" target=\"_blank\">Changpeng Zhao says he sold $900,000 apartment in 2014 to go all in on bitcoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFJCbHBock5oLTR0UVpXUkVyMFJsenAwUFlVRUx2U28zV3l4cmJZQi0tdzBuWWlWWlM3YjBuLVZUcXRINGgwSWdqU242b1BtdjFoRHp1NjlBc1VabHdJcHczZnQ3ekRWaW91NGYyb1R0VG9NNHJvVlhLcVhEaVd4UGpPVk42bFpCd1hDSERFaTZVVHR2cEZUaDM0U3JuazFZUkIxRkRsWTREbHlySkpaaklHUWZySU40cGQ1elZR?oc=5",
+      "source": "디지털투데이",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-04T10:50:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Changpeng Zhao says he sold $900,000 apartment in 2014 to go all in on bitcoin 디지털투데이"
+    },
     {
       "title": "Trump meets Coinbase CEO, criticizes banks over stalled crypto bill",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObl9vbFV0TVVvM24wUlJCS21zLVNPZHVsdmpCNXlBcUtXZ0RvSlh4eU90NmxGVXVBUWh2b1BKdGlhR0EtUXRQSlMtcWlzdTRpOW5PM2ctb3pTZlhCVTZicldOcWphWElqMXpJRE5rRkM4b2hHQkVGR3gwaXI3THdfcnZ3RGI2ZFpBMkJaSXh0eEhvT1VhQWNWdmhIX3Y0d1g1ZzBjRzdERVFzUFc4VW5qNm9SaW44dw?oc=5\" target=\"_blank\">Trump meets Coinbase CEO, criticizes banks over stalled crypto bill - Politico (COIN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
@@ -63,6 +76,28 @@
       "published_at": "2026-03-04T04:05:11+00:00",
       "tags": [],
       "key_quote": "Trump met with Coinbase CEO before bashing banks over crypto bill Politico"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Visits White House Amid CLARITY Act Stalemate: Report",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3ZTckgxMGhURFBXMktoQVpmb0pvUlNYc01IWlJVaVFMNTl5a2ltSVp0b092eDZfUzlKczJZVUVrTkszSGprd2VTcHpEY2ctMUpJVHlhUldhcXBuTmg1SFR2ZHc2bTRVblQ5dUNQSG4yQ0lCSnU0VEsxLW9aX2tObVFFQldEczJrTmNBMERYbG5KdTlBaVlSTUFVdDJzU0k0Rl8tZXhIVjVxclJGQzEwTFZnLW9rSkhlNDZBRUhKRXc2VS1FTG1DdnRpMHJZR2VsemVpYUtLczZOQQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Visits White House Amid CLARITY Act Stalemate: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3ZTckgxMGhURFBXMktoQVpmb0pvUlNYc01IWlJVaVFMNTl5a2ltSVp0b092eDZfUzlKczJZVUVrTkszSGprd2VTcHpEY2ctMUpJVHlhUldhcXBuTmg1SFR2ZHc2bTRVblQ5dUNQSG4yQ0lCSnU0VEsxLW9aX2tObVFFQldEczJrTmNBMERYbG5KdTlBaVlSTUFVdDJzU0k0Rl8tZXhIVjVxclJGQzEwTFZnLW9rSkhlNDZBRUhKRXc2VS1FTG1DdnRpMHJZR2VsemVpYUtLczZOQQ?oc=5",
+      "source": "Stocktwits",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-03T23:38:58+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Visits White House Amid CLARITY Act Stalemate: Report Stocktwits"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong says Base App's SocialFi features 'didn't quite work'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubUNTek1QQVdjR0JJVGk3REhEVGNYMThoMndzOEtGb3RwTWdlYVJVWXQ2N2FLVEdlWElXRDRXcnZqMkFXVjRhRGZNalpqRk9yeG9iTC1FUnlCYi1a?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong says Base App's SocialFi features 'didn't quite work'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubUNTek1QQVdjR0JJVGk3REhEVGNYMThoMndzOEtGb3RwTWdlYVJVWXQ2N2FLVEdlWElXRDRXcnZqMkFXVjRhRGZNalpqRk9yeG9iTC1FUnlCYi1a?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-03T21:21:57+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong says Base App's SocialFi features 'didn't quite work' Cryptonews.net"
     },
     {
       "title": "Coinbase CEO Brian Armstrong says Base App's SocialFi features 'didn't quite work'",
@@ -177,6 +212,19 @@
       "key_quote": "Richard Teng: WSJ's Claims on Binance's Compliance Program Are False Binance"
     },
     {
+      "title": "Richard Teng: WSJ's Claims on Binance's Compliance Program Are False",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5INnNBa3FKcDhOalA4cFVPM2h0NE5VOTA4ODkySjNMUnd6VE5TNlFNcWJ1Vm5XRVNseUlQZWZVT2wxbFdTcFktVW1zbkVXWGNSZk1PNTU4ZTBCY0ZlWk41b2Zlcmtwb1px?oc=5\" target=\"_blank\">Richard Teng: WSJ's Claims on Binance's Compliance Program Are False</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5INnNBa3FKcDhOalA4cFVPM2h0NE5VOTA4ODkySjNMUnd6VE5TNlFNcWJ1Vm5XRVNseUlQZWZVT2wxbFdTcFktVW1zbkVXWGNSZk1PNTU4ZTBCY0ZlWk41b2Zlcmtwb1px?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-02-24T14:02:55+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Richard Teng: WSJ's Claims on Binance's Compliance Program Are False Binance"
+    },
+    {
       "title": "Brian Armstrong Reveals Retail Users 'Buying The Dip' In Bitcoin, Ethereum: Coinbase CEO Says, 'They Have Diamond Hands'",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPRGRKMXhSa2ZDZGZVbXRVZGpiYXNrOHpWc2FxWVpnSUMwVmtObExFdTlrSktGd0p1WlZaX1g4b3JacW9rRnVtMnpPM0tpSFIxRmJGS1cyX2ljLV9zLWxHc05qeXc3UUNBOU9PSDY4aTFMT040b3REODFGem9ULXM5SWtrSDROTzdZd0E?oc=5\" target=\"_blank\">Brian Armstrong Reveals Retail Users 'Buying The Dip' In Bitcoin, Ethereum: Coinbase CEO Says, 'They Have Diamond Hands'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRGRKMXhSa2ZDZGZVbXRVZGpiYXNrOHpWc2FxWVpnSUMwVmtObExFdTlrSktGd0p1WlZaX1g4b3JacW9rRnVtMnpPM0tpSFIxRmJGS1cyX2ljLV9zLWxHc05qeXc3UUNBOU9PSDY4aTFMT040b3REODFGem9ULXM5SWtrSDROTzdZd0E?oc=5",
@@ -213,6 +261,17 @@
         "市场 Market"
       ],
       "key_quote": "Binance Co-CEO Richard Teng: \"The Smart Money Is Deploying\" Amid Market Volatility Entrepreneur"
+    },
+    {
+      "title": "US$2 trillion evaporates in crypto, Bybit CEO still urges buying",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnV0WlBxenZaNjRVdlFNOXppOE9MdFVyUklzVi1UQ0M3dUdkYVR6TDgxVlNsbW9HTldhMGJQYUctQ3BhRFNKSTRXN1g2QU44b2w1UlZIRjhLNXlpZl9Qa18zTUI5eU94VjhUQ0kxNjJJYVk5Z0s2QXRPUXJFWmtDaXF1OHJNYlZLQnV6a0RfcW1hbFlEdXV6VmtiN2RWYXpvdXNGUjZB?oc=5\" target=\"_blank\">US$2 trillion evaporates in crypto, Bybit CEO still urges buying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IDNFinancials</font>",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnV0WlBxenZaNjRVdlFNOXppOE9MdFVyUklzVi1UQ0M3dUdkYVR6TDgxVlNsbW9HTldhMGJQYUctQ3BhRFNKSTRXN1g2QU44b2w1UlZIRjhLNXlpZl9Qa18zTUI5eU94VjhUQ0kxNjJJYVk5Z0s2QXRPUXJFWmtDaXF1OHJNYlZLQnV6a0RfcW1hbFlEdXV6VmtiN2RWYXpvdXNGUjZB?oc=5",
+      "source": "IDNFinancials",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-02-13T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "US$2 trillion evaporates in crypto, Bybit CEO still urges buying IDNFinancials"
     },
     {
       "title": "The $300M move: Richard Teng on tokenizing Wall Street",
@@ -460,6 +519,19 @@
       "key_quote": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals Newswire Canada"
     },
     {
+      "title": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQWXQxWFgyWHN1cDFTSW9VcUdhNVJCYkhNYTlJVWpUSVB0WEhqNUxTc3VtUktNUDREcS1MZmVkd2NoUkxZUVF2UHFkMjN6cXQ3Y1cyTlp3aE9NalBnd1ZHZ2Q2Y3gyM2VjZFJKb3hYTUhOMEtWeHJQUE1VVHY0UjZlM2pZUFd2NkpYRC01SmV5M19KNTc5Q0FQWlR6Zi10X1lpSmlyblZPUENpc3ZucVNtZkFKeWVNZ3NlZFVvT0dsZG51TWRpejVJcXR3ck1XQkg5YnJLcHNXWGxWR1NtcjhUU1IzU3ItRzBsVE54UldUMmN0TldhbEpiTzVQMEFqUmU4?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWXQxWFgyWHN1cDFTSW9VcUdhNVJCYkhNYTlJVWpUSVB0WEhqNUxTc3VtUktNUDREcS1MZmVkd2NoUkxZUVF2UHFkMjN6cXQ3Y1cyTlp3aE9NalBnd1ZHZ2Q2Y3gyM2VjZFJKb3hYTUhOMEtWeHJQUE1VVHY0UjZlM2pZUFd2NkpYRC01SmV5M19KNTc5Q0FQWlR6Zi10X1lpSmlyblZPUENpc3ZucVNtZkFKeWVNZ3NlZFVvT0dsZG51TWRpejVJcXR3ck1XQkg5YnJLcHNXWGxWR1NtcjhUU1IzU3ItRzBsVE54UldUMmN0TldhbEpiTzVQMEFqUmU4?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2025-12-08T08:00:00+00:00",
+      "tags": [
+        "机构 Institutional"
+      ],
+      "key_quote": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals TradingView"
+    },
+    {
       "title": "Binance appoints co-founder Yi He as new co-CEO alongside Richard Teng",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNckx1ekZIajVlUHRfZ3o0SHJvLUdpNmhidW1LelRLQ3paZFlaN1J3cmg4UXZSaUlNU3BsalY5Wl9ILW9kR1VVc29hWVpSVUNZSWswNXFOX1Q0LXRQdGpyUy1IR2k1cnAxN3A4UUNzaXpvNXVOZ3ZYOFo1RXFPUHVLZFVheDQzcXZ3UWZKRDY5WWdOTS1XWVJJZklsR1hGaFFzN0xDZA?oc=5\" target=\"_blank\">Binance appoints co-founder Yi He as new co-CEO alongside Richard Teng</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckx1ekZIajVlUHRfZ3o0SHJvLUdpNmhidW1LelRLQ3paZFlaN1J3cmg4UXZSaUlNU3BsalY5Wl9ILW9kR1VVc29hWVpSVUNZSWswNXFOX1Q0LXRQdGpyUy1IR2k1cnAxN3A4UUNzaXpvNXVOZ3ZYOFo1RXFPUHVLZFVheDQzcXZ3UWZKRDY5WWdOTS1XWVJJZklsR1hGaFFzN0xDZA?oc=5",
@@ -579,6 +651,17 @@
         "Ethereum"
       ],
       "key_quote": "Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia PR Newswire"
+    },
+    {
+      "title": "Binance CEO Richard Teng Joins The Digital Chamber Advisory Board",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9mRE5UdEMwZDlEaG5MaUdtTGMxYk0zVDFkeWFRVERvUzhTZ2dLQUppUVFaMGdXWmRPTGVzWHFfeGpYb1NJeVNLTkVfUzVaNnFGS09CLVJ6Nnl1bnROUnkzd3Y5YzcxMkZaNFNQQlJLQQ?oc=5\" target=\"_blank\">Binance CEO Richard Teng Joins The Digital Chamber Advisory Board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mRE5UdEMwZDlEaG5MaUdtTGMxYk0zVDFkeWFRVERvUzhTZ2dLQUppUVFaMGdXWmRPTGVzWHFfeGpYb1NJeVNLTkVfUzVaNnFGS09CLVJ6Nnl1bnROUnkzd3Y5YzcxMkZaNFNQQlJLQQ?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2025-07-22T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Binance CEO Richard Teng Joins The Digital Chamber Advisory Board Binance"
     },
     {
       "title": "OKX CEO Apologizes for Compliance Control Failures",
