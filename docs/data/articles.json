@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-05T10:27:05Z",
-  "total": 100,
+  "updated_at": "2026-03-05T11:24:35Z",
+  "total": 101,
   "by_ceo": {
     "Brian Armstrong": 49,
-    "Richard Teng": 20,
+    "Richard Teng": 21,
     "CZ": 11,
     "Ben Zhou": 14,
     "Star Xu": 6
@@ -1199,6 +1199,19 @@
         "Ethereum"
       ],
       "key_quote": "Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia PR Newswire"
+    },
+    {
+      "title": "Binance CEO Richard Teng Warns: Beware of New Scam With Fake Customer Support!",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCd3FHNjBsVUs1ZmpSZG9zd1NBdnlJOXlucWVsVG4wUmFHcDZLWUNaaDRCa0FvaTI2N3doTE5CaldGUnJiNWQyeFBkTU55RkxUSzRSWnZNN21GRWFJVFB2emtySQ?oc=5\" target=\"_blank\">Binance CEO Richard Teng Warns: Beware of New Scam With Fake Customer Support!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCd3FHNjBsVUs1ZmpSZG9zd1NBdnlJOXlucWVsVG4wUmFHcDZLWUNaaDRCa0FvaTI2N3doTE5CaldGUnJiNWQyeFBkTU55RkxUSzRSWnZNN21GRWFJVFB2emtySQ?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2025-08-26T07:00:00+00:00",
+      "tags": [
+        "安全 Security"
+      ],
+      "key_quote": "Binance CEO Richard Teng Warns: Beware of New Scam With Fake Customer Support!"
     },
     {
       "title": "Binance CEO Richard Teng Joins The Digital Chamber Advisory Board",
