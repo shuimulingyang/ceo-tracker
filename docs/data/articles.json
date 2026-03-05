@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-05T00:59:37Z",
-  "total": 84,
+  "updated_at": "2026-03-05T03:28:23Z",
+  "total": 88,
   "by_ceo": {
-    "Brian Armstrong": 44,
-    "CZ": 8,
-    "Richard Teng": 13,
-    "Ben Zhou": 13,
+    "Brian Armstrong": 45,
+    "CZ": 9,
+    "Richard Teng": 14,
+    "Ben Zhou": 14,
     "Star Xu": 6
   },
   "articles": [
@@ -86,6 +86,20 @@
         "DeFi"
       ],
       "key_quote": "Brian Armstrong met with Trump before the president slammed banks over crypto bill CoinDesk"
+    },
+    {
+      "title": "COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVFGcmZjT2ZTYm9QYlk5VW5KTHp4azZrLUpZSEo2bmhDNzVxbktaOEJBY3JBY3pmVk15TEt1alpNa1U2OVNUak5SVG8zN0hlMkQzVXBONVdkejR5aXdrVy1ENHIxRXIxVmVETW0tMXE5eGhqeHc0Vi1DX1pnSjBtcENvczdCQ2tucG5TU3ZtYlhhcmpWVmZhQzduajFuUFVRbHRzRDMxR0lxTUZMeVBkc3lwNU9iVUgzcmZOTGJjYw?oc=5\" target=\"_blank\">COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVFGcmZjT2ZTYm9QYlk5VW5KTHp4azZrLUpZSEo2bmhDNzVxbktaOEJBY3JBY3pmVk15TEt1alpNa1U2OVNUak5SVG8zN0hlMkQzVXBONVdkejR5aXdrVy1ENHIxRXIxVmVETW0tMXE5eGhqeHc0Vi1DX1pnSjBtcENvczdCQ2tucG5TU3ZtYlhhcmpWVmZhQzduajFuUFVRbHRzRDMxR0lxTUZMeVBkc3lwNU9iVUgzcmZOTGJjYw?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T17:33:34+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements CryptoRank"
     },
     {
       "title": "COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements",
@@ -794,6 +808,19 @@
       "key_quote": "Bybit CEO Highlights Compliance and Decentralized Innovation at Solana Breakpoint 2025 Chainwire"
     },
     {
+      "title": "Bybit CEO Highlights Compliance and Decentralized Innovation at Solana Breakpoint 2025",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSFdPdE9BMF8zUDBaUnFlZ0Q3LUV0cE9JQVVvSjRwM3NZNFNxZ2h4bVByMURVSkVQRFBoQzdCcVE2cGdoWlFwOGg4UHRTY3laQnRXNHRVbHQ4d3RsbXpUelNPal93clZWVFpyOU1iQ2NKQUY0NGdRbG1WRW1lRWVoSzBxbktyLUVEd1N6Nm84MXptcXRyQm1kTW81OUx3MmZNVEFPRFlDazIzQXlTaXI2bkNHdTY1aVJDSkt1Q1hVdTlLUEFQdTVFYUdTQ2FwUGZKYUNQOXVpWUFUQWk2NkE3Mg?oc=5\" target=\"_blank\">Bybit CEO Highlights Compliance and Decentralized Innovation at Solana Breakpoint 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSFdPdE9BMF8zUDBaUnFlZ0Q3LUV0cE9JQVVvSjRwM3NZNFNxZ2h4bVByMURVSkVQRFBoQzdCcVE2cGdoWlFwOGg4UHRTY3laQnRXNHRVbHQ4d3RsbXpUelNPal93clZWVFpyOU1iQ2NKQUY0NGdRbG1WRW1lRWVoSzBxbktyLUVEd1N6Nm84MXptcXRyQm1kTW81OUx3MmZNVEFPRFlDazIzQXlTaXI2bkNHdTY1aVJDSkt1Q1hVdTlLUEFQdTVFYUdTQ2FwUGZKYUNQOXVpWUFUQWk2NkE3Mg?oc=5",
+      "source": "PR Newswire",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2025-12-17T08:00:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Bybit CEO Highlights Compliance and Decentralized Innovation at Solana Breakpoint 2025 PR Newswire"
+    },
+    {
       "title": "What Will 2026 Bring for the Crypto Market? Binance CEO Richard Teng Shares His Outlook",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMMjJtbDAzOXJXRFFqZVMwb0VhRGk2eTNodzRVV3Zhb2lKODN5Tml5Vno3aV9mSTU3TXo1NEJTYnpOenpsamI3Y3JJd1hfMmJoalV3U2xvdmU3ZXNLVElHWFV6Yw?oc=5\" target=\"_blank\">What Will 2026 Bring for the Crypto Market? Binance CEO Richard Teng Shares His Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMMjJtbDAzOXJXRFFqZVMwb0VhRGk2eTNodzRVV3Zhb2lKODN5Tml5Vno3aV9mSTU3TXo1NEJTYnpOenpsamI3Y3JJd1hfMmJoalV3U2xvdmU3ZXNLVElHWFV6Yw?oc=5",
@@ -941,6 +968,17 @@
       "key_quote": "Trump pardons Binance founder Changpeng Zhao two years after the crypto billionaire’s guilty plea Fortune"
     },
     {
+      "title": "Trump pardons Binance founder Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9PeHBpb284bnp1cXpXVXJBN2ZwdDVWdW1IMkJWT2NEYnRIRFNJbkU0d0ZxZnBxV1h4Uk41d2tBN1BsRlRMaUdGN2NoQzBHem1yYmE3XzBRS1NwNWlmSGRoQVpDUU10OVFSQlNQckp4ektfMTRiNnNJ?oc=5\" target=\"_blank\">Trump pardons Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PeHBpb284bnp1cXpXVXJBN2ZwdDVWdW1IMkJWT2NEYnRIRFNJbkU0d0ZxZnBxV1h4Uk41d2tBN1BsRlRMaUdGN2NoQzBHem1yYmE3XzBRS1NwNWlmSGRoQVpDUU10OVFSQlNQckp4ektfMTRiNnNJ?oc=5",
+      "source": "CNN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2025-10-23T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Trump pardons Binance founder Changpeng Zhao CNN"
+    },
+    {
       "title": "OKX CEO Star Xu Slams Huione Group After $15B DOJ Crackdown",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkwwaFQ1WFAteVFDZjFGMWJzS09SLV95VHo0SHFIYTdpUWRfX2ZPLW9MRktfSi15MzN6bVh3THF2cERocFowWVlSZE1KLXFQc2VLa2tJRHVsSHJPLU1JLThnYmppZzlWdEtHRUozcjJRQ0dBLVVfVlBNTVc2UmxkNzZpWER5V0cwUEk3YQ?oc=5\" target=\"_blank\">OKX CEO Star Xu Slams Huione Group After $15B DOJ Crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoPotato</font>",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkwwaFQ1WFAteVFDZjFGMWJzS09SLV95VHo0SHFIYTdpUWRfX2ZPLW9MRktfSi15MzN6bVh3THF2cERocFowWVlSZE1KLXFQc2VLa2tJRHVsSHJPLU1JLThnYmppZzlWdEtHRUozcjJRQ0dBLVVfVlBNTVc2UmxkNzZpWER5V0cwUEk3YQ?oc=5",
@@ -952,6 +990,17 @@
         "Ethereum"
       ],
       "key_quote": "OKX CEO Star Xu Slams Huione Group After $15B DOJ Crackdown CryptoPotato"
+    },
+    {
+      "title": "Richard Teng Obituary",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1FaYkpHZ1ZpQVQ1eTNYLTdfeUhnLVJGU3pnaWJzLVJ4c2Q5ZGdjQXAtYjJEYTZEeTJjUUI5LU5ya2NncFp6REMtUjduRmVfZ2lCMkRQQS1VWkxoN3YxMWp0NkZGc094SlBEV1o5ekdNRzVnR2tISjFTaEpyVUxQeW9CMA?oc=5\" target=\"_blank\">Richard Teng Obituary - Las Vegas, NV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dignity Memorial</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1FaYkpHZ1ZpQVQ1eTNYLTdfeUhnLVJGU3pnaWJzLVJ4c2Q5ZGdjQXAtYjJEYTZEeTJjUUI5LU5ya2NncFp6REMtUjduRmVfZ2lCMkRQQS1VWkxoN3YxMWp0NkZGc094SlBEV1o5ekdNRzVnR2tISjFTaEpyVUxQeW9CMA?oc=5",
+      "source": "Las Vegas, NV - Dignity Memorial",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2025-09-26T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Richard Teng Obituary - Las Vegas, NV Dignity Memorial"
     },
     {
       "title": "Binance and Bybit CEOs Meet With Vietnam’s Deputy PM For Expansion Plans",
