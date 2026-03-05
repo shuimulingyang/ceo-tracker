@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-05T13:53:13Z",
-  "total": 103,
+  "updated_at": "2026-03-05T14:35:53Z",
+  "total": 105,
   "by_ceo": {
     "Brian Armstrong": 51,
-    "Richard Teng": 21,
+    "Richard Teng": 23,
     "CZ": 11,
     "Ben Zhou": 14,
     "Star Xu": 6
@@ -256,6 +256,17 @@
       "tags": [
         "DeFi"
       ],
+      "key_quote": "Binance Leadership: CZ's Departure & Richard Teng's CEO Role in 2024 Bitget"
+    },
+    {
+      "title": "Binance Leadership: CZ's Departure & Richard Teng's CEO Role in 2024",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwZ2dGZGFVSFgxellqblg2ajJId0RURkVwMWgzRE5SN25ZRlNQbjJvN1R2NVlpWGZxVk5ZSnBnYkZOQW0yWENKeHJMSHRVM2NaRG8tcmtYVVhYQThE0gFiQVVfeXFMT1JieTZ3UjRoN0pfdDBpUmRCOGN3bUFMUGQwM2xtVkh3MTlwWnVPLWZRTzVXS2RPSEhpR08yRlVwN0VINWMxcDVqaHFYOGVRZVNlVUhDNHBxOVptVEY1Ykw1Y3c?oc=5\" target=\"_blank\">Binance Leadership: CZ's Departure & Richard Teng's CEO Role in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwZ2dGZGFVSFgxellqblg2ajJId0RURkVwMWgzRE5SN25ZRlNQbjJvN1R2NVlpWGZxVk5ZSnBnYkZOQW0yWENKeHJMSHRVM2NaRG8tcmtYVVhYQThE0gFiQVVfeXFMT1JieTZ3UjRoN0pfdDBpUmRCOGN3bUFMUGQwM2xtVkh3MTlwWnVPLWZRTzVXS2RPSEhpR08yRlVwN0VINWMxcDVqaHFYOGVRZVNlVUhDNHBxOVptVEY1Ykw1Y3c?oc=5",
+      "source": "Bitget",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-03-04T15:36:20+00:00",
+      "tags": [],
       "key_quote": "Binance Leadership: CZ's Departure & Richard Teng's CEO Role in 2024 Bitget"
     },
     {
@@ -1258,6 +1269,19 @@
         "监管 Regulation"
       ],
       "key_quote": "OKX CEO Apologizes for Compliance Control Failures ForkLog"
+    },
+    {
+      "title": "Binance CEO Richard Teng on SEC suit dismissal, Trump meme coin and crypto regulation",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNeVZTT3BiTE15SnhNSnZReVpYRFhjUWlrQ0pQUFNZVHB5N3NyMzRVc2VMRHFsU2Q3S1Rzd3p3TVNSUi11eUlmTHl5Yy1laWozY0tlTV9SemJ3OFhpOC16Rl9KUkp3TUpYNXN0S2VicEM5RC1BdndBaW1BTUhTSDk5Vl85YThuR29KeTQzVEJqSHM4aGZ0ZzVSZXI1Z2tqdUg2S2NfMEY5NC1XRVJrdThqRGNRUE1kQ1FoQVRhM0pqNGtMaUZ6clE?oc=5\" target=\"_blank\">Binance CEO Richard Teng on SEC suit dismissal, Trump meme coin and crypto regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeVZTT3BiTE15SnhNSnZReVpYRFhjUWlrQ0pQUFNZVHB5N3NyMzRVc2VMRHFsU2Q3S1Rzd3p3TVNSUi11eUlmTHl5Yy1laWozY0tlTV9SemJ3OFhpOC16Rl9KUkp3TUpYNXN0S2VicEM5RC1BdndBaW1BTUhTSDk5Vl85YThuR29KeTQzVEJqSHM4aGZ0ZzVSZXI1Z2tqdUg2S2NfMEY5NC1XRVJrdThqRGNRUE1kQ1FoQVRhM0pqNGtMaUZ6clE?oc=5",
+      "source": "CNBC",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2025-06-02T07:00:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Binance CEO Richard Teng on SEC suit dismissal, Trump meme coin and crypto regulation CNBC"
     }
   ]
 }
