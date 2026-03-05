@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-05T15:38:12Z",
-  "total": 105,
+  "updated_at": "2026-03-05T17:50:55Z",
+  "total": 106,
   "by_ceo": {
     "Brian Armstrong": 51,
     "Richard Teng": 23,
     "CZ": 11,
-    "Ben Zhou": 14,
+    "Ben Zhou": 15,
     "Star Xu": 6
   },
   "articles": [
@@ -751,6 +751,19 @@
         "Layer2"
       ],
       "key_quote": "Coinbase CEO Falls From List Of World’s Richest as Crypto Slides Bloomberg"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou: Cryptographic assets are evolving from trading tools into global financial infrastructure",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QeDJhSFFkY1pFZDRCRDJQRUF3TTEydGRWZ3p5d0N6Z0JYekpKdDZHZ2ZsalI2NUlDN2xXZjF6M0ItcUEwaTl6QmJWRDh1UXBjWU0xcTl2TmhFa1VDOWtOVDl3?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: Cryptographic assets are evolving from trading tools into global financial infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QeDJhSFFkY1pFZDRCRDJQRUF3TTEydGRWZ3p5d0N6Z0JYekpKdDZHZ2ZsalI2NUlDN2xXZjF6M0ItcUEwaTl6QmJWRDh1UXBjWU0xcTl2TmhFa1VDOWtOVDl3?oc=5",
+      "source": "深潮TechFlow",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-02-09T08:00:00+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Bybit CEO Ben Zhou: Cryptographic assets are evolving from trading tools into global financial infrastructure 深潮TechFlow"
     },
     {
       "title": "OKX CEO Star Xu Warns October 2025 Crash Did 'Lasting Damage' — Criticism Appears Aimed at Binance",
