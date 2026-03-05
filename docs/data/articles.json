@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-05T12:30:52Z",
-  "total": 102,
+  "updated_at": "2026-03-05T13:53:13Z",
+  "total": 103,
   "by_ceo": {
-    "Brian Armstrong": 50,
+    "Brian Armstrong": 51,
     "Richard Teng": 21,
     "CZ": 11,
     "Ben Zhou": 14,
@@ -19,6 +19,17 @@
       "published_at": "2026-03-05T11:52:49+00:00",
       "tags": [],
       "key_quote": "Trump met with Coinbase CEO, backed position in lobbying clash, Politico says TipRanks"
+    },
+    {
+      "title": "Trump, Coinbase CEO team up to thwart JPMorgan’s Jamie Dimon",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkxkSmJqNVV2N1dQd2Q5UXNjZmZaWjZRMXZNelA3a25NSGk1MlYwMU8tQmxpSE53YVZOa0k3cjJRSHQyNF9oOFY4NHNPbnVmYmUtQVFYdnFJVkhMbkJBS0VwSjdfeU4wcklPS2UxdEpTYmxzblV6MUFaV0hxQWtkT1ppc3U5dw?oc=5\" target=\"_blank\">Trump, Coinbase CEO team up to thwart JPMorgan’s Jamie Dimon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinGeek</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkxkSmJqNVV2N1dQd2Q5UXNjZmZaWjZRMXZNelA3a25NSGk1MlYwMU8tQmxpSE53YVZOa0k3cjJRSHQyNF9oOFY4NHNPbnVmYmUtQVFYdnFJVkhMbkJBS0VwSjdfeU4wcklPS2UxdEpTYmxzblV6MUFaV0hxQWtkT1ppc3U5dw?oc=5",
+      "source": "CoinGeek",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-05T10:03:07+00:00",
+      "tags": [],
+      "key_quote": "Trump, Coinbase CEO team up to thwart JPMorgan’s Jamie Dimon CoinGeek"
     },
     {
       "title": "President Trump Meets With Coinbase CEO to Break Deadlock on CLARITY Act",
