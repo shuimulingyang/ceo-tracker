@@ -1,14 +1,64 @@
 {
-  "updated_at": "2026-03-05T19:04:29Z",
-  "total": 107,
+  "updated_at": "2026-03-05T20:25:48Z",
+  "total": 112,
   "by_ceo": {
+    "Brian Armstrong": 56,
     "CZ": 12,
-    "Brian Armstrong": 51,
     "Richard Teng": 23,
     "Ben Zhou": 15,
     "Star Xu": 6
   },
   "articles": [
+    {
+      "title": "Coinbase Shareholder Sues CEO Brian Armstrong and Board Over Misleading Disclosures",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0JidjhMQjNndHVGcVpvVzJPVVVvaXgxUXRyMnNqa3FIY29KNDFta0t3cjBhWmFEXzVBRFdmeldRV3Zubk8wWmMtUzFQd1NVckhWcTNsYVBucWthdDhJRDM2WFZEdzhpMEZ2Q1J6eUphZ3BSREY0amdRemdlTDhNX1RYTXlTbW5zN1pFeG1KY19jZmpQVklIVTd4RjBxVFg4TE84dXZnTWJBZnVBUXc?oc=5\" target=\"_blank\">Coinbase Shareholder Sues CEO Brian Armstrong and Board Over Misleading Disclosures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0JidjhMQjNndHVGcVpvVzJPVVVvaXgxUXRyMnNqa3FIY29KNDFta0t3cjBhWmFEXzVBRFdmeldRV3Zubk8wWmMtUzFQd1NVckhWcTNsYVBucWthdDhJRDM2WFZEdzhpMEZ2Q1J6eUphZ3BSREY0amdRemdlTDhNX1RYTXlTbW5zN1pFeG1KY19jZmpQVklIVTd4RjBxVFg4TE84dXZnTWJBZnVBUXc?oc=5",
+      "source": "FinanceFeeds",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-05T19:59:03+00:00",
+      "tags": [],
+      "key_quote": "Coinbase Shareholder Sues CEO Brian Armstrong and Board Over Misleading Disclosures FinanceFeeds"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUW5HOGZmMU40OEh6VFNaM21EeGhmVk9FYXczVXA3MU1VSy02b1M5R21DTFpzYzZZazlobmQ3dWQ2VUVnRkQ0V0luWVdfX2VQbmVOelBIbHZKc0VGTTA4SWQzTnRzQ0pwMHFXcVM3SlZIdGw0bF9hSFdpQm5RN0g2aXQwMkdwa0QwWXJKUEo3Tm1EaFh3c3doYjhLTThTSFZ1TTk2RDNNdXRqbVpMRzFF?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUW5HOGZmMU40OEh6VFNaM21EeGhmVk9FYXczVXA3MU1VSy02b1M5R21DTFpzYzZZazlobmQ3dWQ2VUVnRkQ0V0luWVdfX2VQbmVOelBIbHZKc0VGTTA4SWQzTnRzQ0pwMHFXcVM3SlZIdGw0bF9hSFdpQm5RN0g2aXQwMkdwa0QwWXJKUEo3Tm1EaFh3c3doYjhLTThTSFZ1TTk2RDNNdXRqbVpMRzFF?oc=5",
+      "source": "The Block",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-05T19:28:08+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures The Block"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures",
+      "content": "<p>The complaint centers on custody disclosures tied to bankruptcy risk, whether Coinbase listed tokens that could be securities and deficiencies in the company’s AML program.</p>",
+      "url": "https://www.theblock.co/post/392455/coinbase-ceo-brian-armstrong-execs-shareholder-lawsuit-compliance-failures?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-05T19:28:08+00:00",
+      "tags": [
+        "监管 Regulation",
+        "Ethereum",
+        "DeFi"
+      ],
+      "key_quote": "The complaint centers on custody disclosures tied to bankruptcy risk, whether Coinbase listed tokens that could be securities and deficiencies in the company’s AML program."
+    },
+    {
+      "title": "Coinbase Board and CEO Brian Armstrong Face Shareholder Lawsuit",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEJPYUNYVjE2cDJ1enhRbTk0RDZ1ODhPZHZFVUw3VHJxYWlfeHFMZF9DeVVfWFJBcHZTZ2tCbkNISTdFdzAxNWJPckRvRWhiaXV1bHJyUnZjNGhKMzR2OFRncUN3MDhocEtYdHV4RFNYS05mczNCV085QktHRk5WODN0MjZhM2tLc0JORDZGU1BWU05KbFd2Z0JXYUgxYkJPdDZDdW1sU280WTFxWDlBa3VtMkJSaVA2VG91ajVB?oc=5\" target=\"_blank\">Coinbase Board and CEO Brian Armstrong Face Shareholder Lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEJPYUNYVjE2cDJ1enhRbTk0RDZ1ODhPZHZFVUw3VHJxYWlfeHFMZF9DeVVfWFJBcHZTZ2tCbkNISTdFdzAxNWJPckRvRWhiaXV1bHJyUnZjNGhKMzR2OFRncUN3MDhocEtYdHV4RFNYS05mczNCV085QktHRk5WODN0MjZhM2tLc0JORDZGU1BWU05KbFd2Z0JXYUgxYkJPdDZDdW1sU280WTFxWDlBa3VtMkJSaVA2VG91ajVB?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-05T15:09:07+00:00",
+      "tags": [],
+      "key_quote": "Coinbase Board and CEO Brian Armstrong Face Shareholder Lawsuit TradingView"
+    },
     {
       "title": "Changpeng Zhao (CZ): Binance Founder, Legal Case & Crypto Impact 2026",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2T1FoYTNUd0RTVEtaSVJBd1Q0OVZXUmhTT3BXV2o1TWhJNGNQdEhjMXJwZ1BIVDg1cC1PamdhQnIwZ3gtTm5jWGdhcVJURFZtOTM0R0dGcFM5eDZ0UWFDU1V30gFiQVVfeXFMUHZPUWhhM1R3RFNUS1pJUkF3VDQ5VldSaFNPcFdXajVNaEk0Y1B0SGMxcnBnUEhUODVwLU9qZ2FCcjBneC1ObmNYZ2FxUlREVm05MzRHR0ZwUzl4NnRRYUNTVXc?oc=5\" target=\"_blank\">Changpeng Zhao (CZ): Binance Founder, Legal Case & Crypto Impact 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
@@ -670,6 +720,20 @@
         "市场 Market"
       ],
       "key_quote": "Banking trade groups responsible for impasse on market structure bill, Brian Armstrong says CoinDesk"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Addresses “Paper Bitcoin” Claims, Claims Bitcoin ETFs Are Fully Backed",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAtXy12OUF0YV82Rkk2WGllSDdyZTljUWE0bmFLY2ZhZjBPM1Q0QzNzS1RDOUpkRTAtLWZ1TzRMQm5jNTJ6aEVLYmxCcUY1UEpNcDFwYzdCUFhvc1g1OWtOTWZDRm9xX2JNQ2ZHRjlsazFKYjQyQ2JBMw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Addresses “Paper Bitcoin” Claims, Claims Bitcoin ETFs Are Fully Backed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Magazine</font>",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtXy12OUF0YV82Rkk2WGllSDdyZTljUWE0bmFLY2ZhZjBPM1Q0QzNzS1RDOUpkRTAtLWZ1TzRMQm5jNTJ6aEVLYmxCcUY1UEpNcDFwYzdCUFhvc1g1OWtOTWZDRm9xX2JNQ2ZHRjlsazFKYjQyQ2JBMw?oc=5",
+      "source": "Bitcoin Magazine",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-17T08:00:00+00:00",
+      "tags": [
+        "Bitcoin",
+        "ETF"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Addresses “Paper Bitcoin” Claims, Claims Bitcoin ETFs Are Fully Backed Bitcoin Magazine"
     },
     {
       "title": "Binance Co-CEO Richard Teng: \"The Smart Money Is Deploying\" Amid Market Volatility",
