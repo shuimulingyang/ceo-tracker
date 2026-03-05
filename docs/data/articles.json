@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-05T03:28:23Z",
-  "total": 88,
+  "updated_at": "2026-03-05T05:07:35Z",
+  "total": 90,
   "by_ceo": {
-    "Brian Armstrong": 45,
+    "Brian Armstrong": 46,
     "CZ": 9,
-    "Richard Teng": 14,
+    "Richard Teng": 15,
     "Ben Zhou": 14,
     "Star Xu": 6
   },
   "articles": [
+    {
+      "title": "Before Trump Lashed Out at Banks, Coinbase CEO Had Just Secretly Met with Him",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9icFIxdXQ3cDdmM0g0YncydDV4Vk5vU2dfaDNiSDZiWjdwNGEyS2pua3J6STIzNkl6UmN3c21DUk9kTEZaQkxfYmFaUW1xWVd2YzdrdElCMTE2eERndkJZaFV4aFM?oc=5\" target=\"_blank\">Before Trump Lashed Out at Banks, Coinbase CEO Had Just Secretly Met with Him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechFlow Post</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9icFIxdXQ3cDdmM0g0YncydDV4Vk5vU2dfaDNiSDZiWjdwNGEyS2pua3J6STIzNkl6UmN3c21DUk9kTEZaQkxfYmFaUW1xWVd2YzdrdElCMTE2eERndkJZaFV4aFM?oc=5",
+      "source": "TechFlow Post",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-05T02:42:25+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Before Trump Lashed Out at Banks, Coinbase CEO Had Just Secretly Met with Him TechFlow Post"
+    },
     {
       "title": "Trump Meets Coinbase CEO Brian Armstrong as Crypto Market Structure Fight Intensifies",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzFLUy1mUEpQYkZEUWctSnNyNzNOTGctcU5qSk9NM1ZIeElDam1IWFpXeWdyUHNUQVM3YUV2dVo2WXlhT3ktMkZ5VUJDdXcwXzFwN2p1SU1ydnN2V1dMOVRCZ0hLT0tIU3pYR25wbXpqWW5mdjdXV1JLWmJFaTJ3T3pUWlBIckQxc0t2cWNMQkZPZXJMS2o5bkdEeGJja3Frd2YtNnBrNXIta29kbkdiRw?oc=5\" target=\"_blank\">Trump Meets Coinbase CEO Brian Armstrong as Crypto Market Structure Fight Intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
@@ -896,6 +909,22 @@
       "published_at": "2025-12-03T08:00:00+00:00",
       "tags": [],
       "key_quote": "Binance appoints co-founder Yi He as new co-CEO alongside Richard Teng The Block"
+    },
+    {
+      "title": "Bitcoin Volatility, ETF Outflows, and the Future of Stablecoins: Binance CEO Richard Teng, Ripple’s Brad Garlinghouse, and Solana’s Lily Liu Break Down the Next Market Cycle",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xLUlDdFdxdFMta1dTaGhyMVBvNVI4RXdEb1lnNjBBVkVFRkU5dlVFcmtzTHZQTmdId0xzcW5TTEhrZi05VzhlZ0J0Xy1iOUVzWS1tNUNoNFlGRE5KVW5iMDVXZw?oc=5\" target=\"_blank\">Bitcoin Volatility, ETF Outflows, and the Future of Stablecoins: Binance CEO Richard Teng, Ripple’s Brad Garlinghouse, and Solana’s Lily Liu Break Down the Next Market Cycle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xLUlDdFdxdFMta1dTaGhyMVBvNVI4RXdEb1lnNjBBVkVFRkU5dlVFcmtzTHZQTmdId0xzcW5TTEhrZi05VzhlZ0J0Xy1iOUVzWS1tNUNoNFlGRE5KVW5iMDVXZw?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2025-12-03T08:00:00+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market",
+        "ETF",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Bitcoin Volatility, ETF Outflows, and the Future of Stablecoins: Binance CEO Richard Teng, Ripple’s Brad Garlinghouse, and Solana’s Lily Liu Break Down the Next Market Cycle Binance"
     },
     {
       "title": "Binance co-founder Yi He joins Richard Teng in dual leadership structure",
