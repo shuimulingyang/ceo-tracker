@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-03-05T06:35:12Z",
-  "total": 93,
+  "updated_at": "2026-03-05T07:33:54Z",
+  "total": 96,
   "by_ceo": {
-    "Brian Armstrong": 46,
-    "Richard Teng": 17,
+    "Brian Armstrong": 48,
+    "Richard Teng": 18,
     "CZ": 10,
     "Ben Zhou": 14,
     "Star Xu": 6
   },
   "articles": [
+    {
+      "title": "Trump Meets Coinbase CEO Armstrong Before Criticizing Banks on Crypto Bill",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUXN5a3RKTE0yVGFIZEdTWWZlTWRPSEt6R3lWWHZoSXZteFB1Y2g5aDlaVV9kZVBJQ3BjWnpDU0tGRW91Y3M0LXlxQ2tXQVpyUUEyYVRmNkJOTDUtdmR0YzdialVZaks1Y1ZSeEhueWtTbHFjY0RZSjF0ZlpNNVhCRzJxZU8yVWpUTjVZaW1lSUlMOFlMM3FQWUtiY2FWdW5U?oc=5\" target=\"_blank\">Trump Meets Coinbase CEO Armstrong Before Criticizing Banks on Crypto Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUXN5a3RKTE0yVGFIZEdTWWZlTWRPSEt6R3lWWHZoSXZteFB1Y2g5aDlaVV9kZVBJQ3BjWnpDU0tGRW91Y3M0LXlxQ2tXQVpyUUEyYVRmNkJOTDUtdmR0YzdialVZaks1Y1ZSeEhueWtTbHFjY0RZSjF0ZlpNNVhCRzJxZU8yVWpUTjVZaW1lSUlMOFlMM3FQWUtiY2FWdW5U?oc=5",
+      "source": "CoinCentral",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-05T05:40:56+00:00",
+      "tags": [],
+      "key_quote": "Trump Meets Coinbase CEO Armstrong Before Criticizing Banks on Crypto Bill CoinCentral"
+    },
+    {
+      "title": "Trump presses Congress on CLARITY bill after meeting with Coinbase CEO",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWpiT0xQOTVDQWtSYjZ6Vm9PdG5QOW8xSHlfMVlFWkxVdDk4SFctbGhOZHA3b3Y5YjhJX3FyR2Y0VGhYODI2UTk5TzBLYW1OSW82ejJnTmdDSmo5ci1qVEp4VWFEOGZ5THdJVkluSHZ3c0VkbjlUdnp5cVA1eGwwZzFJMXBvTVdRX29mdDFXYmoxSlNsZkFvZDNYMlNodF83ZUFjYXB3LUtoaG9FNF9kdU1pd0JNdzZ1WUxJSVVWR29rOEwxOVM0bFhB?oc=5\" target=\"_blank\">Trump presses Congress on CLARITY bill after meeting with Coinbase CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXStreet</font>",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWpiT0xQOTVDQWtSYjZ6Vm9PdG5QOW8xSHlfMVlFWkxVdDk4SFctbGhOZHA3b3Y5YjhJX3FyR2Y0VGhYODI2UTk5TzBLYW1OSW82ejJnTmdDSmo5ci1qVEp4VWFEOGZ5THdJVkluSHZ3c0VkbjlUdnp5cVA1eGwwZzFJMXBvTVdRX29mdDFXYmoxSlNsZkFvZDNYMlNodF83ZUFjYXB3LUtoaG9FNF9kdU1pd0JNdzZ1WUxJSVVWR29rOEwxOVM0bFhB?oc=5",
+      "source": "FXStreet",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-05T03:21:31+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Trump presses Congress on CLARITY bill after meeting with Coinbase CEO FXStreet"
+    },
     {
       "title": "Before Trump Lashed Out at Banks, Coinbase CEO Had Just Secretly Met with Him",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9icFIxdXQ3cDdmM0g0YncydDV4Vk5vU2dfaDNiSDZiWjdwNGEyS2pua3J6STIzNkl6UmN3c21DUk9kTEZaQkxfYmFaUW1xWVd2YzdrdElCMTE2eERndkJZaFV4aFM?oc=5\" target=\"_blank\">Before Trump Lashed Out at Banks, Coinbase CEO Had Just Secretly Met with Him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechFlow Post</font>",
@@ -151,6 +175,17 @@
       "tags": [
         "DeFi"
       ],
+      "key_quote": "Binance CEO History: From CZ to Richard Teng Leadership Transition Bitget"
+    },
+    {
+      "title": "Binance CEO History: From CZ to Richard Teng Leadership Transition",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE14LTlNWGczRnFDU0pnVVFab3BLUGNSQjFIRTc5QzFPZU5tWnljeDVGMGo5RWItMnNCcm5Ka0Nwdl9NSVBCWGJQTkExRWVBeWNZNGFwbFhYdXRvWFQxcWxn0gFkQVVfeXFMT3N0TGdsaG1hSGxnUG0tSks0MFpGdlU1LXdkUkJzdFBUUFdCRU5SMXhTZzNPQWxEMG9tdG5qNnpCMFM1UUxMc1ZtVFNBaFZkNjBXNU85eEswSTRybkhrSEpkWVIzVQ?oc=5\" target=\"_blank\">Binance CEO History: From CZ to Richard Teng Leadership Transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14LTlNWGczRnFDU0pnVVFab3BLUGNSQjFIRTc5QzFPZU5tWnljeDVGMGo5RWItMnNCcm5Ka0Nwdl9NSVBCWGJQTkExRWVBeWNZNGFwbFhYdXRvWFQxcWxn0gFkQVVfeXFMT3N0TGdsaG1hSGxnUG0tSks0MFpGdlU1LXdkUkJzdFBUUFdCRU5SMXhTZzNPQWxEMG9tdG5qNnpCMFM1UUxMc1ZtVFNBaFZkNjBXNU85eEswSTRybkhrSEpkWVIzVQ?oc=5",
+      "source": "Bitget",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-03-04T15:51:15+00:00",
+      "tags": [],
       "key_quote": "Binance CEO History: From CZ to Richard Teng Leadership Transition Bitget"
     },
     {
