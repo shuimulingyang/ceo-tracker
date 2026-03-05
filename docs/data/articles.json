@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-04T23:18:46Z",
-  "total": 82,
+  "updated_at": "2026-03-05T00:59:37Z",
+  "total": 84,
   "by_ceo": {
-    "Brian Armstrong": 42,
+    "Brian Armstrong": 44,
     "CZ": 8,
     "Richard Teng": 13,
     "Ben Zhou": 13,
     "Star Xu": 6
   },
   "articles": [
+    {
+      "title": "Trump Meets Coinbase CEO Brian Armstrong as Crypto Market Structure Fight Intensifies",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzFLUy1mUEpQYkZEUWctSnNyNzNOTGctcU5qSk9NM1ZIeElDam1IWFpXeWdyUHNUQVM3YUV2dVo2WXlhT3ktMkZ5VUJDdXcwXzFwN2p1SU1ydnN2V1dMOVRCZ0hLT0tIU3pYR25wbXpqWW5mdjdXV1JLWmJFaTJ3T3pUWlBIckQxc0t2cWNMQkZPZXJMS2o5bkdEeGJja3Frd2YtNnBrNXIta29kbkdiRw?oc=5\" target=\"_blank\">Trump Meets Coinbase CEO Brian Armstrong as Crypto Market Structure Fight Intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzFLUy1mUEpQYkZEUWctSnNyNzNOTGctcU5qSk9NM1ZIeElDam1IWFpXeWdyUHNUQVM3YUV2dVo2WXlhT3ktMkZ5VUJDdXcwXzFwN2p1SU1ydnN2V1dMOVRCZ0hLT0tIU3pYR25wbXpqWW5mdjdXV1JLWmJFaTJ3T3pUWlBIckQxc0t2cWNMQkZPZXJMS2o5bkdEeGJja3Frd2YtNnBrNXIta29kbkdiRw?oc=5",
+      "source": "FinanceFeeds",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T23:56:55+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Trump Meets Coinbase CEO Brian Armstrong as Crypto Market Structure Fight Intensifies FinanceFeeds"
+    },
     {
       "title": "Coinbase CEO: AI Agents, Not Humans, Will Be Next Major Cryptocurrency Buyers",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPMF9lalhldWxSVEVObTBmNVR6RzNnbnJJUnBPN3VSQ0JuR2tvT1BYSTB3RUc2NndKa1dad040VC1nbmVSd1UxWkxnT1dzcVBuaTdidkl4Z1EzRnN2dVloQXZqNzh4ZVNNam0xaVY2YjdVSlhUOUlqYUxGZlJUWDFYZ2lUQ2NQdzNKV2pEY0ZnTXFxeGhFT0dVelBVNDDSAaIBQVVfeXFMUGh6UUxCdXp1Mk9GcE1xSDliRGtTUU00VWVQUmRXYmNrV2tjNHpoQTFhbEpXZmpVbm9rT3lfWGdZVjYzRlp4MUJPNTgzX2hOa0xJblRtLTQ2bWxabEE1RzB6SEtCZnp4TG1yNlhLa1F4eTJSYXBYZUZNSEE0eEJPLXd1c2RieFJNay1tYzJQaXNDcGFpLTUwc3pESzNmYW9zSmNn?oc=5\" target=\"_blank\">Coinbase CEO: AI Agents, Not Humans, Will Be Next Major Cryptocurrency Buyers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZyCrypto</font>",
@@ -73,6 +86,19 @@
         "DeFi"
       ],
       "key_quote": "Brian Armstrong met with Trump before the president slammed banks over crypto bill CoinDesk"
+    },
+    {
+      "title": "COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzgzMFRfT0lqVzRRR2VQc0ZCWk41UDVsN0RpR293Z0c1aUxzdVVadzFPb2Y1SGtkRm1YY0VQbW9EbjFjUm5TNzVHdmVQb1RqWjR5UjZ2R3Zhd241bTZaMXdTNXQ1VWFTSWdsa1lZRHlJQl9yRktscFBpZVZhLWlnNmhXVjBpdXZ3ZkJWYi1QaEQ0ZHR5NHEzWnJXUF9mVXhucGplU0gydDhnZW1tU1M1dE5n?oc=5\" target=\"_blank\">COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpaper</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzgzMFRfT0lqVzRRR2VQc0ZCWk41UDVsN0RpR293Z0c1aUxzdVVadzFPb2Y1SGtkRm1YY0VQbW9EbjFjUm5TNzVHdmVQb1RqWjR5UjZ2R3Zhd241bTZaMXdTNXQ1VWFTSWdsa1lZRHlJQl9yRktscFBpZVZhLWlnNmhXVjBpdXZ3ZkJWYi1QaEQ0ZHR5NHEzWnJXUF9mVXhucGplU0gydDhnZW1tU1M1dE5n?oc=5",
+      "source": "Coinpaper",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T17:30:25+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements Coinpaper"
     },
     {
       "title": "President Trump Meets With Coinbase’s Brian Armstrong, Then Blasts Banks Over Stalled Crypto Legislation",
