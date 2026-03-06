@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-06T14:27:18Z",
-  "total": 119,
+  "updated_at": "2026-03-06T15:25:13Z",
+  "total": 120,
   "by_ceo": {
-    "Brian Armstrong": 60,
+    "Brian Armstrong": 61,
     "CZ": 14,
     "Richard Teng": 24,
     "Ben Zhou": 15,
@@ -471,6 +471,17 @@
       "published_at": "2026-03-04T13:18:31+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO: The business of crypto has 'never been stronger' Yahoo Finance UK"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Argues Crypto, Tokenization Ensure 'Level Playing Field' In Wealth Creation: 'Equality Of Opportunity' Worth Pursuing",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2JjdmpHWEc4ZHNXbmlxR0R3WENLMzhoUGx0ckZMaFo5MFl1Sk0wZU1nb2t5SHhYdlRoRHFPLUZwQm5CdTd6dHNhUUJUMUNIT1RyejBGdFJrX2tGUVl0ZDJXYjNBSTRobTZ1dUs0am5XWGNBcFB2OHRSZThRbDQ0LW5RNmQ5UQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Argues Crypto, Tokenization Ensure 'Level Playing Field' In Wealth Creation: 'Equality Of Opportunity' Worth Pursuing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2JjdmpHWEc4ZHNXbmlxR0R3WENLMzhoUGx0ckZMaFo5MFl1Sk0wZU1nb2t5SHhYdlRoRHFPLUZwQm5CdTd6dHNhUUJUMUNIT1RyejBGdFJrX2tGUVl0ZDJXYjNBSTRobTZ1dUs0am5XWGNBcFB2OHRSZThRbDQ0LW5RNmQ5UQ?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-04T13:18:31+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Argues Crypto, Tokenization Ensure 'Level Playing Field' In Wealth Creation: 'Equality Of Opportunity' Worth Pursuing AOL.com"
     },
     {
       "title": "Coinbase CEO Wins Trump’s Support in Crypto Bill Battle",
