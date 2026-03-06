@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-03-06T17:25:08Z",
-  "total": 120,
+  "updated_at": "2026-03-06T18:26:58Z",
+  "total": 121,
   "by_ceo": {
     "Brian Armstrong": 61,
     "CZ": 14,
     "Richard Teng": 24,
     "Ben Zhou": 15,
-    "Star Xu": 6
+    "Star Xu": 7
   },
   "articles": [
     {
@@ -992,6 +992,17 @@
         "市场 Market"
       ],
       "key_quote": "OKX CEO: Binance’s USDe Yield Campaign Caused the October 10 Crash Yahoo Finance"
+    },
+    {
+      "title": "Binance campaign triggered October crypto collapse, says OKX CEO",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnJpNVkzZjJ6ZGU2Q0lRTXFyU0hLOHlSSFVYaU1OOW4xSVNtX0syaUJiUk1nWGlaMnhya2J0WUdxSENXMXQ4NG53RkpMQlBCVkhjajVlWHNURXNmZERQZklrUUR2VWNUT2hIcm0tWGVKRGJZSXg1elBwcFVxZUU3UVUyRE10T1pqSkpReUc3dFVUYlRpdHROYnpuaXY?oc=5\" target=\"_blank\">Binance campaign triggered October crypto collapse, says OKX CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dlnews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnJpNVkzZjJ6ZGU2Q0lRTXFyU0hLOHlSSFVYaU1OOW4xSVNtX0syaUJiUk1nWGlaMnhya2J0WUdxSENXMXQ4NG53RkpMQlBCVkhjajVlWHNURXNmZERQZklrUUR2VWNUT2hIcm0tWGVKRGJZSXg1elBwcFVxZUU3UVUyRE10T1pqSkpReUc3dFVUYlRpdHROYnpuaXY?oc=5",
+      "source": "dlnews.com",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-01-31T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "Binance campaign triggered October crypto collapse, says OKX CEO dlnews.com"
     },
     {
       "title": "Jamie Dimon Tells Coinbase CEO Brian Armstrong He’s ‘Full of Sh—’ in Davos Clash: WSJ",
