@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-06T01:04:03Z",
-  "total": 113,
+  "updated_at": "2026-03-06T03:57:33Z",
+  "total": 115,
   "by_ceo": {
-    "Brian Armstrong": 57,
-    "CZ": 12,
+    "Brian Armstrong": 58,
+    "CZ": 13,
     "Richard Teng": 23,
     "Ben Zhou": 15,
     "Star Xu": 6
@@ -60,6 +60,19 @@
         "DeFi"
       ],
       "key_quote": "The complaint centers on custody disclosures tied to bankruptcy risk, whether Coinbase listed tokens that could be securities and deficiencies in the company’s AML program."
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjFxaEMxR1RLWTlOc21BMXJlN1AwYnpKWXdUYkdXRi1qS1Q1TG1xSTFtZ2JvT1NKZTNBLXk3MTZiVEVFR3cwRjJ6UXNRSy1Uai14NXVuVXBodWtOM19UaWEwQTJHMVF5NVZFTGV1ZE00YnhmRm82MURtdXJVY1RvWExqR3pkSmVBYmR5VHlVSy1YenhTc01XOXBjcWRCZllVdjVfdEUzUnVkVmhYSkRnRjdGR0I?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjFxaEMxR1RLWTlOc21BMXJlN1AwYnpKWXdUYkdXRi1qS1Q1TG1xSTFtZ2JvT1NKZTNBLXk3MTZiVEVFR3cwRjJ6UXNRSy1Uai14NXVuVXBodWtOM19UaWEwQTJHMVF5NVZFTGV1ZE00YnhmRm82MURtdXJVY1RvWExqR3pkSmVBYmR5VHlVSy1YenhTc01XOXBjcWRCZllVdjVfdEUzUnVkVmhYSkRnRjdGR0I?oc=5",
+      "source": "The Block",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-05T19:28:08+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures The Block"
     },
     {
       "title": "Coinbase Board and CEO Brian Armstrong Face Shareholder Lawsuit",
@@ -760,6 +773,17 @@
         "市场 Market"
       ],
       "key_quote": "Binance Co-CEO Richard Teng: \"The Smart Money Is Deploying\" Amid Market Volatility Entrepreneur"
+    },
+    {
+      "title": "Crypto Billionaire Changpeng Zhao Calls Prison A 'Bad Experience,' Reveals What A Prison Guard Told Him When He Was Processed",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0EwY2w4X21JUmNoWEoxWDJRcHppZDh6QkxyN3UtcTNfY2ptM3NvNjRyZ0xoaFV3OEhfajJESm44dEZERWFsNTlJOE5jZG95cVd0RlVBaldpSl84OWRucVJwR2JQc29jVTRnUjNuRmZWMzVUY3M0SlVWUDZ2VUtJcTJSdU1nNTN3VFlINlFn?oc=5\" target=\"_blank\">Crypto Billionaire Changpeng Zhao Calls Prison A 'Bad Experience,' Reveals What A Prison Guard Told Him When He Was Processed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0EwY2w4X21JUmNoWEoxWDJRcHppZDh6QkxyN3UtcTNfY2ptM3NvNjRyZ0xoaFV3OEhfajJESm44dEZERWFsNTlJOE5jZG95cVd0RlVBaldpSl84OWRucVJwR2JQc29jVTRnUjNuRmZWMzVUY3M0SlVWUDZ2VUtJcTJSdU1nNTN3VFlINlFn?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-02-16T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "Crypto Billionaire Changpeng Zhao Calls Prison A 'Bad Experience,' Reveals What A Prison Guard Told Him When He Was Processed Yahoo Finance"
     },
     {
       "title": "US$2 trillion evaporates in crypto, Bybit CEO still urges buying",
