@@ -1,14 +1,29 @@
 {
-  "updated_at": "2026-03-06T05:06:57Z",
-  "total": 115,
+  "updated_at": "2026-03-06T06:32:00Z",
+  "total": 116,
   "by_ceo": {
-    "Brian Armstrong": 58,
+    "Brian Armstrong": 59,
     "CZ": 13,
     "Richard Teng": 23,
     "Ben Zhou": 15,
     "Star Xu": 6
   },
   "articles": [
+    {
+      "title": "Trump Meets Coinbase CEO, Blames Banks for Stalling Crypto Bill",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPenMzaW5sbEpsTTdFbGlQUld4RXBFZENUY013ZG5JUkQwbHFENllCWmFUSFh3MHZnVVJWY185RkdRNG9zQVBXUjNJTVAyUlp0VDRYY1hackJ5ZjlqOEppbEhGdXdUSjJmN2tBbk93cXpFS192bUFmeGl2a2ltYkdhTUg4Y3RFNWRXaUFBckVnZmFVQQ?oc=5\" target=\"_blank\">Trump Meets Coinbase CEO, Blames Banks for Stalling Crypto Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin.com News</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPenMzaW5sbEpsTTdFbGlQUld4RXBFZENUY013ZG5JUkQwbHFENllCWmFUSFh3MHZnVVJWY185RkdRNG9zQVBXUjNJTVAyUlp0VDRYY1hackJ5ZjlqOEppbEhGdXdUSjJmN2tBbk93cXpFS192bUFmeGl2a2ltYkdhTUg4Y3RFNWRXaUFBckVnZmFVQQ?oc=5",
+      "source": "Bitcoin.com News",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-05T23:19:02+00:00",
+      "tags": [
+        "Bitcoin",
+        "安全 Security",
+        "Layer2"
+      ],
+      "key_quote": "Trump Meets Coinbase CEO, Blames Banks for Stalling Crypto Bill Bitcoin.com News"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong faces shareholder lawsuit over compliance failures and disclosures",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdjJmZE5saGkxb0hxT0tUQkFBVUFweFFlZ21FUXpWYnRYeXFNWnZaa2hYY0JBaGhHNjdVSEZxQkVLVVVWOWxvUEJMYTRvcjhpb1ZrUGJEV0pBR3FvbHVOM1FGREIwMFFsLWFlYkw1bGUtb2piZUxOSVdQdXNIUEQ4Y1VYbw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong faces shareholder lawsuit over compliance failures and disclosures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
