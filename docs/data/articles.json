@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-07T00:55:24Z",
-  "total": 121,
+  "updated_at": "2026-03-07T03:09:05Z",
+  "total": 122,
   "by_ceo": {
     "Brian Armstrong": 61,
     "CZ": 14,
-    "Richard Teng": 24,
+    "Richard Teng": 25,
     "Ben Zhou": 15,
     "Star Xu": 7
   },
@@ -914,6 +914,19 @@
         "ETF"
       ],
       "key_quote": "Richard Teng: Clear Regulation Is the Foundation of Innovation; Hong Kong Has the Conditions to Become a Global Crypto Hub Binance"
+    },
+    {
+      "title": "Binance's Richard Teng breaks down the ‘10/10’ nightmare that rocked crypto",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVldMUGR3dVRJZktfdWFlWlJHN0JrbTVqY0N6cmgxV3Y3ajgyODNEX1NxVXl2WTBYMnVzWW5ES01WSUhsa1NZNWhBS19nUFEzWVpNN3Yzc2hBOUNaM3pOR1BJZ0VwaFlDV3NWTjA4cW5GMFBjRXh1MVNEZkhaWHNDcjFqbUc1dXlkREE?oc=5\" target=\"_blank\">Binance's Richard Teng breaks down the ‘10/10’ nightmare that rocked crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVldMUGR3dVRJZktfdWFlWlJHN0JrbTVqY0N6cmgxV3Y3ajgyODNEX1NxVXl2WTBYMnVzWW5ES01WSUhsa1NZNWhBS19nUFEzWVpNN3Yzc2hBOUNaM3pOR1BJZ0VwaFlDV3NWTjA4cW5GMFBjRXh1MVNEZkhaWHNDcjFqbUc1dXlkREE?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-02-12T08:00:00+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Binance's Richard Teng breaks down the ‘10/10’ nightmare that rocked crypto Yahoo Finance Singapore"
     },
     {
       "title": "Coinbase CEO Falls From List Of World’s Richest as Crypto Slides",
