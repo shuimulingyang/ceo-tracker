@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-07T03:09:05Z",
-  "total": 122,
+  "updated_at": "2026-03-07T04:52:53Z",
+  "total": 123,
   "by_ceo": {
-    "Brian Armstrong": 61,
+    "Brian Armstrong": 62,
     "CZ": 14,
     "Richard Teng": 25,
     "Ben Zhou": 15,
     "Star Xu": 7
   },
   "articles": [
+    {
+      "title": "Trump Met Privately With Coinbase CEO Before Blasting Banks Over Crypto Bill: Report",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2o2YzFzZ0thZG1xZEZJSkt2eWtQTHlscDh0SjRnTl9mLVJhRUEzMjM1SnZYbDBrR28wbkJGQXFkQUFQYjdKdjE4d2FrZFo2cDBHZ0Q0WENSSTRhY1VDM21lSzE4S2pPUkpqQ0M0OW52WE1rOFZPVmtoNTk3MktrVzNEaVk?oc=5\" target=\"_blank\">Trump Met Privately With Coinbase CEO Before Blasting Banks Over Crypto Bill: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2o2YzFzZ0thZG1xZEZJSkt2eWtQTHlscDh0SjRnTl9mLVJhRUEzMjM1SnZYbDBrR28wbkJGQXFkQUFQYjdKdjE4d2FrZFo2cDBHZ0Q0WENSSTRhY1VDM21lSzE4S2pPUkpqQ0M0OW52WE1rOFZPVmtoNTk3MktrVzNEaVk?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-07T04:31:00+00:00",
+      "tags": [],
+      "key_quote": "Trump Met Privately With Coinbase CEO Before Blasting Banks Over Crypto Bill: Report Yahoo Finance"
+    },
     {
       "title": "Trump Meets Coinbase CEO, Blames Banks for Stalling Crypto Bill",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPenMzaW5sbEpsTTdFbGlQUld4RXBFZENUY013ZG5JUkQwbHFENllCWmFUSFh3MHZnVVJWY185RkdRNG9zQVBXUjNJTVAyUlp0VDRYY1hackJ5ZjlqOEppbEhGdXdUSjJmN2tBbk93cXpFS192bUFmeGl2a2ltYkdhTUg4Y3RFNWRXaUFBckVnZmFVQQ?oc=5\" target=\"_blank\">Trump Meets Coinbase CEO, Blames Banks for Stalling Crypto Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin.com News</font>",
