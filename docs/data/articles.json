@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-08T07:22:52Z",
-  "total": 128,
+  "updated_at": "2026-03-08T08:16:14Z",
+  "total": 129,
   "by_ceo": {
-    "CZ": 16,
+    "CZ": 17,
     "Brian Armstrong": 64,
     "Richard Teng": 25,
     "Ben Zhou": 16,
@@ -1443,6 +1443,17 @@
       "published_at": "2025-10-23T07:00:00+00:00",
       "tags": [],
       "key_quote": "Trump pardons Binance founder Changpeng Zhao PBS"
+    },
+    {
+      "title": "Trump pardons convicted Binance founder Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE11akdhbVpzMDl5ci1Da3B2NjRvSkZRaGZiY0U0ZVhqMUYtM3JMVzZkY2FIVEJVWjRFT3UxbERVeHVEbFhCalNRbDYtWVNoc3NYbzBvSHcwZ0NiNURVeTBHdGo5U1ZOU2pTNDRQQ3AxWHJYQ0pPTk5BZkpMVFdMd2vSAYQBQVVfeXFMTW1oRmxmUkR3NFJ5Q3B5MmM5VjBtMTk1aXhIMDVNcE9FZWs5STAtTUNIZEg1dzVVMlVjQTFycEhQSGJkX0JTOUNRVzNCdF9sRjNPdDBBUGdVTDdkYVlSLU9HOENDajNjTjBFUm5QdC1Ea3FMTzRlejhIWV9rTS1QTlp2TFZv?oc=5\" target=\"_blank\">Trump pardons convicted Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11akdhbVpzMDl5ci1Da3B2NjRvSkZRaGZiY0U0ZVhqMUYtM3JMVzZkY2FIVEJVWjRFT3UxbERVeHVEbFhCalNRbDYtWVNoc3NYbzBvSHcwZ0NiNURVeTBHdGo5U1ZOU2pTNDRQQ3AxWHJYQ0pPTk5BZkpMVFdMd2vSAYQBQVVfeXFMTW1oRmxmUkR3NFJ5Q3B5MmM5VjBtMTk1aXhIMDVNcE9FZWs5STAtTUNIZEg1dzVVMlVjQTFycEhQSGJkX0JTOUNRVzNCdF9sRjNPdDBBUGdVTDdkYVlSLU9HOENDajNjTjBFUm5QdC1Ea3FMTzRlejhIWV9rTS1QTlp2TFZv?oc=5",
+      "source": "CNBC",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2025-10-23T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Trump pardons convicted Binance founder Changpeng Zhao CNBC"
     },
     {
       "title": "OKX CEO Star Xu Slams Huione Group After $15B DOJ Crackdown",
