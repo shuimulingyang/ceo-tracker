@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-08T09:17:07Z",
-  "total": 129,
+  "updated_at": "2026-03-08T10:12:55Z",
+  "total": 130,
   "by_ceo": {
-    "CZ": 17,
+    "CZ": 18,
     "Brian Armstrong": 64,
     "Richard Teng": 25,
     "Ben Zhou": 16,
@@ -21,6 +21,19 @@
         "机构 Institutional"
       ],
       "key_quote": "A US federal judge dismissed a lawsuit accusing Binance, Changpeng Zhao and Binance.US of helping terrorist groups move crypto funds."
+    },
+    {
+      "title": "Trump pardons Binance co-founder Changpeng Zhao: White House",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2wJBVV95cUxQclhDNEFDcF9mWWNrSm1UTl81VUR6TFhtYjdXZFJOa2h5S0xzbEN3d3JMYmZaMmQ4Q2pXTWdOMXVZcXUyLVhYMnBQdldwXzBTN0J2bVRCcGVXa0EyWWltOFVSejgxbC1ORGdmeTY4MDVIY0p4dExlZnhrTzVQQjZIUHpGa0dnVzRyRzBWN011TTJ0TGZmVVlSV19MRnBnSlJheC14aGVoTWhuZHNQS1RCUU1xa3RmVGs2LWI4YjZPRVNMcElWQmNfcVJNNl9lc1AxM01kcWVJZ19FaEV2U0RNTkVhUHVOV3o0a0I2TURyRDhTdnlaSDdQYUpnenJ0dUtZWFc1a0E1V3ZDZmJ4akhlRnc1c3RQTjBMX0plTDdPVWp6M3JFR1l0UGYxNUplbDlCNWd4RUNDc3R5bTBLdVlGR3Q2U0hLZVkwMkdWeVhoVlBMSE9SX1djVzVJQQ?oc=5\" target=\"_blank\">Trump pardons Binance co-founder Changpeng Zhao: White House</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQclhDNEFDcF9mWWNrSm1UTl81VUR6TFhtYjdXZFJOa2h5S0xzbEN3d3JMYmZaMmQ4Q2pXTWdOMXVZcXUyLVhYMnBQdldwXzBTN0J2bVRCcGVXa0EyWWltOFVSejgxbC1ORGdmeTY4MDVIY0p4dExlZnhrTzVQQjZIUHpGa0dnVzRyRzBWN011TTJ0TGZmVVlSV19MRnBnSlJheC14aGVoTWhuZHNQS1RCUU1xa3RmVGs2LWI4YjZPRVNMcElWQmNfcVJNNl9lc1AxM01kcWVJZ19FaEV2U0RNTkVhUHVOV3o0a0I2TURyRDhTdnlaSDdQYUpnenJ0dUtZWFc1a0E1V3ZDZmJ4akhlRnc1c3RQTjBMX0plTDdPVWp6M3JFR1l0UGYxNUplbDlCNWd4RUNDc3R5bTBLdVlGR3Q2U0hLZVkwMkdWeVhoVlBMSE9SX1djVzVJQQ?oc=5",
+      "source": "MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-08T06:48:23+00:00",
+      "tags": [
+        "DeFi"
+      ],
+      "key_quote": "Trump pardons Binance co-founder Changpeng Zhao: White House MSN"
     },
     {
       "title": "Trump Pushes Clarity Act and Meets Coinbase CEO as Bitcoin Clears",
