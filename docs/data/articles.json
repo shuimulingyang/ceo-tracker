@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-08T06:27:37Z",
-  "total": 127,
+  "updated_at": "2026-03-08T07:22:52Z",
+  "total": 128,
   "by_ceo": {
+    "CZ": 16,
     "Brian Armstrong": 64,
-    "CZ": 15,
     "Richard Teng": 25,
     "Ben Zhou": 16,
     "Star Xu": 7
   },
   "articles": [
+    {
+      "title": "CZ says CEXs have ‘zero motive’ to aid terrorists as court dismisses terrorism case",
+      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CZ says CEXs have ‘zero motive’ to aid terrorists as court dismisses terrorism case\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmY4NjctODcyNi03YzFiLWI3NjgtZTg5MDNlYTg0MmVmLmpwZw==.jpg\" /></p><p>A US federal judge dismissed a lawsuit accusing Binance, Changpeng Zhao and Binance.US of helping terrorist groups move crypto funds.</p>",
+      "url": "https://cointelegraph.com/news/cz-says-cexs-zero-motive-aid-terrorists-court-dismisses-binance-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-08T07:13:51+00:00",
+      "tags": [
+        "机构 Institutional"
+      ],
+      "key_quote": "A US federal judge dismissed a lawsuit accusing Binance, Changpeng Zhao and Binance.US of helping terrorist groups move crypto funds."
+    },
     {
       "title": "Trump Pushes Clarity Act and Meets Coinbase CEO as Bitcoin Clears",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHVFQ3ZZRjJaVkMxdDl5ZmlOYlVUSmx2RkR0aTNKekduaDFBVWM2SUlJTzdsZjcyXzBKRzh1ZDJtODU1Vll4TmJiM1J0QTVSREc3WUhNWXlPQXkyTTU2b3ZSOW9TMHg4ZzVIWHFSWGZ4V2pZSncweTcwSUp5eXVVRktJSGN5NUxaNkFYclhUTWpiZUQtYkpXWUdwV0xOWWplSVdF?oc=5\" target=\"_blank\">Trump Pushes Clarity Act and Meets Coinbase CEO as Bitcoin Clears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
