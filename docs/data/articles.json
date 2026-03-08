@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-08T16:13:35Z",
-  "total": 130,
+  "updated_at": "2026-03-08T17:13:10Z",
+  "total": 131,
   "by_ceo": {
+    "Brian Armstrong": 65,
     "CZ": 18,
-    "Brian Armstrong": 64,
     "Richard Teng": 25,
     "Ben Zhou": 16,
     "Star Xu": 7
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Hunted For Fixes When His Crypto Company Went Flat Post-Launch: He Found Them By Simply Picking Up The Phone",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxQeFRZM2hidDB6a3YxTFN5RnJRUUV4ZDNXZTg2c2IxRk9KcVlzOTZJTTdZSVlyXzlIanR5ZkhuX1FPdGJBdVNPLS1vZ2xadHdob093Tmw4Nl9zLWduVm1pTkVxZ1ZqR3hKMHVKNXRxcm1VNzhKOVJzZmcyQkI5OFZpRWJaVl9DN2JoVFdWUVNpZGQ1M3dHY2dFNWt2NldlT1g2dHEzN1VaSVl5bHZhTVc1N1dORVItSkY3anRqQlVfOHEtaE95QzY3eGRpcXpaVVBqbDlHNWZSaXE5dlZuampQTWw4amZIQWZVUjNLLWNEY2pwZkVJRl9BYlVGVHhBdmJBSHVRQmhBZkJTcnI1NjNFYThsUQ?oc=5\" target=\"_blank\">Brian Armstrong Hunted For Fixes When His Crypto Company Went Flat Post-Launch: He Found Them By Simply Picking Up The Phone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeFRZM2hidDB6a3YxTFN5RnJRUUV4ZDNXZTg2c2IxRk9KcVlzOTZJTTdZSVlyXzlIanR5ZkhuX1FPdGJBdVNPLS1vZ2xadHdob093Tmw4Nl9zLWduVm1pTkVxZ1ZqR3hKMHVKNXRxcm1VNzhKOVJzZmcyQkI5OFZpRWJaVl9DN2JoVFdWUVNpZGQ1M3dHY2dFNWt2NldlT1g2dHEzN1VaSVl5bHZhTVc1N1dORVItSkY3anRqQlVfOHEtaE95QzY3eGRpcXpaVVBqbDlHNWZSaXE5dlZuampQTWw4amZIQWZVUjNLLWNEY2pwZkVJRl9BYlVGVHhBdmJBSHVRQmhBZkJTcnI1NjNFYThsUQ?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-08T17:01:09+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong Hunted For Fixes When His Crypto Company Went Flat Post-Launch: He Found Them By Simply Picking Up The Phone Benzinga"
+    },
     {
       "title": "CZ says CEXs have ‘zero motive’ to aid terrorists as court dismisses terrorism case",
       "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CZ says CEXs have ‘zero motive’ to aid terrorists as court dismisses terrorism case\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmY4NjctODcyNi03YzFiLWI3NjgtZTg5MDNlYTg0MmVmLmpwZw==.jpg\" /></p><p>A US federal judge dismissed a lawsuit accusing Binance, Changpeng Zhao and Binance.US of helping terrorist groups move crypto funds.</p>",
