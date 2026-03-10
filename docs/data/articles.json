@@ -1,14 +1,51 @@
 {
-  "updated_at": "2026-03-10T11:23:16Z",
-  "total": 143,
+  "updated_at": "2026-03-10T12:30:55Z",
+  "total": 146,
   "by_ceo": {
-    "Brian Armstrong": 76,
-    "CZ": 18,
+    "Brian Armstrong": 77,
+    "CZ": 20,
     "Richard Teng": 25,
     "Ben Zhou": 17,
     "Star Xu": 7
   },
   "articles": [
+    {
+      "title": "AI to get its own bank account? Coinbase CEO says bots may soon pay with crypto",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMUJEMDR1WU5nb3dQMkpDbTVGSk5NYUxOLW1QcVpOOGNNaENpNmFUZnlFNTNKd2Q2SWlpTmpqVTdTVG5QQVUzYjAyS3RLMFhNbFJNS211emNOR3dodUNncFF3eW1tX01oa3ZpT21PczhoQlZVUmJpQjVrdlhROWMzaHJRaEJoSDBpWVc5SnhsWndtRzYzdTNCR1N4NTZkSW40TENBQlVMRG16RW8tYUFMLTlqTC1FaUUzMG9nSjhKUmpSeWxELW52eHpEM0ItenJMcHhJOFJKZlVzU0VTQXfSAeMBQVVfeXFMTWltOF9ZNjVEc3hGYmpXVXU2TkZONXZDT1J1NXR1NTN4WnlVVG1tdnl2NzdLbkgya28wSzVEQnRfeTJqa3BuQy1YbEIybkJpd0JaM2gxRWZ3RnNPdjNrSm9teDRXd3dWcnN1M0tIT2wwLXJIZVVicUpacktIbVh3ZkxzcHllTGhMa182MUJLa2tIcUpXdGFmQUNHR1FKQkFyR0VtZE9ELTJZV0JNQ1JXM1V4ZWJIMTh0aWlDTHp4bWtZY0dZTDJtSUx1ZWlWM0ZieExjZmlZTGNJMERoZ3Y3dlVHNjQ?oc=5\" target=\"_blank\">AI to get its own bank account? Coinbase CEO says bots may soon pay with crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMUJEMDR1WU5nb3dQMkpDbTVGSk5NYUxOLW1QcVpOOGNNaENpNmFUZnlFNTNKd2Q2SWlpTmpqVTdTVG5QQVUzYjAyS3RLMFhNbFJNS211emNOR3dodUNncFF3eW1tX01oa3ZpT21PczhoQlZVUmJpQjVrdlhROWMzaHJRaEJoSDBpWVc5SnhsWndtRzYzdTNCR1N4NTZkSW40TENBQlVMRG16RW8tYUFMLTlqTC1FaUUzMG9nSjhKUmpSeWxELW52eHpEM0ItenJMcHhJOFJKZlVzU0VTQXfSAeMBQVVfeXFMTWltOF9ZNjVEc3hGYmpXVXU2TkZONXZDT1J1NXR1NTN4WnlVVG1tdnl2NzdLbkgya28wSzVEQnRfeTJqa3BuQy1YbEIybkJpd0JaM2gxRWZ3RnNPdjNrSm9teDRXd3dWcnN1M0tIT2wwLXJIZVVicUpacktIbVh3ZkxzcHllTGhMa182MUJLa2tIcUpXdGFmQUNHR1FKQkFyR0VtZE9ELTJZV0JNQ1JXM1V4ZWJIMTh0aWlDTHp4bWtZY0dZTDJtSUx1ZWlWM0ZieExjZmlZTGNJMERoZ3Y3dlVHNjQ?oc=5",
+      "source": "India Today",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-10T12:16:20+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "AI to get its own bank account? Coinbase CEO says bots may soon pay with crypto India Today"
+    },
+    {
+      "title": "US court dismisses anti-terrorism act lawsuit against Binance, founder Changpeng Zhao — Here's all we know",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWUR0aVN3MzBWVEJBemREeGctS05iZkRfOFd0c09vNWVITjh3R0MwSHFrRl9WWDJTaG9GZUNpTklNa0c2OEhPNU9rVkJpZlJVUnNHejhwSXQyTGFEcFk2RW42OTJCUXYySkFDa2hjRUZRdnNGTENEcWV5TmVOQWVxeWM1anQ0aFc5OGt3STVvNGM0NjJwQ0xBWnVQMW40T2pPVTFCRnNxbXpzdDNPNGZRV2pxenplc3ppQ2dMY3p0LWdsdm1XUkZoRjVmT3NYRnlUb3B1YUt4elFfVXpkbkRsYzRjN1dSa3NySzQzRWRFVDYzM0ky?oc=5\" target=\"_blank\">US court dismisses anti-terrorism act lawsuit against Binance, founder Changpeng Zhao — Here's all we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWUR0aVN3MzBWVEJBemREeGctS05iZkRfOFd0c09vNWVITjh3R0MwSHFrRl9WWDJTaG9GZUNpTklNa0c2OEhPNU9rVkJpZlJVUnNHejhwSXQyTGFEcFk2RW42OTJCUXYySkFDa2hjRUZRdnNGTENEcWV5TmVOQWVxeWM1anQ0aFc5OGt3STVvNGM0NjJwQ0xBWnVQMW40T2pPVTFCRnNxbXpzdDNPNGZRV2pxenplc3ppQ2dMY3p0LWdsdm1XUkZoRjVmT3NYRnlUb3B1YUt4elFfVXpkbkRsYzRjN1dSa3NySzQzRWRFVDYzM0ky?oc=5",
+      "source": "Mint",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-10T11:35:32+00:00",
+      "tags": [],
+      "key_quote": "US court dismisses anti-terrorism act lawsuit against Binance, founder Changpeng Zhao — Here's all we know Mint"
+    },
+    {
+      "title": "Changpeng Zhao Says AI Agents Will Dominate Crypto Payments. His Next Post Named the Tool He Is Using to Build Them.",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE1XbDY3Qy04QldERUswbUR0TXd4Ylh0TWNWMlNTQUJCb2RwLTZQTmIxWmdRdGppSUJPTHVESDJLeHN5U0plUm84NlJMVVlLbzdZQnlNSVhranM1TjRnUTRaZlV6TmNaTzVCWThfbm9xX0xtSi1mTmNWQ3FBc01LNjFpQU54dG1fcWFNNHdBUzdPQ3JudEZhYWl0enZaakRacnc?oc=5\" target=\"_blank\">Changpeng Zhao Says AI Agents Will Dominate Crypto Payments. His Next Post Named the Tool He Is Using to Build Them.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Weekly</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE1XbDY3Qy04QldERUswbUR0TXd4Ylh0TWNWMlNTQUJCb2RwLTZQTmIxWmdRdGppSUJPTHVESDJLeHN5U0plUm84NlJMVVlLbzdZQnlNSVhranM1TjRnUTRaZlV6TmNaTzVCWThfbm9xX0xtSi1mTmNWQ3FBc01LNjFpQU54dG1fcWFNNHdBUzdPQ3JudEZhYWl0enZaakRacnc?oc=5",
+      "source": "FinTech Weekly",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-10T11:19:00+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Changpeng Zhao Says AI Agents Will Dominate Crypto Payments. His Next Post Named the Tool He Is Using to Build Them. FinTech Weekly"
+    },
     {
       "title": "Crypto's Next Billion Users May Not Be Human — Brian Armstrong and CZ Say AI Agents Will Use Crypto",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcm8zZEpiY2h0NDZtNXIyazk2bFBZWmNEbzVyWGExQXZDcjhaR092NnJQaS1DYkZicVZyejBZT1A4Sng5SnhqYWcwNXpWTDdhZUhGYUFRaEhQVlFNQmdPc0JzRHh3ZXJaNER5LURVR2N4c1YwTjlJVmtmUzZXdEYxTXN3?oc=5\" target=\"_blank\">Crypto's Next Billion Users May Not Be Human — Brian Armstrong and CZ Say AI Agents Will Use Crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
