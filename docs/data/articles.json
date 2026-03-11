@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-11T00:55:34Z",
-  "total": 149,
+  "updated_at": "2026-03-11T03:18:43Z",
+  "total": 151,
   "by_ceo": {
+    "CZ": 22,
     "Brian Armstrong": 79,
-    "CZ": 21,
     "Richard Teng": 25,
-    "Ben Zhou": 17,
+    "Ben Zhou": 18,
     "Star Xu": 7
   },
   "articles": [
+    {
+      "title": "Forbes: Changpeng Zhao's wealth surpasses Bill Gates, with his net worth rising to $110 billion.",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZRTRVTzNWV0NRTDAtOGU2OXZ0bzdZMVpqdHB0UTZoUGplcl85azUxckg0YTRrS1d2OWt6QmdyZUpmVmFpRXNR?oc=5\" target=\"_blank\">Forbes: Changpeng Zhao's wealth surpasses Bill Gates, with his net worth rising to $110 billion.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZRTRVTzNWV0NRTDAtOGU2OXZ0bzdZMVpqdHB0UTZoUGplcl85azUxckg0YTRrS1d2OWt6QmdyZUpmVmFpRXNR?oc=5",
+      "source": "MEXC",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-11T01:58:46+00:00",
+      "tags": [],
+      "key_quote": "Forbes: Changpeng Zhao's wealth surpasses Bill Gates, with his net worth rising to $110 billion."
+    },
     {
       "title": "Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVV9Pa0VPbzdRU1VvLTN3aGFzRTcwZ3k4dlUySlAzbmVLUDBkaXNYS2tJY09TVDBySlpIZUFjcGRQM3NZQXVfOUV5dDdJLTBZbmJ6X2hxUnc5bWpfR1RZeHFKbjU5OFdtMjY2R0xGbTIwY1BWcHo0cU1RNU1taC13amlnQkRvbUJGLThJbEFJM216azdLMTFzTlFrUDRTb05NbEdjdg?oc=5\" target=\"_blank\">Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
@@ -1485,6 +1496,19 @@
         "监管 Regulation"
       ],
       "key_quote": "Bybit CEO Highlights Compliance and Decentralized Innovation at Solana Breakpoint 2025 PR Newswire"
+    },
+    {
+      "title": "Bybit CEO highlights compliance and decentralized innovation at Solana Breakpoint 2025",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRURXajg5S2FadloxR3BfSTdLeU1SN1gzbS0zVldSVGladkN0ZXdwTjctM0N5MUdRcTE0VVhwSl82QW9PWlBzRlFBLXZoWjJaV2szRkZFLVlsaU05cC10UmxiYUktenpCTmgtUXlxbHRtQkhCRnBoTXc0QTlnbG5FS29URTFvRi04MzNPRnJhSThCaE1pa0UzVzdVSVdpT1BveXpYWkRnUFd6Tk0?oc=5\" target=\"_blank\">Bybit CEO highlights compliance and decentralized innovation at Solana Breakpoint 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRURXajg5S2FadloxR3BfSTdLeU1SN1gzbS0zVldSVGladkN0ZXdwTjctM0N5MUdRcTE0VVhwSl82QW9PWlBzRlFBLXZoWjJaV2szRkZFLVlsaU05cC10UmxiYUktenpCTmgtUXlxbHRtQkhCRnBoTXc0QTlnbG5FS29URTFvRi04MzNPRnJhSThCaE1pa0UzVzdVSVdpT1BveXpYWkRnUFd6Tk0?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2025-12-17T08:00:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Bybit CEO highlights compliance and decentralized innovation at Solana Breakpoint 2025 crypto.news"
     },
     {
       "title": "What Will 2026 Bring for the Crypto Market? Binance CEO Richard Teng Shares His Outlook",
