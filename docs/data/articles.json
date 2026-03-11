@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-03-11T15:35:36Z",
-  "total": 163,
+  "updated_at": "2026-03-11T16:36:43Z",
+  "total": 167,
   "by_ceo": {
-    "CZ": 28,
-    "Brian Armstrong": 84,
+    "Brian Armstrong": 86,
+    "CZ": 30,
     "Richard Teng": 25,
     "Ben Zhou": 19,
     "Star Xu": 7
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Shows Support for Trump’s Crypto Push Amid Setback From Banks",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZG85dmhXSktHVVpuYXE1ek5EaDc2NlIxWmxmM3Y3dHpOSVVmTXFjRjZPWl91UmJLMjFrSVpyVGE1R3c3YVIzb0J1ajFoRWF6QXBiSTZqUjZmZk1VNmUyMHlVcElLY3lGam9jbXRSVldQbHM2QlFURmg5VkNWOE1YLXhhNktzUFdZWkRfQ2NMRndCd2hUa3ZKejJoM3BtSDVEcVFZc0prOGNhYldZSHk4Uw?oc=5\" target=\"_blank\">Coinbase CEO Shows Support for Trump’s Crypto Push Amid Setback From Banks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZG85dmhXSktHVVpuYXE1ek5EaDc2NlIxWmxmM3Y3dHpOSVVmTXFjRjZPWl91UmJLMjFrSVpyVGE1R3c3YVIzb0J1ajFoRWF6QXBiSTZqUjZmZk1VNmUyMHlVcElLY3lGam9jbXRSVldQbHM2QlFURmg5VkNWOE1YLXhhNktzUFdZWkRfQ2NMRndCd2hUa3ZKejJoM3BtSDVEcVFZc0prOGNhYldZSHk4Uw?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-11T16:26:19+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Shows Support for Trump’s Crypto Push Amid Setback From Banks CryptoRank"
+    },
+    {
+      "title": "Binance founder Changpeng Zhao is not happy with the 'rich list' that ranks him above Bill Gates, says: W",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxNSUdFRDdKeUpPVFNDeF9KMlBZcUo1bFVLc00zOWl6Z1dFT29iallVZktEMmRoaEgzcVo4YUVhWUo3ZmJrZ3FPMWVnc0dQVlBsVnBiX3VoTVFOemRWeTdlRDB0RmVLbW5vMXlKNU5JX3VSVjRsODVLU0lUMUdGQ28zVnU0a09WVlhuSEVFRzFrak9qVFZMR2VwYTcya2k5NkpVcFROY2ZHNWhqYXd4NDRjQjhIOVhoYnRPcDRhdXRlTUhfWTNvTnJTZmN4R3B6WE1wQTc1TGsyOF9zTU5CSzE0OWt1MVhZMkRQRUZaWGEtWWc1YmlmMnR2N0dkT2t4Y0RXcmo2RkhrdWlMU0xrSWR6SVVwX2txMTduY2JzYWtfUmJsY2ZMR3pELUV6X1ljU3ZjOWs5VEdrdWRBX1dtaEMyeXcyMWVKRnZI0gHOAkFVX3lxTE9kMFdIakJFSEs2Uk1KRTRoMFBNWXl5RDBFWHpodlVKVHBNM2gyRDhfN0pNcXFQS2dFalVCUnRSQmFjT1JUSEhuWHZzSDhYQXBoemxSMXpxVnQ4U1BQSzdUNGtEQUNKUC1fSDlMQ21pRGF0c3E3QVpnTHRTRjZpSHljMzlmNU9hWlFXOTNEUUprd1pxUUhBUnZ1OEFqa1NtaFpLekhJLUZtUHo5UG5kci05SHBkOUVWZEVRS3pwT1VUS2hXVVhzWHVtTnJwdVpCbHJid2FwbVRUU1FJd2h5Xzd2bGp6ZElyZDFSLTE3ZUFXdU9WVU9ra0dHVU1WNFlCazNPcjJuS2U2OWxFZFFvOGFZY1ZLRm1PWHhrSlM4NmR2ZFloXzNncVRtOXhkaENxck9JM2xyOTVvTDJLV2p3WWpGS3dCVHVmbmFpLWR5WXc?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao is not happy with the 'rich list' that ranks him above Bill Gates, says: W</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNSUdFRDdKeUpPVFNDeF9KMlBZcUo1bFVLc00zOWl6Z1dFT29iallVZktEMmRoaEgzcVo4YUVhWUo3ZmJrZ3FPMWVnc0dQVlBsVnBiX3VoTVFOemRWeTdlRDB0RmVLbW5vMXlKNU5JX3VSVjRsODVLU0lUMUdGQ28zVnU0a09WVlhuSEVFRzFrak9qVFZMR2VwYTcya2k5NkpVcFROY2ZHNWhqYXd4NDRjQjhIOVhoYnRPcDRhdXRlTUhfWTNvTnJTZmN4R3B6WE1wQTc1TGsyOF9zTU5CSzE0OWt1MVhZMkRQRUZaWGEtWWc1YmlmMnR2N0dkT2t4Y0RXcmo2RkhrdWlMU0xrSWR6SVVwX2txMTduY2JzYWtfUmJsY2ZMR3pELUV6X1ljU3ZjOWs5VEdrdWRBX1dtaEMyeXcyMWVKRnZI0gHOAkFVX3lxTE9kMFdIakJFSEs2Uk1KRTRoMFBNWXl5RDBFWHpodlVKVHBNM2gyRDhfN0pNcXFQS2dFalVCUnRSQmFjT1JUSEhuWHZzSDhYQXBoemxSMXpxVnQ4U1BQSzdUNGtEQUNKUC1fSDlMQ21pRGF0c3E3QVpnTHRTRjZpSHljMzlmNU9hWlFXOTNEUUprd1pxUUhBUnZ1OEFqa1NtaFpLekhJLUZtUHo5UG5kci05SHBkOUVWZEVRS3pwT1VUS2hXVVhzWHVtTnJwdVpCbHJid2FwbVRUU1FJd2h5Xzd2bGp6ZElyZDFSLTE3ZUFXdU9WVU9ra0dHVU1WNFlCazNPcjJuS2U2OWxFZFFvOGFZY1ZLRm1PWHhrSlM4NmR2ZFloXzNncVRtOXhkaENxck9JM2xyOTVvTDJLV2p3WWpGS3dCVHVmbmFpLWR5WXc?oc=5",
+      "source": "The Times of India",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-11T16:06:00+00:00",
+      "tags": [],
+      "key_quote": "Binance founder Changpeng Zhao is not happy with the 'rich list' that ranks him above Bill Gates, says: W The Times of India"
+    },
+    {
+      "title": "Forbes Lists Changpeng Zhao as Crypto’s Richest Billionaire, With a Networth Outpacing Bill Gates",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTFhTDdFcDlLWG83LVlyaVFMLXJJSzYxazExSFdJQ3BJeGs2WmNJa2hMQzBsRmQ1NldKM0R2RUtDdk5tNUdVZUJWSlRoVk04LTV5OXlEVmNpamVWNkNhMmZMZXl6ck11ZUU2Mmk3NWk2SGhQQUkwY20yaDdfeWRhYVZxS0hqcG5HTThMM3pjUUpxdU5FY21lMFhpUE9DbGtENXFxcWVGVkdqUU9pX1NwUk9oOGtJaU9n0gG-AUFVX3lxTE5IcUk4NzA1Wk1xc256U3kzQXpfUWdLTEUzUS1BXzc1M0s5LTJiMGtGVTFxNmNPa29MaFRhSzN2RGNhNk0tWlNkR3NPVTE5MW9DbmFmVnp5dmpHWmc4X1J5Mk5YR0t5akpfeFJyR1VzaGVqaFdaNVNDX1QwMERpRlgxYlJtcG0wajVIVC1LWkxmMTNiTWl0V202dlpJMy1XZEdBc0lwdFdGR0U5SVY4bElvOGcyWVQ3QTIzM0wyX1E?oc=5\" target=\"_blank\">Forbes Lists Changpeng Zhao as Crypto’s Richest Billionaire, With a Networth Outpacing Bill Gates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZyCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTFhTDdFcDlLWG83LVlyaVFMLXJJSzYxazExSFdJQ3BJeGs2WmNJa2hMQzBsRmQ1NldKM0R2RUtDdk5tNUdVZUJWSlRoVk04LTV5OXlEVmNpamVWNkNhMmZMZXl6ck11ZUU2Mmk3NWk2SGhQQUkwY20yaDdfeWRhYVZxS0hqcG5HTThMM3pjUUpxdU5FY21lMFhpUE9DbGtENXFxcWVGVkdqUU9pX1NwUk9oOGtJaU9n0gG-AUFVX3lxTE5IcUk4NzA1Wk1xc256U3kzQXpfUWdLTEUzUS1BXzc1M0s5LTJiMGtGVTFxNmNPa29MaFRhSzN2RGNhNk0tWlNkR3NPVTE5MW9DbmFmVnp5dmpHWmc4X1J5Mk5YR0t5akpfeFJyR1VzaGVqaFdaNVNDX1QwMERpRlgxYlJtcG0wajVIVC1LWkxmMTNiTWl0V202dlpJMy1XZEdBc0lwdFdGR0U5SVY4bElvOGcyWVQ3QTIzM0wyX1E?oc=5",
+      "source": "ZyCrypto",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-11T15:42:26+00:00",
+      "tags": [],
+      "key_quote": "Forbes Lists Changpeng Zhao as Crypto’s Richest Billionaire, With a Networth Outpacing Bill Gates ZyCrypto"
+    },
     {
       "title": "Binance founder Changpeng Zhao net worth surpasses Bill Gates: Forbes",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNbV9BOVNBUWRHT0xIcFc4eUZxRXdoYUdBUjE2bGNQTUxUdWFGdmcwVlY1ai1pNzFUcy0tWUgxQW1DdmU2S2hKejJtTWFyT2pHMjVvREk1cEdSc1YtS3ZEQmhSR2hLdFhCekJXRk42Zk0xbzJySEtybERzMVNGY1h0YW40YW14YnM?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao net worth surpasses Bill Gates: Forbes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -126,6 +159,20 @@
         "AI"
       ],
       "key_quote": "Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial MEXC"
+    },
+    {
+      "title": "Brian Armstrong Says Mining Next 1 Million Bitcoin Will Take Over 100 Years, Coinbase CEO Hails BTC As 'Decentralized, Inflation-Proof'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxONjNCMGthQUktZEs5WERMdzhObllwU01LVDN1U1NLTWY5Z25JekE0Vm1Bekx6OFduOWpXS2ZqQkloWDFXRjBfNlB2bkItZjl2UWFrdlFSc1VhYXk4ek1oYUhfTTBlX0V5V3FhalM5b0ZfLVE2dmhZdk9KYlZ3WURkZDZ6Rjd4c3FiVjRYSnhTNVh5Zk94OWpLQzVLcFVSYkN1UFJWeFdCYllSZllTN3c0MG85ZnhFcktrcjc0NGtTVElUWHppMzF6a2R5dEJ3enBndkVTWmRQUkQxZEd0YnJhTnpoMU96ZFlMOTFZc1pWMXM0V0M4WkNZd3FGUlNqUGdKb0xwWTB3TmlaSEpzdHRyb2NMWGdJYjlPWklLblN3?oc=5\" target=\"_blank\">Brian Armstrong Says Mining Next 1 Million Bitcoin Will Take Over 100 Years, Coinbase CEO Hails BTC As 'Decentralized, Inflation-Proof'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxONjNCMGthQUktZEs5WERMdzhObllwU01LVDN1U1NLTWY5Z25JekE0Vm1Bekx6OFduOWpXS2ZqQkloWDFXRjBfNlB2bkItZjl2UWFrdlFSc1VhYXk4ek1oYUhfTTBlX0V5V3FhalM5b0ZfLVE2dmhZdk9KYlZ3WURkZDZ6Rjd4c3FiVjRYSnhTNVh5Zk94OWpLQzVLcFVSYkN1UFJWeFdCYllSZllTN3c0MG85ZnhFcktrcjc0NGtTVElUWHppMzF6a2R5dEJ3enBndkVTWmRQUkQxZEd0YnJhTnpoMU96ZFlMOTFZc1pWMXM0V0M4WkNZd3FGUlNqUGdKb0xwWTB3TmlaSEpzdHRyb2NMWGdJYjlPWklLblN3?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-11T03:29:23+00:00",
+      "tags": [
+        "Bitcoin",
+        "Layer2"
+      ],
+      "key_quote": "Brian Armstrong Says Mining Next 1 Million Bitcoin Will Take Over 100 Years, Coinbase CEO Hails BTC As 'Decentralized, Inflation-Proof' Benzinga"
     },
     {
       "title": "Forbes: Changpeng Zhao's wealth surpasses Bill Gates, with his net worth rising to $110 billion.",
