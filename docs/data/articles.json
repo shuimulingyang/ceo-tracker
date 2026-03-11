@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-11T10:26:50Z",
-  "total": 158,
+  "updated_at": "2026-03-11T11:23:49Z",
+  "total": 159,
   "by_ceo": {
     "CZ": 25,
-    "Brian Armstrong": 82,
+    "Brian Armstrong": 83,
     "Richard Teng": 25,
     "Ben Zhou": 19,
     "Star Xu": 7
@@ -80,6 +80,19 @@
       "published_at": "2026-03-11T07:04:23+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Applauds Trump’s Pivotal Push To Establish US As Global Crypto Capital MEXC"
+    },
+    {
+      "title": "Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9lQzhuRjdhNENfZzNnbVFnaWU1ZU1nMmpFeFlaMi1IeTAyd0VXbFl1OG90Sk1DUGVUelhicVdPTU1VWUVnaVhv?oc=5\" target=\"_blank\">Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9lQzhuRjdhNENfZzNnbVFnaWU1ZU1nMmpFeFlaMi1IeTAyd0VXbFl1OG90Sk1DUGVUelhicVdPTU1VWUVnaVhv?oc=5",
+      "source": "MEXC",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-11T05:11:58+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial MEXC"
     },
     {
       "title": "Forbes: Changpeng Zhao's wealth surpasses Bill Gates, with his net worth rising to $110 billion.",
