@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-11T07:35:16Z",
-  "total": 151,
+  "updated_at": "2026-03-11T08:25:58Z",
+  "total": 152,
   "by_ceo": {
+    "Brian Armstrong": 80,
     "CZ": 22,
-    "Brian Armstrong": 79,
     "Richard Teng": 25,
     "Ben Zhou": 18,
     "Star Xu": 7
   },
   "articles": [
+    {
+      "title": "CZ and Brian Armstrong Agree: AI Agents Are the Next Big Crypto Trade",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNclBfemdYczRUQktHU05nS2V5bVRmTFFGaUQ1UTZQVjJFbXhPaDRUSVpiRUh1a2ZCZzNiVGxKc2FpdHZsSHNiSUtuVUlmVWE1R2JWUlFJcUlkTFN0cTZSbm82VUxNNy14QjhoUEE5X3JOWU5rSGdvY1ZHYzRTU1hOMEF4WmQ1OVNQQ3A5OGVXLVljNnRpUjJDTg?oc=5\" target=\"_blank\">CZ and Brian Armstrong Agree: AI Agents Are the Next Big Crypto Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclBfemdYczRUQktHU05nS2V5bVRmTFFGaUQ1UTZQVjJFbXhPaDRUSVpiRUh1a2ZCZzNiVGxKc2FpdHZsSHNiSUtuVUlmVWE1R2JWUlFJcUlkTFN0cTZSbm82VUxNNy14QjhoUEE5X3JOWU5rSGdvY1ZHYzRTU1hOMEF4WmQ1OVNQQ3A5OGVXLVljNnRpUjJDTg?oc=5",
+      "source": "CoinCentral",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-11T08:12:17+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "CZ and Brian Armstrong Agree: AI Agents Are the Next Big Crypto Trade CoinCentral"
+    },
     {
       "title": "Forbes: Changpeng Zhao's wealth surpasses Bill Gates, with his net worth rising to $110 billion.",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZRTRVTzNWV0NRTDAtOGU2OXZ0bzdZMVpqdHB0UTZoUGplcl85azUxckg0YTRrS1d2OWt6QmdyZUpmVmFpRXNR?oc=5\" target=\"_blank\">Forbes: Changpeng Zhao's wealth surpasses Bill Gates, with his net worth rising to $110 billion.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
