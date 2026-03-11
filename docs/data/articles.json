@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-11T14:40:32Z",
-  "total": 161,
+  "updated_at": "2026-03-11T15:35:36Z",
+  "total": 163,
   "by_ceo": {
-    "CZ": 27,
-    "Brian Armstrong": 83,
+    "CZ": 28,
+    "Brian Armstrong": 84,
     "Richard Teng": 25,
     "Ben Zhou": 19,
     "Star Xu": 7
   },
   "articles": [
+    {
+      "title": "Binance founder Changpeng Zhao net worth surpasses Bill Gates: Forbes",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNbV9BOVNBUWRHT0xIcFc4eUZxRXdoYUdBUjE2bGNQTUxUdWFGdmcwVlY1ai1pNzFUcy0tWUgxQW1DdmU2S2hKejJtTWFyT2pHMjVvREk1cEdSc1YtS3ZEQmhSR2hLdFhCekJXRk42Zk0xbzJySEtybERzMVNGY1h0YW40YW14YnM?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao net worth surpasses Bill Gates: Forbes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbV9BOVNBUWRHT0xIcFc4eUZxRXdoYUdBUjE2bGNQTUxUdWFGdmcwVlY1ai1pNzFUcy0tWUgxQW1DdmU2S2hKejJtTWFyT2pHMjVvREk1cEdSc1YtS3ZEQmhSR2hLdFhCekJXRk42Zk0xbzJySEtybERzMVNGY1h0YW40YW14YnM?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-11T15:11:00+00:00",
+      "tags": [],
+      "key_quote": "Binance founder Changpeng Zhao net worth surpasses Bill Gates: Forbes Yahoo Finance"
+    },
     {
       "title": "Binance founder Changpeng Zhao remains richest in crypto with $110B net worth, surpassing Bill Gates",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYVcybGJSUzl3djE5V1R5NmQ5Vm9KbzU4dko0T2dKWWpYWGVPWE44bzBRUFE4V3B6aVJEQ3h0eEpXVUVFaURTQkV4Tm9yZTI3bFNFUlFFVHdid3FpR1hQZEVBZ0VoeW4tajNzNVhtUG9wWHNHR1VwemEzY3BqNlNNRDZrdTczWFB3MHBZOE1laW9QcGxQc2pvNk8xRlljMHpJem9BN2dMbHJIOU04SlN1dGY4MHR2ejNqWTB4eEtiQXNyNFhXY1V1Y1lfbFZ1bTNEdDRfdWxlRHctT1ZaaEdOdGdva3NxelpMZDd0bFFYOWM?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao remains richest in crypto with $110B net worth, surpassing Bill Gates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VnExpress International</font>",
@@ -1563,6 +1574,17 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Pulls Support for Crypto Market-Structure Bill Bloomberg"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong: Propelling the Crypto Economy",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBBNmVwUmpxTmZQczVjVUVsNVFFSnVxSHFZWFNPYkpkY3lyX2R0OGhiRFV4bzREZkQzUXBPNWpOXzdwTHBramdWUHJBM0NFZjBYc052YTlJNHdMbnpkRkhHeVgwWlVRUndtZkowMVVXTDdzcmc?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong: Propelling the Crypto Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goldman Sachs</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBNmVwUmpxTmZQczVjVUVsNVFFSnVxSHFZWFNPYkpkY3lyX2R0OGhiRFV4bzREZkQzUXBPNWpOXzdwTHBramdWUHJBM0NFZjBYc052YTlJNHdMbnpkRkhHeVgwWlVRUndtZkowMVVXTDdzcmc?oc=5",
+      "source": "Goldman Sachs",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2025-12-23T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong: Propelling the Crypto Economy Goldman Sachs"
     },
     {
       "title": "Bybit CEO Highlights Compliance and Decentralized Innovation at Solana Breakpoint 2025",
