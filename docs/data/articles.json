@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-11T08:25:58Z",
-  "total": 152,
+  "updated_at": "2026-03-11T09:30:58Z",
+  "total": 155,
   "by_ceo": {
-    "Brian Armstrong": 80,
-    "CZ": 22,
+    "CZ": 23,
+    "Brian Armstrong": 81,
     "Richard Teng": 25,
-    "Ben Zhou": 18,
+    "Ben Zhou": 19,
     "Star Xu": 7
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao's (CZ) Net Worth Soars to $110B After Jail Stint — Now Richer Than Bill Gates",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9nOUxZWEFmaGozS09tLXlRYVZCOVFFZUQwMVlTZDdXUHlwLWItNzJKejlPcGNxN3hTX204Q2tjRmU5Y01vTF9TSlYzUmRFV0RDbXIzMF9mbU5nanl4Y19aQXY0eDY3YldubmRtZEpYOHEwVzV0UGoxODA3RHhEdw?oc=5\" target=\"_blank\">Changpeng Zhao's (CZ) Net Worth Soars to $110B After Jail Stint — Now Richer Than Bill Gates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nOUxZWEFmaGozS09tLXlRYVZCOVFFZUQwMVlTZDdXUHlwLWItNzJKejlPcGNxN3hTX204Q2tjRmU5Y01vTF9TSlYzUmRFV0RDbXIzMF9mbU5nanl4Y19aQXY0eDY3YldubmRtZEpYOHEwVzV0UGoxODA3RHhEdw?oc=5",
+      "source": "CCN.com",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-11T09:07:36+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao's (CZ) Net Worth Soars to $110B After Jail Stint — Now Richer Than Bill Gates CCN.com"
+    },
     {
       "title": "CZ and Brian Armstrong Agree: AI Agents Are the Next Big Crypto Trade",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNclBfemdYczRUQktHU05nS2V5bVRmTFFGaUQ1UTZQVjJFbXhPaDRUSVpiRUh1a2ZCZzNiVGxKc2FpdHZsSHNiSUtuVUlmVWE1R2JWUlFJcUlkTFN0cTZSbm82VUxNNy14QjhoUEE5X3JOWU5rSGdvY1ZHYzRTU1hOMEF4WmQ1OVNQQ3A5OGVXLVljNnRpUjJDTg?oc=5\" target=\"_blank\">CZ and Brian Armstrong Agree: AI Agents Are the Next Big Crypto Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
@@ -21,6 +32,19 @@
         "AI"
       ],
       "key_quote": "CZ and Brian Armstrong Agree: AI Agents Are the Next Big Crypto Trade CoinCentral"
+    },
+    {
+      "title": "Brian Armstrong reveals how AI agents will tame finance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkZHSDBtVmZ5cnlOd1lGSklnYUg5RXI3WmRYcExQRU9FYkNzb09VajI2N3FqZXJmZ0FXY2JRTWhLU0hRSml4NXVSc3pmbU5Tb08ycHJyUnJEc0FDSXRuRXNuNUxXTFJjcTVLb3N1VVB0SXM4ekZHWFpMRXdjczZCNk84NGsxNXp3X19uMElDaUt6eDdUNFZIemFHNkI?oc=5\" target=\"_blank\">Brian Armstrong reveals how AI agents will tame finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointribune</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkZHSDBtVmZ5cnlOd1lGSklnYUg5RXI3WmRYcExQRU9FYkNzb09VajI2N3FqZXJmZ0FXY2JRTWhLU0hRSml4NXVSc3pmbU5Tb08ycHJyUnJEc0FDSXRuRXNuNUxXTFJjcTVLb3N1VVB0SXM4ekZHWFpMRXdjczZCNk84NGsxNXp3X19uMElDaUt6eDdUNFZIemFHNkI?oc=5",
+      "source": "Cointribune",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-11T08:05:00+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Brian Armstrong reveals how AI agents will tame finance Cointribune"
     },
     {
       "title": "Forbes: Changpeng Zhao's wealth surpasses Bill Gates, with his net worth rising to $110 billion.",
@@ -1602,6 +1626,19 @@
         "Layer2"
       ],
       "key_quote": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals PR Newswire"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNdTdJUFdRckR2S2Q4NGFiWUx1WFljUC1EZWE1YlVkSU1QZ3RzMkxGdzNkMHpBVFhqN3VxeEJuZldtTWdHQVB0OVdGYWx2aWt6VkRiRjNLNmZCLXRLNGJzUGpWZkpwekdGVDc2OGU4aHRVUndxVDZNTGZYNDJVS18zSDNJd3ZRZjVkQUw2ank0dkNOY2h0X1JLWF9FWmdLSjBJU1B2TlBPVll6dDlDUW10LVZpaUhPZ1RPNUdlMmFlRVR2MmZ0UHVJN1hMSmVobXpubEV2ZWI3QUZwQkE3akwyQ3RadFMtWTdLMmZWUm80cy01S3d6cUdUN3JJWEd6Y1hEc1BwVmp5RVVRdktCcC0wRkZBamlsY0FtSng0T3VXakczZw?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdTdJUFdRckR2S2Q4NGFiWUx1WFljUC1EZWE1YlVkSU1QZ3RzMkxGdzNkMHpBVFhqN3VxeEJuZldtTWdHQVB0OVdGYWx2aWt6VkRiRjNLNmZCLXRLNGJzUGpWZkpwekdGVDc2OGU4aHRVUndxVDZNTGZYNDJVS18zSDNJd3ZRZjVkQUw2ank0dkNOY2h0X1JLWF9FWmdLSjBJU1B2TlBPVll6dDlDUW10LVZpaUhPZ1RPNUdlMmFlRVR2MmZ0UHVJN1hMSmVobXpubEV2ZWI3QUZwQkE3akwyQ3RadFMtWTdLMmZWUm80cy01S3d6cUdUN3JJWEd6Y1hEc1BwVmp5RVVRdktCcC0wRkZBamlsY0FtSng0T3VXakczZw?oc=5",
+      "source": "The Globe and Mail",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2025-12-08T08:00:00+00:00",
+      "tags": [
+        "机构 Institutional"
+      ],
+      "key_quote": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals The Globe and Mail"
     },
     {
       "title": "Binance appoints co-founder Yi He as new co-CEO alongside Richard Teng",
