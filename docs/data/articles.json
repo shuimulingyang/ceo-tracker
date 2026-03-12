@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-12T00:52:47Z",
-  "total": 173,
+  "updated_at": "2026-03-12T03:26:05Z",
+  "total": 175,
   "by_ceo": {
+    "CZ": 31,
     "Brian Armstrong": 91,
-    "CZ": 30,
     "Richard Teng": 25,
     "Ben Zhou": 20,
-    "Star Xu": 7
+    "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Bill Gates Behind Changpeng Zhao In Terms Of Wealth? Here's Why The Crypto Billionaire Calls The Estimate A 'Bit Illogical'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxNNGlxLUYweEpTQWE0TXBhdkl6LWpfZEhTbGhkcTM3RXRGcjJOWkZYNkdZZU83b0pJQWo3eVB5eFp5MVNoRV9nYzNIdDZGTnlucnVZRGx6MzY5enVDQk1SVjhxd2cxNkwwYkNaWm1LN08td3NfTG9mQUJiRGotWmR6X09FeTJTQm9CTk8zVlpkM3ExVEFJLW1fcHNzS3dLVl84Y2lWSTNZaS1CcUszeFBjY19WaWNrZjFwUzkxVHJyTlhNcTlwak9UZXMyaTdoeGtFWXFNem9mWEdIeUhBMm0yUmhNbzhyUnZWb1N3MkhlS1g5N09WQnBaa0UtTFE3TUpHQi1qSk83QU1PYUt0MlE?oc=5\" target=\"_blank\">Bill Gates Behind Changpeng Zhao In Terms Of Wealth? Here's Why The Crypto Billionaire Calls The Estimate A 'Bit Illogical'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNGlxLUYweEpTQWE0TXBhdkl6LWpfZEhTbGhkcTM3RXRGcjJOWkZYNkdZZU83b0pJQWo3eVB5eFp5MVNoRV9nYzNIdDZGTnlucnVZRGx6MzY5enVDQk1SVjhxd2cxNkwwYkNaWm1LN08td3NfTG9mQUJiRGotWmR6X09FeTJTQm9CTk8zVlpkM3ExVEFJLW1fcHNzS3dLVl84Y2lWSTNZaS1CcUszeFBjY19WaWNrZjFwUzkxVHJyTlhNcTlwak9UZXMyaTdoeGtFWXFNem9mWEdIeUhBMm0yUmhNbzhyUnZWb1N3MkhlS1g5N09WQnBaa0UtTFE3TUpHQi1qSk83QU1PYUt0MlE?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-12T03:12:46+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "Here's Why The Crypto Billionaire Calls The Estimate A 'Bit Illogical' Benzinga"
+    },
     {
       "title": "Why Jack Dorsey Is Calling Out Coinbase CEO Over Bitcoin Tax Breaks – And Lightning Network Proves It's Real",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRzNqMXNZelZkU0YxdzEwanlZaWxIaWctMUhwdElZY3YtWUdHZTkteWltamtHNGRSR09BRUZER3BYNXRjYmxFQmhSR2JlTldsNjJ6WVVtZ3J0QnFzaVZoMnFGWklhZUR0NG9BU1g1TWZsZmhNREtQSlFTZWxoWU51WUkwX3hVOVRHOThnWWtQWHJiVjlrV0JFNWw3cGRsNGZtRjlMaFN6cXdGbDVxU19HaThxTWYzdGctOW5VM3lXazViTGI0NTFvZDQ2WmE2Tm9oTTNCSkcwT2oyRldDd01wRA?oc=5\" target=\"_blank\">Why Jack Dorsey Is Calling Out Coinbase CEO Over Bitcoin Tax Breaks – And Lightning Network Proves It's Real</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Magazine</font>",
@@ -1852,6 +1865,17 @@
         "机构 Institutional"
       ],
       "key_quote": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals The Globe and Mail"
+    },
+    {
+      "title": "OKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZENHOWRURzUyWF9hUFB0a3Vic1hBOGs4VFliVzV5V2t1SWJpNjd2S0wybXFPMDVYS3RneWdFTG5GNzZHc19YQUVVN1RjblJrWkluQUZmWWd2SXM4bWozWndiS1JnTmdLaE9KM04wZXBzaFoyVDVUQkJvbndXbW1mMHpSc0pkemowUkpLbVN4VV9hTDM0UDhmTw?oc=5\" target=\"_blank\">OKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZENHOWRURzUyWF9hUFB0a3Vic1hBOGs4VFliVzV5V2t1SWJpNjd2S0wybXFPMDVYS3RneWdFTG5GNzZHc19YQUVVN1RjblJrWkluQUZmWWd2SXM4bWozWndiS1JnTmdLaE9KM04wZXBzaFoyVDVUQkJvbndXbW1mMHpSc0pkemowUkpLbVN4VV9hTDM0UDhmTw?oc=5",
+      "source": "Cryptonews",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2025-12-08T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "OKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain Cryptonews"
     },
     {
       "title": "Binance appoints co-founder Yi He as new co-CEO alongside Richard Teng",
