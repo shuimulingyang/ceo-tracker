@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-11T23:14:15Z",
-  "total": 171,
+  "updated_at": "2026-03-12T00:52:47Z",
+  "total": 173,
   "by_ceo": {
-    "Brian Armstrong": 89,
+    "Brian Armstrong": 91,
     "CZ": 30,
     "Richard Teng": 25,
     "Ben Zhou": 20,
     "Star Xu": 7
   },
   "articles": [
+    {
+      "title": "Why Jack Dorsey Is Calling Out Coinbase CEO Over Bitcoin Tax Breaks – And Lightning Network Proves It's Real",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRzNqMXNZelZkU0YxdzEwanlZaWxIaWctMUhwdElZY3YtWUdHZTkteWltamtHNGRSR09BRUZER3BYNXRjYmxFQmhSR2JlTldsNjJ6WVVtZ3J0QnFzaVZoMnFGWklhZUR0NG9BU1g1TWZsZmhNREtQSlFTZWxoWU51WUkwX3hVOVRHOThnWWtQWHJiVjlrV0JFNWw3cGRsNGZtRjlMaFN6cXdGbDVxU19HaThxTWYzdGctOW5VM3lXazViTGI0NTFvZDQ2WmE2Tm9oTTNCSkcwT2oyRldDd01wRA?oc=5\" target=\"_blank\">Why Jack Dorsey Is Calling Out Coinbase CEO Over Bitcoin Tax Breaks – And Lightning Network Proves It's Real</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Magazine</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRzNqMXNZelZkU0YxdzEwanlZaWxIaWctMUhwdElZY3YtWUdHZTkteWltamtHNGRSR09BRUZER3BYNXRjYmxFQmhSR2JlTldsNjJ6WVVtZ3J0QnFzaVZoMnFGWklhZUR0NG9BU1g1TWZsZmhNREtQSlFTZWxoWU51WUkwX3hVOVRHOThnWWtQWHJiVjlrV0JFNWw3cGRsNGZtRjlMaFN6cXdGbDVxU19HaThxTWYzdGctOW5VM3lXazViTGI0NTFvZDQ2WmE2Tm9oTTNCSkcwT2oyRldDd01wRA?oc=5",
+      "source": "Bitcoin Magazine",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-11T23:42:41+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Why Jack Dorsey Is Calling Out Coinbase CEO Over Bitcoin Tax Breaks – And Lightning Network Proves It's Real Bitcoin Magazine"
+    },
     {
       "title": "Brian Armstrong Says Crypto Enables Instant Global Payments",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE94RmRLWXZIVXNfWmFhYmQ1QTdiNS1OZTdTbG04S3pJLUluSGtBWHg3SW0yNjBvbVRzMGx6c0RNWWZ6OTZqdWlv?oc=5\" target=\"_blank\">Brian Armstrong Says Crypto Enables Instant Global Payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
@@ -87,6 +100,19 @@
       "published_at": "2026-03-11T10:54:05+00:00",
       "tags": [],
       "key_quote": "Binance founder Changpeng Zhao remains richest in crypto with $110B net worth, surpassing Bill Gates VnExpress International"
+    },
+    {
+      "title": "Only 1 Million Bitcoin Left: Coinbase CEO Calls BTC ‘Decentralized, Inflation-Proof Money’",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vVVI3VENqbFluUEx5c0dibXBwaFJKcDhSYm0wd3dycXJqOXk1cFlqX21McUNuRW9Wc1h3OU1aNEp4VW8xdzc4T28wNFFiSE1xRVhVWG5lLVc?oc=5\" target=\"_blank\">Only 1 Million Bitcoin Left: Coinbase CEO Calls BTC ‘Decentralized, Inflation-Proof Money’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vVVI3VENqbFluUEx5c0dibXBwaFJKcDhSYm0wd3dycXJqOXk1cFlqX21McUNuRW9Wc1h3OU1aNEp4VW8xdzc4T28wNFFiSE1xRVhVWG5lLVc?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-11T10:26:24+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Only 1 Million Bitcoin Left: Coinbase CEO Calls BTC ‘Decentralized, Inflation-Proof Money’ Cryptonews.net"
     },
     {
       "title": "Binance Founder Changpeng Zhao Questions Forbes Wealth Ranking After $47 Billion Surge",
