@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-12T19:33:18Z",
-  "total": 180,
+  "updated_at": "2026-03-12T20:20:50Z",
+  "total": 181,
   "by_ceo": {
+    "CZ": 32,
     "Brian Armstrong": 95,
-    "CZ": 31,
     "Richard Teng": 26,
     "Ben Zhou": 20,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Binance claims ‘full and complete legal victory‘ in Alabama court",
+      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance claims ‘full and complete legal victory‘ in Alabama court\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UyODEtNDM0OC03ODY5LTk5MzYtYzExY2E2ZjYzY2ZiLmpwZw==.jpg\" /></p><p>While a judge granted a motion by Changpeng Zhao, he also ordered the plaintiffs in the case against Binance to file a second complaint or face ”total or partial dismissal.”</p>",
+      "url": "https://cointelegraph.com/news/binance-legal-win-alabama-court-terrorism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-12T19:54:03+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "While a judge granted a motion by Changpeng Zhao, he also ordered the plaintiffs in the case against Binance to file a second complaint or face ”total or partial dismissal.”"
+    },
     {
       "title": "Brian Armstrong, Coinbase Deny Bitcoin Lobbying Claim",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNTVEVlZERGx5N1hHRm9uTHgtaW82ZE02Sll5MXBaSXRDbHU1M185bFVWYTNBX0VNUTA1WE5hNVJBeFI3QTNoc21PSjR2cEp6Y0hJV2pyOTdmTktOZ3dNTFFYX2toZUQzclVvOWZEc2xmbWdlR2gyWTVWMjJMSUh0dFIwMA?oc=5\" target=\"_blank\">Brian Armstrong, Coinbase Deny Bitcoin Lobbying Claim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
