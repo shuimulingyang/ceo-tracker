@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-13T20:19:53Z",
-  "total": 187,
+  "updated_at": "2026-03-13T21:22:20Z",
+  "total": 188,
   "by_ceo": {
     "Brian Armstrong": 100,
-    "CZ": 32,
+    "CZ": 33,
     "Richard Teng": 27,
     "Ben Zhou": 20,
     "Star Xu": 8
@@ -19,6 +19,19 @@
       "published_at": "2026-03-13T17:30:13+00:00",
       "tags": [],
       "key_quote": "Tokenization can address system unfairness, Brian Armstrong notes Traders Union"
+    },
+    {
+      "title": "Forbes Ranks CZ Binance Higher than Bill Gates on Billionaires Index , A Claim CZ Refuted as Inaccurate",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOVjczTG03Y2p2ZlBWcHFvQXhGenBKS2hYb19YVTRRR2FTVGd3eFJtelVKTEtjVTVSUklPalFPWTdWT1VSWDRCUHg5SmFYTXZ4eUdDckhUTzJOc29kSmpXMkhQRGxseFVUeGJVNU9wRmlkbVdocnZNSWMwZ09pb0EySGZMd1ZELWxkYXJpbHBTZzh0MjlBeFNZRVN0YUVzbm9BVHg0WHpUMFVfMWN4Ny16Rk1adTQ5ZlFQdHZZRWFiWGh5ZUxD?oc=5\" target=\"_blank\">Forbes Ranks CZ Binance Higher than Bill Gates on Billionaires Index , A Claim CZ Refuted as Inaccurate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tekedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVjczTG03Y2p2ZlBWcHFvQXhGenBKS2hYb19YVTRRR2FTVGd3eFJtelVKTEtjVTVSUklPalFPWTdWT1VSWDRCUHg5SmFYTXZ4eUdDckhUTzJOc29kSmpXMkhQRGxseFVUeGJVNU9wRmlkbVdocnZNSWMwZ09pb0EySGZMd1ZELWxkYXJpbHBTZzh0MjlBeFNZRVN0YUVzbm9BVHg0WHpUMFVfMWN4Ny16Rk1adTQ5ZlFQdHZZRWFiWGh5ZUxD?oc=5",
+      "source": "Tekedia",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-13T16:33:15+00:00",
+      "tags": [
+        "DeFi"
+      ],
+      "key_quote": "Forbes Ranks CZ Binance Higher than Bill Gates on Billionaires Index , A Claim CZ Refuted as Inaccurate Tekedia"
     },
     {
       "title": "AI to get its own bank account? Coinbase CEO says bots may soon pay with crypto",
