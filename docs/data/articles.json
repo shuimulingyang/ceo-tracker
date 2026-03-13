@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-13T15:31:26Z",
-  "total": 185,
+  "updated_at": "2026-03-13T16:23:55Z",
+  "total": 186,
   "by_ceo": {
-    "Brian Armstrong": 98,
+    "Brian Armstrong": 99,
     "CZ": 32,
     "Richard Teng": 27,
     "Ben Zhou": 20,
@@ -462,6 +462,19 @@
       "published_at": "2026-03-10T08:03:45+00:00",
       "tags": [],
       "key_quote": "AI agents may drive the next crypto payment boom: Coinbase CEO AMBCrypto"
+    },
+    {
+      "title": "Brian Armstrong Says Mining Next 1 Million Bitcoin Will Take Over 100 Years, Coinbase CEO Hails BTC As 'Decentralized, Inflation-Proof'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPdlNJVGl4b3N1bTROaGJiUUxSUUR4eWZQSzRRYmtxeUVuYThPT2dVSndBMkluUEFuZDdmem5YWmR3ZzUyV0Nuem5Gal9sbnZwVWNQeHZfOHdhOVczblZuUS0tRGVUUndISjlrb01YaUQ4cDZNeGFXU2pZZkJ4a3R4R3A5d1Q1T1dDdW1Wa00zRlprdzJRSXM0Q1ZNR2pyc25mYjU5THdIbXNjWklMc2Q3YXZHa0E0V2VyZEtlSDlPOV9PaHJXY1A0MFJWWjU4OGkxaVJMRVh4TnU5bkhRLU5RQlctWi1KVVRtZ3ozdURUaU1OaE53Yjc1aFZwWUVWa0dpY055Wm5PamRBRGF1dk95aQ?oc=5\" target=\"_blank\">Brian Armstrong Says Mining Next 1 Million Bitcoin Will Take Over 100 Years, Coinbase CEO Hails BTC As 'Decentralized, Inflation-Proof'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdlNJVGl4b3N1bTROaGJiUUxSUUR4eWZQSzRRYmtxeUVuYThPT2dVSndBMkluUEFuZDdmem5YWmR3ZzUyV0Nuem5Gal9sbnZwVWNQeHZfOHdhOVczblZuUS0tRGVUUndISjlrb01YaUQ4cDZNeGFXU2pZZkJ4a3R4R3A5d1Q1T1dDdW1Wa00zRlprdzJRSXM0Q1ZNR2pyc25mYjU5THdIbXNjWklMc2Q3YXZHa0E0V2VyZEtlSDlPOV9PaHJXY1A0MFJWWjU4OGkxaVJMRVh4TnU5bkhRLU5RQlctWi1KVVRtZ3ozdURUaU1OaE53Yjc1aFZwWUVWa0dpY055Wm5PamRBRGF1dk95aQ?oc=5",
+      "source": "Sahm",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-10T07:00:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Brian Armstrong Says Mining Next 1 Million Bitcoin Will Take Over 100 Years, Coinbase CEO Hails BTC As 'Decentralized, Inflation-Proof' Sahm"
     },
     {
       "title": "Coinbase CEO Says The Next Crypto Explosion May Be Driven by AI Agents, Not Traders",
