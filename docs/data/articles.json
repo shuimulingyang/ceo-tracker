@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-13T18:24:57Z",
-  "total": 186,
+  "updated_at": "2026-03-13T19:23:00Z",
+  "total": 187,
   "by_ceo": {
-    "Brian Armstrong": 99,
+    "Brian Armstrong": 100,
     "CZ": 32,
     "Richard Teng": 27,
     "Ben Zhou": 20,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Tokenization can address system unfairness, Brian Armstrong notes",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZWYtTTRrZ3JLb1E2Zml5NDJRVHRtdTlfOHRCbmhqTTEtWUVHZXBjV1ZpUk5FeWR3dE1SWnpXUVBuMG45ZTJmS0FhdzZxb282blY3VzZGT29iRFNkS0hheWNXOXowazB6aWJpUHRCT2NwY2ZRVGI1Tm53WmVnUUMwTXgyNWZUZlZMX3ZnUEdMa1VfTjQ?oc=5\" target=\"_blank\">Tokenization can address system unfairness, Brian Armstrong notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZWYtTTRrZ3JLb1E2Zml5NDJRVHRtdTlfOHRCbmhqTTEtWUVHZXBjV1ZpUk5FeWR3dE1SWnpXUVBuMG45ZTJmS0FhdzZxb282blY3VzZGT29iRFNkS0hheWNXOXowazB6aWJpUHRCT2NwY2ZRVGI1Tm53WmVnUUMwTXgyNWZUZlZMX3ZnUEdMa1VfTjQ?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-13T17:30:13+00:00",
+      "tags": [],
+      "key_quote": "Tokenization can address system unfairness, Brian Armstrong notes Traders Union"
+    },
     {
       "title": "AI to get its own bank account? Coinbase CEO says bots may soon pay with crypto",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcllmYlV3S0JoekFmZkVKUkcwNUNlcWVYOXRMQm9FWkpWSnlCWFRiNXllY0VWM3VUQWRVNjUwOWw5Z2VraVZuNG4tRUg0azBqWm9qLW5YbkFGX3NsZ3lVMmdFcXJoY0dsak9sbFZuZzVSMnhlV3hDRFptU1B3d1ZLb1FxUDdLNDBhQmhSRkxXVEI4dzVVd1BmbC1qTlgzMTBUc29waXU5azlvYmpOTTNrcUxGdk5fdmRrRVNkaTFwTzNGclpUNXdHTVFoQUpMUQ?oc=5\" target=\"_blank\">AI to get its own bank account? Coinbase CEO says bots may soon pay with crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
