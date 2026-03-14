@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-14T10:15:30Z",
-  "total": 192,
+  "updated_at": "2026-03-14T11:13:31Z",
+  "total": 194,
   "by_ceo": {
+    "Brian Armstrong": 102,
     "CZ": 35,
     "Ben Zhou": 21,
-    "Brian Armstrong": 100,
     "Richard Teng": 28,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Drives Global Investment Access With Tokenization",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0ZRNzBJU0lZVl9BREM0MGMyb2RZQ1N4OV8zUmpRRVJoRTVyb0FYejRqMHdLYWxnWFVjZlFBR1QzZmF4TS1oSUtZWFI1dW9zWEQyNGw2cEgzaUw0Nmg0c01YVC00QnZiR3VFUUZQRm1RRjViZWg4VHpyVWxLS3ltLUVsUnJBM1A3cXd3enJSLW8?oc=5\" target=\"_blank\">Coinbase CEO Drives Global Investment Access With Tokenization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinfomania</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0ZRNzBJU0lZVl9BREM0MGMyb2RZQ1N4OV8zUmpRRVJoRTVyb0FYejRqMHdLYWxnWFVjZlFBR1QzZmF4TS1oSUtZWFI1dW9zWEQyNGw2cEgzaUw0Nmg0c01YVC00QnZiR3VFUUZQRm1RRjViZWg4VHpyVWxLS3ltLUVsUnJBM1A3cXd3enJSLW8?oc=5",
+      "source": "Coinfomania",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-14T10:33:58+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Drives Global Investment Access With Tokenization Coinfomania"
+    },
     {
       "title": "Richer than Bill Gates: How Changpeng Zhao rose on the Forbes billionaires list",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVJDLTNTWl9hN25FRmNqTkRkenp1VU5SdGlIY3Brcl85WE5sSzFJTlVpTVV4OGJGaG80endjeVV5QjJqN2tYZlU1M1NDcmEtN2JKSjlRMDV2QmlhOUlacGVNcnhtRzdLVDNOOTVUdHVlMjFURUhseHVpcEs3R1Zhb1pzLVhORlJmR2RwUmVTR3NxQUF3Sjd3bGljYkJPbXhBNXc?oc=5\" target=\"_blank\">Richer than Bill Gates: How Changpeng Zhao rose on the Forbes billionaires list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
@@ -172,6 +183,19 @@
         "Web3"
       ],
       "key_quote": "Here's Why The Crypto Billionaire Calls The Estimate A 'Bit Illogical' Benzinga"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong 'more bullish than ever' as company navigates latest crypto downturn",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiARBVV95cUxPSWFhZ0tQaUpvb0JJTzhhWUV5elIwUlJBZWpaX2dVQnp6NGJFalc0cmZLajc0SkItQy1OTzdBTU9hbjdmTzY0NTJYT2dyZ2hKYko0RTBfNlZGWGdnRkpwbzNOUEdScXBKZDE5U3RRbTJyTUVmQk8tR3hXVXhlZy1WYi1VREI5Tm52d09uTGlzbVFDOWxaX05GUGNhYTVfRGdEdG4tTnpjenVtQUhCWXdRSi00N2ZMdUdwUDFnMlBBNFU5Tm13bFNxaXZoTGtrNnlTcFRGdFl1MFZFOW1UUlhGel9lQVZOUEZxbUg3T0c5Tl9reTZVZW1Vb2FNNXVjNU1PUkdUeFN3QTlFREhFVTNHeGNXVmltaUtVSXo1VGNvc1llOThVd1ROUFlaY21RV1AwT2Q2NnVhZjZ3ZFNCWEhVR0pwWkh6UnZsWW9yQzNDYmlURHFHUUtvTW4wSWxURlRxNFJNRjhPZnBwTG1CZjdiSTU5aE1FTEZsaTBGcG0xNnVhV1Qxam9BNG9JSzMtRk1naExNR0pCT29LeHM4Q2lZcG4zRV84b3U1WFJGemxhSEdVejA4WU1uN3lodmJ4TDFKNTRINHpaaTVnWkNhaVhCeFNZZURaenJpeVZlS3QxblNiVHhZUXNlWEFIUFd5b181SHlCQWpkeWZOZ2ZvOGpQQmtzbmdWX1Na?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong 'more bullish than ever' as company navigates latest crypto downturn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPSWFhZ0tQaUpvb0JJTzhhWUV5elIwUlJBZWpaX2dVQnp6NGJFalc0cmZLajc0SkItQy1OTzdBTU9hbjdmTzY0NTJYT2dyZ2hKYko0RTBfNlZGWGdnRkpwbzNOUEdScXBKZDE5U3RRbTJyTUVmQk8tR3hXVXhlZy1WYi1VREI5Tm52d09uTGlzbVFDOWxaX05GUGNhYTVfRGdEdG4tTnpjenVtQUhCWXdRSi00N2ZMdUdwUDFnMlBBNFU5Tm13bFNxaXZoTGtrNnlTcFRGdFl1MFZFOW1UUlhGel9lQVZOUEZxbUg3T0c5Tl9reTZVZW1Vb2FNNXVjNU1PUkdUeFN3QTlFREhFVTNHeGNXVmltaUtVSXo1VGNvc1llOThVd1ROUFlaY21RV1AwT2Q2NnVhZjZ3ZFNCWEhVR0pwWkh6UnZsWW9yQzNDYmlURHFHUUtvTW4wSWxURlRxNFJNRjhPZnBwTG1CZjdiSTU5aE1FTEZsaTBGcG0xNnVhV1Qxam9BNG9JSzMtRk1naExNR0pCT29LeHM4Q2lZcG4zRV84b3U1WFJGemxhSEdVejA4WU1uN3lodmJ4TDFKNTRINHpaaTVnWkNhaVhCeFNZZURaenJpeVZlS3QxblNiVHhZUXNlWEFIUFd5b181SHlCQWpkeWZOZ2ZvOGpQQmtzbmdWX1Na?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-12T01:17:00+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong 'more bullish than ever' as company navigates latest crypto downturn AOL.com"
     },
     {
       "title": "Why Jack Dorsey Is Calling Out Coinbase CEO Over Bitcoin Tax Breaks – And Lightning Network Proves It's Real",
