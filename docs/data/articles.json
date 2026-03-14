@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-14T09:21:03Z",
-  "total": 191,
+  "updated_at": "2026-03-14T10:15:30Z",
+  "total": 192,
   "by_ceo": {
     "CZ": 35,
+    "Ben Zhou": 21,
     "Brian Armstrong": 100,
     "Richard Teng": 28,
-    "Ben Zhou": 20,
     "Star Xu": 8
   },
   "articles": [
@@ -30,6 +30,20 @@
       "published_at": "2026-03-14T01:30:00+00:00",
       "tags": [],
       "key_quote": "Here's Why The Crypto Billionaire Calls The Estimate A 'Bit Illogical' (UPDATED) Yahoo Finance"
+    },
+    {
+      "title": "Stolen Bitcoin Worth $16 Million Laundered Through Wasabi Mixer, Says Bybit CEO",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUml5YlllbU1fLWxYbE9ENmg5SjdWTFBhS3A5NkZDR0Y0LUp1dmd1dkpCOHlBcnowejJZWVRlLUZlMVFrVk5YajdzY0s0bmhVS3BlR1NhZ3ExU295RG4yb1VRVHVyaS1wNUwtamp4R2JMbGF5TGVmaDduRzRtREdmeUkzS1ZfVU9HLU8yX1RPV1FGeDNzc1JiZWFyS25CbmZSbkdhZm9lcWxaR2tfYlJ0QlRKeFMzazdNSk0tSGtON3NzOGM?oc=5\" target=\"_blank\">Stolen Bitcoin Worth $16 Million Laundered Through Wasabi Mixer, Says Bybit CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinMarketCap</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUml5YlllbU1fLWxYbE9ENmg5SjdWTFBhS3A5NkZDR0Y0LUp1dmd1dkpCOHlBcnowejJZWVRlLUZlMVFrVk5YajdzY0s0bmhVS3BlR1NhZ3ExU295RG4yb1VRVHVyaS1wNUwtamp4R2JMbGF5TGVmaDduRzRtREdmeUkzS1ZfVU9HLU8yX1RPV1FGeDNzc1JiZWFyS25CbmZSbkdhZm9lcWxaR2tfYlJ0QlRKeFMzazdNSk0tSGtON3NzOGM?oc=5",
+      "source": "CoinMarketCap",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-03-13T21:59:57+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Stolen Bitcoin Worth $16 Million Laundered Through Wasabi Mixer, Says Bybit CEO CoinMarketCap"
     },
     {
       "title": "Tokenization can address system unfairness, Brian Armstrong notes",
