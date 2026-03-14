@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-14T22:12:57Z",
-  "total": 194,
+  "updated_at": "2026-03-14T23:15:44Z",
+  "total": 195,
   "by_ceo": {
     "Brian Armstrong": 102,
     "CZ": 35,
     "Ben Zhou": 21,
-    "Richard Teng": 28,
+    "Richard Teng": 29,
     "Star Xu": 8
   },
   "articles": [
@@ -1933,6 +1933,17 @@
       "published_at": "2025-12-23T08:00:00+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong: Propelling the Crypto Economy Goldman Sachs"
+    },
+    {
+      "title": "How Richard Teng Is Positioning Binance For The Next Crypto Boom",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmFVdGFxYXNiSjlRRk8wTkVlTkZxekVtMmtGVWpDTHVKeGZwQmxKZ1BVZG1LVGtnT0xMUDNybkxVcU1pajU3WTNad21OZGhGYkNNVlNtR3FnUUp1MUx3ckdqTzF3LXozdjNXbXM3cE1zTHUtM3UtRUlLaFFXd0xveVI3dEVhQ3JIem95LTNNNDRDQmJ4elJSTVZRb2t6cmJqZGtGVUNMd2RVbW95dllRSEo4ZXUzc3R3U1Y3SGNfQklvTGVTYXhDMTBTZHFSNmZpT2p5WVV3?oc=5\" target=\"_blank\">How Richard Teng Is Positioning Binance For The Next Crypto Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmFVdGFxYXNiSjlRRk8wTkVlTkZxekVtMmtGVWpDTHVKeGZwQmxKZ1BVZG1LVGtnT0xMUDNybkxVcU1pajU3WTNad21OZGhGYkNNVlNtR3FnUUp1MUx3ckdqTzF3LXozdjNXbXM3cE1zTHUtM3UtRUlLaFFXd0xveVI3dEVhQ3JIem95LTNNNDRDQmJ4elJSTVZRb2t6cmJqZGtGVUNMd2RVbW95dllRSEo4ZXUzc3R3U1Y3SGNfQklvTGVTYXhDMTBTZHFSNmZpT2p5WVV3?oc=5",
+      "source": "Forbes",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2025-12-21T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "How Richard Teng Is Positioning Binance For The Next Crypto Boom Forbes"
     },
     {
       "title": "Bybit CEO Highlights Compliance and Decentralized Innovation at Solana Breakpoint 2025",
