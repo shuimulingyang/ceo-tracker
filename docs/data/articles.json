@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-15T16:16:47Z",
-  "total": 199,
+  "updated_at": "2026-03-15T17:16:27Z",
+  "total": 200,
   "by_ceo": {
-    "Brian Armstrong": 104,
+    "Brian Armstrong": 105,
     "CZ": 35,
     "Ben Zhou": 23,
     "Richard Teng": 29,
@@ -55,6 +55,19 @@
         "市场 Market"
       ],
       "key_quote": "Stolen Bitcoin Worth $16 Million Laundered Through Wasabi Mixer, Says Bybit CEO CoinMarketCap"
+    },
+    {
+      "title": "Coinbase CEO Denies Claims of Lobbying Against Bitcoin De Minimis Tax Exemption",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT0dLbzEwOWhqdjBCbFV1WU9lUjU3Q0wwQUx2OWIwYUgtMmlhRF9BbmJfZjdpeVNhUTIwYVRqUDVTOFdndFBoMlotWWFWeE5BbUJxU1RpczRzWENRVWR2UWxxWmZfRGJUT0JPSGJjRkRycml3SV9tb3FvTFFxY08zUU1NNnJJTXpUeTg0UEFtWndEN1pYTV9HWjZoOTctUnRiQWRjT2xKaEdsSm50TFNVOWFuTmt0Z3ZS?oc=5\" target=\"_blank\">Coinbase CEO Denies Claims of Lobbying Against Bitcoin De Minimis Tax Exemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT0dLbzEwOWhqdjBCbFV1WU9lUjU3Q0wwQUx2OWIwYUgtMmlhRF9BbmJfZjdpeVNhUTIwYVRqUDVTOFdndFBoMlotWWFWeE5BbUJxU1RpczRzWENRVWR2UWxxWmZfRGJUT0JPSGJjRkRycml3SV9tb3FvTFFxY08zUU1NNnJJTXpUeTg0UEFtWndEN1pYTV9HWjZoOTctUnRiQWRjT2xKaEdsSm50TFNVOWFuTmt0Z3ZS?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-13T17:50:34+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Denies Claims of Lobbying Against Bitcoin De Minimis Tax Exemption CryptoRank"
     },
     {
       "title": "Tokenization can address system unfairness, Brian Armstrong notes",
