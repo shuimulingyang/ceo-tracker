@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-15T09:22:01Z",
-  "total": 197,
+  "updated_at": "2026-03-15T10:16:59Z",
+  "total": 198,
   "by_ceo": {
-    "Brian Armstrong": 102,
+    "Brian Armstrong": 103,
     "CZ": 35,
     "Ben Zhou": 23,
     "Richard Teng": 29,
@@ -1868,6 +1868,19 @@
       "published_at": "2026-01-16T08:00:00+00:00",
       "tags": [],
       "key_quote": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance TradingView"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5vdDNidUJESWFMeG9fZlNSTElpZmR0cE5weWtVWjM1SXVIeEs3YTdDa0c3bER2eERjc1ZwNDhUTUJJemRJY2J3MFV0RkMxRTlDRXhQTUhZQTdEa0wtTWk5STlSMWdYcUdwVzRpaXdQcEdqQmFL?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Magazine</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vdDNidUJESWFMeG9fZlNSTElpZmR0cE5weWtVWjM1SXVIeEs3YTdDa0c3bER2eERjc1ZwNDhUTUJJemRJY2J3MFV0RkMxRTlDRXhQTUhZQTdEa0wtTWk5STlSMWdYcUdwVzRpaXdQcEdqQmFL?oc=5",
+      "source": "Bitcoin Magazine",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-01-16T08:00:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda Bitcoin Magazine"
     },
     {
       "title": "US Senate committee delays crypto bill after opposition from Coinbase CEO",
