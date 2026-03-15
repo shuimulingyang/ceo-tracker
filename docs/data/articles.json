@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-15T13:38:29Z",
-  "total": 198,
+  "updated_at": "2026-03-15T14:19:13Z",
+  "total": 199,
   "by_ceo": {
-    "Brian Armstrong": 103,
+    "Brian Armstrong": 104,
     "CZ": 35,
     "Ben Zhou": 23,
     "Richard Teng": 29,
@@ -2290,6 +2290,19 @@
       "published_at": "2025-10-23T07:00:00+00:00",
       "tags": [],
       "key_quote": "Trump pardons convicted Binance founder Changpeng Zhao CNBC"
+    },
+    {
+      "title": "Coinbase CEO on crypto market structure bill: There's strong bipartisan support",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmszR0NBSEpTamZlQnhDTWRHYTFpeUpfYUxJU0xiaXJ5akQ1ZGdRay1tSWJaRWp5SEMwNFFRclctMlRYUkttTTRXYVJuT3FQcGdfZkFYcmV1d055TjlpY0dGQTlkTGFYRjNHbG9wVDZEMzN4dDhSVjVCN0dmaGtmSG1ody1uaS0tQ0VnYk9zTjhUU0lCYXMyRDBzcUpXSmZOUjc4YnBkcVkwTXl0YVBmTktuS09sSmQ5RkU2Qw?oc=5\" target=\"_blank\">Coinbase CEO on crypto market structure bill: There's strong bipartisan support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmszR0NBSEpTamZlQnhDTWRHYTFpeUpfYUxJU0xiaXJ5akQ1ZGdRay1tSWJaRWp5SEMwNFFRclctMlRYUkttTTRXYVJuT3FQcGdfZkFYcmV1d055TjlpY0dGQTlkTGFYRjNHbG9wVDZEMzN4dDhSVjVCN0dmaGtmSG1ody1uaS0tQ0VnYk9zTjhUU0lCYXMyRDBzcUpXSmZOUjc4YnBkcVkwTXl0YVBmTktuS09sSmQ5RkU2Qw?oc=5",
+      "source": "CNBC",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2025-10-22T07:00:00+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO on crypto market structure bill: There's strong bipartisan support CNBC"
     },
     {
       "title": "OKX CEO Star Xu Slams Huione Group After $15B DOJ Crackdown",
