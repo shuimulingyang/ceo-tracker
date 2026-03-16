@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-16T20:24:34Z",
-  "total": 208,
+  "updated_at": "2026-03-16T21:27:24Z",
+  "total": 210,
   "by_ceo": {
-    "CZ": 36,
+    "Brian Armstrong": 109,
+    "CZ": 37,
     "Richard Teng": 32,
-    "Brian Armstrong": 108,
     "Ben Zhou": 24,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Argues Crypto, Tokenization Ensure 'Level Playing Field' In Wealth Creation: 'Equality Of Opportunity' Worth Pursuing",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNVo0dXp3QnJoZmU5S2tCeFNKSEUtNDc3TFF5eFR4WFNsMWNkNVIzeFliMFJUVXZZLWxyanBQNDFHNEo4RVF0dUVhWERiN3l3VGp5WkJFNGdKc1FTSDFSZ2x6emtFNk8wNllTbkVvMVNDRGhZU1BGbFdRVGY4emFsTldpaDc?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Argues Crypto, Tokenization Ensure 'Level Playing Field' In Wealth Creation: 'Equality Of Opportunity' Worth Pursuing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNVo0dXp3QnJoZmU5S2tCeFNKSEUtNDc3TFF5eFR4WFNsMWNkNVIzeFliMFJUVXZZLWxyanBQNDFHNEo4RVF0dUVhWERiN3l3VGp5WkJFNGdKc1FTSDFSZ2x6emtFNk8wNllTbkVvMVNDRGhZU1BGbFdRVGY4emFsTldpaDc?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-16T19:57:52+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Argues Crypto, Tokenization Ensure 'Level Playing Field' In Wealth Creation: 'Equality Of Opportunity' Worth Pursuing AOL.com"
+    },
     {
       "title": "SPEAKER ALERT: Binance Founder Changpeng Zhao Live Interview at DC Blockchain Summit",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaW4wZHY2ZlRXZml5UDQwZ2tWR3M3WWd5eDNPVzN0dDQyZDdhMFNCSWFrRmxjc2hBM2pvc3FvZGxLemVJQjhxcEZGUk91S1lPS3U3VlhWWmlITXR6dUZlczBvWGIzcXlzTjY1OTVhMG1MTENFTXFmSXNpa0RmMVR4RjV1V3lWQ0dKNEY5ZlctdEhMb3A1UEhZVllncWM2c2ZBNUc1c3VzSHh4NDAyTGNQVUxzVVBMd1VkYTUyck1xaHEzSE5ISjk4bVN4QjRxOFZGcGRQeUY5bEVuSV93ODM0N3p6ek95UjU5VEVweDFR0gHzAUFVX3lxTFBuU1k0ZWp4Y0VIZ2tZcXd5dTN6Mk80a3lwV1NpWEhXNEZwOFVZS2lzWFlNR0dLWWxnQXB4TEpyWXc3OGFJZ1piRVNSbFJYMGRJLWdxMS02WTVOSUY1c19LckUwT01mRUJaY09rbE9oU0l5ZnR6eGdlWHJMV0hKMjJweDdRYTd3bFlWeDBRbGYyTE1tbkQ5c1g0RUg3LTR0NlFUNURzZndZVHJQVDZrNGNhc1JmbGxXakdhZ3Bqbm5maFhCRTBmM1VwQ2JWTFNfTUtVYjJ1NTNWR2hHT0pYdmt6WmxTWTRPcFZQTUZDdlo5SEU0QQ?oc=5\" target=\"_blank\">SPEAKER ALERT: Binance Founder Changpeng Zhao Live Interview at DC Blockchain Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
@@ -2402,6 +2413,17 @@
       "published_at": "2025-10-23T07:00:00+00:00",
       "tags": [],
       "key_quote": "Trump pardons convicted Binance founder Changpeng Zhao CNBC"
+    },
+    {
+      "title": "Trump pardons crypto billionaire Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPQVR4SkVPZ0VlS2JhWlcyRjBwNHFIeVhzX3RZaFdGbHNiRWxhc1duODgtWWlPdXlCUC1oWnRjT0VQdTRWTlZWSUdDQ3FTR3hrQjlPb3ZIbGlNd1MwU2Q4SEhYWXZldHFiOXJUTTQ1Q1YzTGZJbDFNdjhPV3RULVN1LUczcFlhU1VLUjlUYUt4ZzZPeWF0SFV2ajJpVy1XZw?oc=5\" target=\"_blank\">Trump pardons crypto billionaire Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVR4SkVPZ0VlS2JhWlcyRjBwNHFIeVhzX3RZaFdGbHNiRWxhc1duODgtWWlPdXlCUC1oWnRjT0VQdTRWTlZWSUdDQ3FTR3hrQjlPb3ZIbGlNd1MwU2Q4SEhYWXZldHFiOXJUTTQ1Q1YzTGZJbDFNdjhPV3RULVN1LUczcFlhU1VLUjlUYUt4ZzZPeWF0SFV2ajJpVy1XZw?oc=5",
+      "source": "Politico",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2025-10-23T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Trump pardons crypto billionaire Changpeng Zhao Politico"
     },
     {
       "title": "Coinbase CEO on crypto market structure bill: There's strong bipartisan support",
