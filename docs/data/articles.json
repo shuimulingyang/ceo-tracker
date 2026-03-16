@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-16T08:00:00Z",
-  "total": 204,
+  "updated_at": "2026-03-16T08:57:47Z",
+  "total": 205,
   "by_ceo": {
-    "Richard Teng": 30,
+    "Richard Teng": 31,
     "Brian Armstrong": 107,
     "CZ": 35,
     "Ben Zhou": 24,
@@ -1862,6 +1862,19 @@
       "published_at": "2026-01-22T08:00:00+00:00",
       "tags": [],
       "key_quote": "TradFi firms are increasingly warming to cryptocurrencies, says Bybit CEO Ben Zhou Fortune"
+    },
+    {
+      "title": "As crypto markets touch a $4 trillion market cap, Richard Teng says India now ranks #1 in blockchain adoption, with skeptics beginning to change their stance. He adds that the industry will continue to support users in India while working closely with policymak",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdzhKWjZ6ajVRaEVwLTBadlQzUUFKMjBkV2RwSEJmNk0tQXRXSzZnMUJyUjI5ZEpwNGNhN18wLWdmZEV2dXJGWGZyV3FPUjJvRy1HNHBJRmF2ZUc4ZlVEUzRTSkNkWUJ3TWtpWjZiZWlnQ3RsNV9mbG5zVTdna2JwUDUzU2l3QTVPUVBmd0g0cHZDNUNJa29vU0l4TXdXNDRFc3c?oc=5\" target=\"_blank\">As crypto markets touch a $4 trillion market cap, Richard Teng says India now ranks #1 in blockchain adoption, with skeptics beginning to change their stance. He adds that the industry will continue to support users in India while working closely with policymak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdzhKWjZ6ajVRaEVwLTBadlQzUUFKMjBkV2RwSEJmNk0tQXRXSzZnMUJyUjI5ZEpwNGNhN18wLWdmZEV2dXJGWGZyV3FPUjJvRy1HNHBJRmF2ZUc4ZlVEUzRTSkNkWUJ3TWtpWjZiZWlnQ3RsNV9mbG5zVTdna2JwUDUzU2l3QTVPUVBmd0g0cHZDNUNJa29vU0l4TXdXNDRFc3c?oc=5",
+      "source": "LinkedIn",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-01-20T08:00:00+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "As crypto markets touch a $4 trillion market cap, Richard Teng says India now ranks #1 in blockchain adoption, with skeptics beginning to change their stance."
     },
     {
       "title": "Coinbase CEO Brian Armstrong to work on market structure bill in Davos",
