@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-15T23:16:40Z",
-  "total": 200,
+  "updated_at": "2026-03-16T01:07:46Z",
+  "total": 202,
   "by_ceo": {
-    "Brian Armstrong": 105,
+    "Brian Armstrong": 106,
     "CZ": 35,
-    "Ben Zhou": 23,
+    "Ben Zhou": 24,
     "Richard Teng": 29,
     "Star Xu": 8
   },
@@ -1520,6 +1520,17 @@
       "key_quote": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance Sharecast.com"
     },
     {
+      "title": "Bybit CEO Ben Year-End Keynote: 1010 Review and 2026 Roadmap",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE54ZzVFZ0J0WHYtRDdSdkpWNHNFOUEtSlhDcklqVS02UnlreGI4bzk3S252NE00d01ZeVVtZFYzb09CNmVrLXg5R0xTamxBbi1zVFl5dG5FdDFaam1pTkl1Vk9wVnlpVHM2NEt4Qk5uODk5Nlll?oc=5\" target=\"_blank\">Bybit CEO Ben Year-End Keynote: 1010 Review and 2026 Roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wu Blockchain</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54ZzVFZ0J0WHYtRDdSdkpWNHNFOUEtSlhDcklqVS02UnlreGI4bzk3S252NE00d01ZeVVtZFYzb09CNmVrLXg5R0xTamxBbi1zVFl5dG5FdDFaam1pTkl1Vk9wVnlpVHM2NEt4Qk5uODk5Nlll?oc=5",
+      "source": "Wu Blockchain",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-02-19T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO Ben Year-End Keynote: 1010 Review and 2026 Roadmap Wu Blockchain"
+    },
+    {
       "title": "Brian Armstrong Reveals Retail Users 'Buying The Dip' In Bitcoin, Ethereum: Coinbase CEO Says, 'They Have Diamond Hands'",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPRGRKMXhSa2ZDZGZVbXRVZGpiYXNrOHpWc2FxWVpnSUMwVmtObExFdTlrSktGd0p1WlZaX1g4b3JacW9rRnVtMnpPM0tpSFIxRmJGS1cyX2ljLV9zLWxHc05qeXc3UUNBOU9PSDY4aTFMT040b3REODFGem9ULXM5SWtrSDROTzdZd0E?oc=5\" target=\"_blank\">Brian Armstrong Reveals Retail Users 'Buying The Dip' In Bitcoin, Ethereum: Coinbase CEO Says, 'They Have Diamond Hands'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRGRKMXhSa2ZDZGZVbXRVZGpiYXNrOHpWc2FxWVpnSUMwVmtObExFdTlrSktGd0p1WlZaX1g4b3JacW9rRnVtMnpPM0tpSFIxRmJGS1cyX2ljLV9zLWxHc05qeXc3UUNBOU9PSDY4aTFMT040b3REODFGem9ULXM5SWtrSDROTzdZd0E?oc=5",
@@ -1957,6 +1968,19 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Pulls Support for Crypto Market-Structure Bill Bloomberg"
+    },
+    {
+      "title": "Coinbase CEO Pulls Support for Senate Crypto Bill Over Tokenized Equities Ban",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUMyMGpMYk5WNGlVLXdpUVg5QkdwQVBvUDNtUUlURlVMWU16a2EwOXBNWHJPOTZoc3o3bThUNFRQSTkzSlRKSXJBODBtTmNpZWJ1TXB0ZzgtcUpIWVFYSUt0aERCX3h3dXdTaUxiOWdBSml2RFh2YVlVTUx0aWRfeE1VLV91YTFnMXBWOG92Q2p5aVJGR1JUbkowdzZoZWlMQ3QwZWRrMklhcmwyY0lqWkJtX2I4T3BrS1E4dUlB?oc=5\" target=\"_blank\">Coinbase CEO Pulls Support for Senate Crypto Bill Over Tokenized Equities Ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUMyMGpMYk5WNGlVLXdpUVg5QkdwQVBvUDNtUUlURlVMWU16a2EwOXBNWHJPOTZoc3o3bThUNFRQSTkzSlRKSXJBODBtTmNpZWJ1TXB0ZzgtcUpIWVFYSUt0aERCX3h3dXdTaUxiOWdBSml2RFh2YVlVTUx0aWRfeE1VLV91YTFnMXBWOG92Q2p5aVJGR1JUbkowdzZoZWlMQ3QwZWRrMklhcmwyY0lqWkJtX2I4T3BrS1E4dUlB?oc=5",
+      "source": "PYMNTS.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-01-14T08:00:00+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Coinbase CEO Pulls Support for Senate Crypto Bill Over Tokenized Equities Ban PYMNTS.com"
     },
     {
       "title": "Binance co-CEO Richard Teng on the company's 2025 annual report",
