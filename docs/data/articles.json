@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-16T16:48:46Z",
-  "total": 206,
+  "updated_at": "2026-03-16T17:50:58Z",
+  "total": 207,
   "by_ceo": {
     "Richard Teng": 32,
-    "Brian Armstrong": 107,
+    "Brian Armstrong": 108,
     "CZ": 35,
     "Ben Zhou": 24,
     "Star Xu": 8
@@ -117,6 +117,17 @@
         "DeFi"
       ],
       "key_quote": "Forbes Ranks CZ Binance Higher than Bill Gates on Billionaires Index , A Claim CZ Refuted as Inaccurate Tekedia"
+    },
+    {
+      "title": "Trump meets Coinbase CEO, criticizes banks over stalled crypto bill",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPYzZsV2tzUnVlNGY2b0VWdloyT3M5c29GeFNBelZoR1NmSGc3dlc1aGZ5VHJESGM4N05leVJpbExhTEk4QWZCV0M0Rm11UVRMZWVTN1lVSnQ4dWtFVkttbXNFbGY2UTJSVlItYmdYNzViRm1BTGZVNmVsbDdlbXdxSnMtdmdSYXZzeVNkU1VXdEpQRl9wZ3hsRXg3SFlybjJHT0I2ekphNUtIbVNpLXU1dlJJeHI4MzE2Y2pQcDNWNDd6a3B1YWtLclR5aTBIX2RKUXdPeEN1ZzBNNjVYUENWa0NYN2FJeVRKSnF2RktuX1Z5UVpsTEUxaGZJOUtyWDVhOWdCTHVhYw?oc=5\" target=\"_blank\">Trump meets Coinbase CEO, criticizes banks over stalled crypto bill - Politico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYzZsV2tzUnVlNGY2b0VWdloyT3M5c29GeFNBelZoR1NmSGc3dlc1aGZ5VHJESGM4N05leVJpbExhTEk4QWZCV0M0Rm11UVRMZWVTN1lVSnQ4dWtFVkttbXNFbGY2UTJSVlItYmdYNzViRm1BTGZVNmVsbDdlbXdxSnMtdmdSYXZzeVNkU1VXdEpQRl9wZ3hsRXg3SFlybjJHT0I2ekphNUtIbVNpLXU1dlJJeHI4MzE2Y2pQcDNWNDd6a3B1YWtLclR5aTBIX2RKUXdPeEN1ZzBNNjVYUENWa0NYN2FJeVRKSnF2RktuX1Z5UVpsTEUxaGZJOUtyWDVhOWdCTHVhYw?oc=5",
+      "source": "Politico - MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-13T10:14:21+00:00",
+      "tags": [],
+      "key_quote": "Trump meets Coinbase CEO, criticizes banks over stalled crypto bill - Politico MSN"
     },
     {
       "title": "AI to get its own bank account? Coinbase CEO says bots may soon pay with crypto",
