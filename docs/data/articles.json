@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-16T21:27:24Z",
-  "total": 210,
+  "updated_at": "2026-03-16T22:21:01Z",
+  "total": 211,
   "by_ceo": {
     "Brian Armstrong": 109,
     "CZ": 37,
-    "Richard Teng": 32,
+    "Richard Teng": 33,
     "Ben Zhou": 24,
     "Star Xu": 8
   },
@@ -2310,6 +2310,19 @@
       "published_at": "2025-12-02T08:00:00+00:00",
       "tags": [],
       "key_quote": "Binance co-founder Yi He joins Richard Teng in dual leadership structure Reuters"
+    },
+    {
+      "title": "Binance Co-CEO Richard Teng Unveils New App, Institutional Partnerships, and 300M Users at Blockchain Week 2025",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFVlZHT2xsSmZWdmE3cjhFdUp3dkJmOWxWTlAwUVpXd0ZXV3AwRFhGNFJONzl5ODJnY2ZIM3pzZkcyaGlMb2hSR05kLXI0UkJXTktFblFqUEtEY0o1V0VnRHZoaw?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng Unveils New App, Institutional Partnerships, and 300M Users at Blockchain Week 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFVlZHT2xsSmZWdmE3cjhFdUp3dkJmOWxWTlAwUVpXd0ZXV3AwRFhGNFJONzl5ODJnY2ZIM3pzZkcyaGlMb2hSR05kLXI0UkJXTktFblFqUEtEY0o1V0VnRHZoaw?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "tags": [
+        "机构 Institutional"
+      ],
+      "key_quote": "Binance Co-CEO Richard Teng Unveils New App, Institutional Partnerships, and 300M Users at Blockchain Week 2025 Binance"
     },
     {
       "title": "Binance CEO Richard Teng on crypto regulation and Trump's pardon for founder CZ",
