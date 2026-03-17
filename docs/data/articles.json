@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-17T11:34:35Z",
-  "total": 212,
+  "updated_at": "2026-03-17T12:38:19Z",
+  "total": 213,
   "by_ceo": {
-    "Brian Armstrong": 110,
+    "Brian Armstrong": 111,
     "CZ": 37,
     "Richard Teng": 33,
     "Ben Zhou": 24,
@@ -68,6 +68,19 @@
       "published_at": "2026-03-14T14:07:25+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Drives Global Investment Access With Tokenization Cryptonews.net"
+    },
+    {
+      "title": "'Druck Is Right,' Coinbase CEO Reacts as Popular Billionaire Predicts Inevitable Stablecoin Use for Global Payments",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQVzRwMG9wZUR5eVkwTGJQNXF6d1JNS1F3OWdMTlNrWnJQb2hDWHR2UDZzdkowYnk1R2hhMzRKdHpHNXJSSnlnTWFZelNld2hkT08xWnBfRVdNdjVQRU1OTGZ4ajhTYWR3OHBDZWVHN3U3RTRjb2VRYTBNaGNva2xaSlJyc21FZGZwcGRFUU5JMnNjOFJiMU5pLVQ2MDByZWJVX0piaWdocm93bk52Y3FrWFE2aUQwZ0lhb1ByUXBnNnVSVzBxV1kzTnZqcERscDZwa19GeXpKWEgzTmktM3VpVjJWNEpXXzUwejBTNUNFdV9hQzRoV1lQTTFTUzVtWllsbklr?oc=5\" target=\"_blank\">'Druck Is Right,' Coinbase CEO Reacts as Popular Billionaire Predicts Inevitable Stablecoin Use for Global Payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVzRwMG9wZUR5eVkwTGJQNXF6d1JNS1F3OWdMTlNrWnJQb2hDWHR2UDZzdkowYnk1R2hhMzRKdHpHNXJSSnlnTWFZelNld2hkT08xWnBfRVdNdjVQRU1OTGZ4ajhTYWR3OHBDZWVHN3U3RTRjb2VRYTBNaGNva2xaSlJyc21FZGZwcGRFUU5JMnNjOFJiMU5pLVQ2MDByZWJVX0piaWdocm93bk52Y3FrWFE2aUQwZ0lhb1ByUXBnNnVSVzBxV1kzTnZqcERscDZwa19GeXpKWEgzTmktM3VpVjJWNEpXXzUwejBTNUNFdV9hQzRoV1lQTTFTUzVtWllsbklr?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-14T11:54:00+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "'Druck Is Right,' Coinbase CEO Reacts as Popular Billionaire Predicts Inevitable Stablecoin Use for Global Payments TradingView"
     },
     {
       "title": "Coinbase CEO Drives Global Investment Access With Tokenization",
