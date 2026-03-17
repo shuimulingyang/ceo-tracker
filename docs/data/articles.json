@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-17T20:26:11Z",
-  "total": 220,
+  "updated_at": "2026-03-17T21:25:25Z",
+  "total": 221,
   "by_ceo": {
     "Ben Zhou": 31,
-    "Brian Armstrong": 111,
+    "Brian Armstrong": 112,
     "CZ": 37,
     "Richard Teng": 33,
     "Star Xu": 8
@@ -1741,6 +1741,17 @@
         "市场 Market"
       ],
       "key_quote": "Banking trade groups responsible for impasse on market structure bill, Brian Armstrong says CoinDesk"
+    },
+    {
+      "title": "Coinbase is ‘misunderstood’ — and some investors will get left behind, says CEO Brian Armstrong",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbGJqZkxxekkxR1FZdGZUYlJYc1lEdlE5cEdZbV91N3dJUTgzMHkyZWwyY3htblk2WWdiRkpkZnBZMWNab0hSS2RBWU5LNUdydXdIeEFxNGluT1JiWlpmUHZPNW9Fam05RHJvNzFUNVVEYXZrSFZrUVVsbGE4aW5NNWZwMVh0d3hIS252Y0c5bVA5cDUtUGdlTVBTUHM4T1FQdFdnVnYyd2UwNks3U3dXUnhrelRxS3cz?oc=5\" target=\"_blank\">Coinbase is ‘misunderstood’ — and some investors will get left behind, says CEO Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dlnews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbGJqZkxxekkxR1FZdGZUYlJYc1lEdlE5cEdZbV91N3dJUTgzMHkyZWwyY3htblk2WWdiRkpkZnBZMWNab0hSS2RBWU5LNUdydXdIeEFxNGluT1JiWlpmUHZPNW9Fam05RHJvNzFUNVVEYXZrSFZrUVVsbGE4aW5NNWZwMVh0d3hIS252Y0c5bVA5cDUtUGdlTVBTUHM4T1FQdFdnVnYyd2UwNks3U3dXUnhrelRxS3cz?oc=5",
+      "source": "dlnews.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-18T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase is ‘misunderstood’ — and some investors will get left behind, says CEO Brian Armstrong dlnews.com"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Addresses “Paper Bitcoin” Claims, Claims Bitcoin ETFs Are Fully Backed",
