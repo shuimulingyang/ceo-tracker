@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-17T03:32:58Z",
-  "total": 211,
+  "updated_at": "2026-03-17T05:16:24Z",
+  "total": 212,
   "by_ceo": {
-    "Brian Armstrong": 109,
+    "Brian Armstrong": 110,
     "CZ": 37,
     "Richard Teng": 33,
     "Ben Zhou": 24,
@@ -57,6 +57,17 @@
         "市场 Market"
       ],
       "key_quote": "Binance's 'Wait and See' Strategy: Richard Teng's Comments on U.S."
+    },
+    {
+      "title": "Coinbase CEO Drives Global Investment Access With Tokenization",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaUFkxZHU2X1BtWXR6YUctY0RFdkM0SVFvSEdLdFNLOG0xR3E5ZWV2c0lNOFFxanVMQzJRNlRDWlNFd2xiSjdYczAtRDNjVldjWGw0V1g1NEI?oc=5\" target=\"_blank\">Coinbase CEO Drives Global Investment Access With Tokenization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaUFkxZHU2X1BtWXR6YUctY0RFdkM0SVFvSEdLdFNLOG0xR3E5ZWV2c0lNOFFxanVMQzJRNlRDWlNFd2xiSjdYczAtRDNjVldjWGw0V1g1NEI?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-14T14:07:25+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Drives Global Investment Access With Tokenization Cryptonews.net"
     },
     {
       "title": "Coinbase CEO Drives Global Investment Access With Tokenization",
