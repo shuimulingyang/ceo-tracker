@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-18T06:46:01Z",
-  "total": 224,
+  "updated_at": "2026-03-18T07:43:23Z",
+  "total": 225,
   "by_ceo": {
     "Ben Zhou": 31,
     "Brian Armstrong": 114,
-    "CZ": 37,
+    "CZ": 38,
     "Richard Teng": 34,
     "Star Xu": 8
   },
@@ -2057,6 +2057,19 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin regret is coming for anyone ignoring Coinbase CEO's 5% rule as banks fight to cap gains CryptoSlate"
+    },
+    {
+      "title": "Binance founder Changpeng Zhao reflects on prison, Trump and potential bitcoin supercycle after pardon",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPREVCcFJqV2tHNUZiRjBUSExDWjE1NzdOVl9UbmJEbE1zUkdkc21SX0Y3b3F3U1FUNF94VTVMRU1Gd2Zfc1h5LWdETzliTUNUa0h6b0dnMF9sUUtva3FqRXhKdzItSHp1ci03VGd3d09ieUFNTTZqSjV2d01uQVFNNlFyeWZYcDh4Q3F6QUs3ZkpUZ1h4alViUFMwcEs0RmZRZ0tKNGNWYkNQeTUwck5ZeTBQNU9Hdw?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao reflects on prison, Trump and potential bitcoin supercycle after pardon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREVCcFJqV2tHNUZiRjBUSExDWjE1NzdOVl9UbmJEbE1zUkdkc21SX0Y3b3F3U1FUNF94VTVMRU1Gd2Zfc1h5LWdETzliTUNUa0h6b0dnMF9sUUtva3FqRXhKdzItSHp1ci03VGd3d09ieUFNTTZqSjV2d01uQVFNNlFyeWZYcDh4Q3F6QUs3ZkpUZ1h4alViUFMwcEs0RmZRZ0tKNGNWYkNQeTUwck5ZeTBQNU9Hdw?oc=5",
+      "source": "The Block",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-01-23T08:00:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Binance founder Changpeng Zhao reflects on prison, Trump and potential bitcoin supercycle after pardon The Block"
     },
     {
       "title": "TradFi firms are increasingly warming to cryptocurrencies, says Bybit CEO Ben Zhou",
