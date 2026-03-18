@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-18T19:40:20Z",
-  "total": 228,
+  "updated_at": "2026-03-18T20:23:09Z",
+  "total": 229,
   "by_ceo": {
     "Ben Zhou": 31,
     "CZ": 39,
-    "Brian Armstrong": 115,
+    "Brian Armstrong": 116,
     "Richard Teng": 35,
     "Star Xu": 8
   },
@@ -1703,6 +1703,19 @@
         "监管 Regulation"
       ],
       "key_quote": "Richard Teng: WSJ's Claims on Binance's Compliance Program Are False Binance"
+    },
+    {
+      "title": "Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9wOWNkY1lNOVI3LXFRQzF2LVoxemdZWUNzRG1FNWY5aTNqbzUzVkZVbEdGQUFBUWhFM3JmTENjbkxMMmpZYzgzX2djX04tZkloeHY5bmhGS2ZkQWFrXzB3dmdNTjk3d24yb2FwTnpwLXVEc09DNjI2Um9NTkRVZw?oc=5\" target=\"_blank\">Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wOWNkY1lNOVI3LXFRQzF2LVoxemdZWUNzRG1FNWY5aTNqbzUzVkZVbEdGQUFBUWhFM3JmTENjbkxMMmpZYzgzX2djX04tZkloeHY5bmhGS2ZkQWFrXzB3dmdNTjk3d24yb2FwTnpwLXVEc09DNjI2Um9NTkRVZw?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-24T08:00:00+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge Yahoo Finance"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Says Quantum Computing 'Very Solvable' Issue, Sees No Risk To Blockchain",
