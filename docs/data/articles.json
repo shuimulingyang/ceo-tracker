@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-18T09:39:37Z",
-  "total": 226,
+  "updated_at": "2026-03-18T10:38:54Z",
+  "total": 227,
   "by_ceo": {
     "Ben Zhou": 31,
     "Brian Armstrong": 115,
     "CZ": 38,
-    "Richard Teng": 34,
+    "Richard Teng": 35,
     "Star Xu": 8
   },
   "articles": [
@@ -2759,6 +2759,17 @@
         "监管 Regulation"
       ],
       "key_quote": "OKX CEO Apologizes for Compliance Control Failures ForkLog"
+    },
+    {
+      "title": "Article | POLITICO Pro Q&A: Binance CEO Richard Teng",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0VpNXVQX3prdEpaV3R3cGNIUWM3UklsMnlFbnFoUWtkXzd0ZjVXVUZhcm83RXF5b2tySWluRXFJUFFVUHZiNkhJdTh1el9qNW1ydzNhUjdaaUtJTjBtYnNjbnJacXJnanFBVnFSNUlGQ1dKdU55X2Y2Q2cyOHFTUTc0M01CR3V0QmdNNDFway1LRDcyYmlPdG1fVHpfS05SVXc?oc=5\" target=\"_blank\">Article | POLITICO Pro Q&amp;A: Binance CEO Richard Teng</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">POLITICO Pro</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0VpNXVQX3prdEpaV3R3cGNIUWM3UklsMnlFbnFoUWtkXzd0ZjVXVUZhcm83RXF5b2tySWluRXFJUFFVUHZiNkhJdTh1el9qNW1ydzNhUjdaaUtJTjBtYnNjbnJacXJnanFBVnFSNUlGQ1dKdU55X2Y2Q2cyOHFTUTc0M01CR3V0QmdNNDFway1LRDcyYmlPdG1fVHpfS05SVXc?oc=5",
+      "source": "POLITICO Pro",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2025-06-06T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Article | POLITICO Pro Q&A: Binance CEO Richard Teng POLITICO Pro"
     },
     {
       "title": "Binance CEO Richard Teng on SEC suit dismissal, Trump meme coin and crypto regulation",
