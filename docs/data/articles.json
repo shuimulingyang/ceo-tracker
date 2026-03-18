@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-18T08:33:48Z",
-  "total": 225,
+  "updated_at": "2026-03-18T09:39:37Z",
+  "total": 226,
   "by_ceo": {
     "Ben Zhou": 31,
-    "Brian Armstrong": 114,
+    "Brian Armstrong": 115,
     "CZ": 38,
     "Richard Teng": 34,
     "Star Xu": 8
@@ -1725,6 +1725,19 @@
       "published_at": "2026-02-19T08:00:00+00:00",
       "tags": [],
       "key_quote": "Bybit CEO Ben Year-End Keynote: 1010 Review and 2026 Roadmap Wu Blockchain"
+    },
+    {
+      "title": "Coinbase CEO fires back after Bessent blames 'recalcitrant actors'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZDc4TkhqUmE3Znl2NlhtTVdZUzdjT0ZLMFktdDVjNmNKelVfS0xxMTRsSzVaT3JCUTVrZS0xaHB3Y0htRm1RS1NhSzF1V2JOdzV3eVIxWkJNYlVEQ3ExSGJFUmhFSmlpS04yNF9SRUxYMmJRanY2aTFYSTBrRjU3T0NnSEVxbnZieWc4b2NGS2hOVUlRaldzQWtHLXBXS3Bj?oc=5\" target=\"_blank\">Coinbase CEO fires back after Bessent blames 'recalcitrant actors'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZDc4TkhqUmE3Znl2NlhtTVdZUzdjT0ZLMFktdDVjNmNKelVfS0xxMTRsSzVaT3JCUTVrZS0xaHB3Y0htRm1RS1NhSzF1V2JOdzV3eVIxWkJNYlVEQ3ExSGJFUmhFSmlpS04yNF9SRUxYMmJRanY2aTFYSTBrRjU3T0NnSEVxbnZieWc4b2NGS2hOVUlRaldzQWtHLXBXS3Bj?oc=5",
+      "source": "thestreet.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-19T08:00:00+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Coinbase CEO fires back after Bessent blames 'recalcitrant actors' thestreet.com"
     },
     {
       "title": "Brian Armstrong Reveals Retail Users 'Buying The Dip' In Bitcoin, Ethereum: Coinbase CEO Says, 'They Have Diamond Hands'",
