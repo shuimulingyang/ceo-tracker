@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-19T06:41:34Z",
-  "total": 235,
+  "updated_at": "2026-03-19T07:38:34Z",
+  "total": 236,
   "by_ceo": {
-    "CZ": 41,
+    "CZ": 42,
     "Brian Armstrong": 117,
     "Ben Zhou": 32,
     "Richard Teng": 37,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "From Jail To $113 Billion: Binance Founder Changpeng Zhao Overtakes Bill Gates In Wealth",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFZoSE1CdHVVR215cUNEdmRIS1QzWHNQV250TUc0VWM0UEM1VEpCMWo5UndGS3cyY2huZVpBV1k1NnI3UC1zWHBFei1QRGtMRHZweE9ySldPajNveEF4WUxUSm94UW9XMnRvX1Utcl83X0M2dmNsMjg0cHBWQ2kyTFpKNDdVYzNXbmE4SzN4V2gxWUg2bWU3QUhfeUZ6TDlESWxsWkxuNVN2QUJEZnB6cHVOTFZHZm5adk1IZ0ZYRlphWkhnVDdWdFJGeFVWOE1SYVBxaW9kSnNkMWNf0gHiAUFVX3lxTE16VUNfeFVyNVlYb1I3R3BfNWJiR0gzWVBMVTZVVVBTdUdQVEdCLVJuYW1UVjVEamlVMUx2bTBEV1pmVmxFUU5jQjE2T09ESHRzdF9XazJJTEd4NUx5Yk5rbExHSk9KSDRLWGVhdDRNT2d2VEZrTXlSanpMcG9XOG52WUhqdHlkZ21ZUHhrbmI3YjdubUpnemljMndPeGlQQ2lIaU1ZbXlJNlN2MUxncndEMDJMOUxMSm85V0Fjd2FHWXRtdjVrWV9HYjdEODhLdC1HeGYxNlBXUGMwRjM1ejQ0VlE?oc=5\" target=\"_blank\">From Jail To $113 Billion: Binance Founder Changpeng Zhao Overtakes Bill Gates In Wealth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFZoSE1CdHVVR215cUNEdmRIS1QzWHNQV250TUc0VWM0UEM1VEpCMWo5UndGS3cyY2huZVpBV1k1NnI3UC1zWHBFei1QRGtMRHZweE9ySldPajNveEF4WUxUSm94UW9XMnRvX1Utcl83X0M2dmNsMjg0cHBWQ2kyTFpKNDdVYzNXbmE4SzN4V2gxWUg2bWU3QUhfeUZ6TDlESWxsWkxuNVN2QUJEZnB6cHVOTFZHZm5adk1IZ0ZYRlphWkhnVDdWdFJGeFVWOE1SYVBxaW9kSnNkMWNf0gHiAUFVX3lxTE16VUNfeFVyNVlYb1I3R3BfNWJiR0gzWVBMVTZVVVBTdUdQVEdCLVJuYW1UVjVEamlVMUx2bTBEV1pmVmxFUU5jQjE2T09ESHRzdF9XazJJTEd4NUx5Yk5rbExHSk9KSDRLWGVhdDRNT2d2VEZrTXlSanpMcG9XOG52WUhqdHlkZ21ZUHhrbmI3YjdubUpnemljMndPeGlQQ2lIaU1ZbXlJNlN2MUxncndEMDJMOUxMSm85V0Fjd2FHWXRtdjVrWV9HYjdEODhLdC1HeGYxNlBXUGMwRjM1ejQ0VlE?oc=5",
+      "source": "News18",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-19T06:57:25+00:00",
+      "tags": [],
+      "key_quote": "From Jail To $113 Billion: Binance Founder Changpeng Zhao Overtakes Bill Gates In Wealth News18"
+    },
     {
       "title": "Binance founder is now richer than Bill Gates. How much is Changpeng Zhao net worth and what fuels his wealth?",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOHA4NGV4NW5hcmNwWXp5SjRDc3llVWI3MGVpYUIxVndDYmVXY21PYkprekdBYk1VM0Q0WFg3cmtEaVRrMUUtb0QwemRlZVpnRGdwbXAzOUJJTFYzMHg2NVJFbklpX1NiazFmWWl2eEg4dzFBN00tZlFZUG9wbmw3UzFDMlh0WHkzcF93cm9KQWQ0SlpFbi1RdkNWaTExa2kwWjFPNFNLZzlWUi1LM21HN0FyLU1PclNGZFg5b0hlXzJvZjczNUFqa2pnOEIyajMtUmVReXlMbmdjeEdUUUpPMHFRVG1MVjlZXzBkSXZVNlpacWVIZGZsaWFhQkNaY03SAYQCQVVfeXFMTU1FUW5NbjAwbnp1MVlrdUlQVmVkS3lKaTJraG0tY01SWVE0ZEtNcVBvSGtlMjFuck5jRDVEMTVVUGxJaVk0bEgyVkN4Z0Jmc1NMOVR3ZWQ3TnBIZ2pTLUkzdFJqT2dLYllkZy05WHdPcDRfUmV3VElhenBiY00zSmVBZkp4azREY2RxY3RqUGlzMUNLMTVBbWgzSFJvcXdJS3NFckNXUnMyMUlqMWdURDRVQXE4Sm83QXN6Sk1JNHY0ZkozQlcxVHRfWXVoT1VlczROWlJEd2dkbGhOLUR0S1N2SDVlejRaV0RoaklDLVVTaXE2ZHdtNjVHODJTVG1VT3lyZjk?oc=5\" target=\"_blank\">Binance founder is now richer than Bill Gates. How much is Changpeng Zhao net worth and what fuels his wealth?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
