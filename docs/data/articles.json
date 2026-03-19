@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-19T01:02:53Z",
-  "total": 232,
+  "updated_at": "2026-03-19T04:09:47Z",
+  "total": 233,
   "by_ceo": {
     "CZ": 40,
     "Brian Armstrong": 117,
     "Ben Zhou": 32,
-    "Richard Teng": 35,
+    "Richard Teng": 36,
     "Star Xu": 8
   },
   "articles": [
@@ -1661,6 +1661,17 @@
         "AI"
       ],
       "key_quote": "Changpeng Zhao Promises ‘Binance-Level Brain’ For AI Agents As 2026 Crypto Wallet Wars Heat Up Stocktwits"
+    },
+    {
+      "title": "Binance Slams WSJ Report as “False and Defamatory” CEO Richard Teng Fires Back Over Iran Sanctions Claims",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBaR2N2U004bXB2WDB3azBzN255MGlvWUxnMjRqZWtnY25uczIwS1pDUnZGRDhKNlZPWXg3OXJzOWplM29EdE1z?oc=5\" target=\"_blank\">Binance Slams WSJ Report as “False and Defamatory” CEO Richard Teng Fires Back Over Iran Sanctions Claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBaR2N2U004bXB2WDB3azBzN255MGlvWUxnMjRqZWtnY25uczIwS1pDUnZGRDhKNlZPWXg3OXJzOWplM29EdE1z?oc=5",
+      "source": "MEXC",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-02-27T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "Binance Slams WSJ Report as “False and Defamatory” CEO Richard Teng Fires Back Over Iran Sanctions Claims MEXC"
     },
     {
       "title": "Richard Teng Explains Why Binance Chose Greece for Its EU MiCA License",
