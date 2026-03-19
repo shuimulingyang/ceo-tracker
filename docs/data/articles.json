@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-19T14:00:22Z",
-  "total": 239,
+  "updated_at": "2026-03-19T15:40:31Z",
+  "total": 240,
   "by_ceo": {
+    "CZ": 43,
     "Richard Teng": 39,
-    "CZ": 42,
     "Brian Armstrong": 118,
     "Ben Zhou": 32,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao Denies Iran-Linked Claims on Binance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNRjBCaU1DZ296UUpwWTZFWG1jeGhsWnJ0WGdUdktnWDJ6aFoxN2I2UEFqemJiS2lxVU1QbnBLSDN3dXRxZ2J3YnlfNXI0SDhnT0d4eVJnSWQwaC0tRjJlX0pCcUt3SlNxVThSOGRtSFQwc3RBQnFiVTczT3pRY1ZtQWF3?oc=5\" target=\"_blank\">Changpeng Zhao Denies Iran-Linked Claims on Binance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRjBCaU1DZ296UUpwWTZFWG1jeGhsWnJ0WGdUdktnWDJ6aFoxN2I2UEFqemJiS2lxVU1QbnBLSDN3dXRxZ2J3YnlfNXI0SDhnT0d4eVJnSWQwaC0tRjJlX0pCcUt3SlNxVThSOGRtSFQwc3RBQnFiVTczT3pRY1ZtQWF3?oc=5",
+      "source": "CoinCentral",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-19T11:10:48+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao Denies Iran-Linked Claims on Binance CoinCentral"
+    },
     {
       "title": "Richard Teng: New features aim to make crypto safer and more accessible",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQSzM5UXJnaWtCM2stY0NwNXF0YzFneFc0bHVVbF9ERjRndG1hUF83bERuWjNqaDN0MG1JbDlxSXZTYmhGSlBic28zSk9uWHR6d3dicGFTY01XdlJrQWJ0SUZxRllEWHh1aXlLLUFGYjdEY1AyRWM5dmVXd0pCcXMxYw?oc=5\" target=\"_blank\">Richard Teng: New features aim to make crypto safer and more accessible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
