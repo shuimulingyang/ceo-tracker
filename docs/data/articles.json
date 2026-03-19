@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-19T20:23:55Z",
-  "total": 240,
+  "updated_at": "2026-03-19T21:23:05Z",
+  "total": 241,
   "by_ceo": {
     "CZ": 43,
     "Richard Teng": 39,
-    "Brian Armstrong": 118,
+    "Brian Armstrong": 119,
     "Ben Zhou": 32,
     "Star Xu": 8
   },
@@ -1965,6 +1965,20 @@
       "published_at": "2026-02-16T08:00:00+00:00",
       "tags": [],
       "key_quote": "Crypto Billionaire Changpeng Zhao Calls Prison A 'Bad Experience,' Reveals What A Prison Guard Told Him When He Was Processed Yahoo Finance"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Was Asked Whether COIN Plans To Launch Its Own Prediction Market Business—Here's What He Said",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnFfSVNMM05zMHU0ZDFEVVNTZ1pVbURMaUltLVlvd0tGOWM1dGphWm9XQ05LSzNmS3JzSThTUW55T1dfRUNDd1BHeFA5Q1k3aFU5TV9OYnQ1TXNDSE53SzRBR21vX1FrZzFIdlhDckhJUzJMZXQyTmJ6RDFURUQ2QkV1d1pzZ2s?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Was Asked Whether COIN Plans To Launch Its Own Prediction Market Business—Here's What He Said</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnFfSVNMM05zMHU0ZDFEVVNTZ1pVbURMaUltLVlvd0tGOWM1dGphWm9XQ05LSzNmS3JzSThTUW55T1dfRUNDd1BHeFA5Q1k3aFU5TV9OYnQ1TXNDSE53SzRBR21vX1FrZzFIdlhDckhJUzJMZXQyTmJ6RDFURUQ2QkV1d1pzZ2s?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-14T08:00:00+00:00",
+      "tags": [
+        "Ethereum",
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Was Asked Whether COIN Plans To Launch Its Own Prediction Market Business—Here's What He Said Yahoo Finance"
     },
     {
       "title": "US$2 trillion evaporates in crypto, Bybit CEO still urges buying",
