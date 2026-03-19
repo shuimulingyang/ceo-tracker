@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-19T07:38:34Z",
-  "total": 236,
+  "updated_at": "2026-03-19T08:27:38Z",
+  "total": 238,
   "by_ceo": {
     "CZ": 42,
-    "Brian Armstrong": 117,
+    "Brian Armstrong": 118,
     "Ben Zhou": 32,
-    "Richard Teng": 37,
+    "Richard Teng": 38,
     "Star Xu": 8
   },
   "articles": [
@@ -52,6 +52,17 @@
       "ceo_name": "Brian Armstrong",
       "exchange": "Coinbase",
       "published_at": "2026-03-18T18:46:34+00:00",
+      "tags": [],
+      "key_quote": "Aging is a disease, could be optional in future: Coinbase CEO Brian Armstrong | 'Aging is the ultimate bug to fix' | Inshorts Inshorts"
+    },
+    {
+      "title": "Aging is a disease, could be optional in future: Coinbase CEO Brian Armstrong | 'Aging is the ultimate bug to fix' | Inshorts",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX01GcDlQNlJYQnF3akl0T05kbDg5S2xEdWNobHJVRjNOUHIycWtaVHhpNTZ2NTBrWUxjZ3N2OXMtVVo0ZmJOWTRMWFcwY2swVlB4TXltQTA3WGFMam9KLTZjU3lTVE5GNlV3dG5fQUZSQy1fNWhIMzRyTWFrRFVNenpaZWo3Z0VkdGdvb25xbElUd1lianlJWnpmaDJ3VVZtUnFDaUdFZVBBT28wY0RjSUdXajZBQk5UbW01MU5IMWpGZ9IBwgFBVV95cUxOX01GcDlQNlJYQnF3akl0T05kbDg5S2xEdWNobHJVRjNOUHIycWtaVHhpNTZ2NTBrWUxjZ3N2OXMtVVo0ZmJOWTRMWFcwY2swVlB4TXltQTA3WGFMam9KLTZjU3lTVE5GNlV3dG5fQUZSQy1fNWhIMzRyTWFrRFVNenpaZWo3Z0VkdGdvb25xbElUd1lianlJWnpmaDJ3VVZtUnFDaUdFZVBBT28wY0RjSUdXajZBQk5UbW01MU5IMWpGZw?oc=5\" target=\"_blank\">Aging is a disease, could be optional in future: Coinbase CEO Brian Armstrong | 'Aging is the ultimate bug to fix' | Inshorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inshorts</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX01GcDlQNlJYQnF3akl0T05kbDg5S2xEdWNobHJVRjNOUHIycWtaVHhpNTZ2NTBrWUxjZ3N2OXMtVVo0ZmJOWTRMWFcwY2swVlB4TXltQTA3WGFMam9KLTZjU3lTVE5GNlV3dG5fQUZSQy1fNWhIMzRyTWFrRFVNenpaZWo3Z0VkdGdvb25xbElUd1lianlJWnpmaDJ3VVZtUnFDaUdFZVBBT28wY0RjSUdXajZBQk5UbW01MU5IMWpGZ9IBwgFBVV95cUxOX01GcDlQNlJYQnF3akl0T05kbDg5S2xEdWNobHJVRjNOUHIycWtaVHhpNTZ2NTBrWUxjZ3N2OXMtVVo0ZmJOWTRMWFcwY2swVlB4TXltQTA3WGFMam9KLTZjU3lTVE5GNlV3dG5fQUZSQy1fNWhIMzRyTWFrRFVNenpaZWo3Z0VkdGdvb25xbElUd1lianlJWnpmaDJ3VVZtUnFDaUdFZVBBT28wY0RjSUdXajZBQk5UbW01MU5IMWpGZw?oc=5",
+      "source": "Inshorts",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-18T09:47:40+00:00",
       "tags": [],
       "key_quote": "Aging is a disease, could be optional in future: Coinbase CEO Brian Armstrong | 'Aging is the ultimate bug to fix' | Inshorts Inshorts"
     },
@@ -2201,6 +2212,19 @@
       "published_at": "2026-01-22T08:00:00+00:00",
       "tags": [],
       "key_quote": "TradFi firms are increasingly warming to cryptocurrencies, says Bybit CEO Ben Zhou Fortune"
+    },
+    {
+      "title": "Regulatory clarity key for crypto adoption: Binance co-CEO Richard Teng",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcF9pRG1WbFhIRUo4bF9JMDF1My1VY2lMdlo0cnBFTEZJa3ZXUjNnczkwa293S3hIQnlyd1ZKVWRUYWFZZV8wNkpSMmFJMzVMSTB4TnFrOWU0bWVuaFpwZ0ZISzNpUjVQVWtmZnVxenBMT3JmNHo3ZFAwVkI0YlBlT25pcHBLWXZtSlRiT1FMaTdIUG5vQUU4UEZEZEVtanp0MnZQbDlRX1pMeTlGYVk4eGVLZUFkVy1IMEg3czRyeUloV19FeVota3VUSzV4bUtGdUJDVEVVd9IB3AFBVV95cUxQckU4S3ZISVAxZ2NhaXlXR2c3OGluTW9kQ3JmWk1YM25IUElYVlgxOTY4LXZaeF9vZ1VOcXVPdTNRc3dBUXFLOFBJanlDcEIyZ3ZLdUFnX1o5RHBScFRKdnh2U3F1QkhGR3hxeXV5bEswa05VYTdjS2I0T3BScTNHTU9QSTV2QzljRUMtY3FVVGR5SXFoLXZ2QXpBM0xNMTZOVVY4MUY1NDJhbXh4UjJ5alZzNlkwRDd5azNZSDRHRHF0T0hmeWwyMzItVVJlMFFNcm9laTU1OTRha19a?oc=5\" target=\"_blank\">Regulatory clarity key for crypto adoption: Binance co-CEO Richard Teng</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcF9pRG1WbFhIRUo4bF9JMDF1My1VY2lMdlo0cnBFTEZJa3ZXUjNnczkwa293S3hIQnlyd1ZKVWRUYWFZZV8wNkpSMmFJMzVMSTB4TnFrOWU0bWVuaFpwZ0ZISzNpUjVQVWtmZnVxenBMT3JmNHo3ZFAwVkI0YlBlT25pcHBLWXZtSlRiT1FMaTdIUG5vQUU4UEZEZEVtanp0MnZQbDlRX1pMeTlGYVk4eGVLZUFkVy1IMEg3czRyeUloV19FeVota3VUSzV4bUtGdUJDVEVVd9IB3AFBVV95cUxQckU4S3ZISVAxZ2NhaXlXR2c3OGluTW9kQ3JmWk1YM25IUElYVlgxOTY4LXZaeF9vZ1VOcXVPdTNRc3dBUXFLOFBJanlDcEIyZ3ZLdUFnX1o5RHBScFRKdnh2U3F1QkhGR3hxeXV5bEswa05VYTdjS2I0T3BScTNHTU9QSTV2QzljRUMtY3FVVGR5SXFoLXZ2QXpBM0xNMTZOVVY4MUY1NDJhbXh4UjJ5alZzNlkwRDd5azNZSDRHRHF0T0hmeWwyMzItVVJlMFFNcm9laTU1OTRha19a?oc=5",
+      "source": "The Economic Times",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-01-21T08:00:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Regulatory clarity key for crypto adoption: Binance co-CEO Richard Teng The Economic Times"
     },
     {
       "title": "As crypto markets touch a $4 trillion market cap, Richard Teng says India now ranks #1 in blockchain adoption, with skeptics beginning to change their stance. He adds that the industry will continue to support users in India while working closely with policymak",
