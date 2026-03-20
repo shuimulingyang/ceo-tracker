@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-20T22:14:46Z",
-  "total": 247,
+  "updated_at": "2026-03-20T23:17:11Z",
+  "total": 249,
   "by_ceo": {
-    "Brian Armstrong": 123,
-    "CZ": 45,
+    "Brian Armstrong": 124,
+    "CZ": 46,
     "Richard Teng": 39,
     "Ben Zhou": 32,
     "Star Xu": 8
@@ -909,6 +909,17 @@
         "Bitcoin"
       ],
       "key_quote": "Brian Armstrong Says Mining Next 1 Million Bitcoin Will Take Over 100 Years, Coinbase CEO Hails BTC As 'Decentralized, Inflation-Proof' Sahm"
+    },
+    {
+      "title": "Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5udmtGbklwWWlFQmFjU196SmNrbk15dlEycS1ndnhwSDZCbnI2MDN3aldhTlZMVzJHVFp2eGxJQVkxd003bkF6NnlYSTdXR2gtZENKZEVWYkdZZw?oc=5\" target=\"_blank\">Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5udmtGbklwWWlFQmFjU196SmNrbk15dlEycS1ndnhwSDZCbnI2MDN3aldhTlZMVzJHVFp2eGxJQVkxd003bkF6NnlYSTdXR2gtZENKZEVWYkdZZw?oc=5",
+      "source": "Forbes",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-10T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao Forbes"
     },
     {
       "title": "Coinbase CEO Says The Next Crypto Explosion May Be Driven by AI Agents, Not Traders",
@@ -1827,6 +1838,19 @@
         "AI"
       ],
       "key_quote": "Wall Street Should Worry More About AI Than Crypto, Says Changpeng Zhao As Anthropic's Latest Announcement Hammers IBM Stock Yahoo Finance"
+    },
+    {
+      "title": "Brian Armstrong Labels UK Stablecoin Cap an ‘Innovation Blocker’ as Petition Tops 80,000 Signatures",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmxXZ0Jrb2djcTRZcVBqNWJuQmwzM1lBSHJnalFWWFBMbUF4TGFEU1liV0ZZYmsxUVlUc19ub0trM3VmaDcwQjJlNVRnS0NQVEMzbjZNZ2loUE0yODNEOWo0VTNCLTMxWERvamdScXlTYlpXclNienlGTTlaV2VWSmFFVWh5OG12WVE?oc=5\" target=\"_blank\">Brian Armstrong Labels UK Stablecoin Cap an ‘Innovation Blocker’ as Petition Tops 80,000 Signatures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmxXZ0Jrb2djcTRZcVBqNWJuQmwzM1lBSHJnalFWWFBMbUF4TGFEU1liV0ZZYmsxUVlUc19ub0trM3VmaDcwQjJlNVRnS0NQVEMzbjZNZ2loUE0yODNEOWo0VTNCLTMxWERvamdScXlTYlpXclNienlGTTlaV2VWSmFFVWh5OG12WVE?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-25T08:00:00+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Brian Armstrong Labels UK Stablecoin Cap an ‘Innovation Blocker’ as Petition Tops 80,000 Signatures Yahoo Finance"
     },
     {
       "title": "Bybit CEO Ben: Everyone wants to take small risks for big rewards until they are severely educated by the market",
