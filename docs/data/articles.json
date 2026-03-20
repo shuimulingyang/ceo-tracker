@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-20T18:30:05Z",
-  "total": 244,
+  "updated_at": "2026-03-20T19:29:16Z",
+  "total": 246,
   "by_ceo": {
+    "Brian Armstrong": 122,
     "CZ": 45,
     "Richard Teng": 39,
-    "Brian Armstrong": 120,
     "Ben Zhou": 32,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Brian Armstrong pushes Coinbase expansion — price drops amid mixed technicals",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmNfcG54NXZhdmZTM2NRMjlZcFBfcXhDWWk3Z2FwRGh3YUxDaUZxTGRiMEJnY25veHRWdkVjNXVmMU15Wm04bDJpZVhZTHQ0RzFzM2RtbklUY2h3R2FpMGVhTzFJNGlBaDE5RjNIdDMwNHV3akVFa1QtelU3S252cHZMbjBWbDlNdmlCSW85OXZJV3NpS2c?oc=5\" target=\"_blank\">Brian Armstrong pushes Coinbase expansion — price drops amid mixed technicals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmNfcG54NXZhdmZTM2NRMjlZcFBfcXhDWWk3Z2FwRGh3YUxDaUZxTGRiMEJnY25veHRWdkVjNXVmMU15Wm04bDJpZVhZTHQ0RzFzM2RtbklUY2h3R2FpMGVhTzFJNGlBaDE5RjNIdDMwNHV3akVFa1QtelU3S252cHZMbjBWbDlNdmlCSW85OXZJV3NpS2c?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-20T19:05:18+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Brian Armstrong pushes Coinbase expansion — price drops amid mixed technicals Traders Union"
+    },
     {
       "title": "Changpeng Zhao Denies Iran-Linked Claims on Binance",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNRjBCaU1DZ296UUpwWTZFWG1jeGhsWnJ0WGdUdktnWDJ6aFoxN2I2UEFqemJiS2lxVU1QbnBLSDN3dXRxZ2J3YnlfNXI0SDhnT0d4eVJnSWQwaC0tRjJlX0pCcUt3SlNxVThSOGRtSFQwc3RBQnFiVTczT3pRY1ZtQWF3?oc=5\" target=\"_blank\">Changpeng Zhao Denies Iran-Linked Claims on Binance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
@@ -1072,6 +1085,19 @@
       "published_at": "2026-03-06T23:17:49+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO: The business of crypto has 'never been stronger' AOL.com"
+    },
+    {
+      "title": "Coinbase’s app could add self-custody, CEO Brian Armstrong reveals",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxPbWdqSW02RU5VRHhoOHJrZzlORjdSNlFjVnVkcFExR003M194SVNBM2RBdU13VUFCVmRjSFNvLTNfR1NtTjdGRmNTbTNqM1JpcW9lUmdvUmhYN3FEbkZPdkNSNkZuZ3h2LU1veG8xTm81dks1TEg0TmJDZWVHbnpYdjVCYm9KOXc1REtfZWtsenJpS0ZOZFNyOFRTMjBNck0xTzhJZThFY1lZa0RtU2dLRk9UZVlYUlRZWFVQb3pNZTdrRklOYkljVGVTVXh5ZEh4UFM3Z0FsamlNSjlhYnp4d0t0STdMQzVKZ0lnZmk0ZzB1R2JhZE9FMWYyQnFQNFhzSzFMVDJQUHoxTHY2Q1hBTkU1QmgwVGg2d3hDRUwtQUtIOEFRX0xFQ0Q0NmVQaVFkTXpTTGRHRDdLS2MyVkJCbUttOVNEaV9WazJWZzdlVXZBdw?oc=5\" target=\"_blank\">Coinbase’s app could add self-custody, CEO Brian Armstrong reveals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPbWdqSW02RU5VRHhoOHJrZzlORjdSNlFjVnVkcFExR003M194SVNBM2RBdU13VUFCVmRjSFNvLTNfR1NtTjdGRmNTbTNqM1JpcW9lUmdvUmhYN3FEbkZPdkNSNkZuZ3h2LU1veG8xTm81dks1TEg0TmJDZWVHbnpYdjVCYm9KOXc1REtfZWtsenJpS0ZOZFNyOFRTMjBNck0xTzhJZThFY1lZa0RtU2dLRk9UZVlYUlRZWFVQb3pNZTdrRklOYkljVGVTVXh5ZEh4UFM3Z0FsamlNSjlhYnp4d0t0STdMQzVKZ0lnZmk0ZzB1R2JhZE9FMWYyQnFQNFhzSzFMVDJQUHoxTHY2Q1hBTkU1QmgwVGg2d3hDRUwtQUtIOEFRX0xFQ0Q0NmVQaVFkTXpTTGRHRDdLS2MyVkJCbUttOVNEaV9WazJWZzdlVXZBdw?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-06T23:04:12+00:00",
+      "tags": [
+        "ETF"
+      ],
+      "key_quote": "Coinbase’s app could add self-custody, CEO Brian Armstrong reveals MSN"
     },
     {
       "title": "Trump Meets Coinbase CEO, Blames Banks for Stalling Crypto Bill",
