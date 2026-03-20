@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-20T21:19:00Z",
-  "total": 246,
+  "updated_at": "2026-03-20T22:14:46Z",
+  "total": 247,
   "by_ceo": {
-    "Brian Armstrong": 122,
+    "Brian Armstrong": 123,
     "CZ": 45,
     "Richard Teng": 39,
     "Ben Zhou": 32,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHFaUkFKVXNtcGM5NEFpLXZPQ3NmMng5czZSbUN6WmJkS3ZPMjJpbDNqOG5JYm9MRm1EN0F6eVFoOXp0WlhDQkZJQ2JYdUg2clhMVk41T2I3S3NGbDhDY2VoYVJBejd0S0dSY2NDRWVla2JtQ0ZKNTk0VnZFQTZwdlZNUTlPZVRUV0pDVTBQb0tRQ2dMQ3E3UzhDRzlHVWRiMFJnQUFhX1UxQlM2N1gxZ0pvcw?oc=5\" target=\"_blank\">Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHFaUkFKVXNtcGM5NEFpLXZPQ3NmMng5czZSbUN6WmJkS3ZPMjJpbDNqOG5JYm9MRm1EN0F6eVFoOXp0WlhDQkZJQ2JYdUg2clhMVk41T2I3S3NGbDhDY2VoYVJBejd0S0dSY2NDRWVla2JtQ0ZKNTk0VnZFQTZwdlZNUTlPZVRUV0pDVTBQb0tRQ2dMQ3E3UzhDRzlHVWRiMFJnQUFhX1UxQlM2N1gxZ0pvcw?oc=5",
+      "source": "thestreet.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-20T21:52:20+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning thestreet.com"
+    },
     {
       "title": "Brian Armstrong pushes Coinbase expansion — price drops amid mixed technicals",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmNfcG54NXZhdmZTM2NRMjlZcFBfcXhDWWk3Z2FwRGh3YUxDaUZxTGRiMEJnY25veHRWdkVjNXVmMU15Wm04bDJpZVhZTHQ0RzFzM2RtbklUY2h3R2FpMGVhTzFJNGlBaDE5RjNIdDMwNHV3akVFa1QtelU3S252cHZMbjBWbDlNdmlCSW85OXZJV3NpS2c?oc=5\" target=\"_blank\">Brian Armstrong pushes Coinbase expansion — price drops amid mixed technicals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
