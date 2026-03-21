@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-20T23:17:11Z",
-  "total": 249,
+  "updated_at": "2026-03-21T00:55:52Z",
+  "total": 250,
   "by_ceo": {
-    "Brian Armstrong": 124,
+    "Brian Armstrong": 125,
     "CZ": 46,
     "Richard Teng": 39,
     "Ben Zhou": 32,
@@ -32,6 +32,19 @@
         "市场 Market"
       ],
       "key_quote": "Brian Armstrong pushes Coinbase expansion — price drops amid mixed technicals Traders Union"
+    },
+    {
+      "title": "Bitcoin can support dollar strength as capital shifts during inflation, Brian Armstrong states",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXlONk5yU2dYdGtObUgyODg3d25Ua3B2d1VrVG9xb0lUcldtcjU0YmpzUEdCYS0zeWp4OWw0ejNqRHZ2VWctSlg5RTUxQ0VVT1lXWHBMLXc3dmFfV1V0YlV1b05yRjBiX1hlZW1EcGRvRDlrdWFSYUwzNk9wMmZmbjk5N1BGZjVfY1lwWWotUU1lYmdIaWgw?oc=5\" target=\"_blank\">Bitcoin can support dollar strength as capital shifts during inflation, Brian Armstrong states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXlONk5yU2dYdGtObUgyODg3d25Ua3B2d1VrVG9xb0lUcldtcjU0YmpzUEdCYS0zeWp4OWw0ejNqRHZ2VWctSlg5RTUxQ0VVT1lXWHBMLXc3dmFfV1V0YlV1b05yRjBiX1hlZW1EcGRvRDlrdWFSYUwzNk9wMmZmbjk5N1BGZjVfY1lwWWotUU1lYmdIaWgw?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-20T19:00:15+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Bitcoin can support dollar strength as capital shifts during inflation, Brian Armstrong states Traders Union"
     },
     {
       "title": "Changpeng Zhao Denies Iran-Linked Claims on Binance",
