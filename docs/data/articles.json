@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-21T21:13:46Z",
-  "total": 254,
+  "updated_at": "2026-03-21T22:11:15Z",
+  "total": 255,
   "by_ceo": {
     "CZ": 48,
-    "Brian Armstrong": 127,
+    "Brian Armstrong": 128,
     "Richard Teng": 39,
     "Ben Zhou": 32,
     "Star Xu": 8
@@ -2406,6 +2406,19 @@
       "published_at": "2026-01-22T08:00:00+00:00",
       "tags": [],
       "key_quote": "TradFi firms are increasingly warming to cryptocurrencies, says Bybit CEO Ben Zhou Fortune"
+    },
+    {
+      "title": "Brian Armstrong defends Bitcoin in tiff with French central banker",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFgzVm9kVjliSjlUNi16UDFnSk5XejYtVm9mYUFIaXVUUkRYVzlUbWpVWVFPNG1ERi1Gcm9Qa3B3aTFsTk1GTmlnUVBBR1FBbWtKT3B1a2luLVpsVm05MDF2LURBckhoTU1ldWQ3RUdNclczR2xuX2s2QWJyNGZyMm9xOUtQdmVDVGFqX3BOSG5Ebm5JSHg4OWFJeHBLeWc?oc=5\" target=\"_blank\">Brian Armstrong defends Bitcoin in tiff with French central banker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dlnews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFgzVm9kVjliSjlUNi16UDFnSk5XejYtVm9mYUFIaXVUUkRYVzlUbWpVWVFPNG1ERi1Gcm9Qa3B3aTFsTk1GTmlnUVBBR1FBbWtKT3B1a2luLVpsVm05MDF2LURBckhoTU1ldWQ3RUdNclczR2xuX2s2QWJyNGZyMm9xOUtQdmVDVGFqX3BOSG5Ebm5JSHg4OWFJeHBLeWc?oc=5",
+      "source": "dlnews.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-01-22T08:00:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Brian Armstrong defends Bitcoin in tiff with French central banker dlnews.com"
     },
     {
       "title": "Regulatory clarity key for crypto adoption: Binance co-CEO Richard Teng",
