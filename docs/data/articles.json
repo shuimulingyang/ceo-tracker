@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-21T22:11:15Z",
-  "total": 255,
+  "updated_at": "2026-03-21T23:13:17Z",
+  "total": 257,
   "by_ceo": {
-    "CZ": 48,
-    "Brian Armstrong": 128,
+    "Brian Armstrong": 129,
+    "CZ": 49,
     "Richard Teng": 39,
     "Ben Zhou": 32,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Coinbase CEO believes aging will soon become optional",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWml4eFdlQzVLMlNRd21CYnoyaHdNbENqWThUaE02Z0tULXgyR0RhYUhZel9FYTQtOVdnM05uaDA4OGNBRzNfOEdfNFNxRF9uMU9yc2w1WU9UZHcyYktrSmNfRkZvamVfMkZsZlRvMk9mRUN1REoxRllLSlhqNXZFNlJ2bUJCNjVvM3B5MVFKTjJVWnVqaV83S2d0aWdRZU5vTHcwQk5DNA?oc=5\" target=\"_blank\">Coinbase CEO believes aging will soon become optional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWml4eFdlQzVLMlNRd21CYnoyaHdNbENqWThUaE02Z0tULXgyR0RhYUhZel9FYTQtOVdnM05uaDA4OGNBRzNfOEdfNFNxRF9uMU9yc2w1WU9UZHcyYktrSmNfRkZvamVfMkZsZlRvMk9mRUN1REoxRllLSlhqNXZFNlJ2bUJCNjVvM3B5MVFKTjJVWnVqaV83S2d0aWdRZU5vTHcwQk5DNA?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-21T12:59:36+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO believes aging will soon become optional MSN"
+    },
     {
       "title": "Changpeng Zhao questions how X would handle KYC if it becomes a financial platform",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi4wJBVV95cUxPOE5fNUxxTzJKNW9tQ1ZCdjl5RDFueWpfUUE5QmFVdUZibTc0cC1md3N3SHNiZkNiamlQZUFfR2QtQnl1cVhBOUxJVS1QZXdCSHNDOWxWdU1mYXlzemlUdE5vUlh6REpMdzhDM1ZiS3pUVldPWmp3UnJHLUdPWXVKd2xxeHpLSXl3b3YtWVdaTE9jbmhuT0gwYXJhSnZRRjE5ZmVmX1FPNXU2LW13NFlXY1ZPZk5Rck9pQXlUM0l4NGZuZ01kMkFVTzZsR2NaTXVwa1d2cVhmZ0gzQ3ozbHFUcXg3bzBHQXQ2Qlo0OHVNR2NyYWdQNnBuQVcyaTN6X2Q2eUxSbXFjY0NlZnNMeEV2QUkwdWRqdlRwUDk5SXZTZ2ZzNEZmVjE0Rm9udnlZczBfV09QVGJXMEcyZVBHcHJoTk9paUszdVJISzdiMnFWRkhIQzNoRmhZeTY5S2U2Vk41eTZV?oc=5\" target=\"_blank\">Changpeng Zhao questions how X would handle KYC if it becomes a financial platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
@@ -147,6 +158,17 @@
       "title": "Trump grants pardon to Binance founder Changpeng Zhao",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxOd1VWaWJKTXRlZkZESmlJLWlIRzNSelRjRmZDYUJrYTREQ0M0bFAwZFFrLTZUcnNjNTRLTGdHOUdvcEhGVGMzMkVwaDNjYmlGT2RrZm85dmw2TU5yM1d2X2xfVGVtaHhBTS12ZHlnZGJxcnhGZlJaOF82b3RCNW40MERYaE5MT1hJMWIyMlJCQndoTDRaYmxpa0F5ampFaVd3bUVXOFROMlBlTnZIR21uVlg5N1MyM3VVdXFRNEpWWVJuc3ZuNmVUY1RaMklodU8yb2ZyRVRkN0hXSEJwQTlUa2duanFkT1hlOG9fWGRIX1VBNmloZ2ZYR3A0YWM4MUhMLWY2bjhObjhIcGNaQVlwM3FVank1d09JWk9PdUlBWkZ6YTFXcWt5TzVXaHRic2U1b082MUZ2eHoyR0t6b3BjLTAtXy1pc0piRXVQVEFpeURIQQ?oc=5\" target=\"_blank\">Trump grants pardon to Binance founder Changpeng Zhao - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOd1VWaWJKTXRlZkZESmlJLWlIRzNSelRjRmZDYUJrYTREQ0M0bFAwZFFrLTZUcnNjNTRLTGdHOUdvcEhGVGMzMkVwaDNjYmlGT2RrZm85dmw2TU5yM1d2X2xfVGVtaHhBTS12ZHlnZGJxcnhGZlJaOF82b3RCNW40MERYaE5MT1hJMWIyMlJCQndoTDRaYmxpa0F5ampFaVd3bUVXOFROMlBlTnZIR21uVlg5N1MyM3VVdXFRNEpWWVJuc3ZuNmVUY1RaMklodU8yb2ZyRVRkN0hXSEJwQTlUa2duanFkT1hlOG9fWGRIX1VBNmloZ2ZYR3A0YWM4MUhMLWY2bjhObjhIcGNaQVlwM3FVank1d09JWk9PdUlBWkZ6YTFXcWt5TzVXaHRic2U1b082MUZ2eHoyR0t6b3BjLTAtXy1pc0piRXVQVEFpeURIQQ?oc=5",
+      "source": "report - MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-18T21:48:48+00:00",
+      "tags": [],
+      "key_quote": "Trump grants pardon to Binance founder Changpeng Zhao - report MSN"
+    },
+    {
+      "title": "Trump grants pardon to Binance founder Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0wJBVV95cUxQV2xNRTMzOUxZSFZiRzdZYzhBTFkxaTJ2cFFOLXJLRlZpR0dXUWJzQVozYzMyRi1PNmg1TWZJMHpOWkpzQjBpS3pSNXp2Y0tTem15TENMRUdHSW1QeWlBcXVYZnVrTm1NaVViTEdPeUg1d3RnaDBZWmFLSFN1aWhqUzFEX2dJcllTNkc4NmlJTTl0dEVwRmxoVmtSNXg2S1pITkFfNFJod3c5R2xSM1FRTWRzQXJqTTBZWU5iMWViNUVrbDFWd045Rml4OTlrQVFNYm1hNXhRUFFlV2VPLUtycllURHByeWJEeWZyYzJGdlljTHBBNjBqNzkzZmxMM0hpOHF2aXRzQ2FObjZENXpuOUpDVlZQS1NGWXlWR2pSdkxoYU1ZU3pXSjkwZV83X21xZHp2a3ZxeFRxVWR3RDhBTGhYN2IyYTlGT1hnY0d5WUxuaG8?oc=5\" target=\"_blank\">Trump grants pardon to Binance founder Changpeng Zhao - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQV2xNRTMzOUxZSFZiRzdZYzhBTFkxaTJ2cFFOLXJLRlZpR0dXUWJzQVozYzMyRi1PNmg1TWZJMHpOWkpzQjBpS3pSNXp2Y0tTem15TENMRUdHSW1QeWlBcXVYZnVrTm1NaVViTEdPeUg1d3RnaDBZWmFLSFN1aWhqUzFEX2dJcllTNkc4NmlJTTl0dEVwRmxoVmtSNXg2S1pITkFfNFJod3c5R2xSM1FRTWRzQXJqTTBZWU5iMWViNUVrbDFWd045Rml4OTlrQVFNYm1hNXhRUFFlV2VPLUtycllURHByeWJEeWZyYzJGdlljTHBBNjBqNzkzZmxMM0hpOHF2aXRzQ2FObjZENXpuOUpDVlZQS1NGWXlWR2pSdkxoYU1ZU3pXSjkwZV83X21xZHp2a3ZxeFRxVWR3RDhBTGhYN2IyYTlGT1hnY0d5WUxuaG8?oc=5",
       "source": "report - MSN",
       "ceo_name": "CZ",
       "exchange": "Binance",
