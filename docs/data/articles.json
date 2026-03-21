@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-21T03:13:34Z",
-  "total": 250,
+  "updated_at": "2026-03-21T04:59:50Z",
+  "total": 251,
   "by_ceo": {
-    "Brian Armstrong": 125,
+    "Brian Armstrong": 126,
     "CZ": 46,
     "Richard Teng": 39,
     "Ben Zhou": 32,
@@ -19,6 +19,17 @@
       "published_at": "2026-03-20T21:52:20+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning thestreet.com"
+    },
+    {
+      "title": "BREAKING: 🇺🇸 Coinbase CEO Brian Armstrong predicts #Bitco",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBaQ0lsREJLbjBDdXMxajhiSUxvY2dSNDFOTEpvREktY0tnRFg3U1FiWkVuOVYzTFh6WC1DSXR5UXNXMm9Fc09DSHI2RWlnQk1hcndVU2wybTBVWExTMXI5bGNxbU9ic3lzRGFwVWd4UENKUQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 Coinbase CEO Brian Armstrong predicts #Bitco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaQ0lsREJLbjBDdXMxajhiSUxvY2dSNDFOTEpvREktY0tnRFg3U1FiWkVuOVYzTFh6WC1DSXR5UXNXMm9Fc09DSHI2RWlnQk1hcndVU2wybTBVWExTMXI5bGNxbU9ic3lzRGFwVWd4UENKUQ?oc=5",
+      "source": "KuCoin",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-20T21:50:20+00:00",
+      "tags": [],
+      "key_quote": "BREAKING: 🇺🇸 Coinbase CEO Brian Armstrong predicts #Bitco KuCoin"
     },
     {
       "title": "Brian Armstrong pushes Coinbase expansion — price drops amid mixed technicals",
