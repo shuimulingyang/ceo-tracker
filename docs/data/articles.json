@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-21T19:14:59Z",
-  "total": 252,
+  "updated_at": "2026-03-21T20:12:09Z",
+  "total": 253,
   "by_ceo": {
-    "Brian Armstrong": 126,
+    "Brian Armstrong": 127,
     "CZ": 47,
     "Richard Teng": 39,
     "Ben Zhou": 32,
@@ -56,6 +56,19 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin can support dollar strength as capital shifts during inflation, Brian Armstrong states Traders Union"
+    },
+    {
+      "title": "Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yMmxxUENnOUo1dENGVmJJdDNqRGlrU3FHSlpHcDl3VFV3eXdRMWhQWXFvTUI2cEp1UDJWUEZyRnlva1hHb0p6T2NIdndNN09JNGN5VkVra2U?oc=5\" target=\"_blank\">Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yMmxxUENnOUo1dENGVmJJdDNqRGlrU3FHSlpHcDl3VFV3eXdRMWhQWXFvTUI2cEp1UDJWUEZyRnlva1hHb0p6T2NIdndNN09JNGN5VkVra2U?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-20T07:00:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong Cryptonews.net"
     },
     {
       "title": "Changpeng Zhao Denies Iran-Linked Claims on Binance",
