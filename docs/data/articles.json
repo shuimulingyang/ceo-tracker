@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-21T04:59:50Z",
-  "total": 251,
+  "updated_at": "2026-03-21T05:40:51Z",
+  "total": 252,
   "by_ceo": {
     "Brian Armstrong": 126,
-    "CZ": 46,
+    "CZ": 47,
     "Richard Teng": 39,
     "Ben Zhou": 32,
     "Star Xu": 8
@@ -116,6 +116,17 @@
         "Layer2"
       ],
       "key_quote": "Trump met Coinbase CEO before slamming banks over crypto bill: Report MSN"
+    },
+    {
+      "title": "Trump grants pardon to Binance founder Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0gJBVV95cUxOd1VWaWJKTXRlZkZESmlJLWlIRzNSelRjRmZDYUJrYTREQ0M0bFAwZFFrLTZUcnNjNTRLTGdHOUdvcEhGVGMzMkVwaDNjYmlGT2RrZm85dmw2TU5yM1d2X2xfVGVtaHhBTS12ZHlnZGJxcnhGZlJaOF82b3RCNW40MERYaE5MT1hJMWIyMlJCQndoTDRaYmxpa0F5ampFaVd3bUVXOFROMlBlTnZIR21uVlg5N1MyM3VVdXFRNEpWWVJuc3ZuNmVUY1RaMklodU8yb2ZyRVRkN0hXSEJwQTlUa2duanFkT1hlOG9fWGRIX1VBNmloZ2ZYR3A0YWM4MUhMLWY2bjhObjhIcGNaQVlwM3FVank1d09JWk9PdUlBWkZ6YTFXcWt5TzVXaHRic2U1b082MUZ2eHoyR0t6b3BjLTAtXy1pc0piRXVQVEFpeURIQQ?oc=5\" target=\"_blank\">Trump grants pardon to Binance founder Changpeng Zhao - report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOd1VWaWJKTXRlZkZESmlJLWlIRzNSelRjRmZDYUJrYTREQ0M0bFAwZFFrLTZUcnNjNTRLTGdHOUdvcEhGVGMzMkVwaDNjYmlGT2RrZm85dmw2TU5yM1d2X2xfVGVtaHhBTS12ZHlnZGJxcnhGZlJaOF82b3RCNW40MERYaE5MT1hJMWIyMlJCQndoTDRaYmxpa0F5ampFaVd3bUVXOFROMlBlTnZIR21uVlg5N1MyM3VVdXFRNEpWWVJuc3ZuNmVUY1RaMklodU8yb2ZyRVRkN0hXSEJwQTlUa2duanFkT1hlOG9fWGRIX1VBNmloZ2ZYR3A0YWM4MUhMLWY2bjhObjhIcGNaQVlwM3FVank1d09JWk9PdUlBWkZ6YTFXcWt5TzVXaHRic2U1b082MUZ2eHoyR0t6b3BjLTAtXy1pc0piRXVQVEFpeURIQQ?oc=5",
+      "source": "report - MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-18T21:48:48+00:00",
+      "tags": [],
+      "key_quote": "Trump grants pardon to Binance founder Changpeng Zhao - report MSN"
     },
     {
       "title": "News Explorer — Binance Founder Changpeng Zhao Denies Firm's Involvement in Terrorism Financing",
