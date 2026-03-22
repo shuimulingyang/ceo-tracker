@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-22T10:14:54Z",
-  "total": 257,
+  "updated_at": "2026-03-22T11:13:29Z",
+  "total": 258,
   "by_ceo": {
-    "Brian Armstrong": 129,
+    "Brian Armstrong": 130,
     "CZ": 49,
     "Richard Teng": 39,
     "Ben Zhou": 32,
@@ -1203,6 +1203,19 @@
         "ETF"
       ],
       "key_quote": "Coinbase’s app could add self-custody, CEO Brian Armstrong reveals MSN"
+    },
+    {
+      "title": "Watch Coinbase CEO Brian Armstrong advocates for level playing field in stablecoin legislation",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeEdNVXd1dEJaOEY4Y1Z6RjBscFo3UVV2X1dWU1lQTHJNUjZFWmV6NEY0N1BDRFFaZ2lBYmNXRmdlQVF3ZnJ4SF9TWjBvYVZ0WmU5X2dXTGVpYlc3T0RoNjVLZjR3RHY2R2VfTHNJUFl5amFlTEhnbkYtSmRoWm9vZG5QNEl3ZEdhMDFVVmwyNWc0b1VqSWV3ZHV1MkpaTmhXeUpXOFd3RDhmOEd4NWpNYWI5ZG9tXzdzM3lFZEc2Y3UyUkFieXJhTExYWkl5SENNS0JzV1NOOA?oc=5\" target=\"_blank\">Watch Coinbase CEO Brian Armstrong advocates for level playing field in stablecoin legislation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX One Streaming</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeEdNVXd1dEJaOEY4Y1Z6RjBscFo3UVV2X1dWU1lQTHJNUjZFWmV6NEY0N1BDRFFaZ2lBYmNXRmdlQVF3ZnJ4SF9TWjBvYVZ0WmU5X2dXTGVpYlc3T0RoNjVLZjR3RHY2R2VfTHNJUFl5amFlTEhnbkYtSmRoWm9vZG5QNEl3ZEdhMDFVVmwyNWc0b1VqSWV3ZHV1MkpaTmhXeUpXOFd3RDhmOEd4NWpNYWI5ZG9tXzdzM3lFZEc2Y3UyUkFieXJhTExYWkl5SENNS0JzV1NOOA?oc=5",
+      "source": "FOX One Streaming",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-06T13:20:38+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Watch Coinbase CEO Brian Armstrong advocates for level playing field in stablecoin legislation FOX One Streaming"
     },
     {
       "title": "Trump Meets Coinbase CEO, Blames Banks for Stalling Crypto Bill",
