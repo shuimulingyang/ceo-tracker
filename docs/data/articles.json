@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-23T06:02:28Z",
-  "total": 259,
+  "updated_at": "2026-03-23T07:53:23Z",
+  "total": 260,
   "by_ceo": {
+    "CZ": 51,
     "Brian Armstrong": 130,
-    "CZ": 50,
     "Richard Teng": 39,
     "Ben Zhou": 32,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao: Bitcoin is a hard asset",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qcEdPYlEwVWFpSXYweEx4OFBhNnBhSzZhY2x2UzQydHliSjJydGNWWEtsQ1dIRHRmMFRLa3kwT3VZQ2lYLVpSOE1GUjI?oc=5\" target=\"_blank\">Changpeng Zhao: Bitcoin is a hard asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">코인니스</font>",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qcEdPYlEwVWFpSXYweEx4OFBhNnBhSzZhY2x2UzQydHliSjJydGNWWEtsQ1dIRHRmMFRLa3kwT3VZQ2lYLVpSOE1GUjI?oc=5",
+      "source": "코인니스",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-23T05:05:05+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Changpeng Zhao: Bitcoin is a hard asset 코인니스"
+    },
     {
       "title": "Coinbase CEO believes aging will soon become optional",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWml4eFdlQzVLMlNRd21CYnoyaHdNbENqWThUaE02Z0tULXgyR0RhYUhZel9FYTQtOVdnM05uaDA4OGNBRzNfOEdfNFNxRF9uMU9yc2w1WU9UZHcyYktrSmNfRkZvamVfMkZsZlRvMk9mRUN1REoxRllLSlhqNXZFNlJ2bUJCNjVvM3B5MVFKTjJVWnVqaV83S2d0aWdRZU5vTHcwQk5DNA?oc=5\" target=\"_blank\">Coinbase CEO believes aging will soon become optional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
