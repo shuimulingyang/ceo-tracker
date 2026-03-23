@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-23T20:26:27Z",
-  "total": 265,
+  "updated_at": "2026-03-23T21:24:25Z",
+  "total": 266,
   "by_ceo": {
     "Brian Armstrong": 134,
-    "CZ": 52,
+    "CZ": 53,
     "Richard Teng": 39,
     "Ben Zhou": 32,
     "Star Xu": 8
@@ -60,6 +60,19 @@
       "published_at": "2026-03-23T09:18:06+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Faces Backlash Over ‘Financial Freedom’ Pitch Cryptonews.net"
+    },
+    {
+      "title": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NNkFkLTkxT010c1o4bzQ4cEdFakxpV3hvalRNLU9ZSkhLUFoyVmxsbmhPeDIxcTAycXpSS1FJYVdxTDFNSjkw?oc=5\" target=\"_blank\">Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NNkFkLTkxT010c1o4bzQ4cEdFakxpV3hvalRNLU9ZSkhLUFoyVmxsbmhPeDIxcTAycXpSS1FJYVdxTDFNSjkw?oc=5",
+      "source": "MEXC",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-23T08:34:13+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative MEXC"
     },
     {
       "title": "Changpeng Zhao: Bitcoin is a hard asset",
