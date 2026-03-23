@@ -1,14 +1,29 @@
 {
-  "updated_at": "2026-03-23T19:38:58Z",
-  "total": 264,
+  "updated_at": "2026-03-23T20:26:27Z",
+  "total": 265,
   "by_ceo": {
+    "Brian Armstrong": 134,
     "CZ": 52,
-    "Brian Armstrong": 133,
     "Richard Teng": 39,
     "Ben Zhou": 32,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Coinbase CEO and BlackRock CEO Align on Tokenization Potential for BTC, ETH, SOL",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWVCOTFTS1pYWU5PMG05TFIwbUVSOWdvSUFnclZqWXlrX0Nyc0d0b0hPUFByUFY0S01YYVBxYnhJNUJwdHRENjI3N253SmpWQ19yQUZ1dkYybnVHcGhzcnRRa1g1ektmQ0Fvam1UNmVuUWRkcEJtZ3IxaENYc011a1BkYzNJbkJvR1g3Tnd6U0FDYy1WMlZ1SldXUWNuTFE5Z1NEOWNSWFpMNTA0VVdGS1JR?oc=5\" target=\"_blank\">Coinbase CEO and BlackRock CEO Align on Tokenization Potential for BTC, ETH, SOL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWVCOTFTS1pYWU5PMG05TFIwbUVSOWdvSUFnclZqWXlrX0Nyc0d0b0hPUFByUFY0S01YYVBxYnhJNUJwdHRENjI3N253SmpWQ19yQUZ1dkYybnVHcGhzcnRRa1g1ektmQ0Fvam1UNmVuUWRkcEJtZ3IxaENYc011a1BkYzNJbkJvR1g3Tnd6U0FDYy1WMlZ1SldXUWNuTFE5Z1NEOWNSWFpMNTA0VVdGS1JR?oc=5",
+      "source": "blockchain.news",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-23T20:04:58+00:00",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "机构 Institutional"
+      ],
+      "key_quote": "Coinbase CEO and BlackRock CEO Align on Tokenization Potential for BTC, ETH, SOL blockchain.news"
+    },
     {
       "title": "Changpeng Zhao Defends Bitcoin as Hard Asset on X",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1leWtQd3lGT1J3Yy01RkZCcnJaZjNGdUEwSmdYYTIxc2dIdGQzdjBxcFZEMTVhUWFLRWxyR3p2WGRUUUExT2MxLTFTejJtZG5YZFhLb0ZlWVNrTGluMjRmX0dFeUNFdVAwMVUwYTFCMVdwQzJlaWF1Z1RBNXdiNDg?oc=5\" target=\"_blank\">Changpeng Zhao Defends Bitcoin as Hard Asset on X</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
