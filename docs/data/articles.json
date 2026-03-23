@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-23T14:05:26Z",
-  "total": 261,
+  "updated_at": "2026-03-23T15:49:18Z",
+  "total": 263,
   "by_ceo": {
-    "Brian Armstrong": 131,
+    "Brian Armstrong": 133,
     "CZ": 51,
     "Richard Teng": 39,
     "Ben Zhou": 32,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Says DeFi Gives Global Financial Access With Just a Device",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuX0xOSVZjRUZzVzNZSFhnU1NaNWdSUmswOGlHVVFfcGRHQWVJbHBlMjM4VGlRZElHcmJvdU41ZDAyRTdtZ0E?oc=5\" target=\"_blank\">Brian Armstrong Says DeFi Gives Global Financial Access With Just a Device</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mexc.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuX0xOSVZjRUZzVzNZSFhnU1NaNWdSUmswOGlHVVFfcGRHQWVJbHBlMjM4VGlRZElHcmJvdU41ZDAyRTdtZ0E?oc=5",
+      "source": "mexc.co",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-23T15:20:44+00:00",
+      "tags": [
+        "DeFi"
+      ],
+      "key_quote": "Brian Armstrong Says DeFi Gives Global Financial Access With Just a Device mexc.co"
+    },
     {
       "title": "Coinbase CEO Faces Backlash Over ‘Financial Freedom’ Pitch",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtYVFMV2tIblk1Vm1tQkJ5djlKRjhWbjVyZUJ6aDdFNE5VSEJmOFRwdWhObW5iYmV4QndUYmxTM0NybUlOUFRfeFYtZThIaGpqdGxLTm5SUQ?oc=5\" target=\"_blank\">Coinbase CEO Faces Backlash Over ‘Financial Freedom’ Pitch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
@@ -32,6 +45,17 @@
         "Bitcoin"
       ],
       "key_quote": "Changpeng Zhao: Bitcoin is a hard asset 코인니스"
+    },
+    {
+      "title": "Brian Armstrong says decentralized financial services are globally accessible",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fdGpTN21mR2hRclF1Z3RCQ1RVc0RYUnZMN1k4dW5TUmpWUHd2ZndIQkJjRVA3SThBOXlQNUo0XzJjdWVMNXpPMDJPQU1VdEFsZF9IZGxlSTIwSzdLY2fSAWNBVV95cUxOc1BqUjdHS0tKTmVMY25jQWlpR1hNNEoyNVg3Q08tcmhQT3YwRnhHa3JmSTVXOGliazA5UzVwSmNELWFXT2tSc05BOWpqZVhZZEVIMlVIMUdzUDQwQVNCTHRuRkU?oc=5\" target=\"_blank\">Brian Armstrong says decentralized financial services are globally accessible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fdGpTN21mR2hRclF1Z3RCQ1RVc0RYUnZMN1k4dW5TUmpWUHd2ZndIQkJjRVA3SThBOXlQNUo0XzJjdWVMNXpPMDJPQU1VdEFsZF9IZGxlSTIwSzdLY2fSAWNBVV95cUxOc1BqUjdHS0tKTmVMY25jQWlpR1hNNEoyNVg3Q08tcmhQT3YwRnhHa3JmSTVXOGliazA5UzVwSmNELWFXT2tSc05BOWpqZVhZZEVIMlVIMUdzUDQwQVNCTHRuRkU?oc=5",
+      "source": "Bitget",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-22T11:03:36+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong says decentralized financial services are globally accessible Bitget"
     },
     {
       "title": "Coinbase CEO believes aging will soon become optional",
