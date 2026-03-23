@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-23T08:40:12Z",
-  "total": 260,
+  "updated_at": "2026-03-23T09:50:35Z",
+  "total": 261,
   "by_ceo": {
+    "Brian Armstrong": 131,
     "CZ": 51,
-    "Brian Armstrong": 130,
     "Richard Teng": 39,
     "Ben Zhou": 32,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Faces Backlash Over ‘Financial Freedom’ Pitch",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtYVFMV2tIblk1Vm1tQkJ5djlKRjhWbjVyZUJ6aDdFNE5VSEJmOFRwdWhObW5iYmV4QndUYmxTM0NybUlOUFRfeFYtZThIaGpqdGxLTm5SUQ?oc=5\" target=\"_blank\">Coinbase CEO Faces Backlash Over ‘Financial Freedom’ Pitch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtYVFMV2tIblk1Vm1tQkJ5djlKRjhWbjVyZUJ6aDdFNE5VSEJmOFRwdWhObW5iYmV4QndUYmxTM0NybUlOUFRfeFYtZThIaGpqdGxLTm5SUQ?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-23T09:18:06+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Faces Backlash Over ‘Financial Freedom’ Pitch Cryptonews.net"
+    },
     {
       "title": "Changpeng Zhao: Bitcoin is a hard asset",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qcEdPYlEwVWFpSXYweEx4OFBhNnBhSzZhY2x2UzQydHliSjJydGNWWEtsQ1dIRHRmMFRLa3kwT3VZQ2lYLVpSOE1GUjI?oc=5\" target=\"_blank\">Changpeng Zhao: Bitcoin is a hard asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">코인니스</font>",
