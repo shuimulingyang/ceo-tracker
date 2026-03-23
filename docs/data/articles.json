@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-23T15:49:18Z",
-  "total": 263,
+  "updated_at": "2026-03-23T16:41:56Z",
+  "total": 264,
   "by_ceo": {
+    "CZ": 52,
     "Brian Armstrong": 133,
-    "CZ": 51,
     "Richard Teng": 39,
     "Ben Zhou": 32,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao Defends Bitcoin as Hard Asset on X",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1leWtQd3lGT1J3Yy01RkZCcnJaZjNGdUEwSmdYYTIxc2dIdGQzdjBxcFZEMTVhUWFLRWxyR3p2WGRUUUExT2MxLTFTejJtZG5YZFhLb0ZlWVNrTGluMjRmX0dFeUNFdVAwMVUwYTFCMVdwQzJlaWF1Z1RBNXdiNDg?oc=5\" target=\"_blank\">Changpeng Zhao Defends Bitcoin as Hard Asset on X</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1leWtQd3lGT1J3Yy01RkZCcnJaZjNGdUEwSmdYYTIxc2dIdGQzdjBxcFZEMTVhUWFLRWxyR3p2WGRUUUExT2MxLTFTejJtZG5YZFhLb0ZlWVNrTGluMjRmX0dFeUNFdVAwMVUwYTFCMVdwQzJlaWF1Z1RBNXdiNDg?oc=5",
+      "source": "CoinCentral",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-23T16:19:09+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Changpeng Zhao Defends Bitcoin as Hard Asset on X CoinCentral"
+    },
     {
       "title": "Brian Armstrong Says DeFi Gives Global Financial Access With Just a Device",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuX0xOSVZjRUZzVzNZSFhnU1NaNWdSUmswOGlHVVFfcGRHQWVJbHBlMjM4VGlRZElHcmJvdU41ZDAyRTdtZ0E?oc=5\" target=\"_blank\">Brian Armstrong Says DeFi Gives Global Financial Access With Just a Device</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mexc.co</font>",
