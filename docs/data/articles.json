@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-24T11:35:51Z",
-  "total": 269,
+  "updated_at": "2026-03-24T12:39:19Z",
+  "total": 271,
   "by_ceo": {
     "Brian Armstrong": 135,
-    "CZ": 54,
+    "CZ": 56,
     "Richard Teng": 39,
     "Ben Zhou": 33,
     "Star Xu": 8
@@ -86,6 +86,19 @@
       "key_quote": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative MEXC"
     },
     {
+      "title": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tR1Zla0REakFLaHFCZk9QcmpUWjVteHdqY3lvZUtKWk9LMnNoQ0JZa1ZXNWwyNUlZQjBZaHdENm1KeUJaZmc?oc=5\" target=\"_blank\">Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mexc.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tR1Zla0REakFLaHFCZk9QcmpUWjVteHdqY3lvZUtKWk9LMnNoQ0JZa1ZXNWwyNUlZQjBZaHdENm1KeUJaZmc?oc=5",
+      "source": "mexc.co",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-23T07:47:09+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative mexc.co"
+    },
+    {
       "title": "Changpeng Zhao: Bitcoin is a hard asset",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qcEdPYlEwVWFpSXYweEx4OFBhNnBhSzZhY2x2UzQydHliSjJydGNWWEtsQ1dIRHRmMFRLa3kwT3VZQ2lYLVpSOE1GUjI?oc=5\" target=\"_blank\">Changpeng Zhao: Bitcoin is a hard asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">코인니스</font>",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qcEdPYlEwVWFpSXYweEx4OFBhNnBhSzZhY2x2UzQydHliSjJydGNWWEtsQ1dIRHRmMFRLa3kwT3VZQ2lYLVpSOE1GUjI?oc=5",
@@ -97,6 +110,19 @@
         "Bitcoin"
       ],
       "key_quote": "Changpeng Zhao: Bitcoin is a hard asset 코인니스"
+    },
+    {
+      "title": "Changpeng Zhao: Bitcoin and Major Cryptocurrencies Are Hard Assets",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KbEdNQnFQTXlqc3hYaEU1UjFobDFnXzA5M3RycGRtMzF6LURPcGRIZW5jQU5ESzhKdHR2Q25oSHA3akcySUtPMjgtYW0ySDkyTUFwUVBDT25TZndHTmJ0OTNtN0vSAWpBVV95cUxQZml0ODR2LWtEMUxVa0t5Q1BrbEtqeXJhZFEwTGZ5Q2VjQl93MGczZDMyT3l1RkhxZTY2UTJ4ZVNEOXJjYm52VFk4c0RGQWp5UDg1U2ZkT0tvb2tQOGdPdUFZUlhPV05McEtR?oc=5\" target=\"_blank\">Changpeng Zhao: Bitcoin and Major Cryptocurrencies Are Hard Assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KbEdNQnFQTXlqc3hYaEU1UjFobDFnXzA5M3RycGRtMzF6LURPcGRIZW5jQU5ESzhKdHR2Q25oSHA3akcySUtPMjgtYW0ySDkyTUFwUVBDT25TZndHTmJ0OTNtN0vSAWpBVV95cUxQZml0ODR2LWtEMUxVa0t5Q1BrbEtqeXJhZFEwTGZ5Q2VjQl93MGczZDMyT3l1RkhxZTY2UTJ4ZVNEOXJjYm52VFk4c0RGQWp5UDg1U2ZkT0tvb2tQOGdPdUFZUlhPV05McEtR?oc=5",
+      "source": "Bitget",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-22T13:52:10+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Changpeng Zhao: Bitcoin and Major Cryptocurrencies Are Hard Assets Bitget"
     },
     {
       "title": "Brian Armstrong says decentralized financial services are globally accessible",
