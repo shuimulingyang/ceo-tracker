@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-24T08:36:27Z",
-  "total": 268,
+  "updated_at": "2026-03-24T09:42:26Z",
+  "total": 269,
   "by_ceo": {
     "Brian Armstrong": 135,
-    "CZ": 53,
+    "CZ": 54,
     "Richard Teng": 39,
     "Ben Zhou": 33,
     "Star Xu": 8
@@ -928,6 +928,17 @@
       "published_at": "2026-03-11T07:04:23+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Applauds Trump’s Pivotal Push To Establish US As Global Crypto Capital MEXC"
+    },
+    {
+      "title": "Forbes Says Changpeng Zhao’s Net Worth Is $110B, Binance Founder Calls It “Inaccurate”",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYkh6d2xHNjRCM1AyaWlPSkhYRWNkOV9VM3g4UDBFdW9nSHZqa25aUy1WaVI3NVlDRXJLUU9ic3ItT2FFTG5NLWxFNjE5TkJZWDBFZzE1OXdPbGt6LURyTzQxdm1SQVNSQ1QtY3JJcEg4QnZGRTlXaDlxcmROUFEtYWNGQklSYk8xUUlfVW53bFhiczZZam5zY1l1NU1INXBxY2RpWnFxZjN6Nlh3R0FKMkpaSkZHbko0NVN1MUZMOE9ibGhGaDA4ekFVUXMwV1dyUk84WXZJdERMNXVzamc?oc=5\" target=\"_blank\">Forbes Says Changpeng Zhao’s Net Worth Is $110B, Binance Founder Calls It “Inaccurate”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYkh6d2xHNjRCM1AyaWlPSkhYRWNkOV9VM3g4UDBFdW9nSHZqa25aUy1WaVI3NVlDRXJLUU9ic3ItT2FFTG5NLWxFNjE5TkJZWDBFZzE1OXdPbGt6LURyTzQxdm1SQVNSQ1QtY3JJcEg4QnZGRTlXaDlxcmROUFEtYWNGQklSYk8xUUlfVW53bFhiczZZam5zY1l1NU1INXBxY2RpWnFxZjN6Nlh3R0FKMkpaSkZHbko0NVN1MUZMOE9ibGhGaDA4ekFVUXMwV1dyUk84WXZJdERMNXVzamc?oc=5",
+      "source": "TradingView",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-11T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Forbes Says Changpeng Zhao’s Net Worth Is $110B, Binance Founder Calls It “Inaccurate” TradingView"
     },
     {
       "title": "Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial",
