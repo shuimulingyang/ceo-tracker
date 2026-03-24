@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-24T20:28:48Z",
-  "total": 275,
+  "updated_at": "2026-03-24T21:25:53Z",
+  "total": 277,
   "by_ceo": {
-    "Brian Armstrong": 138,
-    "CZ": 57,
+    "Brian Armstrong": 139,
+    "CZ": 58,
     "Richard Teng": 39,
     "Ben Zhou": 33,
     "Star Xu": 8
@@ -147,6 +147,30 @@
         "Bitcoin"
       ],
       "key_quote": "Changpeng Zhao: Bitcoin is a hard asset 코인니스"
+    },
+    {
+      "title": "Brian Armstrong says decentralized financial services are globally accessible",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zUGpSN0dLS0pOZUxjbmNBaWlHWE00SjI1WDdDTy1yaFBPdjBGeEdrcmZJNVc4aWJrMDlTNXBKY0QtYVdPa1JzTkE5amplWFlkRUgyVUgxR3NQNDBBU0JMdG5GRdIBY0FVX3lxTE5zUGpSN0dLS0pOZUxjbmNBaWlHWE00SjI1WDdDTy1yaFBPdjBGeEdrcmZJNVc4aWJrMDlTNXBKY0QtYVdPa1JzTkE5amplWFlkRUgyVUgxR3NQNDBBU0JMdG5GRQ?oc=5\" target=\"_blank\">Brian Armstrong says decentralized financial services are globally accessible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zUGpSN0dLS0pOZUxjbmNBaWlHWE00SjI1WDdDTy1yaFBPdjBGeEdrcmZJNVc4aWJrMDlTNXBKY0QtYVdPa1JzTkE5amplWFlkRUgyVUgxR3NQNDBBU0JMdG5GRdIBY0FVX3lxTE5zUGpSN0dLS0pOZUxjbmNBaWlHWE00SjI1WDdDTy1yaFBPdjBGeEdrcmZJNVc4aWJrMDlTNXBKY0QtYVdPa1JzTkE5amplWFlkRUgyVUgxR3NQNDBBU0JMdG5GRQ?oc=5",
+      "source": "Bitget",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-23T02:08:48+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong says decentralized financial services are globally accessible Bitget"
+    },
+    {
+      "title": "US President Trump pardons convicted Binance founder Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizgJBVV95cUxOdTZrX0dRSElTak1mSnZ0cWFZNmxhT2dHbDZJdTN3VWZUNFZsRWVlUk9tTnlZdFEyNnM1a3IwWTN3VllSYWJ1QVd2VlRuRHlaQ0JZY2x2YUplZGUtNVJlQWlaeHFRUXZTdkJEU19QU3YwTk5Kdzgtei1CNmlFbldBYXVEMkFHYnJyYnZ6cWVXU0ZBY0xmeTFjSXpHNjNINUtOWXBNU1o2bjBYRzNTZFFHdmhOMVBtdVdxRXF4a2xla0tYUDRYV1R6UnBHYnpvZkNDVHE5ZHlFMjNyYmQxcS1FQ01hSFJNSG5iY2NQSlRueW45YjBHeWdjeHZrOGNvSEpWU2JyVTlOTDdSREJycklwOGViNkdmZlpXdndLM1pMak5pemlKcG5uQ20wZFFjU0U3ajVLUEhCVEhHQkFhakl0RlBlbFZOUlJtYmQ2dHVR?oc=5\" target=\"_blank\">US President Trump pardons convicted Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOdTZrX0dRSElTak1mSnZ0cWFZNmxhT2dHbDZJdTN3VWZUNFZsRWVlUk9tTnlZdFEyNnM1a3IwWTN3VllSYWJ1QVd2VlRuRHlaQ0JZY2x2YUplZGUtNVJlQWlaeHFRUXZTdkJEU19QU3YwTk5Kdzgtei1CNmlFbldBYXVEMkFHYnJyYnZ6cWVXU0ZBY0xmeTFjSXpHNjNINUtOWXBNU1o2bjBYRzNTZFFHdmhOMVBtdVdxRXF4a2xla0tYUDRYV1R6UnBHYnpvZkNDVHE5ZHlFMjNyYmQxcS1FQ01hSFJNSG5iY2NQSlRueW45YjBHeWdjeHZrOGNvSEpWU2JyVTlOTDdSREJycklwOGViNkdmZlpXdndLM1pMak5pemlKcG5uQ20wZFFjU0U3ajVLUEhCVEhHQkFhakl0RlBlbFZOUlJtYmQ2dHVR?oc=5",
+      "source": "MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-22T22:46:45+00:00",
+      "tags": [
+        "ETF"
+      ],
+      "key_quote": "US President Trump pardons convicted Binance founder Changpeng Zhao MSN"
     },
     {
       "title": "Changpeng Zhao: Bitcoin and Major Cryptocurrencies Are Hard Assets",
