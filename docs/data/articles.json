@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-24T16:47:17Z",
-  "total": 274,
+  "updated_at": "2026-03-24T17:44:51Z",
+  "total": 275,
   "by_ceo": {
-    "Brian Armstrong": 137,
+    "Brian Armstrong": 138,
     "CZ": 57,
     "Richard Teng": 39,
     "Ben Zhou": 33,
@@ -171,6 +171,20 @@
       "published_at": "2026-03-22T11:03:36+00:00",
       "tags": [],
       "key_quote": "Brian Armstrong says decentralized financial services are globally accessible Bitget"
+    },
+    {
+      "title": "Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTBBbFBqWVd1QjlINkxiXzdELTl6NUZjRTJEUFU5YlhVbktiMG05S2RXcFZvOEpqRFdITm9uM2xod1ZWMXZEWkMxUlBaZXFqYTVCWEpQeFNCNVZhdEtfNml6X19ibUxZWG5fdUUzZk95LVZzQVJFVmlmMmpaOFN0dFJVR185ZFo2WTdiQ3VMQWRNbHNjVlZySk10TTE5aFNWZk1vWDBfSmpHOE8yd3Z6dlFsU2Y3Zw?oc=5\" target=\"_blank\">Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTBBbFBqWVd1QjlINkxiXzdELTl6NUZjRTJEUFU5YlhVbktiMG05S2RXcFZvOEpqRFdITm9uM2xod1ZWMXZEWkMxUlBaZXFqYTVCWEpQeFNCNVZhdEtfNml6X19ibUxZWG5fdUUzZk95LVZzQVJFVmlmMmpaOFN0dFJVR185ZFo2WTdiQ3VMQWRNbHNjVlZySk10TTE5aFNWZk1vWDBfSmpHOE8yd3Z6dlFsU2Y3Zw?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-21T16:37:04+00:00",
+      "tags": [
+        "Bitcoin",
+        "ETF"
+      ],
+      "key_quote": "Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong CryptoRank"
     },
     {
       "title": "Coinbase CEO believes aging will soon become optional",
