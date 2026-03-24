@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-24T07:44:57Z",
-  "total": 267,
+  "updated_at": "2026-03-24T08:36:27Z",
+  "total": 268,
   "by_ceo": {
-    "Brian Armstrong": 134,
+    "Brian Armstrong": 135,
     "CZ": 53,
     "Richard Teng": 39,
     "Ben Zhou": 33,
@@ -60,6 +60,17 @@
       "published_at": "2026-03-23T09:18:06+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Faces Backlash Over ‘Financial Freedom’ Pitch Cryptonews.net"
+    },
+    {
+      "title": "Brian Armstrong Calls Petition To Remove Top Coinbase Execs ‘Really Dumb’",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGw4TjIwNHp0cGhBd3FBT3c5TW9iQ19oQThHLVlpbVRPem85OXV0aWlZN3IzUjdSVktCdW5lUVRLLWNUaFpUaDhkX2Uyc1ZOa3dEc3g0VW1tUFlyUGRwdDQ5ckZ1LUppa3RaXzkxcFNyUE05SmNfbDNwTU9DXzZqUmJRczBwb1lKMGJ1dHh5c2JqNTh5QU5uUHljU0VBcUsx?oc=5\" target=\"_blank\">Brian Armstrong Calls Petition To Remove Top Coinbase Execs ‘Really Dumb’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockworks</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGw4TjIwNHp0cGhBd3FBT3c5TW9iQ19oQThHLVlpbVRPem85OXV0aWlZN3IzUjdSVktCdW5lUVRLLWNUaFpUaDhkX2Uyc1ZOa3dEc3g0VW1tUFlyUGRwdDQ5ckZ1LUppa3RaXzkxcFNyUE05SmNfbDNwTU9DXzZqUmJRczBwb1lKMGJ1dHh5c2JqNTh5QU5uUHljU0VBcUsx?oc=5",
+      "source": "Blockworks",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-23T08:35:35+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong Calls Petition To Remove Top Coinbase Execs ‘Really Dumb’ Blockworks"
     },
     {
       "title": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative",
