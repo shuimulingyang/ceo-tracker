@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-25T17:47:12Z",
-  "total": 285,
+  "updated_at": "2026-03-25T18:39:34Z",
+  "total": 286,
   "by_ceo": {
     "Brian Armstrong": 144,
     "Richard Teng": 40,
-    "CZ": 59,
+    "CZ": 60,
     "Ben Zhou": 34,
     "Star Xu": 8
   },
@@ -59,6 +59,20 @@
         "安全 Security"
       ],
       "key_quote": "Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams CryptoRank"
+    },
+    {
+      "title": "Changpeng Zhao: Anyone offering Binance listing help is likely a scammer",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPR21Uam1SNE9ROEdtbm85akJ0c1dWMXZsNFAzSXI2U212OGY0bHBiVGlDd3hMZmlpUEM5QTROVWQ0dEJVeTNITndEZ19haEVwVFFaQ1FzQlRzRG5vS3lPMjNhdFdEelZ4dnA2SzgtZ0JZM2VtWmEyNjEyWU1GTXo2b0xnRlB0ZTA5aDltV0hqVQ?oc=5\" target=\"_blank\">Changpeng Zhao: Anyone offering Binance listing help is likely a scammer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR21Uam1SNE9ROEdtbm85akJ0c1dWMXZsNFAzSXI2U212OGY0bHBiVGlDd3hMZmlpUEM5QTROVWQ0dEJVeTNITndEZ19haEVwVFFaQ1FzQlRzRG5vS3lPMjNhdFdEelZ4dnA2SzgtZ0JZM2VtWmEyNjEyWU1GTXo2b0xnRlB0ZTA5aDltV0hqVQ?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-25T04:30:07+00:00",
+      "tags": [
+        "DeFi",
+        "安全 Security"
+      ],
+      "key_quote": "Changpeng Zhao: Anyone offering Binance listing help is likely a scammer Traders Union"
     },
     {
       "title": "Brian Armstrong Has Not Commented on the New CLARITY Act Text. His Previous Positions Tell the Story.",
