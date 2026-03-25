@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-25T09:40:40Z",
-  "total": 282,
+  "updated_at": "2026-03-25T10:36:12Z",
+  "total": 283,
   "by_ceo": {
     "Brian Armstrong": 144,
+    "Richard Teng": 40,
     "CZ": 58,
-    "Richard Teng": 39,
     "Ben Zhou": 33,
     "Star Xu": 8
   },
@@ -35,6 +35,17 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin Doesn't Face 'Existential' Risk From Quantum Computers, Says Brian Armstrong: 'With Good Work, We Can Make Sure That Lands In A Good Place' Benzinga"
+    },
+    {
+      "title": "Binance plans broader asset offerings for 310M+ users, Richard Teng emphasizes",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1ppTG03TVFJQnAzUVI4UWdieW9DNnZRLUl0bVI0TUxPUktuTHRSYnB4b3JMT01WNjdKWGcxYWcwRjVnU1pxRjZnMWhiYjAtM1NuWDJuZE80LVkyVlROamlIcEFnRG9aTGpxU1c2cGNLNHdrUUFBNURXQ1otTHlOOWlqWlhOVEZ6U3pwNFF4M18?oc=5\" target=\"_blank\">Binance plans broader asset offerings for 310M+ users, Richard Teng emphasizes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1ppTG03TVFJQnAzUVI4UWdieW9DNnZRLUl0bVI0TUxPUktuTHRSYnB4b3JMT01WNjdKWGcxYWcwRjVnU1pxRjZnMWhiYjAtM1NuWDJuZE80LVkyVlROamlIcEFnRG9aTGpxU1c2cGNLNHdrUUFBNURXQ1otTHlOOWlqWlhOVEZ6U3pwNFF4M18?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-03-25T05:15:16+00:00",
+      "tags": [],
+      "key_quote": "Binance plans broader asset offerings for 310M+ users, Richard Teng emphasizes Traders Union"
     },
     {
       "title": "Brian Armstrong Has Not Commented on the New CLARITY Act Text. His Previous Positions Tell the Story.",
