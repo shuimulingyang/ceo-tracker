@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-03-26T17:01:41Z",
-  "total": 292,
+  "updated_at": "2026-03-26T18:46:07Z",
+  "total": 294,
   "by_ceo": {
     "Brian Armstrong": 150,
-    "Richard Teng": 40,
-    "CZ": 60,
+    "Richard Teng": 41,
+    "CZ": 61,
     "Ben Zhou": 34,
     "Star Xu": 8
   },
@@ -34,6 +34,17 @@
         "Bitcoin"
       ],
       "key_quote": "Coinbase CEO Claims Breakthrough in Hunt for Satoshi Nakamoto streamlinefeed.co.ke"
+    },
+    {
+      "title": "Richard Teng: Crypto community collaborates to build inclusive financial system",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnRlMHZJVVl6Q3h6dkxVMkRoMXY4a2UyeXVFMWQwd0NJQzhYV2JJOFdPYnF3SHpKNmZFZ1ByeERINlEyTHhhdVk5Uk1uZlpnazBMU254UkJGQnhUa0hmYXN6WGcxeVRFTnZyejczQ0NmazQxaTA1Q0g4TlB0ejBPOFpxR2o5S3VFMVZZUGo1QWFGdw?oc=5\" target=\"_blank\">Richard Teng: Crypto community collaborates to build inclusive financial system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnRlMHZJVVl6Q3h6dkxVMkRoMXY4a2UyeXVFMWQwd0NJQzhYV2JJOFdPYnF3SHpKNmZFZ1ByeERINlEyTHhhdVk5Uk1uZlpnazBMU254UkJGQnhUa0hmYXN6WGcxeVRFTnZyejczQ0NmazQxaTA1Q0g4TlB0ejBPOFpxR2o5S3VFMVZZUGo1QWFGdw?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-03-26T08:30:15+00:00",
+      "tags": [],
+      "key_quote": "Richard Teng: Crypto community collaborates to build inclusive financial system Traders Union"
     },
     {
       "title": "Brian Armstrong Obituary and Online Memorial (2015)",
@@ -2693,6 +2704,17 @@
         "Layer2"
       ],
       "key_quote": "Binance's Richard Teng breaks down the ‘10/10’ nightmare that rocked crypto Yahoo Finance Singapore"
+    },
+    {
+      "title": "All-In Interview: w/ Binance founder Changpeng Zhao (Transcript)",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3Voc1k1aXJKNVVrZmJ1LVVwVGcteG9VZFgzS1FUQTZpLTZYN19hMGk4ajdZRHM5OTk3MF9mSmFjbm9PZHFySUtzR3ItTTg5YUhUZVVwdzVORXh5Z0lGTWxmSXNjS3JmblNTMmJPSE45b0gtcWtNN2N2aEJJVjFUVmdFTzU2ZUJJam0zeg?oc=5\" target=\"_blank\">All-In Interview: w/ Binance founder Changpeng Zhao (Transcript)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Singju Post</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3Voc1k1aXJKNVVrZmJ1LVVwVGcteG9VZFgzS1FUQTZpLTZYN19hMGk4ajdZRHM5OTk3MF9mSmFjbm9PZHFySUtzR3ItTTg5YUhUZVVwdzVORXh5Z0lGTWxmSXNjS3JmblNTMmJPSE45b0gtcWtNN2N2aEJJVjFUVmdFTzU2ZUJJam0zeg?oc=5",
+      "source": "The Singju Post",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-02-11T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "All-In Interview: w/ Binance founder Changpeng Zhao (Transcript) The Singju Post"
     },
     {
       "title": "Coinbase CEO Falls From List Of World’s Richest as Crypto Slides",
