@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-03-27T14:02:04Z",
-  "total": 295,
+  "updated_at": "2026-03-27T15:39:06Z",
+  "total": 297,
   "by_ceo": {
+    "Ben Zhou": 35,
     "Brian Armstrong": 150,
     "Richard Teng": 41,
-    "CZ": 62,
-    "Ben Zhou": 34,
+    "CZ": 63,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Bybit CEO: Two-thirds of Lazarus-hacked funds remain traceable",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxQbVF3SDUxNGxjTVBabmQ3UVk4YmstcXpOVlNqN2RZZkJWN3JsdnNRQW9BVVBUOTkxeF85bWxnZEtDM0hSQzMteF9tenBiUF9RYjNaTVlQNHBFMDBMaEVxNnRkZ2VyX3Jsa0V0c1BHS0Q0YzJ5RldBdDZlT3ZkLTAwUW5YUEZFci0tNU5seHJlakdram1UVXFyYlJBdjZiZ2VKUldoNVFobGp4UzFkbDhHb2thdktCSHFJeGdtR0Zrd080ZlJ4S2NJc3QyR1pURFZjeHdDSzZHdjB3U2hQdXQyMVhWbWhKbEJsb2plUXFMSmJTWW9ZeFc3TGNxREZXR3ozdlQydGhZV29fT2o4VWtIcmdyR0tqYkZIZzVDQUNPZnJCYmU1bkxOZ05vN1F6dXVtRkpjQ1U1MTZLSWNfX2FGTU4zVTdyTFY1Qko2NA?oc=5\" target=\"_blank\">Bybit CEO: Two-thirds of Lazarus-hacked funds remain traceable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQbVF3SDUxNGxjTVBabmQ3UVk4YmstcXpOVlNqN2RZZkJWN3JsdnNRQW9BVVBUOTkxeF85bWxnZEtDM0hSQzMteF9tenBiUF9RYjNaTVlQNHBFMDBMaEVxNnRkZ2VyX3Jsa0V0c1BHS0Q0YzJ5RldBdDZlT3ZkLTAwUW5YUEZFci0tNU5seHJlakdram1UVXFyYlJBdjZiZ2VKUldoNVFobGp4UzFkbDhHb2thdktCSHFJeGdtR0Zrd080ZlJ4S2NJc3QyR1pURFZjeHdDSzZHdjB3U2hQdXQyMVhWbWhKbEJsb2plUXFMSmJTWW9ZeFc3TGNxREZXR3ozdlQydGhZV29fT2o4VWtIcmdyR0tqYkZIZzVDQUNPZnJCYmU1bkxOZ05vN1F6dXVtRkpjQ1U1MTZLSWNfX2FGTU4zVTdyTFY1Qko2NA?oc=5",
+      "source": "MSN",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-03-26T21:41:28+00:00",
+      "tags": [
+        "安全 Security",
+        "机构 Institutional"
+      ],
+      "key_quote": "Bybit CEO: Two-thirds of Lazarus-hacked funds remain traceable MSN"
+    },
     {
       "title": "Who Is Satoshi Nakamoto?—Coinbase CEO Reveals He Now Thinks He Knows The Answer To The Massive Bitcoin Mystery",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdHlGRUxiOXJnXzVGWldQeWdBbGNUc3pEOXdTeERodkZaeUJxd2ZHdTh3Z0gtY1pUdkZHNEUtRzFWLS14QnVVbl9aNVV0b2ZJLXN0U1Z1YkJVZDJXa1BvOTBFYkdPcklIcUJkRFJwZ1RzZnR5REZFT0xWMmI2ekRfRGc3ellZUXIwUFY3WUJSSUwzV2NxN2ltVUNiQ2I1d09FRHhTemdVV01tSjNpc0dlTld2bDJDQXZoMlFPemxrVWRnaks0RFJ6ZDVBeVEyYXY4YUxLWW9YQm1HVllGTG9TMVVVWlN1NGNRTmJ2SU9ROXYwRHlNaG5HRA?oc=5\" target=\"_blank\">Who Is Satoshi Nakamoto?—Coinbase CEO Reveals He Now Thinks He Knows The Answer To The Massive Bitcoin Mystery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
@@ -110,6 +124,19 @@
         "市场 Market"
       ],
       "key_quote": "Brian Armstrong Drops Bullish Signal on Banks and Crypto Shift Live Bitcoin News"
+    },
+    {
+      "title": "Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrQ3ZOT1Nnd3RFWUhmVXlMMEowbE52Nkp4eXBSRXdIWDFWNEg5ODE4R1BOa1dVY0lqYjVpVVFwZ0xnZFI5Ukw0?oc=5\" target=\"_blank\">Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrQ3ZOT1Nnd3RFWUhmVXlMMEowbE52Nkp4eXBSRXdIWDFWNEg5ODE4R1BOa1dVY0lqYjVpVVFwZ0xnZFI5Ukw0?oc=5",
+      "source": "MEXC",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-25T07:59:05+00:00",
+      "tags": [
+        "安全 Security"
+      ],
+      "key_quote": "Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams MEXC"
     },
     {
       "title": "Bitcoin Doesn't Face 'Existential' Risk From Quantum Computers, Says Brian Armstrong: 'With Good Work, We Can Make Sure That Lands In A Good Place'",
