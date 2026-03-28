@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-28T18:22:05Z",
-  "total": 303,
+  "updated_at": "2026-03-28T19:21:00Z",
+  "total": 305,
   "by_ceo": {
     "Richard Teng": 42,
     "Brian Armstrong": 151,
     "Ben Zhou": 35,
-    "CZ": 66,
+    "CZ": 68,
     "Star Xu": 9
   },
   "articles": [
@@ -174,6 +174,19 @@
         "安全 Security"
       ],
       "key_quote": "Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams MEXC"
+    },
+    {
+      "title": "Changpeng Zhao Staking ASTER: A Strategic Hint That Could Reshape Crypto Markets",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5EckZOaWE3VHZNOVByM2VPd0dqRlUwT1dGVWpFWFBJMEViTHdUZDc0cXlwNndBcV9vR0JPcXRWbmZZTWxxSDVV?oc=5\" target=\"_blank\">Changpeng Zhao Staking ASTER: A Strategic Hint That Could Reshape Crypto Markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5EckZOaWE3VHZNOVByM2VPd0dqRlUwT1dGVWpFWFBJMEViTHdUZDc0cXlwNndBcV9vR0JPcXRWbmZZTWxxSDVV?oc=5",
+      "source": "MEXC",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-25T06:34:34+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Changpeng Zhao Staking ASTER: A Strategic Hint That Could Reshape Crypto Markets MEXC"
     },
     {
       "title": "Bitcoin Doesn't Face 'Existential' Risk From Quantum Computers, Says Brian Armstrong: 'With Good Work, We Can Make Sure That Lands In A Good Place'",
@@ -364,6 +377,19 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative mexc.co"
+    },
+    {
+      "title": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBrblo4ZEozUFAwYXhheHlpbUhhNEJyRDQtQVFlR3dTaDNlQTI4NllVS0ZpV3FNekpDQkF2SE9XRThEYUVhZGJTaFhTbzRFalNBV1hkMHBOYjkyaFlSVkN5U2V1a0hrZ1N1aEtOQUVsRnAzczlIWEdSbXdZNA?oc=5\" target=\"_blank\">Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrblo4ZEozUFAwYXhheHlpbUhhNEJyRDQtQVFlR3dTaDNlQTI4NllVS0ZpV3FNekpDQkF2SE9XRThEYUVhZGJTaFhTbzRFalNBV1hkMHBOYjkyaFlSVkN5U2V1a0hrZ1N1aEtOQUVsRnAzczlIWEdSbXdZNA?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-23T05:51:57+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative CryptoRank"
     },
     {
       "title": "Changpeng Zhao: Bitcoin is a hard asset",
