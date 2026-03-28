@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-28T15:18:52Z",
-  "total": 301,
+  "updated_at": "2026-03-28T16:18:28Z",
+  "total": 302,
   "by_ceo": {
     "Richard Teng": 42,
     "Brian Armstrong": 151,
     "Ben Zhou": 35,
-    "CZ": 65,
+    "CZ": 66,
     "Star Xu": 8
   },
   "articles": [
@@ -2803,6 +2803,17 @@
       "published_at": "2026-02-11T08:00:00+00:00",
       "tags": [],
       "key_quote": "All-In Interview: w/ Binance founder Changpeng Zhao (Transcript) The Singju Post"
+    },
+    {
+      "title": "Binance founder Changpeng Zhao says he ‘didn’t do much’ to get Trump pardon",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1RhUEJrcWVCTWRLVlZPTFNzVEJkdWlyR2g0eVZ3YkZEcXNScGU0djViaExsTEpuTm5nWktlYTFoRnc4TzhabVR3ZVV2Q1pjR3FmTjBEUjVKWGQ5MWtFS2xrbXNjUG56dlR2UFQ4WEFlSUdMb2JrRDdpNFhacFdLdHdvSEptclY0OGkyOTJZaTcxN2NoRFo4RnF3c3FhZnhqWTB1dERHZTJqM3Jy?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao says he ‘didn’t do much’ to get Trump pardon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dlnews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1RhUEJrcWVCTWRLVlZPTFNzVEJkdWlyR2g0eVZ3YkZEcXNScGU0djViaExsTEpuTm5nWktlYTFoRnc4TzhabVR3ZVV2Q1pjR3FmTjBEUjVKWGQ5MWtFS2xrbXNjUG56dlR2UFQ4WEFlSUdMb2JrRDdpNFhacFdLdHdvSEptclY0OGkyOTJZaTcxN2NoRFo4RnF3c3FhZnhqWTB1dERHZTJqM3Jy?oc=5",
+      "source": "dlnews.com",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-02-11T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "Binance founder Changpeng Zhao says he ‘didn’t do much’ to get Trump pardon dlnews.com"
     },
     {
       "title": "Coinbase CEO Falls From List Of World’s Richest as Crypto Slides",
