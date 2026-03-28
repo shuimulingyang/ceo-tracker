@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-28T14:22:35Z",
-  "total": 300,
+  "updated_at": "2026-03-28T15:18:52Z",
+  "total": 301,
   "by_ceo": {
     "Richard Teng": 42,
     "Brian Armstrong": 151,
     "Ben Zhou": 35,
-    "CZ": 64,
+    "CZ": 65,
     "Star Xu": 8
   },
   "articles": [
@@ -225,6 +225,19 @@
         "安全 Security"
       ],
       "key_quote": "Changpeng Zhao: Anyone offering Binance listing help is likely a scammer Traders Union"
+    },
+    {
+      "title": "Changpeng Zhao (CZ): Binance Founder, Legal Case & Crypto Impact 2026",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qc0JSWk9xaEU2QWRhSmg5bE5ZTjl4YlNZUmZiMXd2RW5pUnJiS2N4c0FNMlNoblZTVXkyQVBwalNnRmxaYlpmdHd0NmhzZTBKWS1TYmxJVU3SAV5BVV95cUxPTkpyVEhfV0JTRlpwLWN0aEt1clkyT1IwdGVRTWp1WHNIQ3A1ZktIakd2ZWJBLU8zRkpGYkkwRlZoQmRtdkY2bG5GM3JfT0hPa1IyWlRpTFpwVFF6UVRn?oc=5\" target=\"_blank\">Changpeng Zhao (CZ): Binance Founder, Legal Case & Crypto Impact 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qc0JSWk9xaEU2QWRhSmg5bE5ZTjl4YlNZUmZiMXd2RW5pUnJiS2N4c0FNMlNoblZTVXkyQVBwalNnRmxaYlpmdHd0NmhzZTBKWS1TYmxJVU3SAV5BVV95cUxPTkpyVEhfV0JTRlpwLWN0aEt1clkyT1IwdGVRTWp1WHNIQ3A1ZktIakd2ZWJBLU8zRkpGYkkwRlZoQmRtdkY2bG5GM3JfT0hPa1IyWlRpTFpwVFF6UVRn?oc=5",
+      "source": "Bitget",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-25T02:08:55+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Changpeng Zhao (CZ): Binance Founder, Legal Case & Crypto Impact 2026 Bitget"
     },
     {
       "title": "Brian Armstrong Has Not Commented on the New CLARITY Act Text. His Previous Positions Tell the Story.",
