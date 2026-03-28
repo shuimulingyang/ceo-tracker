@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-27T23:20:40Z",
-  "total": 298,
+  "updated_at": "2026-03-28T01:00:49Z",
+  "total": 299,
   "by_ceo": {
+    "Brian Armstrong": 151,
     "Ben Zhou": 35,
-    "Brian Armstrong": 150,
     "Richard Teng": 41,
     "CZ": 64,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Brian Armstrong",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zQUVMd1dXSWxSWDhBNXE1VlNrSlh3eTcwNXlSMmZ4YldHQUU2U2xmeFlrYXdTcE1VYWJRdGdIU2RZbzBkd2FiNF9OeW13R294VjNNVTREdzJwM0VIZV9lNGRLc3c?oc=5\" target=\"_blank\">Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ccn.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zQUVMd1dXSWxSWDhBNXE1VlNrSlh3eTcwNXlSMmZ4YldHQUU2U2xmeFlrYXdTcE1VYWJRdGdIU2RZbzBkd2FiNF9OeW13R294VjNNVTREdzJwM0VIZV9lNGRLc3c?oc=5",
+      "source": "ccn.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-27T21:07:32+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong ccn.com"
+    },
     {
       "title": "Bybit CEO: Two-thirds of Lazarus-hacked funds remain traceable",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxQbVF3SDUxNGxjTVBabmQ3UVk4YmstcXpOVlNqN2RZZkJWN3JsdnNRQW9BVVBUOTkxeF85bWxnZEtDM0hSQzMteF9tenBiUF9RYjNaTVlQNHBFMDBMaEVxNnRkZ2VyX3Jsa0V0c1BHS0Q0YzJ5RldBdDZlT3ZkLTAwUW5YUEZFci0tNU5seHJlakdram1UVXFyYlJBdjZiZ2VKUldoNVFobGp4UzFkbDhHb2thdktCSHFJeGdtR0Zrd080ZlJ4S2NJc3QyR1pURFZjeHdDSzZHdjB3U2hQdXQyMVhWbWhKbEJsb2plUXFMSmJTWW9ZeFc3TGNxREZXR3ozdlQydGhZV29fT2o4VWtIcmdyR0tqYkZIZzVDQUNPZnJCYmU1bkxOZ05vN1F6dXVtRkpjQ1U1MTZLSWNfX2FGTU4zVTdyTFY1Qko2NA?oc=5\" target=\"_blank\">Bybit CEO: Two-thirds of Lazarus-hacked funds remain traceable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
