@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-28T07:36:20Z",
-  "total": 299,
+  "updated_at": "2026-03-28T08:24:22Z",
+  "total": 300,
   "by_ceo": {
+    "Richard Teng": 42,
     "Brian Armstrong": 151,
     "Ben Zhou": 35,
-    "Richard Teng": 41,
     "CZ": 64,
     "Star Xu": 8
   },
   "articles": [
+    {
+      "title": "Institutional OTC volume hits 25 percent of last year in two months, Richard Teng notes",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2hRal8zRExVYVBVVEM5bkdDaldKNzdtMVY1eTliNnRseGhxRjVnWEJPZlkzb2NHTHRReHRUZmNMQ0wyYjRlZzZ0S29Pa1QyZUJVLVBiTGdySzY1MWlEZDQ2T0w4eUt4RTV0LTlxN3Fod05fLXRRZHNPZ19DcnNDRGRJSFRtUUhKN0xXeE81bm9Sckk?oc=5\" target=\"_blank\">Institutional OTC volume hits 25 percent of last year in two months, Richard Teng notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2hRal8zRExVYVBVVEM5bkdDaldKNzdtMVY1eTliNnRseGhxRjVnWEJPZlkzb2NHTHRReHRUZmNMQ0wyYjRlZzZ0S29Pa1QyZUJVLVBiTGdySzY1MWlEZDQ2T0w4eUt4RTV0LTlxN3Fod05fLXRRZHNPZ19DcnNDRGRJSFRtUUhKN0xXeE81bm9Sckk?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-03-28T06:15:17+00:00",
+      "tags": [
+        "机构 Institutional"
+      ],
+      "key_quote": "Institutional OTC volume hits 25 percent of last year in two months, Richard Teng notes Traders Union"
+    },
     {
       "title": "Brian Armstrong",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zQUVMd1dXSWxSWDhBNXE1VlNrSlh3eTcwNXlSMmZ4YldHQUU2U2xmeFlrYXdTcE1VYWJRdGdIU2RZbzBkd2FiNF9OeW13R294VjNNVTREdzJwM0VIZV9lNGRLc3c?oc=5\" target=\"_blank\">Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ccn.com</font>",
