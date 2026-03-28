@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-28T20:15:55Z",
-  "total": 305,
+  "updated_at": "2026-03-28T21:18:15Z",
+  "total": 306,
   "by_ceo": {
     "Richard Teng": 42,
     "Brian Armstrong": 151,
     "Ben Zhou": 35,
-    "CZ": 68,
+    "CZ": 69,
     "Star Xu": 9
   },
   "articles": [
@@ -427,6 +427,19 @@
         "ETF"
       ],
       "key_quote": "US President Trump pardons convicted Binance founder Changpeng Zhao MSN"
+    },
+    {
+      "title": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-AJBVV95cUxQODdrb2Vkc0NyRGN2aUgzZHB6WUREYTlrbTJ5bVE5dmU4SW4zU0tISFNaWUVRWUQ2SlNaNHkybXgxMUlmcmlhazJONkpwWmdlUkctNGFsQXZYZGZzempKQXZfMW5jYmtycnljSG1oQUduZTRPMDQyTjZkZE5nTk9Cb3Y1aWwzTm9sRHNLei1tdjVCcEc5VnBkWllSc3dnb2JPTGVpUmVoN2ZRUFBCYmVDMldsbkZXTXc3NWk4alpzQWZuVVRCazhyV2RkNTNibC16UkJjWWVKbUtTQWVCRTVncFNnQVdiRWkyTXpxblVhdEg0QlJ1RHVzX24tQUZId0tvdEh0dHI1ckhtXzBQLWZnUjBXQUNFTlpsU09PUHRQZ21zb2RQTHd3VlpJYmR3aGpBeHVGV1U1M2VyNmEzNm8yVy1RZVRfWTQtd3dxN3RBaGdkRmNtVEE3Qm1zelNDblJRSmt6NFFMLVdCQVFhLTVEMXJPR1lZWmRJ?oc=5\" target=\"_blank\">Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">msn.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQODdrb2Vkc0NyRGN2aUgzZHB6WUREYTlrbTJ5bVE5dmU4SW4zU0tISFNaWUVRWUQ2SlNaNHkybXgxMUlmcmlhazJONkpwWmdlUkctNGFsQXZYZGZzempKQXZfMW5jYmtycnljSG1oQUduZTRPMDQyTjZkZE5nTk9Cb3Y1aWwzTm9sRHNLei1tdjVCcEc5VnBkWllSc3dnb2JPTGVpUmVoN2ZRUFBCYmVDMldsbkZXTXc3NWk4alpzQWZuVVRCazhyV2RkNTNibC16UkJjWWVKbUtTQWVCRTVncFNnQVdiRWkyTXpxblVhdEg0QlJ1RHVzX24tQUZId0tvdEh0dHI1ckhtXzBQLWZnUjBXQUNFTlpsU09PUHRQZ21zb2RQTHd3VlpJYmR3aGpBeHVGV1U1M2VyNmEzNm8yVy1RZVRfWTQtd3dxN3RBaGdkRmNtVEE3Qm1zelNDblJRSmt6NFFMLVdCQVFhLTVEMXJPR1lZWmRJ?oc=5",
+      "source": "msn.com",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-22T19:01:23+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure msn.com"
     },
     {
       "title": "Changpeng Zhao: Bitcoin and Major Cryptocurrencies Are Hard Assets",
