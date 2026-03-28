@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-28T21:18:15Z",
-  "total": 306,
+  "updated_at": "2026-03-28T22:15:58Z",
+  "total": 307,
   "by_ceo": {
     "Richard Teng": 42,
     "Brian Armstrong": 151,
     "Ben Zhou": 35,
-    "CZ": 69,
+    "CZ": 70,
     "Star Xu": 9
   },
   "articles": [
@@ -3481,6 +3481,17 @@
         "机构 Institutional"
       ],
       "key_quote": "Binance Co-CEO Richard Teng Unveils New App, Institutional Partnerships, and 300M Users at Blockchain Week 2025 Binance"
+    },
+    {
+      "title": "Binance founder Changpeng Zhao accused of facilitating payments to Hamas",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDg5U3J2czBIRVpEYlphQWVNQkVvU1FkbUpsT2UyM1dYQTI3TFVsWGhVdnVpMHJ5b0owME9vT3Y4OEFvQjRVVm5UZ1ZLTnV5U1FqQnh0ZDFnWUN2NkRvQWVlREwxOTlzZFRqZ3FnNG8zVnlLVkRVeTlCUC1ITV9QcWVuYUQ?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao accused of facilitating payments to Hamas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDg5U3J2czBIRVpEYlphQWVNQkVvU1FkbUpsT2UyM1dYQTI3TFVsWGhVdnVpMHJ5b0owME9vT3Y4OEFvQjRVVm5UZ1ZLTnV5U1FqQnh0ZDFnWUN2NkRvQWVlREwxOTlzZFRqZ3FnNG8zVnlLVkRVeTlCUC1ITV9QcWVuYUQ?oc=5",
+      "source": "Financial Times",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2025-11-24T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "Binance founder Changpeng Zhao accused of facilitating payments to Hamas Financial Times"
     },
     {
       "title": "Binance CEO Richard Teng on crypto regulation and Trump's pardon for founder CZ",
