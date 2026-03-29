@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-29T07:42:51Z",
-  "total": 307,
+  "updated_at": "2026-03-29T08:26:14Z",
+  "total": 308,
   "by_ceo": {
+    "Brian Armstrong": 152,
     "Richard Teng": 42,
-    "Brian Armstrong": 151,
     "Ben Zhou": 35,
     "CZ": 70,
     "Star Xu": 9
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Puts 19% Stablecoin Revenue Before Clarity Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTdwbzg2VmJEM2ZLd2g5Vlc0X2R6dDd2QXdkODk0eElqUlhoQ3ItbFlTQjNSWjgzbFZCOUJycFJWR0RBVk5NNE5pMVBuMU13a1ZlXzZDR21JNFkza0NRSDNKb1AzTFJ1YnBaaUozajlmNlc3b3FUR29BQWIxZXZTcUhpQWtYR1FhWkYtRGtkRG9LcldiWkE2NDFBdHRVT0dl?oc=5\" target=\"_blank\">Brian Armstrong Puts 19% Stablecoin Revenue Before Clarity Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTdwbzg2VmJEM2ZLd2g5Vlc0X2R6dDd2QXdkODk0eElqUlhoQ3ItbFlTQjNSWjgzbFZCOUJycFJWR0RBVk5NNE5pMVBuMU13a1ZlXzZDR21JNFkza0NRSDNKb1AzTFJ1YnBaaUozajlmNlc3b3FUR29BQWIxZXZTcUhpQWtYR1FhWkYtRGtkRG9LcldiWkE2NDFBdHRVT0dl?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-28T12:03:59+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Brian Armstrong Puts 19% Stablecoin Revenue Before Clarity Act CryptoRank"
+    },
     {
       "title": "Institutional OTC volume hits 25 percent of last year in two months, Richard Teng notes",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2hRal8zRExVYVBVVEM5bkdDaldKNzdtMVY1eTliNnRseGhxRjVnWEJPZlkzb2NHTHRReHRUZmNMQ0wyYjRlZzZ0S29Pa1QyZUJVLVBiTGdySzY1MWlEZDQ2T0w4eUt4RTV0LTlxN3Fod05fLXRRZHNPZ19DcnNDRGRJSFRtUUhKN0xXeE81bm9Sckk?oc=5\" target=\"_blank\">Institutional OTC volume hits 25 percent of last year in two months, Richard Teng notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
