@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-03-29T08:26:14Z",
-  "total": 308,
+  "updated_at": "2026-03-29T09:24:53Z",
+  "total": 311,
   "by_ceo": {
-    "Brian Armstrong": 152,
+    "Brian Armstrong": 155,
     "Richard Teng": 42,
     "Ben Zhou": 35,
     "CZ": 70,
     "Star Xu": 9
   },
   "articles": [
+    {
+      "title": "Tether Boss Shows Disappointment in Coinbase CEO Not Setting Things Straight on the CLARITY Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcjdfNVI0eG4wRnNWS29jbFRia191N2dCTGlkQnNyNlNPekstOG5uTkpjVWhWb1NoaDhvNU1qQkJJTjRSaGp5eUE3STdVX0lPRWY4R18wV0tiTlBPeHBzWDJGcGtuNnRTX0lzbGp5a0FrXzc3Q2VkUXVLU1o0Ty1XYUhwbWE4Z01ySVBGSGRLVTlZaDJMNWRqNmRXSlFPem1QWXY3V3p4alN4WUJCd2tJVnRtVEhjcDhRczRwQUZ0Rks?oc=5\" target=\"_blank\">Tether Boss Shows Disappointment in Coinbase CEO Not Setting Things Straight on the CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpaper</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcjdfNVI0eG4wRnNWS29jbFRia191N2dCTGlkQnNyNlNPekstOG5uTkpjVWhWb1NoaDhvNU1qQkJJTjRSaGp5eUE3STdVX0lPRWY4R18wV0tiTlBPeHBzWDJGcGtuNnRTX0lzbGp5a0FrXzc3Q2VkUXVLU1o0Ty1XYUhwbWE4Z01ySVBGSGRLVTlZaDJMNWRqNmRXSlFPem1QWXY3V3p4alN4WUJCd2tJVnRtVEhjcDhRczRwQUZ0Rks?oc=5",
+      "source": "Coinpaper",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-29T09:05:04+00:00",
+      "tags": [
+        "Ethereum"
+      ],
+      "key_quote": "Tether Boss Shows Disappointment in Coinbase CEO Not Setting Things Straight on the CLARITY Act Coinpaper"
+    },
     {
       "title": "Brian Armstrong Puts 19% Stablecoin Revenue Before Clarity Act",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTdwbzg2VmJEM2ZLd2g5Vlc0X2R6dDd2QXdkODk0eElqUlhoQ3ItbFlTQjNSWjgzbFZCOUJycFJWR0RBVk5NNE5pMVBuMU13a1ZlXzZDR21JNFkza0NRSDNKb1AzTFJ1YnBaaUozajlmNlc3b3FUR29BQWIxZXZTcUhpQWtYR1FhWkYtRGtkRG9LcldiWkE2NDFBdHRVT0dl?oc=5\" target=\"_blank\">Brian Armstrong Puts 19% Stablecoin Revenue Before Clarity Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
@@ -2868,6 +2881,17 @@
       "key_quote": "Binance founder Changpeng Zhao says he ‘didn’t do much’ to get Trump pardon dlnews.com"
     },
     {
+      "title": "Coinbase CEO Brian Armstrong Argues Crypto, Tokenization Ensure 'Level Playing Field' In Wealth Creation: 'Equality Of Opportunity' Worth Pursuing",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY254LXhGMUx0cW1qWXhfMVkzVmQwYmY4c1d5a0pfSlM4ZGtMei05OWRtNDNEcndLMjdrU190Um9uTTF2aDdkWVFKU21HNmdPYlMyc1JQaldrZXZiekpZN1RPcmVsVC01QnMwLU1KZ3k3S2JMNlpQclN1MXZFRHdVajNRZWRSTjNj?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Argues Crypto, Tokenization Ensure 'Level Playing Field' In Wealth Creation: 'Equality Of Opportunity' Worth Pursuing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY254LXhGMUx0cW1qWXhfMVkzVmQwYmY4c1d5a0pfSlM4ZGtMei05OWRtNDNEcndLMjdrU190Um9uTTF2aDdkWVFKU21HNmdPYlMyc1JQaldrZXZiekpZN1RPcmVsVC01QnMwLU1KZ3k3S2JMNlpQclN1MXZFRHdVajNRZWRSTjNj?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-11T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Argues Crypto, Tokenization Ensure 'Level Playing Field' In Wealth Creation: 'Equality Of Opportunity' Worth Pursuing Yahoo Finance"
+    },
+    {
       "title": "Coinbase CEO Falls From List Of World’s Richest as Crypto Slides",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHZXTUtYUGxsaUpXbzYxQ3RaQjdWcWo2WmRBd2QtcURQbUI4czVwT3FuaFVHTjVxNmY0NUFraXp5VFl2c2htb2lLUWhaQS0yWlVHSmNaQWNGN1JyckNkWlB3MVRCRXdVVFdYb09pa29KVUJwMXdVbGtnRE9iREF3cGMtZURIRExMWEVyVWcxUUlxYnJCeUpYRnFFSDU3ZnpjOFFXQmhUbFlORFoxVFdfTHRNYUVrUk9oYTRlUg?oc=5\" target=\"_blank\">Coinbase CEO Falls From List Of World’s Richest as Crypto Slides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHZXTUtYUGxsaUpXbzYxQ3RaQjdWcWo2WmRBd2QtcURQbUI4czVwT3FuaFVHTjVxNmY0NUFraXp5VFl2c2htb2lLUWhaQS0yWlVHSmNaQWNGN1JyckNkWlB3MVRCRXdVVFdYb09pa29KVUJwMXdVbGtnRE9iREF3cGMtZURIRExMWEVyVWcxUUlxYnJCeUpYRnFFSDU3ZnpjOFFXQmhUbFlORFoxVFdfTHRNYUVrUk9oYTRlUg?oc=5",
@@ -3092,6 +3116,19 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong to work on market structure bill in Davos The Block"
+    },
+    {
+      "title": "Brian Armstrong Demands 'Level Playing Field' In Congressional Laws — Coinbase CEO Accuses Banks Of Stifling Competition",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOay1EOFFKRTFlMlZibWFYNWpvd2RUdXJ1OWpFdEk4MUtNWUNMdHB4Y2E3NFNaV3RtaS1UeVkySmVHUi1nNkNvUGUyQVM0SS1JclFhM3pVRmJjanRrWEdoZWpYWE0xeDN3VjVZei1tSmZ3SElWa2NJaE5peF9FQXliN2RsWHF0ZGdXZEFJ?oc=5\" target=\"_blank\">Brian Armstrong Demands 'Level Playing Field' In Congressional Laws — Coinbase CEO Accuses Banks Of Stifling Competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOay1EOFFKRTFlMlZibWFYNWpvd2RUdXJ1OWpFdEk4MUtNWUNMdHB4Y2E3NFNaV3RtaS1UeVkySmVHUi1nNkNvUGUyQVM0SS1JclFhM3pVRmJjanRrWEdoZWpYWE0xeDN3VjVZei1tSmZ3SElWa2NJaE5peF9FQXliN2RsWHF0ZGdXZEFJ?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-01-18T08:00:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Brian Armstrong Demands 'Level Playing Field' In Congressional Laws — Coinbase CEO Accuses Banks Of Stifling Competition Yahoo Finance"
     },
     {
       "title": "Coinbase is late to stocks—but CEO Brian Armstrong says it will win in the long run",
