@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-29T10:22:12Z",
-  "total": 311,
+  "updated_at": "2026-03-29T11:18:01Z",
+  "total": 312,
   "by_ceo": {
-    "Brian Armstrong": 155,
+    "Brian Armstrong": 156,
     "Richard Teng": 42,
     "Ben Zhou": 35,
     "CZ": 70,
@@ -3003,6 +3003,19 @@
       "published_at": "2026-01-30T08:00:00+00:00",
       "tags": [],
       "key_quote": "Coinbase's (COIN) Brian Armstrong was snubbed by top executives from the biggest U.S."
+    },
+    {
+      "title": "Brian Armstrong was snubbed by top executives from the biggest U.S. banks in Davos",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZkgwZXFPOENjVExoeVp5THo5bjRWWkh2VnFxdWZpcTRMZHVGRFlqSTNhc3FteFl3M20wd0ZtOXBxVTRfalJPemd2YjZSeG04RVZqb1ZEX29Dc3JFVzRhLTFQWTVZQXJ3b3VnTV9ncGpDQ2pMaDlCMEtVeTlSYTBTcGY5MWlPSmNFdnpDRg?oc=5\" target=\"_blank\">Brian Armstrong was snubbed by top executives from the biggest U.S. banks in Davos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZkgwZXFPOENjVExoeVp5THo5bjRWWkh2VnFxdWZpcTRMZHVGRFlqSTNhc3FteFl3M20wd0ZtOXBxVTRfalJPemd2YjZSeG04RVZqb1ZEX29Dc3JFVzRhLTFQWTVZQXJ3b3VnTV9ncGpDQ2pMaDlCMEtVeTlSYTBTcGY5MWlPSmNFdnpDRg?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-01-30T08:00:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Brian Armstrong was snubbed by top executives from the biggest U.S."
     },
     {
       "title": "OKX CEO Star Xu Warns October 2025 Crash Did 'Lasting Damage' — Criticism Appears Aimed at Binance",
