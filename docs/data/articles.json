@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-29T23:19:53Z",
-  "total": 313,
+  "updated_at": "2026-03-30T01:10:27Z",
+  "total": 314,
   "by_ceo": {
-    "Brian Armstrong": 156,
+    "Brian Armstrong": 157,
     "Richard Teng": 43,
     "Ben Zhou": 35,
     "CZ": 70,
@@ -1558,6 +1558,19 @@
       "published_at": "2026-03-10T07:00:00+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao Forbes"
+    },
+    {
+      "title": "Brian Armstrong",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBodFRhOVUydFl4UVU4bVhDREZady1VbExrTk5WQ1ZhQWlwblRGZS1MLWI4cWwyMktETHVOVmxJdlRsV0ljNHZ0amNXa1o5eXYzYnR3d2xMQkZ4X0E?oc=5\" target=\"_blank\">Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBodFRhOVUydFl4UVU4bVhDREZady1VbExrTk5WQ1ZhQWlwblRGZS1MLWI4cWwyMktETHVOVmxJdlRsV0ljNHZ0amNXa1o5eXYzYnR3d2xMQkZ4X0E?oc=5",
+      "source": "Forbes",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-10T07:00:00+00:00",
+      "tags": [
+        "Ethereum"
+      ],
+      "key_quote": "Brian Armstrong Forbes"
     },
     {
       "title": "Coinbase CEO Says The Next Crypto Explosion May Be Driven by AI Agents, Not Traders",
