@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-03-30T01:10:27Z",
-  "total": 314,
+  "updated_at": "2026-03-30T04:33:36Z",
+  "total": 315,
   "by_ceo": {
     "Brian Armstrong": 157,
     "Richard Teng": 43,
     "Ben Zhou": 35,
     "CZ": 70,
-    "Star Xu": 9
+    "Star Xu": 10
   },
   "articles": [
     {
@@ -3721,6 +3721,20 @@
         "Ethereum"
       ],
       "key_quote": "OKX CEO Star Xu Slams Huione Group After $15B DOJ Crackdown CryptoPotato"
+    },
+    {
+      "title": "OKX CEO Star Xu Unveils Three-Phase Strategy for X Layer, Backed by $100M Vision Fund",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1oSG5IRlpta0JSSk1FbGRjLXdDN2VGYTg1N0Q3bzZYSmlYMU5XZTdoQTkxRVZXeHJzMlZ1bEMtM29CeFltZ2k0c3lLMzRpR010eURNbWpVRXllbVNLdEpDWHI5NWMxeTYzMDJmUA?oc=5\" target=\"_blank\">OKX CEO Star Xu Unveils Three-Phase Strategy for X Layer, Backed by $100M Vision Fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinfomania</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oSG5IRlpta0JSSk1FbGRjLXdDN2VGYTg1N0Q3bzZYSmlYMU5XZTdoQTkxRVZXeHJzMlZ1bEMtM29CeFltZ2k0c3lLMzRpR010eURNbWpVRXllbVNLdEpDWHI5NWMxeTYzMDJmUA?oc=5",
+      "source": "Coinfomania",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2025-10-02T07:00:00+00:00",
+      "tags": [
+        "机构 Institutional",
+        "AI"
+      ],
+      "key_quote": "OKX CEO Star Xu Unveils Three-Phase Strategy for X Layer, Backed by $100M Vision Fund Coinfomania"
     },
     {
       "title": "Richard Teng Obituary",
