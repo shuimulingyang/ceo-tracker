@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-30T16:50:44Z",
-  "total": 315,
+  "updated_at": "2026-03-30T17:42:15Z",
+  "total": 316,
   "by_ceo": {
-    "Brian Armstrong": 157,
+    "Brian Armstrong": 158,
     "Richard Teng": 43,
     "Ben Zhou": 35,
     "CZ": 70,
@@ -2580,6 +2580,20 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge Yahoo Finance"
+    },
+    {
+      "title": "Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDZDY21IOVNyOV9yOWNSaHFkdmVwdFNkMEtDaFlkUlN4ZzZuSjcxanZmY3FwM0Fqc1E4QWtaR1dIUVZURVo3NWxlc1BRR3VSU3ViZGQwRXllMkVXYlpteS1xRWtCY09aRm1QYldjRW5VTHV0WHR2eDNrYzQtSk1wakEtZ9IBiwFBVV95cUxPQXFGeG5KdnVGXzhINk04MEE2WE5SdTBLalN0dWtVd2R5OS1xMWw0UmxBV3cxYlQwVC1NaWcwUGtzRlpsVnY3bFFhYVlLLVRFcnE3el9UZ2J6Y2lRSUg1aG5Ra18xQzJlaHNtVHRnem1GMUZ4RE42REh1VDQ3RlBKb2JpUHA4TDhxUVdn?oc=5\" target=\"_blank\">Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDZDY21IOVNyOV9yOWNSaHFkdmVwdFNkMEtDaFlkUlN4ZzZuSjcxanZmY3FwM0Fqc1E4QWtaR1dIUVZURVo3NWxlc1BRR3VSU3ViZGQwRXllMkVXYlpteS1xRWtCY09aRm1QYldjRW5VTHV0WHR2eDNrYzQtSk1wakEtZ9IBiwFBVV95cUxPQXFGeG5KdnVGXzhINk04MEE2WE5SdTBLalN0dWtVd2R5OS1xMWw0UmxBV3cxYlQwVC1NaWcwUGtzRlpsVnY3bFFhYVlLLVRFcnE3el9UZ2J6Y2lRSUg1aG5Ra18xQzJlaHNtVHRnem1GMUZ4RE42REh1VDQ3RlBKb2JpUHA4TDhxUVdn?oc=5",
+      "source": "Decrypt",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-02-24T08:00:00+00:00",
+      "tags": [
+        "AI",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge Decrypt"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Says Quantum Computing 'Very Solvable' Issue, Sees No Risk To Blockchain",
