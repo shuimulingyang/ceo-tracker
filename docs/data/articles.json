@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-31T21:26:12Z",
-  "total": 322,
+  "updated_at": "2026-03-31T22:22:30Z",
+  "total": 323,
   "by_ceo": {
-    "CZ": 75,
+    "CZ": 76,
     "Brian Armstrong": 158,
     "Richard Teng": 43,
     "Ben Zhou": 35,
     "Star Xu": 11
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao (CZ)",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZVHFrX3RtTFY5Tk1kSVRWcHIxRjE3cDlRbzRyY1IwTzFMaW9PYUpvVkM1UjcxOVAxUVVGNmpIQ2FOVldCT21CdWNWNGFsbnpta2tGZE1ldFF3am1lcDNKWVVORQ?oc=5\" target=\"_blank\">Changpeng Zhao (CZ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZVHFrX3RtTFY5Tk1kSVRWcHIxRjE3cDlRbzRyY1IwTzFMaW9PYUpvVkM1UjcxOVAxUVVGNmpIQ2FOVldCT21CdWNWNGFsbnpta2tGZE1ldFF3am1lcDNKWVVORQ?oc=5",
+      "source": "CCN.com",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-31T20:58:28+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao (CZ) CCN.com"
+    },
     {
       "title": "'It's Always Easier To Encrypt Than Decrypt,' Says Changpeng Zhao On Crypto's Quantum Computing Risks",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMUFvT2YtM3VGZ1JWTmxOakRIUHd1ODVVeExlSGdnUWxkazRsUGlPNFdFZHpvSlo0RTJLOGN6YzJ6bHlvYmVnMkJ5TVF4Tk5LblI5MG50Ni1KQlJjVkE2NzJ1QUd3enBzQnlYMWhRZ3l2RFg5SzNzTnpzX0xndmxhaUx2bmFkbXp0TEoxZlNveUxaaXF4b1ExQWNSZDNLMU1GV2hja2FNWlhQbkRzOVZFV1N4SC0tcUVrX2sxUGJpTnB4bHpIcFNfT1V2bEdpNGUyOTlVVnVEWnZlbTgxRW9GdEY2SzEwVS00ZkdjTWMwTQ?oc=5\" target=\"_blank\">'It's Always Easier To Encrypt Than Decrypt,' Says Changpeng Zhao On Crypto's Quantum Computing Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
