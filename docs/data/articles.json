@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-31T12:44:09Z",
-  "total": 319,
+  "updated_at": "2026-03-31T14:20:40Z",
+  "total": 320,
   "by_ceo": {
-    "CZ": 72,
+    "CZ": 73,
     "Brian Armstrong": 158,
     "Richard Teng": 43,
     "Ben Zhou": 35,
@@ -13,6 +13,17 @@
       "title": "Trump Grants Pardon To Binance Founder Changpeng Zhao: Report",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxPaGNjRHVSejVlRFJEckpDdjRlM2ZEMnd3dW5va1lKM1hadk05M2N6Y01TV3gwRWxlU1Nva1ZHbmhISDMwWkpuNFBJcWpRWGc2TU5WUk9neW1YZmJDbV9jN3pCLU4xcXJjVUZuQVpYc2FRYl9xVlF0QUZIRnlVV3pqRE9SMEFRRndtRWo1T2pIblZiYkdNOXZyLVZFemY2aldicVJ5YVBxeDZpTHBMRGxkYmFnejlUeUk0Z0xqWU1oYWVtc3JxSFVTeXJGT0VCQWhIWWo2Y3BLZ25uVlpYWFp4OXJ5ZXVJR3lhN28tNHkweE5PUXBGNkRnX0Y0RkZ1eHRSMWx0R0o5aEZHYkxJYzNUWjRmM3k2OGpNTFkyaHhXRU52NGpxdHdvYThtaWxKbXBaRm9HX3V0alBDZzFxMldNVXZZMA?oc=5\" target=\"_blank\">Trump Grants Pardon To Binance Founder Changpeng Zhao: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPaGNjRHVSejVlRFJEckpDdjRlM2ZEMnd3dW5va1lKM1hadk05M2N6Y01TV3gwRWxlU1Nva1ZHbmhISDMwWkpuNFBJcWpRWGc2TU5WUk9neW1YZmJDbV9jN3pCLU4xcXJjVUZuQVpYc2FRYl9xVlF0QUZIRnlVV3pqRE9SMEFRRndtRWo1T2pIblZiYkdNOXZyLVZFemY2aldicVJ5YVBxeDZpTHBMRGxkYmFnejlUeUk0Z0xqWU1oYWVtc3JxSFVTeXJGT0VCQWhIWWo2Y3BLZ25uVlpYWFp4OXJ5ZXVJR3lhN28tNHkweE5PUXBGNkRnX0Y0RkZ1eHRSMWx0R0o5aEZHYkxJYzNUWjRmM3k2OGpNTFkyaHhXRU52NGpxdHdvYThtaWxKbXBaRm9HX3V0alBDZzFxMldNVXZZMA?oc=5",
+      "source": "MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-30T00:32:21+00:00",
+      "tags": [],
+      "key_quote": "Trump Grants Pardon To Binance Founder Changpeng Zhao: Report MSN"
+    },
+    {
+      "title": "Trump Grants Pardon To Binance Founder Changpeng Zhao: Report",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxNS3dqSzExTS1USV9LMml5ZU1vRlBxNzItNXI4anpDUkxIV1pZUVdoVlFGUVVUcm9FMFo5MDFSaHlBUWtMVXc5Q2NITnVQUTdOZktmUjViWTNFdEFhRWkzQUtySXByX01oN0tFeW51SHEzZjR2bjc0MmtDdmdTdlRoX0NSS2s5bWhKZk1xT19kRlM2T1ZFQjNRLWFOYkMxUXI4Ynl0SjRhY2dMUDc3SVNzSnk0Q3pacS1lMVIyVFRTVWlCTnRIR193ZXJCeGpuOUkwQk5VYmZxNEQ2Q29fTVBXclFETmVTMmRJUkFtQmQ0Mk4ydkptU0R3WTV2ajZzWjNyVzB0dVdTNGVoZHE2LWlFcTc4ZEFUTGY2NXFKM1d5ZFdqb2xzclhValB1UW43cmRfdDN3RmN5ZkVCU0RCWlJUYzc1WXk?oc=5\" target=\"_blank\">Trump Grants Pardon To Binance Founder Changpeng Zhao: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNS3dqSzExTS1USV9LMml5ZU1vRlBxNzItNXI4anpDUkxIV1pZUVdoVlFGUVVUcm9FMFo5MDFSaHlBUWtMVXc5Q2NITnVQUTdOZktmUjViWTNFdEFhRWkzQUtySXByX01oN0tFeW51SHEzZjR2bjc0MmtDdmdTdlRoX0NSS2s5bWhKZk1xT19kRlM2T1ZFQjNRLWFOYkMxUXI4Ynl0SjRhY2dMUDc3SVNzSnk0Q3pacS1lMVIyVFRTVWlCTnRIR193ZXJCeGpuOUkwQk5VYmZxNEQ2Q29fTVBXclFETmVTMmRJUkFtQmQ0Mk4ydkptU0R3WTV2ajZzWjNyVzB0dVdTNGVoZHE2LWlFcTc4ZEFUTGY2NXFKM1d5ZFdqb2xzclhValB1UW43cmRfdDN3RmN5ZkVCU0RCWlJUYzc1WXk?oc=5",
       "source": "MSN",
       "ceo_name": "CZ",
       "exchange": "Binance",
