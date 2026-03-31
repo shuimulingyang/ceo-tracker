@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-31T20:30:38Z",
-  "total": 321,
+  "updated_at": "2026-03-31T21:26:12Z",
+  "total": 322,
   "by_ceo": {
-    "CZ": 74,
+    "CZ": 75,
     "Brian Armstrong": 158,
     "Richard Teng": 43,
     "Ben Zhou": 35,
@@ -22,6 +22,17 @@
         "Layer2"
       ],
       "key_quote": "'It's Always Easier To Encrypt Than Decrypt,' Says Changpeng Zhao On Crypto's Quantum Computing Risks Benzinga"
+    },
+    {
+      "title": "Changpeng Zhao Urges Shift to Quantum-Resistant Crypto",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXgweklvMGJaekhWUlNfVkxnUEd3U3lMcUVRdDhURmVKTjZnS2tlWDNudFZpLWxGeGc2UkxDT2VfR0ZsYXc1VERDWFFqNXJVOU9oMWpVSk1LRXNNMm0zeU9IN0h0OHI1MTJnTEZQRDlpc2RkbFg4bGVMYTZBYXJDLXY4dzM?oc=5\" target=\"_blank\">Changpeng Zhao Urges Shift to Quantum-Resistant Crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockonomi.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXgweklvMGJaekhWUlNfVkxnUEd3U3lMcUVRdDhURmVKTjZnS2tlWDNudFZpLWxGeGc2UkxDT2VfR0ZsYXc1VERDWFFqNXJVOU9oMWpVSk1LRXNNMm0zeU9IN0h0OHI1MTJnTEZQRDlpc2RkbFg4bGVMYTZBYXJDLXY4dzM?oc=5",
+      "source": "blockonomi.com",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-31T19:14:44+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao Urges Shift to Quantum-Resistant Crypto blockonomi.com"
     },
     {
       "title": "Trump Grants Pardon To Binance Founder Changpeng Zhao: Report",
