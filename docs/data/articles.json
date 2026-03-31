@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-31T01:07:56Z",
-  "total": 318,
+  "updated_at": "2026-03-31T04:24:45Z",
+  "total": 319,
   "by_ceo": {
-    "CZ": 71,
+    "CZ": 72,
     "Brian Armstrong": 158,
     "Richard Teng": 43,
     "Ben Zhou": 35,
@@ -32,6 +32,19 @@
         "Ethereum"
       ],
       "key_quote": "Tether Boss Shows Disappointment in Coinbase CEO Not Setting Things Straight on the CLARITY Act Coinpaper"
+    },
+    {
+      "title": "US President Trump pardons convicted Binance founder Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizgJBVV95cUxOWEVOd1M4TU11Wjd6bXBuNXJkckpRSjdjQUhoNmNSRERtRGotdFZRVFdzeHFKczBYNVdsSTNHX0NHV2lLb3UyYVFGV0JhYzBCU2tqT05NX1ppTFlEVGVyX3lUQkxfWWdfb3ZrTjItRktSZXJIV1Rla3NwQWhHNmU0dkNRTlVjWWRtQ3dXWkx6elE5eENHSkpUT3praTZRaEdlczIwcFdCMHAtd1NhR09IT3Z2TG9lYTRSUG8taHhyOXlCbGZkQlk0U1FGSVdkMjg2a3BhTGw3MVRzOUVQQTktb2dWYkZvZGJENHBpcnlvQWl2X0l6cjB3NmpSTTBVeEtiaW9PWTlNaURiWkZfNG45Y0NaZ2RnRGhsNERoOW5FRVZVLVlxUkoya0JSS1I5LURhaVhQckMycXYxQW9YT0hHVU1qd2FQSHA4RFZFQWNB?oc=5\" target=\"_blank\">US President Trump pardons convicted Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOWEVOd1M4TU11Wjd6bXBuNXJkckpRSjdjQUhoNmNSRERtRGotdFZRVFdzeHFKczBYNVdsSTNHX0NHV2lLb3UyYVFGV0JhYzBCU2tqT05NX1ppTFlEVGVyX3lUQkxfWWdfb3ZrTjItRktSZXJIV1Rla3NwQWhHNmU0dkNRTlVjWWRtQ3dXWkx6elE5eENHSkpUT3praTZRaEdlczIwcFdCMHAtd1NhR09IT3Z2TG9lYTRSUG8taHhyOXlCbGZkQlk0U1FGSVdkMjg2a3BhTGw3MVRzOUVQQTktb2dWYkZvZGJENHBpcnlvQWl2X0l6cjB3NmpSTTBVeEtiaW9PWTlNaURiWkZfNG45Y0NaZ2RnRGhsNERoOW5FRVZVLVlxUkoya0JSS1I5LURhaVhQckMycXYxQW9YT0hHVU1qd2FQSHA4RFZFQWNB?oc=5",
+      "source": "MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-29T08:30:32+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "US President Trump pardons convicted Binance founder Changpeng Zhao MSN"
     },
     {
       "title": "Brian Armstrong Puts 19% Stablecoin Revenue Before Clarity Act",
