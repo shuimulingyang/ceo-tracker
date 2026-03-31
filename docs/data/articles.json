@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-03-30T23:24:39Z",
-  "total": 316,
+  "updated_at": "2026-03-31T01:07:56Z",
+  "total": 318,
   "by_ceo": {
+    "CZ": 71,
     "Brian Armstrong": 158,
     "Richard Teng": 43,
     "Ben Zhou": 35,
-    "CZ": 70,
-    "Star Xu": 10
+    "Star Xu": 11
   },
   "articles": [
+    {
+      "title": "Trump Grants Pardon To Binance Founder Changpeng Zhao: Report",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxPaGNjRHVSejVlRFJEckpDdjRlM2ZEMnd3dW5va1lKM1hadk05M2N6Y01TV3gwRWxlU1Nva1ZHbmhISDMwWkpuNFBJcWpRWGc2TU5WUk9neW1YZmJDbV9jN3pCLU4xcXJjVUZuQVpYc2FRYl9xVlF0QUZIRnlVV3pqRE9SMEFRRndtRWo1T2pIblZiYkdNOXZyLVZFemY2aldicVJ5YVBxeDZpTHBMRGxkYmFnejlUeUk0Z0xqWU1oYWVtc3JxSFVTeXJGT0VCQWhIWWo2Y3BLZ25uVlpYWFp4OXJ5ZXVJR3lhN28tNHkweE5PUXBGNkRnX0Y0RkZ1eHRSMWx0R0o5aEZHYkxJYzNUWjRmM3k2OGpNTFkyaHhXRU52NGpxdHdvYThtaWxKbXBaRm9HX3V0alBDZzFxMldNVXZZMA?oc=5\" target=\"_blank\">Trump Grants Pardon To Binance Founder Changpeng Zhao: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPaGNjRHVSejVlRFJEckpDdjRlM2ZEMnd3dW5va1lKM1hadk05M2N6Y01TV3gwRWxlU1Nva1ZHbmhISDMwWkpuNFBJcWpRWGc2TU5WUk9neW1YZmJDbV9jN3pCLU4xcXJjVUZuQVpYc2FRYl9xVlF0QUZIRnlVV3pqRE9SMEFRRndtRWo1T2pIblZiYkdNOXZyLVZFemY2aldicVJ5YVBxeDZpTHBMRGxkYmFnejlUeUk0Z0xqWU1oYWVtc3JxSFVTeXJGT0VCQWhIWWo2Y3BLZ25uVlpYWFp4OXJ5ZXVJR3lhN28tNHkweE5PUXBGNkRnX0Y0RkZ1eHRSMWx0R0o5aEZHYkxJYzNUWjRmM3k2OGpNTFkyaHhXRU52NGpxdHdvYThtaWxKbXBaRm9HX3V0alBDZzFxMldNVXZZMA?oc=5",
+      "source": "MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-30T00:32:21+00:00",
+      "tags": [],
+      "key_quote": "Trump Grants Pardon To Binance Founder Changpeng Zhao: Report MSN"
+    },
     {
       "title": "Tether Boss Shows Disappointment in Coinbase CEO Not Setting Things Straight on the CLARITY Act",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcjdfNVI0eG4wRnNWS29jbFRia191N2dCTGlkQnNyNlNPekstOG5uTkpjVWhWb1NoaDhvNU1qQkJJTjRSaGp5eUE3STdVX0lPRWY4R18wV0tiTlBPeHBzWDJGcGtuNnRTX0lzbGp5a0FrXzc3Q2VkUXVLU1o0Ty1XYUhwbWE4Z01ySVBGSGRLVTlZaDJMNWRqNmRXSlFPem1QWXY3V3p4alN4WUJCd2tJVnRtVEhjcDhRczRwQUZ0Rks?oc=5\" target=\"_blank\">Tether Boss Shows Disappointment in Coinbase CEO Not Setting Things Straight on the CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpaper</font>",
@@ -3520,6 +3531,17 @@
       "published_at": "2025-12-08T08:00:00+00:00",
       "tags": [],
       "key_quote": "OKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain Cryptonews"
+    },
+    {
+      "title": "OKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1zWTBmdHd6R1hsLTA5WTFmOWRlZ0dSU0drUUcyODRLR3I3MC0xRm9PWFg1eTIwN2wwT1dMYngtUjE5Q2JyZExQNGEyUGFVelQtTXd0Rml3YjZvN0QxZzVweWxGYVl6X2pGZXNTX2tERDE2bm56?oc=5\" target=\"_blank\">OKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zWTBmdHd6R1hsLTA5WTFmOWRlZ0dSU0drUUcyODRLR3I3MC0xRm9PWFg1eTIwN2wwT1dMYngtUjE5Q2JyZExQNGEyUGFVelQtTXd0Rml3YjZvN0QxZzVweWxGYVl6X2pGZXNTX2tERDE2bm56?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2025-12-08T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "OKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain Yahoo Finance"
     },
     {
       "title": "Binance appoints co-founder Yi He as new co-CEO alongside Richard Teng",
