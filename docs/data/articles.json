@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-31T23:22:14Z",
-  "total": 323,
+  "updated_at": "2026-04-01T01:15:04Z",
+  "total": 324,
   "by_ceo": {
     "CZ": 76,
-    "Brian Armstrong": 158,
+    "Brian Armstrong": 159,
     "Richard Teng": 43,
     "Ben Zhou": 35,
     "Star Xu": 11
@@ -44,6 +44,20 @@
       "published_at": "2026-03-31T19:14:44+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao Urges Shift to Quantum-Resistant Crypto blockonomi.com"
+    },
+    {
+      "title": "Bitcoin doesn't face 'existential' risk from quantum computers, says Brian Armstrong: 'With good work, we can make sure that lands in a good place'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNSXJZUTdzM0hJd1ZXUFNiMHJ4eGZweHc1ZkFQdDlrLWhQdlFsM0RFcEtNX0NFdjhWREUzMmM3anRpOHg3dHRsUVRCTkdESDFQYXJMaDFfWDlIX2tlWUd0bXo5dmQ3b3ljOU5jNXpYX2ZxUTZfd0cxNlZkTFJCZDFRcU52WmpIVnk1QmVqakNsYWtTT0pybFBnZXg0OXg3V1lvWWl2SUM0dVhyZW5fZ3VScDdxQ1RLRU56c1k0M1RuSFoyb3BDUV9DSkFjWVIwakdHcGxpU1kzcjc4cW1VRUl3UFBOY0o4OUp6N1JSUjFjSk1Tei1oOGM1VHd5ZDk1RlhIeFlEdU5SZXNYQmxEOHpKdUEySHNrejA?oc=5\" target=\"_blank\">Bitcoin doesn't face 'existential' risk from quantum computers, says Brian Armstrong: 'With good work, we can make sure that lands in a good place'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSXJZUTdzM0hJd1ZXUFNiMHJ4eGZweHc1ZkFQdDlrLWhQdlFsM0RFcEtNX0NFdjhWREUzMmM3anRpOHg3dHRsUVRCTkdESDFQYXJMaDFfWDlIX2tlWUd0bXo5dmQ3b3ljOU5jNXpYX2ZxUTZfd0cxNlZkTFJCZDFRcU52WmpIVnk1QmVqakNsYWtTT0pybFBnZXg0OXg3V1lvWWl2SUM0dVhyZW5fZ3VScDdxQ1RLRU56c1k0M1RuSFoyb3BDUV9DSkFjWVIwakdHcGxpU1kzcjc4cW1VRUl3UFBOY0o4OUp6N1JSUjFjSk1Tei1oOGM1VHd5ZDk1RlhIeFlEdU5SZXNYQmxEOHpKdUEySHNrejA?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-31T01:11:16+00:00",
+      "tags": [
+        "Bitcoin",
+        "Layer2"
+      ],
+      "key_quote": "Bitcoin doesn't face 'existential' risk from quantum computers, says Brian Armstrong: 'With good work, we can make sure that lands in a good place' MSN"
     },
     {
       "title": "Trump Grants Pardon To Binance Founder Changpeng Zhao: Report",
