@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-01T18:41:47Z",
-  "total": 326,
+  "updated_at": "2026-04-01T19:49:19Z",
+  "total": 327,
   "by_ceo": {
     "CZ": 78,
-    "Brian Armstrong": 159,
+    "Brian Armstrong": 160,
     "Richard Teng": 43,
     "Ben Zhou": 35,
     "Star Xu": 11
@@ -80,6 +80,19 @@
         "Layer2"
       ],
       "key_quote": "Bitcoin doesn't face 'existential' risk from quantum computers, says Brian Armstrong: 'With good work, we can make sure that lands in a good place' MSN"
+    },
+    {
+      "title": "Brian Armstrong says mining next 1 million bitcoin will take over 100 years, Coinbase CEO hails BTC as 'decentralized, inflation-proof'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNRXJSaXJoRHRURWVwd25qQ2xTNnlIYzNWNG9jeU9qY2hHbXBlV20wZTlTWlRQY2xJS0gtWGpaY01wMllaM3VYZjE0Z1piZEFKZkxFWHFMZUg0d191UUNHUmFmN2hsS0pJOWY4eXAtS2ZKUFlrUzN1N0huODlhd1N4WWVIdDZhU1hnWl81V0MwZWpoTTZ3WTVLWGg2Y2RNQVZwWng2R2hWNG4wUUNNZ3pNTHZydEZQSWluV3FZT1cySG83aHROaFN1VVdCci1nMEM5cm5MMVNVa1kyZDJGcUE0eXNpMVpZOUJoMXNFX2p1SENIY0FfVXRxOTJLVF9BaTFKMFN0TGZFWGZhdnJVc2xvUw?oc=5\" target=\"_blank\">Brian Armstrong says mining next 1 million bitcoin will take over 100 years, Coinbase CEO hails BTC as 'decentralized, inflation-proof'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRXJSaXJoRHRURWVwd25qQ2xTNnlIYzNWNG9jeU9qY2hHbXBlV20wZTlTWlRQY2xJS0gtWGpaY01wMllaM3VYZjE0Z1piZEFKZkxFWHFMZUg0d191UUNHUmFmN2hsS0pJOWY4eXAtS2ZKUFlrUzN1N0huODlhd1N4WWVIdDZhU1hnWl81V0MwZWpoTTZ3WTVLWGg2Y2RNQVZwWng2R2hWNG4wUUNNZ3pNTHZydEZQSWluV3FZT1cySG83aHROaFN1VVdCci1nMEM5cm5MMVNVa1kyZDJGcUE0eXNpMVpZOUJoMXNFX2p1SENIY0FfVXRxOTJLVF9BaTFKMFN0TGZFWGZhdnJVc2xvUw?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-30T15:08:26+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Brian Armstrong says mining next 1 million bitcoin will take over 100 years, Coinbase CEO hails BTC as 'decentralized, inflation-proof' MSN"
     },
     {
       "title": "Trump Grants Pardon To Binance Founder Changpeng Zhao: Report",
