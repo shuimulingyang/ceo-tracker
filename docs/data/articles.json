@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-02T08:43:53Z",
-  "total": 328,
+  "updated_at": "2026-04-02T09:48:45Z",
+  "total": 329,
   "by_ceo": {
     "CZ": 79,
-    "Brian Armstrong": 160,
+    "Brian Armstrong": 161,
     "Richard Teng": 43,
     "Ben Zhou": 35,
     "Star Xu": 11
@@ -104,6 +104,19 @@
         "Bitcoin"
       ],
       "key_quote": "Brian Armstrong says mining next 1 million bitcoin will take over 100 years, Coinbase CEO hails BTC as 'decentralized, inflation-proof' MSN"
+    },
+    {
+      "title": "Tether Boss Shows Disappointment in Coinbase CEO Not Setting Things Straight on the CLARITY Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWphcUFFSVFwZ3R6dEd0VjNkVGJvM0phZDFKUWFGeDUwU2V3MWI4dkhvVU9KQWRVcWR4WDY5Y0pLMDBXdy03endybEF3V1pCU2ZoRUtKV0t2eTROTHRMX0VZX25EbVE2RGNlaEtQb0xGMmdzRV9IalVPai1iNDlfN2M2TFNqOVl6SkR3NnZUZzZiblhJbzV1MWpnUnFJdlFfUG5TYzM0d2ptdWVTYzVwc3Zmc2Y5TGlGTlUzcEphbzRrOFpvaGxIZlBFTlJxdw?oc=5\" target=\"_blank\">Tether Boss Shows Disappointment in Coinbase CEO Not Setting Things Straight on the CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWphcUFFSVFwZ3R6dEd0VjNkVGJvM0phZDFKUWFGeDUwU2V3MWI4dkhvVU9KQWRVcWR4WDY5Y0pLMDBXdy03endybEF3V1pCU2ZoRUtKV0t2eTROTHRMX0VZX25EbVE2RGNlaEtQb0xGMmdzRV9IalVPai1iNDlfN2M2TFNqOVl6SkR3NnZUZzZiblhJbzV1MWpnUnFJdlFfUG5TYzM0d2ptdWVTYzVwc3Zmc2Y5TGlGTlUzcEphbzRrOFpvaGxIZlBFTlJxdw?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-03-30T03:04:09+00:00",
+      "tags": [
+        "Ethereum"
+      ],
+      "key_quote": "Tether Boss Shows Disappointment in Coinbase CEO Not Setting Things Straight on the CLARITY Act CryptoRank"
     },
     {
       "title": "Trump Grants Pardon To Binance Founder Changpeng Zhao: Report",
