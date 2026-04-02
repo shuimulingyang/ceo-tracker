@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-02T20:22:17Z",
-  "total": 331,
+  "updated_at": "2026-04-02T21:24:42Z",
+  "total": 332,
   "by_ceo": {
-    "Brian Armstrong": 162,
+    "Brian Armstrong": 163,
     "CZ": 80,
     "Richard Teng": 43,
     "Ben Zhou": 35,
@@ -21,6 +21,19 @@
         "Ethereum"
       ],
       "key_quote": "Coinbase CEO Declares Post-Quantum Resistance His Personal Goal TradingView"
+    },
+    {
+      "title": "Quantum Debate in Bitcoin Grows! After Elon Musk and CZ, Coinbase CEO Brian Armstrong Also Makes a Statement!",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oNjRUZG00SURwWERnNDNMUnBtM0xkRWJOWXk2NzBodzd4MmJxYlhTLWtiMklnV09aQW5JTUVaZ3p0RDRzNXV3STVBdUR6VVB4UXJXZ2V3U2Q?oc=5\" target=\"_blank\">Quantum Debate in Bitcoin Grows! After Elon Musk and CZ, Coinbase CEO Brian Armstrong Also Makes a Statement!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oNjRUZG00SURwWERnNDNMUnBtM0xkRWJOWXk2NzBodzd4MmJxYlhTLWtiMklnV09aQW5JTUVaZ3p0RDRzNXV3STVBdUR6VVB4UXJXZ2V3U2Q?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-01T19:18:55+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "After Elon Musk and CZ, Coinbase CEO Brian Armstrong Also Makes a Statement!"
     },
     {
       "title": "Changpeng Zhao dismisses 'quantum computing fears'… \"No need to be scared\"",
