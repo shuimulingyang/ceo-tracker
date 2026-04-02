@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-02T15:46:26Z",
-  "total": 330,
+  "updated_at": "2026-04-02T16:42:06Z",
+  "total": 331,
   "by_ceo": {
+    "Brian Armstrong": 162,
     "CZ": 80,
-    "Brian Armstrong": 161,
     "Richard Teng": 43,
     "Ben Zhou": 35,
     "Star Xu": 11
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Declares Post-Quantum Resistance His Personal Goal",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEVzcTVMNGNUV2k3b2FNV2t0RlZxXzAzakdRdDR2Y0JBbEJjSGRQMHRNVlNIQVJ1RUVjellnc3pYVng0dHh5ZVB3eWUySEd6dG4wM0RudWw4REpCc05xcUF6d1o0SlB3ejFDbkZJNU85VlhqMGtuQkhMRjYydk42ZlRwUTVOeTh1VTU5OGJRYmpRdHZoVTZ2Qll4dFdhNTNfaXBUUmlKRmFNeHJhWVkwa24wY2V3N0R6cHpYTUhn?oc=5\" target=\"_blank\">Coinbase CEO Declares Post-Quantum Resistance His Personal Goal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEVzcTVMNGNUV2k3b2FNV2t0RlZxXzAzakdRdDR2Y0JBbEJjSGRQMHRNVlNIQVJ1RUVjellnc3pYVng0dHh5ZVB3eWUySEd6dG4wM0RudWw4REpCc05xcUF6d1o0SlB3ejFDbkZJNU85VlhqMGtuQkhMRjYydk42ZlRwUTVOeTh1VTU5OGJRYmpRdHZoVTZ2Qll4dFdhNTNfaXBUUmlKRmFNeHJhWVkwa24wY2V3N0R6cHpYTUhn?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-02T10:46:00+00:00",
+      "tags": [
+        "Ethereum"
+      ],
+      "key_quote": "Coinbase CEO Declares Post-Quantum Resistance His Personal Goal TradingView"
+    },
     {
       "title": "Changpeng Zhao dismisses 'quantum computing fears'… \"No need to be scared\"",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LRTJicDZuTzVOcWtyYTJRYmVEUVljSmNWVl9Ua2ZaN1UyRXdNNmZBendrU0xqQ2VnejNVenNkMENZNlJpdUVhZWZ6dWRiQ1pidmllSA?oc=5\" target=\"_blank\">Changpeng Zhao dismisses 'quantum computing fears'… \"No need to be scared\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
