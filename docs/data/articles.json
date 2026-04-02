@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-01T23:25:32Z",
-  "total": 327,
+  "updated_at": "2026-04-02T01:05:32Z",
+  "total": 328,
   "by_ceo": {
-    "CZ": 78,
+    "CZ": 79,
     "Brian Armstrong": 160,
     "Richard Teng": 43,
     "Ben Zhou": 35,
@@ -55,6 +55,17 @@
       "published_at": "2026-03-31T19:14:44+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao Urges Shift to Quantum-Resistant Crypto blockonomi.com"
+    },
+    {
+      "title": "Changpeng Zhao Says Crypto Can Survive Quantum Computing",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE52TlJsU3dvRWpubFgyOHo1eGtOMzU1Y0VycG1ZX3M5eDlnSGF0S0ZfTTNPOF9LTDhpRXpCMHJoWklRS3hiUGc?oc=5\" target=\"_blank\">Changpeng Zhao Says Crypto Can Survive Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mexc.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52TlJsU3dvRWpubFgyOHo1eGtOMzU1Y0VycG1ZX3M5eDlnSGF0S0ZfTTNPOF9LTDhpRXpCMHJoWklRS3hiUGc?oc=5",
+      "source": "mexc.co",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-03-31T16:15:14+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao Says Crypto Can Survive Quantum Computing mexc.co"
     },
     {
       "title": "Changpeng Zhao Says Crypto Can Survive Quantum Computing",
