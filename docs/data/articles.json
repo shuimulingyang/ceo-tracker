@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-03T15:30:48Z",
-  "total": 337,
+  "updated_at": "2026-04-03T16:25:41Z",
+  "total": 338,
   "by_ceo": {
     "Brian Armstrong": 167,
-    "CZ": 81,
+    "CZ": 82,
     "Richard Teng": 43,
     "Ben Zhou": 35,
     "Star Xu": 11
@@ -43,6 +43,17 @@
       "published_at": "2026-04-03T06:49:00+00:00",
       "tags": [],
       "key_quote": "Binance vs Solana: Changpeng Zhao Explains the Memecoin Strategy Split Coinpedia"
+    },
+    {
+      "title": "Binance vs Solana: Changpeng Zhao Explains the Memecoin Strategy Split",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamVGR2NMX0VweDJEa1N4YmZCVUVsb3JzeWFaZG12Y0VROGFMVGxaYlJsM1RpZTdNTWJ5T21ucG1HRDRQQm5CdEt4LTB5LUZSbFhIZFVEZS1DUDhTT0FLMTUyM2tYb3JjYTc1SG1rRVEyTmVnOWxDSVlGTHdQNzhvcDRnTlBhTDhFV0s0RkJkRUxBMzdwN0p2NlBfNHRoT2JSQzZyVU5jSHlzeHZPbHA4T0VVUEVlNFJBN3NLc1BxanVNN1hvTFZvag?oc=5\" target=\"_blank\">Binance vs Solana: Changpeng Zhao Explains the Memecoin Strategy Split</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamVGR2NMX0VweDJEa1N4YmZCVUVsb3JzeWFaZG12Y0VROGFMVGxaYlJsM1RpZTdNTWJ5T21ucG1HRDRQQm5CdEt4LTB5LUZSbFhIZFVEZS1DUDhTT0FLMTUyM2tYb3JjYTc1SG1rRVEyTmVnOWxDSVlGTHdQNzhvcDRnTlBhTDhFV0s0RkJkRUxBMzdwN0p2NlBfNHRoT2JSQzZyVU5jSHlzeHZPbHA4T0VVUEVlNFJBN3NLc1BxanVNN1hvTFZvag?oc=5",
+      "source": "TradingView",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-03T06:49:00+00:00",
+      "tags": [],
+      "key_quote": "Binance vs Solana: Changpeng Zhao Explains the Memecoin Strategy Split TradingView"
     },
     {
       "title": "Coinbase Receives Conditional Nod To Operate As National Trust Company—CEO Brian Armstrong Says 'We're No",
