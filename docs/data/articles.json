@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-03T08:38:41Z",
-  "total": 336,
+  "updated_at": "2026-04-03T09:41:24Z",
+  "total": 337,
   "by_ceo": {
-    "Brian Armstrong": 166,
+    "Brian Armstrong": 167,
     "CZ": 81,
     "Richard Teng": 43,
     "Ben Zhou": 35,
     "Star Xu": 11
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Addresses ‘Quantum Threat’ to Cryptocurrencies",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGtUdmJYODFXNUhxcmNFdkxpOUFDdnRVUDJsVGptczE5NUpoOW5TdGlxSmhjcmNaeVpwZ3drYzRBT0FncDNPUDB0Y2Qwbjl6MWxoZjlDamVVTTJaWVh4MlJ6VkdFdzN0TFZSZEY5cWxDYzVtY19tNmQtUlZXWkI2blZDRHJWZlAyRXlGODNqUWhsMkhmZTRaczJSQlNyNHNB?oc=5\" target=\"_blank\">Coinbase CEO Addresses ‘Quantum Threat’ to Cryptocurrencies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thequantuminsider.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGtUdmJYODFXNUhxcmNFdkxpOUFDdnRVUDJsVGptczE5NUpoOW5TdGlxSmhjcmNaeVpwZ3drYzRBT0FncDNPUDB0Y2Qwbjl6MWxoZjlDamVVTTJaWVh4MlJ6VkdFdzN0TFZSZEY5cWxDYzVtY19tNmQtUlZXWkI2blZDRHJWZlAyRXlGODNqUWhsMkhmZTRaczJSQlNyNHNB?oc=5",
+      "source": "thequantuminsider.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-03T09:03:46+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Addresses ‘Quantum Threat’ to Cryptocurrencies thequantuminsider.com"
+    },
     {
       "title": "Brian Armstrong Pledges Personal Oversight for Bitcoin Quantum Resistance",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXZjZC1ZUEpyOC1sdGVEWHBNNjFzaExSUkhQM3F1MlNqYWo2Rl9lN0lZck9od01rZEttemlQRjVPQTlrRWVkYXRxUUI3Vk9rZ3ZLcU1UemRVOHhYU3JsMVpxa3MyUWoyM0RDMlJ6T2FCb2w5bGFSRFpXOWxiSC1jQXpmZjJvYll4bFR6aTJXWkN6ODdrdjNuRHlTSmJXei1y?oc=5\" target=\"_blank\">Brian Armstrong Pledges Personal Oversight for Bitcoin Quantum Resistance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
