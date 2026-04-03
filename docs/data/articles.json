@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-04-03T06:04:35Z",
-  "total": 334,
+  "updated_at": "2026-04-03T07:53:12Z",
+  "total": 336,
   "by_ceo": {
-    "Brian Armstrong": 165,
-    "CZ": 80,
+    "Brian Armstrong": 166,
+    "CZ": 81,
     "Richard Teng": 43,
     "Ben Zhou": 35,
     "Star Xu": 11
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Pledges Personal Oversight for Bitcoin Quantum Resistance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXZjZC1ZUEpyOC1sdGVEWHBNNjFzaExSUkhQM3F1MlNqYWo2Rl9lN0lZck9od01rZEttemlQRjVPQTlrRWVkYXRxUUI3Vk9rZ3ZLcU1UemRVOHhYU3JsMVpxa3MyUWoyM0RDMlJ6T2FCb2w5bGFSRFpXOWxiSC1jQXpmZjJvYll4bFR6aTJXWkN6ODdrdjNuRHlTSmJXei1y?oc=5\" target=\"_blank\">Brian Armstrong Pledges Personal Oversight for Bitcoin Quantum Resistance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXZjZC1ZUEpyOC1sdGVEWHBNNjFzaExSUkhQM3F1MlNqYWo2Rl9lN0lZck9od01rZEttemlQRjVPQTlrRWVkYXRxUUI3Vk9rZ3ZLcU1UemRVOHhYU3JsMVpxa3MyUWoyM0RDMlJ6T2FCb2w5bGFSRFpXOWxiSC1jQXpmZjJvYll4bFR6aTJXWkN6ODdrdjNuRHlTSmJXei1y?oc=5",
+      "source": "FinanceFeeds",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-03T07:43:46+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Brian Armstrong Pledges Personal Oversight for Bitcoin Quantum Resistance FinanceFeeds"
+    },
+    {
+      "title": "Binance vs Solana: Changpeng Zhao Explains the Memecoin Strategy Split",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcEdyWS1jTHBISWd5UTdjdEtQNVYxcGtRMlU2S3BYaVBrd3FEZXhLbmJJVmdTcWxzaU9LNW9qRENWa3k2d0pOWUw0RGFHSmlVYnIxOUdZcHpicUg1QzhvWlVKeTBNaExQUFB0WWpWUF9NU3JoT0w0dzB3T0JaTjZGRHZESHI4OG5ZN09wZDhsSVFIYS1sSjlSWHZERTlwZ9IBowFBVV95cUxON2V6UmkxQkdxLWdfNHpYSUllQkI2b2JhUUxxSWt1QWphMW4yUWp4LUEyUXJudEwtUVZhVXREZ1F2UDJsdkFQajdFdUtTbVVaUUkzTXdGckhuWnBIUXkzSTlIWU5wYnR0Mms4cnR4YXZhTWZoN01mWFRHNUFSNVJlelUzdnpTaDh1SzVjN096U0FfZU8yanBqaEwzNTBXaXBGbWVB?oc=5\" target=\"_blank\">Binance vs Solana: Changpeng Zhao Explains the Memecoin Strategy Split</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcEdyWS1jTHBISWd5UTdjdEtQNVYxcGtRMlU2S3BYaVBrd3FEZXhLbmJJVmdTcWxzaU9LNW9qRENWa3k2d0pOWUw0RGFHSmlVYnIxOUdZcHpicUg1QzhvWlVKeTBNaExQUFB0WWpWUF9NU3JoT0w0dzB3T0JaTjZGRHZESHI4OG5ZN09wZDhsSVFIYS1sSjlSWHZERTlwZ9IBowFBVV95cUxON2V6UmkxQkdxLWdfNHpYSUllQkI2b2JhUUxxSWt1QWphMW4yUWp4LUEyUXJudEwtUVZhVXREZ1F2UDJsdkFQajdFdUtTbVVaUUkzTXdGckhuWnBIUXkzSTlIWU5wYnR0Mms4cnR4YXZhTWZoN01mWFRHNUFSNVJlelUzdnpTaDh1SzVjN096U0FfZU8yanBqaEwzNTBXaXBGbWVB?oc=5",
+      "source": "Coinpedia",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-03T06:49:00+00:00",
+      "tags": [],
+      "key_quote": "Binance vs Solana: Changpeng Zhao Explains the Memecoin Strategy Split Coinpedia"
+    },
     {
       "title": "Coinbase Receives Conditional Nod To Operate As National Trust Company—CEO Brian Armstrong Says 'We're No",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQUdSZGFMZU96Y3lCanJFQzFFUW4wc1dYNE1qdEs2SFdPN1NjRzlXTmo3VFJZNDJfVk81ZFl5QWFlbFVBcTdZUElwV1duaFBMRURpQWNLRk1TTG5weENLRk1HbmtmbG1HUU9TQ2FCTThkNVcxaW9PNGZ0T1dWay1OVkNfMG9GM1Y5M1pLME5Bd0Q3R2RDWHVZbXZsdm41UjJGM0hPUmJ4Y1dXdWxiM2xtQzdtZEV4QnJDaFRRTHFqODNzMG5DVGNaSWlXbWwwcFBJ?oc=5\" target=\"_blank\">Coinbase Receives Conditional Nod To Operate As National Trust Company—CEO Brian Armstrong Says 'We're No</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">benzinga.com</font>",
