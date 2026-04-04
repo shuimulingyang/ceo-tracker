@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-04T16:20:13Z",
-  "total": 347,
+  "updated_at": "2026-04-04T17:19:48Z",
+  "total": 348,
   "by_ceo": {
-    "Brian Armstrong": 174,
+    "Brian Armstrong": 175,
     "CZ": 83,
     "Richard Teng": 44,
     "Ben Zhou": 35,
@@ -84,6 +84,19 @@
         "市场 Market"
       ],
       "key_quote": "Changpeng Zhao-backed YZi Labs makes additional investment in prediction market startup Predict.fun 디지털투데이"
+    },
+    {
+      "title": "Cryptocurrency Exchange Lawsuits: Coinbase CEO Reveals Critical Legal Risks in Token Listings",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3BCU19qU2sxMGZvT1dPWFlDOFEwZW9UaEpTYThQcF9NM1dCd29KNkxocDdNRm9yNkZ3M1EzS1VRZTZFY2JwTlRFRXg2cHNka055VVRPT2FPRDIyVXd1NHM4Vm1HNmZrWThZSzJfcGtpZkI1SW4tVVllYnFCaFY0OEhZclYwVWNiNUlN?oc=5\" target=\"_blank\">Cryptocurrency Exchange Lawsuits: Coinbase CEO Reveals Critical Legal Risks in Token Listings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cryptorank.io</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3BCU19qU2sxMGZvT1dPWFlDOFEwZW9UaEpTYThQcF9NM1dCd29KNkxocDdNRm9yNkZ3M1EzS1VRZTZFY2JwTlRFRXg2cHNka055VVRPT2FPRDIyVXd1NHM4Vm1HNmZrWThZSzJfcGtpZkI1SW4tVVllYnFCaFY0OEhZclYwVWNiNUlN?oc=5",
+      "source": "cryptorank.io",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-03T20:36:05+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Cryptocurrency Exchange Lawsuits: Coinbase CEO Reveals Critical Legal Risks in Token Listings cryptorank.io"
     },
     {
       "title": "Every AI Agent Deserves a Crypto Wallet: Coinbase CEO",
