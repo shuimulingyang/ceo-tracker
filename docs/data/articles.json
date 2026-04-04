@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-04T21:19:51Z",
-  "total": 349,
+  "updated_at": "2026-04-04T22:15:22Z",
+  "total": 350,
   "by_ceo": {
-    "Brian Armstrong": 176,
+    "Brian Armstrong": 177,
     "CZ": 83,
     "Richard Teng": 44,
     "Ben Zhou": 35,
@@ -70,6 +70,19 @@
         "Bitcoin"
       ],
       "key_quote": "Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats Cryptonews"
+    },
+    {
+      "title": "Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmUtal9seVB1ckMzdk91QWVwY2drVFJyWG4tMkVXOW1DZVFTUDFaU3dKcTZYMXZLN2xxZ1BpNUF2Z3hldmc0QkFEVkFQSHpwOEtkcFRyeHpCV2dYTUl4ZDlMazJXVGp1R013VWlkekt2YndwdUFFbmdfc2piVXE1Y29UcERWVlQyTVpZbl9jcmRlWEdoT1FZZ0VZek1lVVRwQWtzbHZGUTZiZEU?oc=5\" target=\"_blank\">Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmUtal9seVB1ckMzdk91QWVwY2drVFJyWG4tMkVXOW1DZVFTUDFaU3dKcTZYMXZLN2xxZ1BpNUF2Z3hldmc0QkFEVkFQSHpwOEtkcFRyeHpCV2dYTUl4ZDlMazJXVGp1R013VWlkekt2YndwdUFFbmdfc2piVXE1Y29UcERWVlQyTVpZbl9jcmRlWEdoT1FZZ0VZek1lVVRwQWtzbHZGUTZiZEU?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-04T09:26:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats Yahoo Finance"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Pledges Direct Involvement in Bitcoin's Quantum Defense Strategy",
