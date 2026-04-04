@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-04T19:22:41Z",
-  "total": 348,
+  "updated_at": "2026-04-04T20:16:38Z",
+  "total": 349,
   "by_ceo": {
-    "Brian Armstrong": 175,
+    "Brian Armstrong": 176,
     "CZ": 83,
     "Richard Teng": 44,
     "Ben Zhou": 35,
     "Star Xu": 11
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Teases All-in-One Base App for Mass Crypto Adoption",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPazd3cUM2bERxS1BEaHd4SzNiWDFvLWhwTGVFM1NpTXUzWWdaTnJIaTczVmt0MVVWdnlweHJVQnhsYjRrVlRsYnlaaW5ld0NsMnNVMmFxVmtnLVZYSjJZcXJfYUhnWEdVb2pJU21CS1FxSWdRNmM1dE1nUU1FNlhBNF9uRkRDdUFCS05lQ3VuMVNaZmhRYmp2T3hCbDUydw?oc=5\" target=\"_blank\">Coinbase CEO Teases All-in-One Base App for Mass Crypto Adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Bitcoin News</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazd3cUM2bERxS1BEaHd4SzNiWDFvLWhwTGVFM1NpTXUzWWdaTnJIaTczVmt0MVVWdnlweHJVQnhsYjRrVlRsYnlaaW5ld0NsMnNVMmFxVmtnLVZYSjJZcXJfYUhnWEdVb2pJU21CS1FxSWdRNmM1dE1nUU1FNlhBNF9uRkRDdUFCS05lQ3VuMVNaZmhRYmp2T3hCbDUydw?oc=5",
+      "source": "Live Bitcoin News",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-04T18:49:45+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Teases All-in-One Base App for Mass Crypto Adoption Live Bitcoin News"
+    },
     {
       "title": "Coinbase CEO Signals Base App Push Toward 1B Crypto Users",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IQzdNNmtqUVZUam9XOFp6SkF3YTl4Mm1HVkEtLTVsRFJ2bWN0bjRiYjYxRGlHT1JzVWZ6V1BfRDNmTDkxWnhLWUhPN2hUeFF4dWt4dDNlVQ?oc=5\" target=\"_blank\">Coinbase CEO Signals Base App Push Toward 1B Crypto Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cryptonews.net</font>",
