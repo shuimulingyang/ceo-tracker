@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-04T04:04:35Z",
-  "total": 340,
+  "updated_at": "2026-04-04T05:47:03Z",
+  "total": 341,
   "by_ceo": {
     "CZ": 83,
     "Brian Armstrong": 168,
-    "Richard Teng": 43,
+    "Richard Teng": 44,
     "Ben Zhou": 35,
     "Star Xu": 11
   },
@@ -4024,6 +4024,19 @@
         "Ethereum"
       ],
       "key_quote": "OKX CEO Star Xu Slams Huione Group After $15B DOJ Crackdown CryptoPotato"
+    },
+    {
+      "title": "BREAKING NEWS: Binance CEO Richard Teng ...",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GMUFWWEV0dmdEWjRmLUt3QzZRX1VBLVlaYU9aOWJ6WHQ1OTd5Ymc3d0FvZl9iekZMVVJ6R1VCVE9DeGc1WlBrdFN0UDlQb2R4eXV2QzZIanFTMzFTRGJpbmxEMA?oc=5\" target=\"_blank\">BREAKING NEWS: Binance CEO Richard Teng ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GMUFWWEV0dmdEWjRmLUt3QzZRX1VBLVlaYU9aOWJ6WHQ1OTd5Ymc3d0FvZl9iekZMVVJ6R1VCVE9DeGc1WlBrdFN0UDlQb2R4eXV2QzZIanFTMzFTRGJpbmxEMA?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2025-10-11T07:00:00+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "BREAKING NEWS: Binance CEO Richard Teng ... Binance"
     },
     {
       "title": "OKX CEO Star Xu Unveils Three-Phase Strategy for X Layer, Backed by $100M Vision Fund",
