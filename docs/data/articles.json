@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-04T05:47:03Z",
-  "total": 341,
+  "updated_at": "2026-04-04T06:44:17Z",
+  "total": 342,
   "by_ceo": {
     "CZ": 83,
-    "Brian Armstrong": 168,
+    "Brian Armstrong": 169,
     "Richard Teng": 44,
     "Ben Zhou": 35,
     "Star Xu": 11
@@ -34,6 +34,19 @@
         "AI"
       ],
       "key_quote": "Every AI Agent Deserves a Crypto Wallet: Coinbase CEO ZyCrypto"
+    },
+    {
+      "title": "Coinbase CEO 'Hearing Rumors' That Staking Could Be Banned in U.S.",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHpqUDYxc3VqT3V3SWJQbkdPeV9PZDRiU3dZRUlpUFhwTGxhVUJ3SzJQQUo5d2VYUExkTzFDSnhTazR2NUxvR3BmSjN1amhrMHliMC03UTZVT29vYXpVMlZIUEZCRFg2RWoxR3hnbjNnMWxyU0Z1VFpTV2xiREJxMTRqeDhXOUhUN0JBS1dzbnE3Sm56VzlEU1lxLVBNNkUzNl9mRUg1SDZidmVJ?oc=5\" target=\"_blank\">Coinbase CEO 'Hearing Rumors' That Staking Could Be Banned in U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinMarketCap</font>",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHpqUDYxc3VqT3V3SWJQbkdPeV9PZDRiU3dZRUlpUFhwTGxhVUJ3SzJQQUo5d2VYUExkTzFDSnhTazR2NUxvR3BmSjN1amhrMHliMC03UTZVT29vYXpVMlZIUEZCRFg2RWoxR3hnbjNnMWxyU0Z1VFpTV2xiREJxMTRqeDhXOUhUN0JBS1dzbnE3Sm56VzlEU1lxLVBNNkUzNl9mRUg1SDZidmVJ?oc=5",
+      "source": "CoinMarketCap",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-03T09:33:32+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO 'Hearing Rumors' That Staking Could Be Banned in U.S."
     },
     {
       "title": "Coinbase CEO Addresses ‘Quantum Threat’ to Cryptocurrencies",
