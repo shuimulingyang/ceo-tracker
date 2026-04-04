@@ -1,14 +1,52 @@
 {
-  "updated_at": "2026-04-04T09:25:58Z",
-  "total": 342,
+  "updated_at": "2026-04-04T10:21:24Z",
+  "total": 345,
   "by_ceo": {
+    "Brian Armstrong": 172,
     "CZ": 83,
-    "Brian Armstrong": 169,
     "Richard Teng": 44,
     "Ben Zhou": 35,
     "Star Xu": 11
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Signals Base App Push Toward 1B Crypto Users",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNzhfdVFqRmVhOExaUkFoNmVuUEZHZFJLcnBRUk9rcjY2Y3h6RVpYdnZuSjVpeGtGcnVmN0dZYUxlWnBSUXBDdmN3a0EycTY2NUc4al92WjlPT1hETy1kNVZvUm1sZnMyaWpHNnFDQkVWTnhhVlp1akRFd19vSG10Ry1CdlJtOTUycEE?oc=5\" target=\"_blank\">Coinbase CEO Signals Base App Push Toward 1B Crypto Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinfomania</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNzhfdVFqRmVhOExaUkFoNmVuUEZHZFJLcnBRUk9rcjY2Y3h6RVpYdnZuSjVpeGtGcnVmN0dZYUxlWnBSUXBDdmN3a0EycTY2NUc4al92WjlPT1hETy1kNVZvUm1sZnMyaWpHNnFDQkVWTnhhVlp1akRFd19vSG10Ry1CdlJtOTUycEE?oc=5",
+      "source": "Coinfomania",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-04T10:07:38+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Signals Base App Push Toward 1B Crypto Users Coinfomania"
+    },
+    {
+      "title": "Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMHp5SXU1T2VXTnFsLVJsYzgwdUJ3WlkyWHU0MzEtRk80TTVHREU3ZWFBV0hFWVZkX0c4cGtQeC1DMkVwOGpSbkg2TmNKTVBUOW5UOExOM3BnemdsUnp3czVLanVVNnh0YkdEd0JSUFNLYWJxUnFpcXBaV1Jkc0JvR1VfWUtjai12bnpSdQ?oc=5\" target=\"_blank\">Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMHp5SXU1T2VXTnFsLVJsYzgwdUJ3WlkyWHU0MzEtRk80TTVHREU3ZWFBV0hFWVZkX0c4cGtQeC1DMkVwOGpSbkg2TmNKTVBUOW5UOExOM3BnemdsUnp3czVLanVVNnh0YkdEd0JSUFNLYWJxUnFpcXBaV1Jkc0JvR1VfWUtjai12bnpSdQ?oc=5",
+      "source": "Cryptonews",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-04T09:26:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats Cryptonews"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Pledges Direct Involvement in Bitcoin's Quantum Defense Strategy",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVcyWTAxeThoZ3NYcFZ5dVFkX0JTcHVSUG5mQUFBdVpkMk1hVkRWS3FxRmh3eHlkeDVfTlo4WTFnS3RlZ05SWTY3d1JSMklGQmdRUUFYR0d6M2V5bUxQWk0tTU11U2Q4aWdSTWZfNjB1UkRsWVNSWDdSQm96eFVxbDQzOUpLbk94dUxNeWRlTFE3SnJMVGNyd3NKSUI4clF6aFhYLXZtVjFRYm00UmtBVjVpSElseGc?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Pledges Direct Involvement in Bitcoin's Quantum Defense Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVcyWTAxeThoZ3NYcFZ5dVFkX0JTcHVSUG5mQUFBdVpkMk1hVkRWS3FxRmh3eHlkeDVfTlo4WTFnS3RlZ05SWTY3d1JSMklGQmdRUUFYR0d6M2V5bUxQWk0tTU11U2Q4aWdSTWZfNjB1UkRsWVNSWDdSQm96eFVxbDQzOUpLbk94dUxNeWRlTFE3SnJMVGNyd3NKSUI4clF6aFhYLXZtVjFRYm00UmtBVjVpSElseGc?oc=5",
+      "source": "Blockonomi",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-04T08:30:08+00:00",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Pledges Direct Involvement in Bitcoin's Quantum Defense Strategy Blockonomi"
+    },
     {
       "title": "Changpeng Zhao-backed YZi Labs makes additional investment in prediction market startup Predict.fun",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxORnZ4Nlp6TnNpTVhobHdPbDlmdk1kdjllWS1wcGQ2eDhna0YtOUJ6eVNsQXVPVC12WnA5M1lOSzhVRVVzWnRZOTRXTGhXTVRickw1ZVJGaUlEM3pJNzg1RFlBMF9FLXBXSVRFNUJ5TWNzN1ZDNjlnSkJwYWVQTkNrZ29MWXlJaS11Q0VKUUhpUTcyMDlHMmpJTmR3T3ZnWEZ6bTl6Y3R1a3I3WnNOSHk2TUNPUFNIQTFYQ3NPeE9zOVNYVmZlaFBBY25xd2lLUWI5enJiYWotZmpWUjdwanc4RA?oc=5\" target=\"_blank\">Changpeng Zhao-backed YZi Labs makes additional investment in prediction market startup Predict.fun</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
