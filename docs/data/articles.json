@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-05T06:06:56Z",
-  "total": 352,
+  "updated_at": "2026-04-05T07:45:54Z",
+  "total": 353,
   "by_ceo": {
-    "Brian Armstrong": 179,
+    "Brian Armstrong": 180,
     "CZ": 83,
     "Richard Teng": 44,
     "Ben Zhou": 35,
@@ -242,6 +242,17 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase CEO Pushes Bitcoin Quantum Resistance as Price Stays Weak CryptoRank"
+    },
+    {
+      "title": "Coinbase CEO: Subscriptions Can Curb Reliance on Trading Fees",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQb01rWVFZS0dSOHZNQkNpSDFhbVZBSkpBQzBUaEdROWhyN25PSjV0M2ozeWo4REstUDdkZWhodUVqR1o3ZDZka0ljYzFuQU9JRTMyQS1maGcyWENlRDRSZ3dYZTE3QmZicWVtVmlOTk94ZkZrelVaWlF2cXVoOTJkN25oMDVNTDlXbDRNdkw0MnZUOTJIc2ZJ?oc=5\" target=\"_blank\">Coinbase CEO: Subscriptions Can Curb Reliance on Trading Fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockworks</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb01rWVFZS0dSOHZNQkNpSDFhbVZBSkpBQzBUaEdROWhyN25PSjV0M2ozeWo4REstUDdkZWhodUVqR1o3ZDZka0ljYzFuQU9JRTMyQS1maGcyWENlRDRSZ3dYZTE3QmZicWVtVmlOTk94ZkZrelVaWlF2cXVoOTJkN25oMDVNTDlXbDRNdkw0MnZUOTJIc2ZJ?oc=5",
+      "source": "Blockworks",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-02T21:52:12+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO: Subscriptions Can Curb Reliance on Trading Fees Blockworks"
     },
     {
       "title": "Coinbase CEO Declares Post-Quantum Resistance His Personal Goal",
