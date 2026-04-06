@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-06T06:22:41Z",
-  "total": 354,
+  "updated_at": "2026-04-06T08:15:26Z",
+  "total": 355,
   "by_ceo": {
     "Brian Armstrong": 180,
-    "CZ": 84,
+    "CZ": 85,
     "Richard Teng": 44,
     "Ben Zhou": 35,
     "Star Xu": 11
@@ -3226,6 +3226,17 @@
       "published_at": "2026-02-13T08:00:00+00:00",
       "tags": [],
       "key_quote": "$10 Billion Gone In 7 Months: Coinbase's Brian Armstrong Falls Off Billionaire Leaderboard As Crypto Fortunes Evaporate Yahoo Finance"
+    },
+    {
+      "title": "#CZ Binance Square AMA",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wMmNzWTF4UHVYTDRXNTZTZWh6b3BuN0s2VWN1dmR6Rnh3UmRjMElVVmd1RHROXzBiVVBXN2w3NU1MTWhGUEVvNVE4T1ZVYlBSZ2toSWZIOXNfdHhKMVRTU195RFI?oc=5\" target=\"_blank\">#CZ Binance Square AMA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wMmNzWTF4UHVYTDRXNTZTZWh6b3BuN0s2VWN1dmR6Rnh3UmRjMElVVmd1RHROXzBiVVBXN2w3NU1MTWhGUEVvNVE4T1ZVYlBSZ2toSWZIOXNfdHhKMVRTU195RFI?oc=5",
+      "source": "Binance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-02-13T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "#CZ Binance Square AMA Binance"
     },
     {
       "title": "News Explorer — Binance Co-CEO Richard Teng Refutes Claims That Firm Caused $19 Billion Crypto Market Liquidation",
