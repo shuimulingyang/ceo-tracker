@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-06T18:38:26Z",
-  "total": 355,
+  "updated_at": "2026-04-06T19:43:01Z",
+  "total": 357,
   "by_ceo": {
-    "Brian Armstrong": 180,
+    "Brian Armstrong": 182,
     "CZ": 85,
     "Richard Teng": 44,
     "Ben Zhou": 35,
     "Star Xu": 11
   },
   "articles": [
+    {
+      "title": "Coinbase receives conditional nod to operate as national trust company—CEO Brian Armstrong says 'we're not becoming a bank'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxQN1N1VkVaUHlmQXRjZnYtUDQ3SVFKZDBjMHgtX19QQ0Z6dFA4NEdkdnItUUZYeDI1SG1IczRjY09MME1MOUxXUWJrYzBZWGVWVzNJekNTRlR1N1kzZVJWcHRhVjJXM2xwYUpfbTZ3c2ZSd1hjYVdtNDl0NjBVZ1JpUk9xMGRhLU8zZjIyUEcyaHM0TC1kek5VeDdGZUxuRXBvb3NGdkFHSDViSWkwa2ROajdEdEprdGZmNHgtQjExX3Jzc2JNSTZtMDJlZEpQRkpZektpemtTWE5wWnVONF9SQXhOdVhQak1LdEV4MkZ1MV9lYjhYWDcyTDh5WElCR0l5cnc3X3lIZFJSRXU4TFRwdElOQ2NHVzg5dlQxVk1pQ2kxQXZzeXR0QXpYd2M0UDB0dGdSTjZhVmhldUNwWUVpQXJRaDBZekZPcE43bjdRUHdNWHhtNjJoakZIUUducEJ1dHcwSTRxZUtiU2xwNTdBMENQUjZqYTlySEJFWkpUZ2dpdU94OUFiT09CbS1GSjZKYkpsVnhmNkpiNXgxWHZDcFhESVJPOGF0Y3RDRllTOC1PcHVSRWJV?oc=5\" target=\"_blank\">Coinbase receives conditional nod to operate as national trust company—CEO Brian Armstrong says 'we're not becoming a bank'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQN1N1VkVaUHlmQXRjZnYtUDQ3SVFKZDBjMHgtX19QQ0Z6dFA4NEdkdnItUUZYeDI1SG1IczRjY09MME1MOUxXUWJrYzBZWGVWVzNJekNTRlR1N1kzZVJWcHRhVjJXM2xwYUpfbTZ3c2ZSd1hjYVdtNDl0NjBVZ1JpUk9xMGRhLU8zZjIyUEcyaHM0TC1kek5VeDdGZUxuRXBvb3NGdkFHSDViSWkwa2ROajdEdEprdGZmNHgtQjExX3Jzc2JNSTZtMDJlZEpQRkpZektpemtTWE5wWnVONF9SQXhOdVhQak1LdEV4MkZ1MV9lYjhYWDcyTDh5WElCR0l5cnc3X3lIZFJSRXU4TFRwdElOQ2NHVzg5dlQxVk1pQ2kxQXZzeXR0QXpYd2M0UDB0dGdSTjZhVmhldUNwWUVpQXJRaDBZekZPcE43bjdRUHdNWHhtNjJoakZIUUducEJ1dHcwSTRxZUtiU2xwNTdBMENQUjZqYTlySEJFWkpUZ2dpdU94OUFiT09CbS1GSjZKYkpsVnhmNkpiNXgxWHZDcFhESVJPOGF0Y3RDRllTOC1PcHVSRWJV?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-06T11:29:54+00:00",
+      "tags": [],
+      "key_quote": "Coinbase receives conditional nod to operate as national trust company—CEO Brian Armstrong says 'we're not becoming a bank' MSN"
+    },
     {
       "title": "'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0dF9VY2ZZNElacWk4VF8zNEExR0JzNGdhVlVHLUc0VEl4UXdyMUh1X2JoUnY3M2tiUDRHN0thX2NiWnNYVWd5emFtWDNuM2I3Z1I5MWhYa2hoUW56?oc=5\" target=\"_blank\">'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
@@ -43,6 +54,17 @@
         "Bitcoin"
       ],
       "key_quote": "Coinbase CEO Teases All-in-One Base App for Mass Crypto Adoption Live Bitcoin News"
+    },
+    {
+      "title": "'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmxzSXEyY0tkVzI2SFI3ZlBpcllWQnVYSnMtOGlkTzdORVc0bVVhS1d2aVBtNG5nWkNfejk2OFk5dEJXcHlJaTM2NW5VOW5qc2ptdEVTMi1XZnBEMXN3cTQ3MndNTDBsazhIUnQ1RVFscURjRGRmRmRqejRhRVhYNnR1QmI2M3pnczNDWDJuWVRJYkJtdjczRTl6dTNTNW1nVlM4eXFIUFdldG5wNEh2WDkwRHJoWUhSYllCNFJDZUM?oc=5\" target=\"_blank\">'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmxzSXEyY0tkVzI2SFI3ZlBpcllWQnVYSnMtOGlkTzdORVc0bVVhS1d2aVBtNG5nWkNfejk2OFk5dEJXcHlJaTM2NW5VOW5qc2ptdEVTMi1XZnBEMXN3cTQ3MndNTDBsazhIUnQ1RVFscURjRGRmRmRqejRhRVhYNnR1QmI2M3pnczNDWDJuWVRJYkJtdjczRTl6dTNTNW1nVlM4eXFIUFdldG5wNEh2WDkwRHJoWUhSYllCNFJDZUM?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-04T13:59:00+00:00",
+      "tags": [],
+      "key_quote": "'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People TradingView"
     },
     {
       "title": "Coinbase CEO Signals Base App Push Toward 1B Crypto Users",
