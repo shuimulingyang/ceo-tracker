@@ -1,14 +1,40 @@
 {
-  "updated_at": "2026-04-07T04:21:47Z",
-  "total": 359,
+  "updated_at": "2026-04-07T06:11:14Z",
+  "total": 361,
   "by_ceo": {
-    "Brian Armstrong": 184,
+    "Brian Armstrong": 186,
     "CZ": 85,
     "Richard Teng": 44,
     "Ben Zhou": 35,
     "Star Xu": 11
   },
   "articles": [
+    {
+      "title": "Steve Wozniak's Early Experience At HP Invoked By Coinbase CEO Brian Armstrong To Push 'One Yes' Innovati",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOM3lfSEdkMHJNS25oUnNyM25Sdi1iczF4NUNWLWFtR1BIVG5xR1ROYklSSDZFblhUZnU0R0NZal9jUlZkVkFweW1JX2t3aGNaWDJmOEI1ZHpiVkVlWF9YSk9XM1JwX2JxazZTejNDbVpoU0JadUNqR1UxTFlTMHpMb200dnZfbm9rY1ZOdWEzbzRiTEd1MWlPUkZyT3lCVXE2N2MxUmNWaEctaC0wOWI1VXJudnkzUUR4bXc?oc=5\" target=\"_blank\">Steve Wozniak's Early Experience At HP Invoked By Coinbase CEO Brian Armstrong To Push 'One Yes' Innovati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM3lfSEdkMHJNS25oUnNyM25Sdi1iczF4NUNWLWFtR1BIVG5xR1ROYklSSDZFblhUZnU0R0NZal9jUlZkVkFweW1JX2t3aGNaWDJmOEI1ZHpiVkVlWF9YSk9XM1JwX2JxazZTejNDbVpoU0JadUNqR1UxTFlTMHpMb200dnZfbm9rY1ZOdWEzbzRiTEd1MWlPUkZyT3lCVXE2N2MxUmNWaEctaC0wOWI1VXJudnkzUUR4bXc?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-07T05:56:42+00:00",
+      "tags": [],
+      "key_quote": "Steve Wozniak's Early Experience At HP Invoked By Coinbase CEO Brian Armstrong To Push 'One Yes' Innovati Benzinga"
+    },
+    {
+      "title": "Brian Armstrong Shares Coinbase Focus on Everything Exchange Stablecoins and DeFi",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQX01LN1ByTFUzVm1SakM2MW9SVll4LVRfenpvbXJET1F6T3VVT2FmTDFOZElEdmhXTlQtc2NoTGg1dkZKRERjYmRoYlFVWDZiR1l5U1FTN082TUZ0UFNQaC1FcWJoU2FFT2JGT05felNUaGhPdE1yTG9NTElqT1NrbWZsN3l5WjdrRmZwT3NneVM1WmFNTDAtcXpoRDNDenduM1ZfSlBTdjhNVE81eEhOTzBGUkk?oc=5\" target=\"_blank\">Brian Armstrong Shares Coinbase Focus on Everything Exchange Stablecoins and DeFi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Bitcoin News</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX01LN1ByTFUzVm1SakM2MW9SVll4LVRfenpvbXJET1F6T3VVT2FmTDFOZElEdmhXTlQtc2NoTGg1dkZKRERjYmRoYlFVWDZiR1l5U1FTN082TUZ0UFNQaC1FcWJoU2FFT2JGT05felNUaGhPdE1yTG9NTElqT1NrbWZsN3l5WjdrRmZwT3NneVM1WmFNTDAtcXpoRDNDenduM1ZfSlBTdjhNVE81eEhOTzBGUkk?oc=5",
+      "source": "Live Bitcoin News",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-07T05:45:04+00:00",
+      "tags": [
+        "Bitcoin",
+        "DeFi",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Brian Armstrong Shares Coinbase Focus on Everything Exchange Stablecoins and DeFi Live Bitcoin News"
+    },
     {
       "title": "Coinbase CEO Reveals Crucial Priorities: Stablecoin Payments Lead Ambitious Crypto Vision",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jeHN4c01PMGg4MkxIbG92bWlmV3FTVDZ2Sy05OXRTeUJzRmxQUWQzMGw1dXoyek9pZmtQaWRtZ3N1V3BNUGRXRWstVXZsajJPR21ROU1ZRHIyNm8?oc=5\" target=\"_blank\">Coinbase CEO Reveals Crucial Priorities: Stablecoin Payments Lead Ambitious Crypto Vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
