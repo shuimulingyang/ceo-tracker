@@ -1,14 +1,41 @@
 {
-  "updated_at": "2026-04-07T23:26:58Z",
-  "total": 364,
+  "updated_at": "2026-04-08T01:10:06Z",
+  "total": 366,
   "by_ceo": {
-    "Richard Teng": 45,
+    "CZ": 86,
+    "Richard Teng": 46,
     "Brian Armstrong": 188,
-    "CZ": 85,
     "Ben Zhou": 35,
     "Star Xu": 11
   },
   "articles": [
+    {
+      "title": "Crypto billionaire to prison: CZ’s autobiography revisits turbulent Binance era",
+      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto billionaire to prison: CZ’s autobiography revisits turbulent Binance era\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDY5OWMtNGM1ZC03MWE5LTk0NDktNWU3ZTFmYzBiZThmLmpwZw==.jpg\" /></p><p>Changpeng Zhao’s memoir recounts Binance’s rapid rise, regulatory scrutiny and prison sentence, offering a first-person account of crypto’s most turbulent era.</p>",
+      "url": "https://cointelegraph.com/news/crypto-billionaire-cz-autobiography?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-08T00:00:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Changpeng Zhao’s memoir recounts Binance’s rapid rise, regulatory scrutiny and prison sentence, offering a first-person account of crypto’s most turbulent era."
+    },
+    {
+      "title": "Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBWUWVyVzJYcXlreHdubzhWZ3h5R2JMN2FFYnp2ZDhWeFJBRWxSd0RuVUJ0TEFvWVdXc0MxVGh0UWh0aHhpc2xJ?oc=5\" target=\"_blank\">Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC Exchange</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBWUWVyVzJYcXlreHdubzhWZ3h5R2JMN2FFYnp2ZDhWeFJBRWxSd0RuVUJ0TEFvWVdXc0MxVGh0UWh0aHhpc2xJ?oc=5",
+      "source": "MEXC Exchange",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-07T21:56:31+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market MEXC Exchange"
+    },
     {
       "title": "Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE43WkhteFFYdXZLVHctZmxhTkNuVUxyMWhwLUE1R3RRTl91bjVqYlg1N0g5NF92eGV6RGJOamtxaGthaG0za3F2YQ?oc=5\" target=\"_blank\">Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
