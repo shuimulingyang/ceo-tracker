@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-08T09:55:49Z",
-  "total": 369,
+  "updated_at": "2026-04-08T10:47:19Z",
+  "total": 370,
   "by_ceo": {
     "CZ": 88,
     "Richard Teng": 47,
     "Brian Armstrong": 188,
     "Ben Zhou": 35,
-    "Star Xu": 11
+    "Star Xu": 12
   },
   "articles": [
     {
@@ -4513,6 +4513,19 @@
         "监管 Regulation"
       ],
       "key_quote": "OKX CEO Apologizes for Compliance Control Failures ForkLog"
+    },
+    {
+      "title": "OKX CEO Apologizes for Compliance Control Failures",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMzVkNm1jS2NEUTNjWlpIck9CREZIVWdXbVJkdENiT3lWdFNwSThEVFMxbVhVM3NRQXV1VEtkeGFvdWEwVTlGR1RuSV9KeUJxVGZhbkZUOXVsMTc5N1BIVHZydnAzVFByZFFEbXQ0UktKQnZNdVhPYjRfRTBjUG8?oc=5\" target=\"_blank\">OKX CEO Apologizes for Compliance Control Failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">forklog.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMzVkNm1jS2NEUTNjWlpIck9CREZIVWdXbVJkdENiT3lWdFNwSThEVFMxbVhVM3NRQXV1VEtkeGFvdWEwVTlGR1RuSV9KeUJxVGZhbkZUOXVsMTc5N1BIVHZydnAzVFByZFFEbXQ0UktKQnZNdVhPYjRfRTBjUG8?oc=5",
+      "source": "forklog.com",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2025-07-05T07:00:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "OKX CEO Apologizes for Compliance Control Failures forklog.com"
     },
     {
       "title": "Article | POLITICO Pro Q&A: Binance CEO Richard Teng",
