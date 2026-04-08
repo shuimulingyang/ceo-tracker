@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-08T11:43:19Z",
-  "total": 370,
+  "updated_at": "2026-04-08T12:49:17Z",
+  "total": 372,
   "by_ceo": {
     "CZ": 88,
-    "Richard Teng": 47,
-    "Brian Armstrong": 188,
+    "Richard Teng": 48,
+    "Brian Armstrong": 189,
     "Ben Zhou": 35,
     "Star Xu": 12
   },
@@ -59,6 +59,20 @@
         "市场 Market"
       ],
       "key_quote": "Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market MEXC Exchange"
+    },
+    {
+      "title": "Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wUTJoVWxjTk1kTlFqM1Z6MGRoRXFiVDRHMlpOZy1ZRGZhV1dsSlFHZTRCZXhiU1dnRFpGNFV0al9FQS16RWUxM1FKNTh1alU?oc=5\" target=\"_blank\">Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wUTJoVWxjTk1kTlFqM1Z6MGRoRXFiVDRHMlpOZy1ZRGZhV1dsSlFHZTRCZXhiU1dnRFpGNFV0al9FQS16RWUxM1FKNTh1alU?oc=5",
+      "source": "MEXC",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-07T22:41:53+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market MEXC"
     },
     {
       "title": "Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market",
@@ -166,6 +180,20 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Coinbase CEO Reveals Crucial Priorities: Stablecoin Payments Lead Ambitious Crypto Vision cryptorank.io"
+    },
+    {
+      "title": "Coinbase CEO Reveals Crucial Priorities: Stablecoin Payments Lead Ambitious Crypto Vision",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1RMWVKb2RYMHdSQ3Iya1Q1YUNiZ3lNR0UwM0Q2eVZ0NU5zOFVjeDFJRWRlZ3V3ZDRNUnZQdEJZb3IyTHNFaUQwNUN6ZVRsbDRoTktXVUw4a0QyX01wWHZJcmNTbzE0SXBrbWgzTEljUndOcHU2UFFVQ1cwQQ?oc=5\" target=\"_blank\">Coinbase CEO Reveals Crucial Priorities: Stablecoin Payments Lead Ambitious Crypto Vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin World</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RMWVKb2RYMHdSQ3Iya1Q1YUNiZ3lNR0UwM0Q2eVZ0NU5zOFVjeDFJRWRlZ3V3ZDRNUnZQdEJZb3IyTHNFaUQwNUN6ZVRsbDRoTktXVUw4a0QyX01wWHZJcmNTbzE0SXBrbWgzTEljUndOcHU2UFFVQ1cwQQ?oc=5",
+      "source": "Bitcoin World",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-06T19:40:12+00:00",
+      "tags": [
+        "Bitcoin",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO Reveals Crucial Priorities: Stablecoin Payments Lead Ambitious Crypto Vision Bitcoin World"
     },
     {
       "title": "Coinbase receives conditional nod to operate as national trust company—CEO Brian Armstrong says 'we're not becoming a bank'",
