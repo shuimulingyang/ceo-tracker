@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-04-08T12:49:17Z",
-  "total": 372,
+  "updated_at": "2026-04-08T14:25:34Z",
+  "total": 375,
   "by_ceo": {
-    "CZ": 88,
+    "CZ": 90,
     "Richard Teng": 48,
-    "Brian Armstrong": 189,
+    "Brian Armstrong": 190,
     "Ben Zhou": 35,
     "Star Xu": 12
   },
   "articles": [
+    {
+      "title": "News Explorer — Here's the 'Fatal Mistake' Made During the FTX Collapse, Says Binance Founder Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQXp4UlVIcjNMM0NqMmFhMmI4S1ZUelJHZWttd0xTeElMLWlWQW5TNVktTHNBcWZnWjNpTmh0SlRJYllHVk1RTTBkN1JucmNXc1pDRjI2ZWlMdXMxengyRHl4VllGNW1CWDRCT3M3NmQ4UjdMVGJGYVlPVWFxc1hZWU0zR3ZncThFaE4teFNGbHctUlRWa0hzWERVWElmdXZjbFQ3UTRtU0hUa0RZT0hyLVQ1dzJsOExlUHV0eE9Dby10NlNDcXpWSFdmUlBtUm52cTU0dEZaTEo1Zw?oc=5\" target=\"_blank\">News Explorer — Here's the 'Fatal Mistake' Made During the FTX Collapse, Says Binance Founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQXp4UlVIcjNMM0NqMmFhMmI4S1ZUelJHZWttd0xTeElMLWlWQW5TNVktTHNBcWZnWjNpTmh0SlRJYllHVk1RTTBkN1JucmNXc1pDRjI2ZWlMdXMxengyRHl4VllGNW1CWDRCT3M3NmQ4UjdMVGJGYVlPVWFxc1hZWU0zR3ZncThFaE4teFNGbHctUlRWa0hzWERVWElmdXZjbFQ3UTRtU0hUa0RZT0hyLVQ1dzJsOExlUHV0eE9Dby10NlNDcXpWSFdmUlBtUm52cTU0dEZaTEo1Zw?oc=5",
+      "source": "Decrypt",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-08T14:14:12+00:00",
+      "tags": [],
+      "key_quote": "News Explorer — Here's the 'Fatal Mistake' Made During the FTX Collapse, Says Binance Founder Changpeng Zhao Decrypt"
+    },
+    {
+      "title": "Changpeng Zhao Talks About Sam Bankman-Fried’s Billion-Dollar Ask",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1RxN3RvQjJjNDNmcGdkeFdwM2pGM0RaMlFGcy1ZMGxIX1hLU3lva3VGeHBnM0FEX1h4SHR1bldZbG9DSm04YmdfY1RsZURNYXpzYzEyUHQtSEJ3UG9Rb2RWWndkYVRKamJfYktObGZBMkJaZlNZV2w5MWgwLWVDdlBJVUpoZ21WUlJNaExGZ3R1OVE?oc=5\" target=\"_blank\">Changpeng Zhao Talks About Sam Bankman-Fried’s Billion-Dollar Ask</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1RxN3RvQjJjNDNmcGdkeFdwM2pGM0RaMlFGcy1ZMGxIX1hLU3lva3VGeHBnM0FEX1h4SHR1bldZbG9DSm04YmdfY1RsZURNYXpzYzEyUHQtSEJ3UG9Rb2RWWndkYVRKamJfYktObGZBMkJaZlNZV2w5MWgwLWVDdlBJVUpoZ21WUlJNaExGZ3R1OVE?oc=5",
+      "source": "CoinCentral",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-08T13:46:47+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao Talks About Sam Bankman-Fried’s Billion-Dollar Ask CoinCentral"
+    },
     {
       "title": "Changpeng Zhao releases memoir about his career, downfall, and prison term",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnZnZk1WRHF6N0RUM1NmbFVsSDZOTTNBbXZxS0FFa3pwSVp3Q1YxTjVsYkRDalJadzhiWE1hQzJXdkdEWEpVaEE5XzI1b0VsNzJVV25GNWd2eTBKT2VaN1ZyOTAxQTBxLXJPcGZJX2p6Nlg3aVN3Wl9zNVd4dzJnM1VxTFZIYndLdzVabkZsSzAzWlhxaTJuRjR3?oc=5\" target=\"_blank\">Changpeng Zhao releases memoir about his career, downfall, and prison term</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
@@ -141,6 +163,19 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Brian Armstrong Shares Coinbase Focus on Everything Exchange Stablecoins and DeFi Live Bitcoin News"
+    },
+    {
+      "title": "Coinbase CEO Reveals Crucial Priorities: Stablecoin Payments Lead Ambitious Crypto Vision",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZk82WW9fRjh3a2lSM3hlbjF4VXQzdHVIWFFSanhFR0JrMTdqQkg1QUhPT1JuS2ZTQi16NGVYZUl0eGVtUUt1V1hpRmtWLUYzUy1LbWcyQW5URFZOYUJieWY5TXFCbXdxeDdrVFpJVFJNQjFsaEo0bFI2V2hIekNVcmFUNFNzUjRtbGFOZw?oc=5\" target=\"_blank\">Coinbase CEO Reveals Crucial Priorities: Stablecoin Payments Lead Ambitious Crypto Vision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZk82WW9fRjh3a2lSM3hlbjF4VXQzdHVIWFFSanhFR0JrMTdqQkg1QUhPT1JuS2ZTQi16NGVYZUl0eGVtUUt1V1hpRmtWLUYzUy1LbWcyQW5URFZOYUJieWY5TXFCbXdxeDdrVFpJVFJNQjFsaEo0bFI2V2hIekNVcmFUNFNzUjRtbGFOZw?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-06T22:50:44+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO Reveals Crucial Priorities: Stablecoin Payments Lead Ambitious Crypto Vision CryptoRank"
     },
     {
       "title": "Coinbase CEO Reveals Crucial Priorities: Stablecoin Payments Lead Ambitious Crypto Vision",
