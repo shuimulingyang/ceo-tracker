@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-09T18:43:11Z",
-  "total": 382,
+  "updated_at": "2026-04-09T19:55:22Z",
+  "total": 384,
   "by_ceo": {
-    "Star Xu": 16,
+    "CZ": 92,
+    "Star Xu": 17,
     "Brian Armstrong": 191,
     "Richard Teng": 49,
-    "CZ": 91,
     "Ben Zhou": 35
   },
   "articles": [
+    {
+      "title": "Binance’s Changpeng Zhao claims U.S. crypto rivals ‘paid millions’ to block his pardon",
+      "content": "<p>The Binance founder also says friends told him firms funded \"smear articles\" because they opposed Binance doing business in the U.S.</p>",
+      "url": "https://www.theblock.co/post/396926/binance-changpeng-zhao-claims-crypto-rivals-paid-millions-block-pardon?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-09T19:54:38+00:00",
+      "tags": [
+        "机构 Institutional"
+      ],
+      "key_quote": "The Binance founder also says friends told him firms funded \"smear articles\" because they opposed Binance doing business in the U.S."
+    },
     {
       "title": "OKX CEO Challeges Binance Founder CZ’s “Sell House for Bitcoin” Claims",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOYWNmdU9jZk92SzRaN0hoRFJERHhJVXRxUFp1Uy1IdVFsTUd3OUV5QUNDVzM5SVZUZHB0aXY5YUlkZElTNWFTYTZ1YlNNQll4WG83aXpoWUltN1Q5SHRkUjVUWWhhbl9aYWE5LV81TWNMZ2QzNE5yNWdaXzdhTngyc0YyQl9NQWxJRERJYmF3MVJoVUE?oc=5\" target=\"_blank\">OKX CEO Challeges Binance Founder CZ’s “Sell House for Bitcoin” Claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinGape</font>",
@@ -32,6 +45,19 @@
       "published_at": "2026-04-09T17:33:19+00:00",
       "tags": [],
       "key_quote": "‘Bet $1 Billion’—Binance’s CZ And OKX CEO Star Xu In Public Spat Forbes"
+    },
+    {
+      "title": "Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEY5aWVjRHZnMEdqZzgydDlZek9aZlA0OWNvZGFWb0FJTWhMbFNTUUJuYm15YTdCa3VNbXRlSC1xOG1DLVZNOWxNZVV1SjRrMHNBYmJvWU1fSnBUNFFHWEZsY2JFZV82X3NiaHQtRzVrTUlVTENPOFN5b1lkaDljOFpUZUZFLWpDZmExZ2V3STAyc3ByZzRTQmZoa2RxRENfQkNNM3AtTE5NUm95bC1SaFkyLWFpLTNMdnMxRHRCeFg0cHpFYmVv0gHHAUFVX3lxTE9sRjlpZWNEdmcwR2pnODJ0OVl6T1pmUDQ5Y29kYVZvQUlNaExsU1NRQm5ibXlhN0JrdU1tdGVILXE4bUMtVk05bE1lVXVKNGswc0FiYm9ZTV9KcFQ0UUdYRmxjYkVlXzZfc2JodC1HNWtNSVVMQ084U3lvWWRoOWM4WlRlRkUtakNmYTFnZXdJMDJzcHJnNFNCZmhrZHFEQ19CQ00zcC1MTk1Sb3lsLVJoWTItYWktM0x2czFEdEJ4WDRwekViZW8?oc=5\" target=\"_blank\">Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpedia Fintech News</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEY5aWVjRHZnMEdqZzgydDlZek9aZlA0OWNvZGFWb0FJTWhMbFNTUUJuYm15YTdCa3VNbXRlSC1xOG1DLVZNOWxNZVV1SjRrMHNBYmJvWU1fSnBUNFFHWEZsY2JFZV82X3NiaHQtRzVrTUlVTENPOFN5b1lkaDljOFpUZUZFLWpDZmExZ2V3STAyc3ByZzRTQmZoa2RxRENfQkNNM3AtTE5NUm95bC1SaFkyLWFpLTNMdnMxRHRCeFg0cHpFYmVv0gHHAUFVX3lxTE9sRjlpZWNEdmcwR2pnODJ0OVl6T1pmUDQ5Y29kYVZvQUlNaExsU1NRQm5ibXlhN0JrdU1tdGVILXE4bUMtVk05bE1lVXVKNGswc0FiYm9ZTV9KcFQ0UUdYRmxjYkVlXzZfc2JodC1HNWtNSVVMQ084U3lvWWRoOWM4WlRlRkUtakNmYTFnZXdJMDJzcHJnNFNCZmhrZHFEQ19CQ00zcC1MTk1Sb3lsLVJoWTItYWktM0x2czFEdEJ4WDRwekViZW8?oc=5",
+      "source": "Coinpedia Fintech News",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-09T17:13:55+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies Coinpedia Fintech News"
     },
     {
       "title": "Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies",
