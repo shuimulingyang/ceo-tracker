@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-04-09T11:42:26Z",
-  "total": 376,
+  "updated_at": "2026-04-09T12:52:54Z",
+  "total": 378,
   "by_ceo": {
+    "Brian Armstrong": 191,
     "Star Xu": 13,
+    "Richard Teng": 49,
     "CZ": 90,
-    "Richard Teng": 48,
-    "Brian Armstrong": 190,
     "Ben Zhou": 35
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UUGZTV0ZtMGw3OTNCTjZTVXJBTVhaV1dEN0xsR2lYclEzTi1KU1kzc1lKMGdveE5UZzNGbjRqZVVtT3U3Yi1VT2k4STJnTnpnb0taeDdFRlA?oc=5\" target=\"_blank\">Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UUGZTV0ZtMGw3OTNCTjZTVXJBTVhaV1dEN0xsR2lYclEzTi1KU1kzc1lKMGdveE5UZzNGbjRqZVVtT3U3Yi1VT2k4STJnTnpnb0taeDdFRlA?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-09T12:35:38+00:00",
+      "tags": [
+        "Bitcoin",
+        "ETF"
+      ],
+      "key_quote": "Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch Cryptonews.net"
+    },
     {
       "title": "OKX CEO Calls Out Binance’s CZ in Post About Old OKCoin Dispute",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUdzdU5JSFpmM3RMMFJEd0R6Zm1veHFhbWJaV3A5WWoxWk9sRWVUTUtQaTVfdEZmdFpONlBFa2hVbmdlOVZWWjhyNWlQRVdtdWZnUVhMb3V1T1JSNHFIWHo0ZENMYWdORnN4RnU3QmVhMkhFeEpQX2xwOTdYZjhycGFreUhwd1I4OEJrT2MxdWs?oc=5\" target=\"_blank\">OKX CEO Calls Out Binance’s CZ in Post About Old OKCoin Dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
@@ -19,6 +33,19 @@
       "published_at": "2026-04-09T09:38:20+00:00",
       "tags": [],
       "key_quote": "OKX CEO Calls Out Binance’s CZ in Post About Old OKCoin Dispute CoinCentral"
+    },
+    {
+      "title": "Richard Teng says AI agent usage of ERC-8004 has surged to 162,000",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDNmVjTGpwQV9NdzVzYzZ5UXB1aDRlenduNjBxMmZXcWNCcGJpSk9ZcC1HeFY1OEp2S0tUVm83cmVBcU5FYVByZUxCVnd5dkZmSTJKMGJkUklkQ2tTdHfSAWNBVV95cUxOX1Z2UUhUam5sUXJUS0E5RTRqUUNaU2J4RENhZE41TnU4eXdxdnBQNFEwcUFValJZRFR6NEZBdlBaYUQxQkg5aEdYaVBkaWtoR3Jqd19uUjk2aEFKWmYtV2V1Z1U?oc=5\" target=\"_blank\">Richard Teng says AI agent usage of ERC-8004 has surged to 162,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDNmVjTGpwQV9NdzVzYzZ5UXB1aDRlenduNjBxMmZXcWNCcGJpSk9ZcC1HeFY1OEp2S0tUVm83cmVBcU5FYVByZUxCVnd5dkZmSTJKMGJkUklkQ2tTdHfSAWNBVV95cUxOX1Z2UUhUam5sUXJUS0E5RTRqUUNaU2J4RENhZE41TnU4eXdxdnBQNFEwcUFValJZRFR6NEZBdlBaYUQxQkg5aEdYaVBkaWtoR3Jqd19uUjk2aEFKWmYtV2V1Z1U?oc=5",
+      "source": "Bitget",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-08T20:44:05+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Richard Teng says AI agent usage of ERC-8004 has surged to 162,000 Bitget"
     },
     {
       "title": "News Explorer — Here's the 'Fatal Mistake' Made During the FTX Collapse, Says Binance Founder Changpeng Zhao",
