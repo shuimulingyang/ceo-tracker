@@ -1,14 +1,51 @@
 {
-  "updated_at": "2026-04-10T12:39:16Z",
-  "total": 404,
+  "updated_at": "2026-04-10T14:08:07Z",
+  "total": 407,
   "by_ceo": {
-    "Brian Armstrong": 198,
-    "CZ": 101,
+    "Brian Armstrong": 200,
+    "CZ": 102,
     "Star Xu": 21,
     "Richard Teng": 49,
     "Ben Zhou": 35
   },
   "articles": [
+    {
+      "title": "Morning Minute: Bitcoin Breaks $73K as Strategy's STRC Bid Grows",
+      "content": "Strategy's STRC is buoying the Bitcoin bid, Galaxy stock is ripping, and Scott Bessent told the Senate to pass the Clarity Act—with Brian Armstrong chiming in.",
+      "url": "https://decrypt.co/363923/morning-minute-bitcoin-breaks-73k-strategy-strc-bid-grows",
+      "source": "Decrypt",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T14:04:43+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Strategy's STRC is buoying the Bitcoin bid, Galaxy stock is ripping, and Scott Bessent told the Senate to pass the Clarity Act—with Brian Armstrong chiming in."
+    },
+    {
+      "title": "Coinbase CEO Calls For Passage Of U.S. Clarity Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZExJRTBqLTRJQVN3cXdWcThKVkF1S1RlcEhFT2tjWDBpNGpRNkgta1R4VlF1Mk1pRjZ6YTUyd2p5RXhPV3pkc1JydFljdkd5YnhYbEFGU2VHVlluQV9kczZnRFdGeThpTzdzUUt3RVJBUTRnTl9ZV2tKY0pCOGZOS0dJa3FkaVppU2s3dDlNcjByQmhWQ2NmRg?oc=5\" target=\"_blank\">Coinbase CEO Calls For Passage Of U.S. Clarity Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZExJRTBqLTRJQVN3cXdWcThKVkF1S1RlcEhFT2tjWDBpNGpRNkgta1R4VlF1Mk1pRjZ6YTUyd2p5RXhPV3pkc1JydFljdkd5YnhYbEFGU2VHVlluQV9kczZnRFdGeThpTzdzUUt3RVJBUTRnTl9ZV2tKY0pCOGZOS0dJa3FkaVppU2s3dDlNcjByQmhWQ2NmRg?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T13:10:00+00:00",
+      "tags": [
+        "Ethereum"
+      ],
+      "key_quote": "Coinbase CEO Calls For Passage Of U.S. Clarity Act Yahoo Finance"
+    },
+    {
+      "title": "CZ Binance vs Star OKX: The $1 Billion Bet Crypto Twitter",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5GZVQ3WnV5Wmp4dGhNcXVjNEU1RGdoWHRicW9oOGpvYmJFWVV2Nm5Tb1BaUTZnV1RzbDRDa2pVM3ZUaEZIVmNUS2xZNFJUMmVTOFNjOG5XSk1WUjB0UXp3N2FBVWo1QW9xV2lZMWJxTXNCZXdReGlkVHhZbF9PajQ?oc=5\" target=\"_blank\">CZ Binance vs Star OKX: The $1 Billion Bet Crypto Twitter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GZVQ3WnV5Wmp4dGhNcXVjNEU1RGdoWHRicW9oOGpvYmJFWVV2Nm5Tb1BaUTZnV1RzbDRDa2pVM3ZUaEZIVmNUS2xZNFJUMmVTOFNjOG5XSk1WUjB0UXp3N2FBVWo1QW9xV2lZMWJxTXNCZXdReGlkVHhZbF9PajQ?oc=5",
+      "source": "Cryptonews",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-10T12:49:30+00:00",
+      "tags": [],
+      "key_quote": "CZ Binance vs Star OKX: The $1 Billion Bet Crypto Twitter Cryptonews"
+    },
     {
       "title": "'It's time to pass the Clarity Act': Coinbase CEO Brian Armstrong backs Bessent's crypto bill push",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmtWLXJ4aVVFSjlLUThpWkhVUkZlMzJPS2htaExnZzBIRmd6dkRfWVctTTlCUHBNX2UwOFB2S0c0MGlDRFJWRmlOQzNCZnhrRU1zNThGSFlQT0dmZWtQZ0I0a3lHQVF5YzZYbW5XTUlZU2t5ZzJVYlQ4QVU0WE1iWnFn?oc=5\" target=\"_blank\">'It's time to pass the Clarity Act': Coinbase CEO Brian Armstrong backs Bessent's crypto bill push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
