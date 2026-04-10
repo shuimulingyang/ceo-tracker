@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-10T09:57:29Z",
-  "total": 398,
+  "updated_at": "2026-04-10T10:45:56Z",
+  "total": 400,
   "by_ceo": {
-    "CZ": 100,
+    "CZ": 101,
     "Brian Armstrong": 195,
-    "Star Xu": 19,
+    "Star Xu": 20,
     "Richard Teng": 49,
     "Ben Zhou": 35
   },
@@ -80,6 +80,19 @@
       "published_at": "2026-04-10T06:27:21+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Backs Bessent’s Push for CLARITY Act as Crypto Pressure Builds CoinCentral"
+    },
+    {
+      "title": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tZ21yTzJ2NVExYnJEZVBXVHljYnU4eDZhMVAtamNnY1ZLV3hZcTNhYnFTZkpoNzRERWJCVEZkREV5X3BhYVBzdw?oc=5\" target=\"_blank\">OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tZ21yTzJ2NVExYnJEZVBXVHljYnU4eDZhMVAtamNnY1ZLV3hZcTNhYnFTZkpoNzRERWJCVEZkREV5X3BhYVBzdw?oc=5",
+      "source": "MEXC",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-10T06:12:53+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute MEXC"
     },
     {
       "title": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute",
@@ -166,6 +179,17 @@
       "title": "Binance's Changpeng Zhao claims U.S. crypto rivals 'paid millions' to block his pardon",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU1NzUWR6cFdtNWdENVNxeFBGSTFTRnFId2Y4aEhPSlJ0VjB2ek94cVJMUDVlLVhDZ2pEbU5kTDhfb0dTMjJUUXZUVzNBVUNHYzRRSFJ0anNfbXRuT1EzbXVoMl9ILWxzUUxuejh1ZHFsODhveHQ0N0VVS0hLWjhPLVY1M013MVFwOHZORVdnQ005Q0VEMDB4N0FvaHdIMl8yT1F0amtvd1dsdw?oc=5\" target=\"_blank\">Binance's Changpeng Zhao claims U.S. crypto rivals 'paid millions' to block his pardon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU1NzUWR6cFdtNWdENVNxeFBGSTFTRnFId2Y4aEhPSlJ0VjB2ek94cVJMUDVlLVhDZ2pEbU5kTDhfb0dTMjJUUXZUVzNBVUNHYzRRSFJ0anNfbXRuT1EzbXVoMl9ILWxzUUxuejh1ZHFsODhveHQ0N0VVS0hLWjhPLVY1M013MVFwOHZORVdnQ005Q0VEMDB4N0FvaHdIMl8yT1F0amtvd1dsdw?oc=5",
+      "source": "The Block",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-09T19:54:38+00:00",
+      "tags": [],
+      "key_quote": "Binance's Changpeng Zhao claims U.S. crypto rivals 'paid millions' to block his pardon The Block"
+    },
+    {
+      "title": "Binance's Changpeng Zhao claims U.S. crypto rivals 'paid millions' to block his pardon",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxORkVWQWw2ejVxVTRzQk4xS2ZpMlZTdlRqS0JRc0hnTF9WblozanNDblhGSkpSbmp5c3E1SnJFSVBlYkp6R3Z2LUNCNlhnR1NHc0N6ZVF1QmxYTl83cUtZNjFrODRHaFhwZi1pUlp6bHhTTWZLTi1nQmtwUG9RUEszTW5UcWpfMm5GdEcyWFJzX2NRLUxfTmQxY1RjZ1J2WlU1ZkNNb1phRzJHUXEwVkM4?oc=5\" target=\"_blank\">Binance's Changpeng Zhao claims U.S. crypto rivals 'paid millions' to block his pardon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkVWQWw2ejVxVTRzQk4xS2ZpMlZTdlRqS0JRc0hnTF9WblozanNDblhGSkpSbmp5c3E1SnJFSVBlYkp6R3Z2LUNCNlhnR1NHc0N6ZVF1QmxYTl83cUtZNjFrODRHaFhwZi1pUlp6bHhTTWZLTi1nQmtwUG9RUEszTW5UcWpfMm5GdEcyWFJzX2NRLUxfTmQxY1RjZ1J2WlU1ZkNNb1phRzJHUXEwVkM4?oc=5",
       "source": "The Block",
       "ceo_name": "CZ",
       "exchange": "Binance",
