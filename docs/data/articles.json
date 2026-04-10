@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-10T14:08:07Z",
-  "total": 407,
+  "updated_at": "2026-04-10T15:38:46Z",
+  "total": 409,
   "by_ceo": {
     "Brian Armstrong": 200,
-    "CZ": 102,
-    "Star Xu": 21,
+    "Star Xu": 22,
+    "CZ": 103,
     "Richard Teng": 49,
     "Ben Zhou": 35
   },
@@ -34,6 +34,17 @@
         "Ethereum"
       ],
       "key_quote": "Coinbase CEO Calls For Passage Of U.S. Clarity Act Yahoo Finance"
+    },
+    {
+      "title": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzVS1jdDZMNzU1anpRSlVOZncxdDhHMEJudmRiSks4U0hCc2VHWUlETkdNRE9rSFpKaG9fOUcwbzVGdUVObDlWbENqamt1Z0RnQ3NUX1pQMA?oc=5\" target=\"_blank\">OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzVS1jdDZMNzU1anpRSlVOZncxdDhHMEJudmRiSks4U0hCc2VHWUlETkdNRE9rSFpKaG9fOUcwbzVGdUVObDlWbENqamt1Z0RnQ3NUX1pQMA?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-10T13:01:12+00:00",
+      "tags": [],
+      "key_quote": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute Cryptonews.net"
     },
     {
       "title": "CZ Binance vs Star OKX: The $1 Billion Bet Crypto Twitter",
@@ -80,6 +91,19 @@
         "DeFi"
       ],
       "key_quote": "OKX CEO Criticizes Changpeng Zhao’s Book, Accuses Him of Lying — CZ Responds With $1B Bet Offer incrypted"
+    },
+    {
+      "title": "Changpeng Zhao: Cryptocurrencies will become as common as internet",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNk52LThaZU82d1hkeHZETFZRTnJGWWwzZVo3VXJPamV5dm03bHQxajdaamhWcnV4aUNSX1F5bTFKazdrcWhaQ29vWU1xQW4wUDk1Q25NOHUyRzYzbHFRMDJ2ZENoNHBXME1iZHNRdVpqQXpmR3ZwSEozYWNVUmxrSFEyTkxURERub3o4Q1dnNUxXMGd4c2h0eVl3cw?oc=5\" target=\"_blank\">Changpeng Zhao: Cryptocurrencies will become as common as internet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNk52LThaZU82d1hkeHZETFZRTnJGWWwzZVo3VXJPamV5dm03bHQxajdaamhWcnV4aUNSX1F5bTFKazdrcWhaQ29vWU1xQW4wUDk1Q25NOHUyRzYzbHFRMDJ2ZENoNHBXME1iZHNRdVpqQXpmR3ZwSEozYWNVUmxrSFEyTkxURERub3o4Q1dnNUxXMGd4c2h0eVl3cw?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-10T09:24:30+00:00",
+      "tags": [
+        "ETF"
+      ],
+      "key_quote": "Changpeng Zhao: Cryptocurrencies will become as common as internet Traders Union"
     },
     {
       "title": "Coinbase CEO Urges Quick Passage of Clarity Act",
