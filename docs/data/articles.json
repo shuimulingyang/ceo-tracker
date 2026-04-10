@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-10T04:34:48Z",
-  "total": 390,
+  "updated_at": "2026-04-10T06:23:49Z",
+  "total": 391,
   "by_ceo": {
     "Star Xu": 18,
     "CZ": 97,
-    "Brian Armstrong": 191,
+    "Brian Armstrong": 192,
     "Richard Teng": 49,
     "Ben Zhou": 35
   },
@@ -4016,6 +4016,20 @@
         "市场 Market"
       ],
       "key_quote": "As crypto markets touch a $4 trillion market cap, Richard Teng says India now ranks #1 in blockchain adoption, with skeptics beginning to change their stance."
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong on crypto regulation: Banks should compete on a level playing field",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNHg2LXZLSUdmRjgtZXlLYWI2Z1hwUUw4bGhiWkRlcXR6eWtyZldlQWM2RGpDRmgzcDNEdmpILVJNMWlLNkhqc3J2aXkxXzh5a1BURlRKa0ItUXpWOXdUQnlaOEFkRHVZLXJ6VGgzUzBVb3hoZ09YbmpXOV9FcWZVaDFia2ZxZGlMU1RBbFZyOGxTZ08wUG1TYklUNElwa2l2NEhYclVWSEstQWZCMVpjbUZZaG5ocmNBcVQzdXhEdG1qbEZ0aHVnMFdDRUQ5OXhvZjlDVWpfS2xDWEJCdVczZzRLQS1TWEdOb2dVeU1mMmF4eTVDSEh2ODNENTNCbWs?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong on crypto regulation: Banks should compete on a level playing field</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNHg2LXZLSUdmRjgtZXlLYWI2Z1hwUUw4bGhiWkRlcXR6eWtyZldlQWM2RGpDRmgzcDNEdmpILVJNMWlLNkhqc3J2aXkxXzh5a1BURlRKa0ItUXpWOXdUQnlaOEFkRHVZLXJ6VGgzUzBVb3hoZ09YbmpXOV9FcWZVaDFia2ZxZGlMU1RBbFZyOGxTZ08wUG1TYklUNElwa2l2NEhYclVWSEstQWZCMVpjbUZZaG5ocmNBcVQzdXhEdG1qbEZ0aHVnMFdDRUQ5OXhvZjlDVWpfS2xDWEJCdVczZzRLQS1TWEdOb2dVeU1mMmF4eTVDSEh2ODNENTNCbWs?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-01-20T08:00:00+00:00",
+      "tags": [
+        "监管 Regulation",
+        "Layer2"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong on crypto regulation: Banks should compete on a level playing field MSN"
     },
     {
       "title": "Coinbase CEO Brian Armstrong to work on market structure bill in Davos",
