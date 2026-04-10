@@ -1,14 +1,49 @@
 {
-  "updated_at": "2026-04-10T08:13:19Z",
-  "total": 395,
+  "updated_at": "2026-04-10T09:57:29Z",
+  "total": 398,
   "by_ceo": {
-    "CZ": 98,
-    "Brian Armstrong": 194,
+    "CZ": 100,
+    "Brian Armstrong": 195,
     "Star Xu": 19,
     "Richard Teng": 49,
     "Ben Zhou": 35
   },
   "articles": [
+    {
+      "title": "OKX CEO Criticizes Changpeng Zhao’s Book, Accuses Him of Lying — CZ Responds With $1B Bet Offer",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObll6X3VsVTdnazRFM211MzhobVRpWEVpS3ZkUHRLUzVKV3B2b0Q3T1VvMVZRLVQxd05GOW5qaVpLaUhBb2VhVURnSGxxQnlHU19ocTY5QmdwWng1QkxWbWd0X1Q3bENuTGtLbkJib3ZZYmZ1c3hDaGhZYmxrSmRfRUR5amM4X05BZVVyMEF1VV84MUd4LVJvazF1RDliWjRNdVB1VDRTUFp1bV9BWjBRWHlxQlBvcWs?oc=5\" target=\"_blank\">OKX CEO Criticizes Changpeng Zhao’s Book, Accuses Him of Lying — CZ Responds With $1B Bet Offer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">incrypted</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObll6X3VsVTdnazRFM211MzhobVRpWEVpS3ZkUHRLUzVKV3B2b0Q3T1VvMVZRLVQxd05GOW5qaVpLaUhBb2VhVURnSGxxQnlHU19ocTY5QmdwWng1QkxWbWd0X1Q3bENuTGtLbkJib3ZZYmZ1c3hDaGhZYmxrSmRfRUR5amM4X05BZVVyMEF1VV84MUd4LVJvazF1RDliWjRNdVB1VDRTUFp1bV9BWjBRWHlxQlBvcWs?oc=5",
+      "source": "incrypted",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-10T09:40:25+00:00",
+      "tags": [
+        "DeFi"
+      ],
+      "key_quote": "OKX CEO Criticizes Changpeng Zhao’s Book, Accuses Him of Lying — CZ Responds With $1B Bet Offer incrypted"
+    },
+    {
+      "title": "Coinbase CEO Urges Quick Passage of Clarity Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yb0FELWhkS0lVcUJmbFgxOGJ0VkV3MkxkdHVJTmdNclZZV2E2d05oOU1UeTJqblVxMkFFX2NmbklZOGJCU3ZYaFFhVmdvdjFPRjhrMQ?oc=5\" target=\"_blank\">Coinbase CEO Urges Quick Passage of Clarity Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yb0FELWhkS0lVcUJmbFgxOGJ0VkV3MkxkdHVJTmdNclZZV2E2d05oOU1UeTJqblVxMkFFX2NmbklZOGJCU3ZYaFFhVmdvdjFPRjhrMQ?oc=5",
+      "source": "bloomingbit",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T08:56:04+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Urges Quick Passage of Clarity Act bloomingbit"
+    },
+    {
+      "title": "Why Changpeng Zhao believes we will stop talking about \"crypto\" within five years",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNbmhaQXlVVlR6RFV1WkdfUVpiM2JfOWs4ZVRVTVVfVm8yZGNFMG9oYVpZWjFuUEtnV1RvcWdYQks4SjQ4Ukp5NXJUZHhwbHBrQ01sYmVjMm5Wa2dJeEdoaVlCQlpEc1c0cmkwUVcxYm1CRmxvd3I5dHdMdk9LVnl5YVQ2Yl9aWklzb3VMMWVFM2JBUC10MUdvelFXZ3ZaR29YNlE?oc=5\" target=\"_blank\">Why Changpeng Zhao believes we will stop talking about \"crypto\" within five years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbmhaQXlVVlR6RFV1WkdfUVpiM2JfOWs4ZVRVTVVfVm8yZGNFMG9oYVpZWjFuUEtnV1RvcWdYQks4SjQ4Ukp5NXJUZHhwbHBrQ01sYmVjMm5Wa2dJeEdoaVlCQlpEc1c0cmkwUVcxYm1CRmxvd3I5dHdMdk9LVnl5YVQ2Yl9aWklzb3VMMWVFM2JBUC10MUdvelFXZ3ZaR29YNlE?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-10T08:21:20+00:00",
+      "tags": [],
+      "key_quote": "Why Changpeng Zhao believes we will stop talking about \"crypto\" within five years crypto.news"
+    },
     {
       "title": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOY19IajQ5MXpoMmZZY2otWjlVSWNfTmlRVW1FZjh1dU9BZzA1VEdjblc3VTI2cS1rNlJraUI4RUE2ZlBfRHNVMFUxV1N6UlJWZHJ2cWhCQ0tVaF9fZVVGZEtJaG5tU1pqSTh5SzhDbGt5SHJ6dzFGd0JaTG1HaG9Pc2pnY0ZWZkl1VmlLeA?oc=5\" target=\"_blank\">Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
