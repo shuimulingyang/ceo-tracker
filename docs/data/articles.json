@@ -1,14 +1,52 @@
 {
-  "updated_at": "2026-04-10T15:38:46Z",
-  "total": 409,
+  "updated_at": "2026-04-10T16:37:53Z",
+  "total": 413,
   "by_ceo": {
-    "Brian Armstrong": 200,
+    "Brian Armstrong": 204,
     "Star Xu": 22,
     "CZ": 103,
     "Richard Teng": 49,
     "Ben Zhou": 35
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Backs Treasury Secretary Scott Bessent's CLARITY Act Push",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTR3d1Ytby03eUY3QVQ3SE5MVHJaRkhFSl9INHgza0lfTThEWFA3S2xKUTB0QkFuOFJpNFh6THdJcU9PRlV6Q29mVjBWcmJrX3UwOEMwc0RiMEJ2cUZPaDZZbDZMNGdpb2hBTF9uR0V0aE5FQ0o5NU5hNUFLQWpwMFRpQnJxMVZF?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Backs Treasury Secretary Scott Bessent's CLARITY Act Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thedefiant.io</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTR3d1Ytby03eUY3QVQ3SE5MVHJaRkhFSl9INHgza0lfTThEWFA3S2xKUTB0QkFuOFJpNFh6THdJcU9PRlV6Q29mVjBWcmJrX3UwOEMwc0RiMEJ2cUZPaDZZbDZMNGdpb2hBTF9uR0V0aE5FQ0o5NU5hNUFLQWpwMFRpQnJxMVZF?oc=5",
+      "source": "thedefiant.io",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T15:51:06+00:00",
+      "tags": [
+        "监管 Regulation",
+        "DeFi"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Backs Treasury Secretary Scott Bessent's CLARITY Act Push thedefiant.io"
+    },
+    {
+      "title": "Coinbase CEO Backs Clarity Act Push as Crypto Rules Progress",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeFZsU0xBbFVwa3NEOFMtY2M2STllWWJVbXUxLWJ3QnBXSnBWYXdMamVKTnNTcWtlZ0ZXbU50TmlmMjBjd3lwdVVOVjhDUG9zbERpY2NVd2hhMGlnU2xBZTFPMlZIbXFOdklTcXJQa0Jjd3ZIUTJZSzhqYnhaNkF6VUp2bmI3NUJlT0k4cU5GWTVnZw?oc=5\" target=\"_blank\">Coinbase CEO Backs Clarity Act Push as Crypto Rules Progress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpaper</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeFZsU0xBbFVwa3NEOFMtY2M2STllWWJVbXUxLWJ3QnBXSnBWYXdMamVKTnNTcWtlZ0ZXbU50TmlmMjBjd3lwdVVOVjhDUG9zbERpY2NVd2hhMGlnU2xBZTFPMlZIbXFOdklTcXJQa0Jjd3ZIUTJZSzhqYnhaNkF6VUp2bmI3NUJlT0k4cU5GWTVnZw?oc=5",
+      "source": "Coinpaper",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T15:46:12+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Backs Clarity Act Push as Crypto Rules Progress Coinpaper"
+    },
+    {
+      "title": "Brian Armstrong Killed The Clarity Act In January — But Now He's Changed His Mind",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaXNhdDlXbzdSRjA4WUVSeUl6aDBaemJoWmtqX1NHQ1E0QmVGQWZvMjl2RkxuR2hOeXpUMnRjVXNXUmxuSi1lN2hrVlYzQzFuSndTUU81dFplWU8xOVktOFl2bU44enZsVDJ1b094ZVJPdk5Rc1hFOWRTS2VYa1FiSUtCcDJ5Y0puRUFnc05QR25VNDc1VzF0VHF4TFNCQnlaRzE0UG15cnQxREc3dG9lSHhlZFNkZno3cmRTaU55MTRrU2Q1NFU2bGpPZFJtYTJDcVJoLTJ6MA?oc=5\" target=\"_blank\">Brian Armstrong Killed The Clarity Act In January — But Now He's Changed His Mind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaXNhdDlXbzdSRjA4WUVSeUl6aDBaemJoWmtqX1NHQ1E0QmVGQWZvMjl2RkxuR2hOeXpUMnRjVXNXUmxuSi1lN2hrVlYzQzFuSndTUU81dFplWU8xOVktOFl2bU44enZsVDJ1b094ZVJPdk5Rc1hFOWRTS2VYa1FiSUtCcDJ5Y0puRUFnc05QR25VNDc1VzF0VHF4TFNCQnlaRzE0UG15cnQxREc3dG9lSHhlZFNkZno3cmRTaU55MTRrU2Q1NFU2bGpPZFJtYTJDcVJoLTJ6MA?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T15:38:23+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Brian Armstrong Killed The Clarity Act In January — But Now He's Changed His Mind Benzinga"
+    },
     {
       "title": "Morning Minute: Bitcoin Breaks $73K as Strategy's STRC Bid Grows",
       "content": "Strategy's STRC is buoying the Bitcoin bid, Galaxy stock is ripping, and Scott Bessent told the Senate to pass the Clarity Act—with Brian Armstrong chiming in.",
@@ -139,6 +177,19 @@
         "Web3"
       ],
       "key_quote": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface CCN.com"
+    },
+    {
+      "title": "Clarity Act gains bipartisan momentum as Coinbase CEO backs regulatory framework",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9nQ19haXVGOG50TmtsNHdDd2VTUjZnUHloWFV1M1prOUJSaTdXN05HZjdYNGxrMllOQWpkTERVdGs5ajB1OTJSQlYxYzlVdFctVW0xWnV0YlhldTJvLXkwaW1iY2FGT0FLNUpTNGhqcnFwYVk?oc=5\" target=\"_blank\">Clarity Act gains bipartisan momentum as Coinbase CEO backs regulatory framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cryptonomist</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nQ19haXVGOG50TmtsNHdDd2VTUjZnUHloWFV1M1prOUJSaTdXN05HZjdYNGxrMllOQWpkTERVdGs5ajB1OTJSQlYxYzlVdFctVW0xWnV0YlhldTJvLXkwaW1iY2FGT0FLNUpTNGhqcnFwYVk?oc=5",
+      "source": "The Cryptonomist",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T07:01:32+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Clarity Act gains bipartisan momentum as Coinbase CEO backs regulatory framework The Cryptonomist"
     },
     {
       "title": "Coinbase CEO Backs Clarity Act as Pressure Mounts for U.S. Crypto Regulation",
