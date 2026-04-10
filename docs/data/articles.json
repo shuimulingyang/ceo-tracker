@@ -1,14 +1,51 @@
 {
-  "updated_at": "2026-04-10T06:23:49Z",
-  "total": 391,
+  "updated_at": "2026-04-10T08:13:19Z",
+  "total": 395,
   "by_ceo": {
-    "Star Xu": 18,
-    "CZ": 97,
-    "Brian Armstrong": 192,
+    "CZ": 98,
+    "Brian Armstrong": 194,
+    "Star Xu": 19,
     "Richard Teng": 49,
     "Ben Zhou": 35
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOY19IajQ5MXpoMmZZY2otWjlVSWNfTmlRVW1FZjh1dU9BZzA1VEdjblc3VTI2cS1rNlJraUI4RUE2ZlBfRHNVMFUxV1N6UlJWZHJ2cWhCQ0tVaF9fZVVGZEtJaG5tU1pqSTh5SzhDbGt5SHJ6dzFGd0JaTG1HaG9Pc2pnY0ZWZkl1VmlLeA?oc=5\" target=\"_blank\">Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY19IajQ5MXpoMmZZY2otWjlVSWNfTmlRVW1FZjh1dU9BZzA1VEdjblc3VTI2cS1rNlJraUI4RUE2ZlBfRHNVMFUxV1N6UlJWZHJ2cWhCQ0tVaF9fZVVGZEtJaG5tU1pqSTh5SzhDbGt5SHJ6dzFGd0JaTG1HaG9Pc2pnY0ZWZkl1VmlLeA?oc=5",
+      "source": "CCN.com",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-10T08:01:52+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface CCN.com"
+    },
+    {
+      "title": "Coinbase CEO Backs Clarity Act as Pressure Mounts for U.S. Crypto Regulation",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ3lSZHJjR3BFendIbjl1d1NZaEZyeXgySEtLMnQ5THVDTnhPY2JBRE9DSnZheTl6RTNhT2o1cmRnb3N3VHI4RUpGVW1ZZ28wSEtBZ0kwYXIzS1FBMFhmQzVjWmJSR05VSzQ0bFVnVXZQWUZhTHUyZDBIeXdFY3dOVS13eUtPMlQtNkhNWkNsZHZSN2s0ZWxBYjN2bEVna3owQ3FJ?oc=5\" target=\"_blank\">Coinbase CEO Backs Clarity Act as Pressure Mounts for U.S. Crypto Regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ3lSZHJjR3BFendIbjl1d1NZaEZyeXgySEtLMnQ5THVDTnhPY2JBRE9DSnZheTl6RTNhT2o1cmRnb3N3VHI4RUpGVW1ZZ28wSEtBZ0kwYXIzS1FBMFhmQzVjWmJSR05VSzQ0bFVnVXZQWUZhTHUyZDBIeXdFY3dOVS13eUtPMlQtNkhNWkNsZHZSN2s0ZWxBYjN2bEVna3owQ3FJ?oc=5",
+      "source": "FinanceFeeds",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T06:53:56+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Coinbase CEO Backs Clarity Act as Pressure Mounts for U.S. Crypto Regulation FinanceFeeds"
+    },
+    {
+      "title": "Coinbase CEO Backs Bessent’s Push for CLARITY Act as Crypto Pressure Builds",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPVktLNjJrSWVlbnhVdmxYdnFRUkZHcFBEbm1YVUpYb2gtMTFtMldqRUVNT3p1aUZpZTA0dlVKQlJ4RVppLXJ2bGpyQ2NTTkRrZDFYVmdvdm84Z01ONzBock9sYmhfbGg5YnVkT2N0dWVvOHJsekl1c2F5ZEtYRjRKbUg0a2R4OElFekdpXzhmUjNFeWExSXRXdktUVzZ3Y01W?oc=5\" target=\"_blank\">Coinbase CEO Backs Bessent’s Push for CLARITY Act as Crypto Pressure Builds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVktLNjJrSWVlbnhVdmxYdnFRUkZHcFBEbm1YVUpYb2gtMTFtMldqRUVNT3p1aUZpZTA0dlVKQlJ4RVppLXJ2bGpyQ2NTTkRrZDFYVmdvdm84Z01ONzBock9sYmhfbGg5YnVkT2N0dWVvOHJsekl1c2F5ZEtYRjRKbUg0a2R4OElFekdpXzhmUjNFeWExSXRXdktUVzZ3Y01W?oc=5",
+      "source": "CoinCentral",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T06:27:21+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Backs Bessent’s Push for CLARITY Act as Crypto Pressure Builds CoinCentral"
+    },
     {
       "title": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xT3cyc1J4Q25uS2lOY0JJTzU5amZna1NGb1A3YmJkRGlhOVBrZEQ2WUJNclZwTlk4ZHR6WkRRWUZza1pBZzBsTzhFODNNWHBrdkhMcUdn?oc=5\" target=\"_blank\">OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
@@ -30,6 +67,17 @@
       "published_at": "2026-04-10T02:08:53+00:00",
       "tags": [],
       "key_quote": "OKX founder rejects Changpeng Zhao's $1B bet on divorce status 코인니스"
+    },
+    {
+      "title": "OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAydGx5dFJDQjR3SE1oc1VDNS1mQVBuS2Rlb1BYTkNoVWlMU1R2WUktTTFFY2xWc1BuWGZRZy1hVC1tdGluWUM1aWdqbFJQYVJkSjJQT3prTkRSOTdiNWJEU2xxbnNSSjEwanVnYm94Q1U?oc=5\" target=\"_blank\">OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAydGx5dFJDQjR3SE1oc1VDNS1mQVBuS2Rlb1BYTkNoVWlMU1R2WUktTTFFY2xWc1BuWGZRZy1hVC1tdGluWUM1aWdqbFJQYVJkSjJQT3prTkRSOTdiNWJEU2xxbnNSSjEwanVnYm94Q1U?oc=5",
+      "source": "Cryptopolitan",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-10T01:24:00+00:00",
+      "tags": [],
+      "key_quote": "OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute Cryptopolitan"
     },
     {
       "title": "Changpeng Zhao: US crypto market showing signs of recovery",
