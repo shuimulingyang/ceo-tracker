@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-04-10T11:37:51Z",
-  "total": 400,
+  "updated_at": "2026-04-10T12:39:16Z",
+  "total": 404,
   "by_ceo": {
+    "Brian Armstrong": 198,
     "CZ": 101,
-    "Brian Armstrong": 195,
-    "Star Xu": 20,
+    "Star Xu": 21,
     "Richard Teng": 49,
     "Ben Zhou": 35
   },
   "articles": [
+    {
+      "title": "'It's time to pass the Clarity Act': Coinbase CEO Brian Armstrong backs Bessent's crypto bill push",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmtWLXJ4aVVFSjlLUThpWkhVUkZlMzJPS2htaExnZzBIRmd6dkRfWVctTTlCUHBNX2UwOFB2S0c0MGlDRFJWRmlOQzNCZnhrRU1zNThGSFlQT0dmZWtQZ0I0a3lHQVF5YzZYbW5XTUlZU2t5ZzJVYlQ4QVU0WE1iWnFn?oc=5\" target=\"_blank\">'It's time to pass the Clarity Act': Coinbase CEO Brian Armstrong backs Bessent's crypto bill push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmtWLXJ4aVVFSjlLUThpWkhVUkZlMzJPS2htaExnZzBIRmd6dkRfWVctTTlCUHBNX2UwOFB2S0c0MGlDRFJWRmlOQzNCZnhrRU1zNThGSFlQT0dmZWtQZ0I0a3lHQVF5YzZYbW5XTUlZU2t5ZzJVYlQ4QVU0WE1iWnFn?oc=5",
+      "source": "The Block",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T11:45:21+00:00",
+      "tags": [],
+      "key_quote": "'It's time to pass the Clarity Act': Coinbase CEO Brian Armstrong backs Bessent's crypto bill push The Block"
+    },
+    {
+      "title": "‘It’s time to pass the Clarity Act’: Coinbase CEO Brian Armstrong backs Bessent’s crypto bill push",
+      "content": "<p>Coinbase CEO Brian Armstrong backed passing the Clarity Act after the firm previously withheld support for earlier versions of the bill.</p>",
+      "url": "https://www.theblock.co/post/396992/coinbase-ceo-brian-armstrong-clarity-act?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T11:45:21+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong backed passing the Clarity Act after the firm previously withheld support for earlier versions of the bill."
+    },
     {
       "title": "OKX CEO Criticizes Changpeng Zhao’s Book, Accuses Him of Lying — CZ Responds With $1B Bet Offer",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObll6X3VsVTdnazRFM211MzhobVRpWEVpS3ZkUHRLUzVKV3B2b0Q3T1VvMVZRLVQxd05GOW5qaVpLaUhBb2VhVURnSGxxQnlHU19ocTY5QmdwWng1QkxWbWd0X1Q3bENuTGtLbkJib3ZZYmZ1c3hDaGhZYmxrSmRfRUR5amM4X05BZVVyMEF1VV84MUd4LVJvazF1RDliWjRNdVB1VDRTUFp1bV9BWjBRWHlxQlBvcWs?oc=5\" target=\"_blank\">OKX CEO Criticizes Changpeng Zhao’s Book, Accuses Him of Lying — CZ Responds With $1B Bet Offer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">incrypted</font>",
@@ -152,6 +174,17 @@
       "key_quote": "Changpeng Zhao says rivals spent millions to stop Trump pardon Blockonomi"
     },
     {
+      "title": "OKX CEO Criticizes CZ Over Claims in Freedom of Money",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NYVBXMTFzSUVXcy1NYy1qWGdyME5nMC1ETDM1cDVYcTVpUTlNckRaOXNYcGRFNTJ6QVBTalcwY3lUWU96Q3hRcEtaV0FwUGs?oc=5\" target=\"_blank\">OKX CEO Criticizes CZ Over Claims in Freedom of Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC Exchange</font>",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NYVBXMTFzSUVXcy1NYy1qWGdyME5nMC1ETDM1cDVYcTVpUTlNckRaOXNYcGRFNTJ6QVBTalcwY3lUWU96Q3hRcEtaV0FwUGs?oc=5",
+      "source": "MEXC Exchange",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-09T21:02:01+00:00",
+      "tags": [],
+      "key_quote": "OKX CEO Criticizes CZ Over Claims in Freedom of Money MEXC Exchange"
+    },
+    {
       "title": "Binance’s Changpeng Zhao claims U.S. crypto rivals ‘paid millions’ to block his pardon",
       "content": "<p>The Binance founder also says friends told him firms funded \"smear articles\" because they opposed Binance doing business in the U.S.</p>",
       "url": "https://www.theblock.co/post/396926/binance-changpeng-zhao-claims-crypto-rivals-paid-millions-block-pardon?utm_source=rss&utm_medium=rss",
@@ -260,6 +293,20 @@
         "ETF"
       ],
       "key_quote": "Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch Cryptonews.net"
+    },
+    {
+      "title": "Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMlQ1bWNtS09EZnU0d0NzWFFUR3ZEMG1pNDZkbDVKSzNuU2Y2ZWlVbTRqWnlhUVFvSXRyZ01CS2cwZ24zUDhxWVJpRlI0Y0hOZUZLM3NpckdncjZZTElxSmZadFhNUkVabjBYQ21pLUUwbFRoTHRLNGk3U2ZYZlpEUlBFcGE3NmM4VUY5M05sMnhGckVJYUxFTV90aThURlhXby1RTmNZa21oeVlxc1JUZEdzdnJfLXphUHBucFExYi1udGFGcFBVSXplU1g0SDlROVk5bXA1SzVlcG9MUFVqTExiRDR2bWc5?oc=5\" target=\"_blank\">Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMlQ1bWNtS09EZnU0d0NzWFFUR3ZEMG1pNDZkbDVKSzNuU2Y2ZWlVbTRqWnlhUVFvSXRyZ01CS2cwZ24zUDhxWVJpRlI0Y0hOZUZLM3NpckdncjZZTElxSmZadFhNUkVabjBYQ21pLUUwbFRoTHRLNGk3U2ZYZlpEUlBFcGE3NmM4VUY5M05sMnhGckVJYUxFTV90aThURlhXby1RTmNZa21oeVlxc1JUZEdzdnJfLXphUHBucFExYi1udGFGcFBVSXplU1g0SDlROVk5bXA1SzVlcG9MUFVqTExiRDR2bWc5?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-09T10:35:00+00:00",
+      "tags": [
+        "Bitcoin",
+        "ETF"
+      ],
+      "key_quote": "Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch TradingView"
     },
     {
       "title": "OKX CEO Calls Out Binance’s CZ in Post About Old OKCoin Dispute",
