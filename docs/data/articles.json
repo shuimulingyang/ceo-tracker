@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-10T21:24:44Z",
-  "total": 415,
+  "updated_at": "2026-04-10T22:24:14Z",
+  "total": 416,
   "by_ceo": {
-    "Brian Armstrong": 206,
+    "Brian Armstrong": 207,
     "Star Xu": 22,
     "CZ": 103,
     "Richard Teng": 49,
@@ -287,6 +287,19 @@
       "published_at": "2026-04-10T01:24:00+00:00",
       "tags": [],
       "key_quote": "OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute Cryptopolitan"
+    },
+    {
+      "title": "Coinbase CEO Buys $133M Property in Los Angeles",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUnZmWnpDamp4YVNYY29oZVhtUmRDVFZMWk1wZGttYnozelc0SV9ucWlpczhvbng1SUhZZ3g0RlJKQ25jU0hBdjJKa1NrclhpQVc5dDZMN0pXSTZQTEFQcThHajBJT1ZKQ0dHUHBLdjM0RldkMnkya0F4dVJGTmVTajd0R05rVHBaYTVrV29DUWdfUQ?oc=5\" target=\"_blank\">Coinbase CEO Buys $133M Property in Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinMarketCap</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUnZmWnpDamp4YVNYY29oZVhtUmRDVFZMWk1wZGttYnozelc0SV9ucWlpczhvbng1SUhZZ3g0RlJKQ25jU0hBdjJKa1NrclhpQVc5dDZMN0pXSTZQTEFQcThHajBJT1ZKQ0dHUHBLdjM0RldkMnkya0F4dVJGTmVTajd0R05rVHBaYTVrV29DUWdfUQ?oc=5",
+      "source": "CoinMarketCap",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T01:02:14+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Buys $133M Property in Los Angeles CoinMarketCap"
     },
     {
       "title": "Changpeng Zhao: US crypto market showing signs of recovery",
