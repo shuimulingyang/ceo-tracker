@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-10T22:24:14Z",
-  "total": 416,
+  "updated_at": "2026-04-10T23:23:33Z",
+  "total": 417,
   "by_ceo": {
-    "Brian Armstrong": 207,
+    "Brian Armstrong": 208,
     "Star Xu": 22,
     "CZ": 103,
     "Richard Teng": 49,
     "Ben Zhou": 35
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Backs US Treasury Secretary's Push to Pass CLARITY Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzAteWk1NGQtTlRIUW5EV2VkWmJSYW9yY0xfWk5XMlJqSmpVRUpManpfYWx0MTF1cWxBV0NMbnotX29uVkIzRHctZjZta2JXQ0lGRDgwZ1hENHNrODJjeUF4djZZaXpqNE41YU9vRFZKZndJWk5XZVpYaDlSb3VjZXlzcHRnSV9RNGozQWw4dzE4bDV0Ykp5OV9jWUdFMHY4X0hjSnpZNHJ6bEZ1LUcwdlphYmRWTU5uUE5MSjdBalJNeHkz?oc=5\" target=\"_blank\">Coinbase CEO Backs US Treasury Secretary's Push to Pass CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzAteWk1NGQtTlRIUW5EV2VkWmJSYW9yY0xfWk5XMlJqSmpVRUpManpfYWx0MTF1cWxBV0NMbnotX29uVkIzRHctZjZta2JXQ0lGRDgwZ1hENHNrODJjeUF4djZZaXpqNE41YU9vRFZKZndJWk5XZVpYaDlSb3VjZXlzcHRnSV9RNGozQWw4dzE4bDV0Ykp5OV9jWUdFMHY4X0hjSnpZNHJ6bEZ1LUcwdlphYmRWTU5uUE5MSjdBalJNeHkz?oc=5",
+      "source": "National Today",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T20:14:52+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Coinbase CEO Backs US Treasury Secretary's Push to Pass CLARITY Act National Today"
+    },
     {
       "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
       "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4NTEtYzBlOS03NDM5LTk2YzAtODYzMzk4YWJhNmMzLmpwZw==.jpg\" /></p><p>The public statement came about three months after the CEO said Coinbase could not support the crypto bill “as written“ before a crucial committee vote.</p>",
