@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-11T12:28:08Z",
-  "total": 423,
+  "updated_at": "2026-04-11T13:44:58Z",
+  "total": 424,
   "by_ceo": {
+    "Star Xu": 24,
     "Brian Armstrong": 211,
-    "Star Xu": 23,
     "CZ": 104,
     "Richard Teng": 49,
     "Ben Zhou": 36
   },
   "articles": [
+    {
+      "title": "Controversy surrounding the book \"Freedom of Money\" between OKX CEO and CZ",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQW9pQ0tXaHV4WThGTTVqX2RuTzN2WDc5ek5LMmdFd1N0S2tVbDB3OVBGYWtYT2VYSnNyMTVrc0R6elZLU05uX2t6VDhaa3NBT1JFaWtlYnl3a0thb1J2THlDa0dEd0F4UUpuYXhfNmVYTXkzRnJwZnROVncwSGlGcEctN0l3Q2xIQ0NhaA?oc=5\" target=\"_blank\">Controversy surrounding the book \"Freedom of Money\" between OKX CEO and CZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UA.NEWS</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQW9pQ0tXaHV4WThGTTVqX2RuTzN2WDc5ek5LMmdFd1N0S2tVbDB3OVBGYWtYT2VYSnNyMTVrc0R6elZLU05uX2t6VDhaa3NBT1JFaWtlYnl3a0thb1J2THlDa0dEd0F4UUpuYXhfNmVYTXkzRnJwZnROVncwSGlGcEctN0l3Q2xIQ0NhaA?oc=5",
+      "source": "UA.NEWS",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-11T09:59:48+00:00",
+      "tags": [],
+      "key_quote": "Controversy surrounding the book \"Freedom of Money\" between OKX CEO and CZ UA.NEWS"
+    },
     {
       "title": "Coinbase CEO backs CLARITY Act after months of delays in Senate",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQejNJLWZtTlZXcS1tbDlLZXJ2cnpnZ0hxSlN1NzNHM0twc0dLRDNlTE52QXZWWmRVRWpJSjFiZTFqWkcyS0VWZ3JFaFltY3N6VkhOZUpMSENpcG1KcGw4TmZ5VWVOWlZsbHcxeUpacGpjX0dCUDNqTW81UlRINHUtY3MwaGRfSGdPLWhHbA?oc=5\" target=\"_blank\">Coinbase CEO backs CLARITY Act after months of delays in Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
