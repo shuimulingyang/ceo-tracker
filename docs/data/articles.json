@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-11T07:40:50Z",
-  "total": 422,
+  "updated_at": "2026-04-11T08:28:18Z",
+  "total": 423,
   "by_ceo": {
-    "Brian Armstrong": 210,
+    "Brian Armstrong": 211,
     "Star Xu": 23,
     "CZ": 104,
     "Richard Teng": 49,
@@ -70,6 +70,19 @@
         "Layer2"
       ],
       "key_quote": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act TradingView"
+    },
+    {
+      "title": "Coinbase CEO backs US Treasury Secretary's push to pass CLARITY Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGRwN193TnhtTDlucEZ4OFV3N2ZPVFBLdVk3WlBsenJncm83RWV0cnVxVTB3X3UtTENCNmFIVy1kMVVlWllTRGVMUjI2UGJzTm1vTkJaaGZzdDFCQUVERTQzaE1UTUlGMWhVRUFHUEZ0QVZuYzJCOUN0YkdCNEVPYmZiWVZMLV9SMnU1QmtmbFBrOXg5cXktQjA0M0hkbWFxLTZQVWIyMTBjWld3MFRfUGRBTG8wY05oTl9Z?oc=5\" target=\"_blank\">Coinbase CEO backs US Treasury Secretary's push to pass CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGRwN193TnhtTDlucEZ4OFV3N2ZPVFBLdVk3WlBsenJncm83RWV0cnVxVTB3X3UtTENCNmFIVy1kMVVlWllTRGVMUjI2UGJzTm1vTkJaaGZzdDFCQUVERTQzaE1UTUlGMWhVRUFHUEZ0QVZuYzJCOUN0YkdCNEVPYmZiWVZMLV9SMnU1QmtmbFBrOXg5cXktQjA0M0hkbWFxLTZQVWIyMTBjWld3MFRfUGRBTG8wY05oTl9Z?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T18:11:16+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Coinbase CEO backs US Treasury Secretary's push to pass CLARITY Act MSN"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Backs Treasury Secretary Scott Bessent's CLARITY Act Push",
