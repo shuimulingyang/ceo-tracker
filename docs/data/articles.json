@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-11T16:21:07Z",
-  "total": 424,
+  "updated_at": "2026-04-11T17:21:24Z",
+  "total": 428,
   "by_ceo": {
-    "Star Xu": 24,
-    "Brian Armstrong": 211,
+    "Brian Armstrong": 213,
+    "Star Xu": 26,
     "CZ": 104,
     "Richard Teng": 49,
     "Ben Zhou": 36
   },
   "articles": [
+    {
+      "title": "Crypto Regulation Heats Up As Coinbase CEO Supports CLARITY Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXRUZ0gtamtQVk81SWdKOTdLYmpQUG9EeWUxZXROUzZYWjBiR2ViTjlGYVdhbjdiZi1MTkxqZVhyN2hocl9xMC1ubE1vclM0Sl82ZHJZQmtza3VSLXFhbXN0T1lueFViWmtuelpUTzl0aUtMZHVfZDNLZG9Ud25HdjFiMFhMMlRiSDNIN3YyYmMybi1kMm9MdEoxRjhMUkRlMEdMMUc2X2l0YTQzdWxtRjBibS12OGVDMTh5X21R?oc=5\" target=\"_blank\">Crypto Regulation Heats Up As Coinbase CEO Supports CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXRUZ0gtamtQVk81SWdKOTdLYmpQUG9EeWUxZXROUzZYWjBiR2ViTjlGYVdhbjdiZi1MTkxqZVhyN2hocl9xMC1ubE1vclM0Sl82ZHJZQmtza3VSLXFhbXN0T1lueFViWmtuelpUTzl0aUtMZHVfZDNLZG9Ud25HdjFiMFhMMlRiSDNIN3YyYmMybi1kMm9MdEoxRjhMUkRlMEdMMUc2X2l0YTQzdWxtRjBibS12OGVDMTh5X21R?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-11T16:30:26+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Crypto Regulation Heats Up As Coinbase CEO Supports CLARITY Act TradingView"
+    },
     {
       "title": "Controversy surrounding the book \"Freedom of Money\" between OKX CEO and CZ",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQW9pQ0tXaHV4WThGTTVqX2RuTzN2WDc5ek5LMmdFd1N0S2tVbDB3OVBGYWtYT2VYSnNyMTVrc0R6elZLU05uX2t6VDhaa3NBT1JFaWtlYnl3a0thb1J2THlDa0dEd0F4UUpuYXhfNmVYTXkzRnJwZnROVncwSGlGcEctN0l3Q2xIQ0NhaA?oc=5\" target=\"_blank\">Controversy surrounding the book \"Freedom of Money\" between OKX CEO and CZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UA.NEWS</font>",
@@ -30,6 +43,19 @@
       "published_at": "2026-04-11T07:24:49+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO backs CLARITY Act after months of delays in Senate crypto.news"
+    },
+    {
+      "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOSHN1LU9kN0VWZG1HMGhYZEJZNjE4STlOY19WNG5CRnRMbkFwcnlZeTBnZXRFR3RpNS1qWVhyTDFxUXlaQTZWdTZUWVdIdV9hb05JdXlR?oc=5\" target=\"_blank\">Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOSHN1LU9kN0VWZG1HMGhYZEJZNjE4STlOY19WNG5CRnRMbkFwcnlZeTBnZXRFR3RpNS1qWVhyTDFxUXlaQTZWdTZUWVdIdV9hb05JdXlR?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T20:29:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act Cryptonews.net"
     },
     {
       "title": "Coinbase CEO Backs US Treasury Secretary's Push to Pass CLARITY Act",
@@ -396,6 +422,17 @@
       "key_quote": "Changpeng Zhao: US crypto market showing signs of recovery 코인니스"
     },
     {
+      "title": "OKX CEO Criticizes CZ Over Claims in Freedom of Money",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9fS19YN0d1RUIya3Y5dXdZX1Z6ejgxUjdPZ0tyX0FlTUFHNTB0WThCTUlaZ29FckRNdnk4TUZOSEFiUDAwUjRV?oc=5\" target=\"_blank\">OKX CEO Criticizes CZ Over Claims in Freedom of Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mexc.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9fS19YN0d1RUIya3Y5dXdZX1Z6ejgxUjdPZ0tyX0FlTUFHNTB0WThCTUlaZ29FckRNdnk4TUZOSEFiUDAwUjRV?oc=5",
+      "source": "mexc.co",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-09T21:33:54+00:00",
+      "tags": [],
+      "key_quote": "OKX CEO Criticizes CZ Over Claims in Freedom of Money mexc.co"
+    },
+    {
       "title": "Changpeng Zhao says rivals spent millions to stop Trump pardon",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxORmtHNUpTOVJ1dnJIWU56cGlFYTdHUFQydE0yaWhtczRCajh1d2NQY0NEdmNyMUswdkZYX19Vd3pnRjNGR0lhNjR5VnJzTWZOcUxISjRZLWFBUUZDd2kxRGxSSmlUbXU2c2k1ZFJ3eFVIaVFia0p3cDJ2Y2FlRGpTTlVvd3hzZmd1REU2OGJXZw?oc=5\" target=\"_blank\">Changpeng Zhao says rivals spent millions to stop Trump pardon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmtHNUpTOVJ1dnJIWU56cGlFYTdHUFQydE0yaWhtczRCajh1d2NQY0NEdmNyMUswdkZYX19Vd3pnRjNGR0lhNjR5VnJzTWZOcUxISjRZLWFBUUZDd2kxRGxSSmlUbXU2c2k1ZFJ3eFVIaVFia0p3cDJ2Y2FlRGpTTlVvd3hzZmd1REU2OGJXZw?oc=5",
@@ -499,6 +536,19 @@
         "Bitcoin"
       ],
       "key_quote": "Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies Coinpedia Fintech News"
+    },
+    {
+      "title": "Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYTRsTlNGbkJRakJsTU1wX3VHVkExTl9ta041UGNJeHl3NDJZUUstc3JiamdkQk5VN3ZhT3dDa1g2SnZHdjFkRURPR1A0ZFdWUU1uU0FHa2JUYTI2RlJNaGx1UmQtdU5MZFYzdkUtZGV5dHQ4NEVqb3o5blA1NWlUNG5ObTQ3emZkQ3o1STZXa0ptWWJPRC1aTXR6VG4zWk1NQmpQMG5fdDlGMHdKUWxkbWcyTWY4MVUwbGllbEJ6U0xKaFg2cGZ4RHEyc0xKUEM5RE9HM2FaMW5aSks4UE9zaUs0aWVheXZ0dnp5X0tR?oc=5\" target=\"_blank\">Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYTRsTlNGbkJRakJsTU1wX3VHVkExTl9ta041UGNJeHl3NDJZUUstc3JiamdkQk5VN3ZhT3dDa1g2SnZHdjFkRURPR1A0ZFdWUU1uU0FHa2JUYTI2RlJNaGx1UmQtdU5MZFYzdkUtZGV5dHQ4NEVqb3o5blA1NWlUNG5ObTQ3emZkQ3o1STZXa0ptWWJPRC1aTXR6VG4zWk1NQmpQMG5fdDlGMHdKUWxkbWcyTWY4MVUwbGllbEJ6U0xKaFg2cGZ4RHEyc0xKUEM5RE9HM2FaMW5aSks4UE9zaUs0aWVheXZ0dnp5X0tR?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-09T17:03:12+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies TradingView"
     },
     {
       "title": "Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies",
