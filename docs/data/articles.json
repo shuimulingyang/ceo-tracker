@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-11T01:06:09Z",
-  "total": 418,
+  "updated_at": "2026-04-11T04:08:33Z",
+  "total": 420,
   "by_ceo": {
-    "Brian Armstrong": 208,
+    "Brian Armstrong": 209,
     "Star Xu": 23,
-    "CZ": 103,
+    "CZ": 104,
     "Richard Teng": 49,
     "Ben Zhou": 35
   },
@@ -21,6 +21,17 @@
         "监管 Regulation"
       ],
       "key_quote": "Coinbase CEO Backs US Treasury Secretary's Push to Pass CLARITY Act National Today"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Calls for Passage of Clarity Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzFkR1pWWTZpRXNaS2liVFhTeHp1ZkpnNlVNNFNIYUNHQXFmODBWUkZuZmNOM2N3MndGZkt6UDctN2k4T19FX0xWZW9XVE00R05ZcmxETTYtdlRmb0NhRVVhaXByOGNZWFp0X1BraW1Bc0wtRkd2UDlIaDhCblpNd1Y1T0g2TTJ6ald5STkxaTZHendJQ05IUDRvaGFTUEJxemNN?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Calls for Passage of Clarity Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Consensus.</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzFkR1pWWTZpRXNaS2liVFhTeHp1ZkpnNlVNNFNIYUNHQXFmODBWUkZuZmNOM2N3MndGZkt6UDctN2k4T19FX0xWZW9XVE00R05ZcmxETTYtdlRmb0NhRVVhaXByOGNZWFp0X1BraW1Bc0wtRkd2UDlIaDhCblpNd1Y1T0g2TTJ6ald5STkxaTZHendJQ05IUDRvaGFTUEJxemNN?oc=5",
+      "source": "Modern Consensus.",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-10T19:12:58+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Calls for Passage of Clarity Act Modern Consensus."
     },
     {
       "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
@@ -217,6 +228,17 @@
         "Web3"
       ],
       "key_quote": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface CCN.com"
+    },
+    {
+      "title": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlZTQlZ1R2dpQmt5dkFsSmE1S3llcUp0TlZVb21mLW1hd3ViMElKa2ptUFVMbXJDSm5aUnJFQmhaTEtaQXd2bmVGWkNUb0VtU2w0RHhkTHdaSkN6RXNlZzhGc0pLTXFMQlZOSUVHYnpoQ1Vzb29tOXlSdktja2Y4NUpyZGdybW5rVU1rSTI0UDNDY0Z1?oc=5\" target=\"_blank\">Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlZTQlZ1R2dpQmt5dkFsSmE1S3llcUp0TlZVb21mLW1hd3ViMElKa2ptUFVMbXJDSm5aUnJFQmhaTEtaQXd2bmVGWkNUb0VtU2w0RHhkTHdaSkN6RXNlZzhGc0pLTXFMQlZOSUVHYnpoQ1Vzb29tOXlSdktja2Y4NUpyZGdybW5rVU1rSTI0UDNDY0Z1?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-10T07:54:36+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface Yahoo Finance"
     },
     {
       "title": "Clarity Act gains bipartisan momentum as Coinbase CEO backs regulatory framework",
