@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-11T22:18:12Z",
-  "total": 428,
+  "updated_at": "2026-04-11T23:21:13Z",
+  "total": 429,
   "by_ceo": {
-    "Brian Armstrong": 213,
+    "Brian Armstrong": 214,
     "Star Xu": 26,
     "CZ": 104,
     "Richard Teng": 49,
@@ -21,6 +21,17 @@
         "监管 Regulation"
       ],
       "key_quote": "Crypto Regulation Heats Up As Coinbase CEO Supports CLARITY Act TradingView"
+    },
+    {
+      "title": "Brian Armstrong",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcEN3dGVDc2p2MWlOYzlCN1JSZ3c3eERGd21iRnp1SUNhdkJFTnRIM2xCR1NDVVFQMzVxMzlqQVBXeHRLSDR4cGo1Qlg5RGt3T0pEMGZBcjFRLVZOV0NOYkozRUNlSWU0WlM0Z3NHUWZrNGZNRFp4S01MVDhiX3VXWUpFUFFIVVNQV3NrZl9aejVWS01ZSlYxNmpqVGNqcW5wck9jZU00TkZ0YmJSWHdtc1pzZWo1dlZsTFB3U1VMMTNVMmpzaERXZ1Rnb2JtZm5RcGFkQnJKelp2YXhfcHJKVDA4b3N4Z3dIOG5rQ3RnNHAxdw?oc=5\" target=\"_blank\">Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy obituary</font>",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcEN3dGVDc2p2MWlOYzlCN1JSZ3c3eERGd21iRnp1SUNhdkJFTnRIM2xCR1NDVVFQMzVxMzlqQVBXeHRLSDR4cGo1Qlg5RGt3T0pEMGZBcjFRLVZOV0NOYkozRUNlSWU0WlM0Z3NHUWZrNGZNRFp4S01MVDhiX3VXWUpFUFFIVVNQV3NrZl9aejVWS01ZSlYxNmpqVGNqcW5wck9jZU00TkZ0YmJSWHdtc1pzZWo1dlZsTFB3U1VMMTNVMmpzaERXZ1Rnb2JtZm5RcGFkQnJKelp2YXhfcHJKVDA4b3N4Z3dIOG5rQ3RnNHAxdw?oc=5",
+      "source": "Legacy obituary",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-11T14:42:28+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong Legacy obituary"
     },
     {
       "title": "Controversy surrounding the book \"Freedom of Money\" between OKX CEO and CZ",
