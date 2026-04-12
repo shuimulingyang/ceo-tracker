@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-12T15:24:54Z",
-  "total": 430,
+  "updated_at": "2026-04-12T16:23:36Z",
+  "total": 431,
   "by_ceo": {
     "Brian Armstrong": 215,
     "Star Xu": 26,
-    "CZ": 104,
+    "CZ": 105,
     "Richard Teng": 49,
     "Ben Zhou": 36
   },
@@ -625,6 +625,17 @@
       "published_at": "2026-04-09T09:38:20+00:00",
       "tags": [],
       "key_quote": "OKX CEO Calls Out Binance’s CZ in Post About Old OKCoin Dispute CoinCentral"
+    },
+    {
+      "title": "Blockchain Infrastructure: Changpeng Zhao’s Visionary Prediction for Global Finance’s Revolutionary Foundation",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZG1BaVk0LTEtanBtLWtJbWMyanhlTl83NDl3Um11RFd6NkpNS3dYdGR0TDBORnlCN01YMHFpT29YSTdQSUJnM04wcWlVYlhNbUtXSmZaRTNrZHR1WmthaUlXcDNtTExtRXRuZlprek5nd2k2UmptU05ZREhXVHdsbWZuX0Z6NERYN3B0YTRn?oc=5\" target=\"_blank\">Blockchain Infrastructure: Changpeng Zhao’s Visionary Prediction for Global Finance’s Revolutionary Foundation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZG1BaVk0LTEtanBtLWtJbWMyanhlTl83NDl3Um11RFd6NkpNS3dYdGR0TDBORnlCN01YMHFpT29YSTdQSUJnM04wcWlVYlhNbUtXSmZaRTNrZHR1WmthaUlXcDNtTExtRXRuZlprek5nd2k2UmptU05ZREhXVHdsbWZuX0Z6NERYN3B0YTRn?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-09T04:08:33+00:00",
+      "tags": [],
+      "key_quote": "Blockchain Infrastructure: Changpeng Zhao’s Visionary Prediction for Global Finance’s Revolutionary Foundation CryptoRank"
     },
     {
       "title": "Richard Teng says AI agent usage of ERC-8004 has surged to 162,000",
