@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-12T17:24:02Z",
-  "total": 432,
+  "updated_at": "2026-04-12T18:29:14Z",
+  "total": 433,
   "by_ceo": {
     "Brian Armstrong": 215,
     "Star Xu": 27,
-    "CZ": 105,
+    "CZ": 106,
     "Richard Teng": 49,
     "Ben Zhou": 36
   },
@@ -407,6 +407,19 @@
       "published_at": "2026-04-10T03:04:39+00:00",
       "tags": [],
       "key_quote": "OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute CryptoRank"
+    },
+    {
+      "title": "OKX Founder Rejects Changpeng Zhao’s Shocking $1B Divorce Bet Over Compliance Concerns",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1KTGhHb3VwaGpMdkFOLU9rbVY1QzVzT0pnWENmR19UUlhNQzJaS1pQZnNvM3hvbFV5M0Z5M0ljM0JFQXNSNkYtLWVlLTNPVVZxQUlVaDAzb3NhcnRKVFl6bFp4RWZSNmsyWnFvR1Vlc096ZVZHYlE?oc=5\" target=\"_blank\">OKX Founder Rejects Changpeng Zhao’s Shocking $1B Divorce Bet Over Compliance Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KTGhHb3VwaGpMdkFOLU9rbVY1QzVzT0pnWENmR19UUlhNQzJaS1pQZnNvM3hvbFV5M0Z5M0ljM0JFQXNSNkYtLWVlLTNPVVZxQUlVaDAzb3NhcnRKVFl6bFp4RWZSNmsyWnFvR1Vlc096ZVZHYlE?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-10T03:02:15+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "OKX Founder Rejects Changpeng Zhao’s Shocking $1B Divorce Bet Over Compliance Concerns CryptoRank"
     },
     {
       "title": "OKX founder rejects Changpeng Zhao's $1B bet on divorce status",
