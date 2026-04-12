@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-12T16:23:36Z",
-  "total": 431,
+  "updated_at": "2026-04-12T17:24:02Z",
+  "total": 432,
   "by_ceo": {
     "Brian Armstrong": 215,
-    "Star Xu": 26,
+    "Star Xu": 27,
     "CZ": 105,
     "Richard Teng": 49,
     "Ben Zhou": 36
@@ -396,6 +396,17 @@
       "published_at": "2026-04-10T03:09:14+00:00",
       "tags": [],
       "key_quote": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute Cryptonews.net"
+    },
+    {
+      "title": "OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBZcFVuRUN1NHJVd3FLaDktV2taTGFuMFB5OHQ1ZVVka3E5S2MzQmIzN1h0blBEUFlmTnRXZ3RuV1FPdEtiQUMwTlVLeU1NZENaczl5S184MFBpa2taMUxlUTlHUV85X2E2Y2lqVkdpWFpVampHcHdtSTRn?oc=5\" target=\"_blank\">OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZcFVuRUN1NHJVd3FLaDktV2taTGFuMFB5OHQ1ZVVka3E5S2MzQmIzN1h0blBEUFlmTnRXZ3RuV1FPdEtiQUMwTlVLeU1NZENaczl5S184MFBpa2taMUxlUTlHUV85X2E2Y2lqVkdpWFpVampHcHdtSTRn?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-10T03:04:39+00:00",
+      "tags": [],
+      "key_quote": "OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute CryptoRank"
     },
     {
       "title": "OKX founder rejects Changpeng Zhao's $1B bet on divorce status",
