@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-13T21:36:41Z",
-  "total": 446,
+  "updated_at": "2026-04-13T22:32:40Z",
+  "total": 448,
   "by_ceo": {
-    "CZ": 110,
+    "CZ": 111,
     "Brian Armstrong": 218,
-    "Richard Teng": 54,
+    "Richard Teng": 55,
     "Star Xu": 27,
     "Ben Zhou": 37
   },
@@ -125,6 +125,19 @@
       "key_quote": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival Binance"
     },
     {
+      "title": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQWHcxQnZmdjhjUEh0SVhMWll4NUc5UUx0RHpkQXRKVE5GZVpkRXdiZVpPWjUwY09VUUpTUEdMamhKdVlUODlPR1A4Z09xM05wQW0ybWlROU5JdzgyenFuTVJaWkJhbXlF?oc=5\" target=\"_blank\">Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQWHcxQnZmdjhjUEh0SVhMWll4NUc5UUx0RHpkQXRKVE5GZVpkRXdiZVpPWjUwY09VUUpTUEdMamhKdVlUODlPR1A4Z09xM05wQW0ybWlROU5JdzgyenFuTVJaWkJhbXlF?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-13T04:40:52+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival Binance"
+    },
+    {
       "title": "Brian Armstrong Backs CLARITY Act After Rejecting It Twice — What Changed",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB3T184cGNDdFJoYTR3NVF4N0kyVHlMeU1aeTNGN0YwcHZMdFY3THRfTFhabmNNWUxGZHQyaFJGc21WcXJiVGtwQ0JFOGtIWlFKejJIWnpBQm14cndseEt2S2ZMWDBNbW5HWnFTaA?oc=5\" target=\"_blank\">Brian Armstrong Backs CLARITY Act After Rejecting It Twice — What Changed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellow.com</font>",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3T184cGNDdFJoYTR3NVF4N0kyVHlMeU1aeTNGN0YwcHZMdFY3THRfTFhabmNNWUxGZHQyaFJGc21WcXJiVGtwQ0JFOGtIWlFKejJIWnpBQm14cndseEt2S2ZMWDBNbW5HWnFTaA?oc=5",
@@ -136,6 +149,17 @@
         "Web3"
       ],
       "key_quote": "Brian Armstrong Backs CLARITY Act After Rejecting It Twice — What Changed Yellow.com"
+    },
+    {
+      "title": "Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPTXhKTE1VQzdkSmc3RmlJUV8yRV96bUdSZ2tyOURVMndOUVhWRXNQUy1FYzZBT2VGZFpHMHdjOS0zZjBJc00yckUtcEUxdDR6MjFRTE5ucVFBa3VjdEJtR2RwNkVDN0xvakZVQkFTeHJRYnZiMkRyaTZLRFFLN3Mtb2x4WDV3TmNZenVZSG11RVhNQjNGc2RLZnhQbW1wMEF1c1hTeGZzc0JhdmlkR1pPUmJpcEZheV9BMFRJREpWVzhtd18tM2tnUkR4U1Bxem8?oc=5\" target=\"_blank\">Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Africa.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTXhKTE1VQzdkSmc3RmlJUV8yRV96bUdSZ2tyOURVMndOUVhWRXNQUy1FYzZBT2VGZFpHMHdjOS0zZjBJc00yckUtcEUxdDR6MjFRTE5ucVFBa3VjdEJtR2RwNkVDN0xvakZVQkFTeHJRYnZiMkRyaTZLRFFLN3Mtb2x4WDV3TmNZenVZSG11RVhNQjNGc2RLZnhQbW1wMEF1c1hTeGZzc0JhdmlkR1pPUmJpcEZheV9BMFRJREpWVzhtd18tM2tnUkR4U1Bxem8?oc=5",
+      "source": "Africa.com",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-13T00:00:05+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance Africa.com"
     },
     {
       "title": "Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Imp",
