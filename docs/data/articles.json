@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-13T04:47:01Z",
-  "total": 436,
+  "updated_at": "2026-04-13T07:07:20Z",
+  "total": 438,
   "by_ceo": {
-    "Richard Teng": 50,
+    "Richard Teng": 51,
+    "Brian Armstrong": 216,
     "CZ": 107,
-    "Brian Armstrong": 215,
     "Star Xu": 27,
     "Ben Zhou": 37
   },
@@ -21,6 +21,32 @@
         "Web3"
       ],
       "key_quote": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival Binance"
+    },
+    {
+      "title": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9waDhjZ2Z2cjFPZDdYZDB6eWo3a1NyblJTbnpRTzFMNW4yMlc1d3VaLXpMVk8xaWxkNjlmbE94TlFjQlFYQ3J5SnVjRVg5VDBGcnpuNW1ELS1GS2dMUVpEYVFlOVo2U21F?oc=5\" target=\"_blank\">Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9waDhjZ2Z2cjFPZDdYZDB6eWo3a1NyblJTbnpRTzFMNW4yMlc1d3VaLXpMVk8xaWxkNjlmbE94TlFjQlFYQ3J5SnVjRVg5VDBGcnpuNW1ELS1GS2dMUVpEYVFlOVo2U21F?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-13T04:40:52+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival Binance"
+    },
+    {
+      "title": "Brian Armstrong Backs CLARITY Act After Rejecting It Twice — What Changed",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB3T184cGNDdFJoYTR3NVF4N0kyVHlMeU1aeTNGN0YwcHZMdFY3THRfTFhabmNNWUxGZHQyaFJGc21WcXJiVGtwQ0JFOGtIWlFKejJIWnpBQm14cndseEt2S2ZMWDBNbW5HWnFTaA?oc=5\" target=\"_blank\">Brian Armstrong Backs CLARITY Act After Rejecting It Twice — What Changed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellow.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3T184cGNDdFJoYTR3NVF4N0kyVHlMeU1aeTNGN0YwcHZMdFY3THRfTFhabmNNWUxGZHQyaFJGc21WcXJiVGtwQ0JFOGtIWlFKejJIWnpBQm14cndseEt2S2ZMWDBNbW5HWnFTaA?oc=5",
+      "source": "Yellow.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-13T02:52:48+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "Brian Armstrong Backs CLARITY Act After Rejecting It Twice — What Changed Yellow.com"
     },
     {
       "title": "Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Imp",
