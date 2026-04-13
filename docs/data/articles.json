@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-13T01:16:23Z",
-  "total": 434,
+  "updated_at": "2026-04-13T04:47:01Z",
+  "total": 436,
   "by_ceo": {
+    "Richard Teng": 50,
     "CZ": 107,
     "Brian Armstrong": 215,
     "Star Xu": 27,
-    "Richard Teng": 49,
-    "Ben Zhou": 36
+    "Ben Zhou": 37
   },
   "articles": [
+    {
+      "title": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PczNZbjNRdXlXZXYzZjV1QlpLVHdCT3JRdDItc29MWjZPaDdiVjBzTjV2YnlmLWpGNUdoclhjYWJEeXVfcmY3Z0VIcFRLNjhTVmdBLXNTRWR3TkVlYzBCSXpPV3k?oc=5\" target=\"_blank\">Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PczNZbjNRdXlXZXYzZjV1QlpLVHdCT3JRdDItc29MWjZPaDdiVjBzTjV2YnlmLWpGNUdoclhjYWJEeXVfcmY3Z0VIcFRLNjhTVmdBLXNTRWR3TkVlYzBCSXpPV3k?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-13T04:40:52+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival Binance"
+    },
     {
       "title": "Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Imp",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSllCb1JVNENYZS1WcEpIcDEySER2T2FFTXlzYTZlb0gxZWRSbjVMRG92WGVGdEZpQW9GTFhkbGlFMThfYzR5dFdBM014YnpnMmF3Sk16bHBJQ01YN0ZDQ0ViZHM4a0Z6UEprM0J0ZFZqaHNOM0xHSE1LVFBuU1N2QUlBVVJwZ1RYN1pIS3huUWV0RG9qaE5PX0oxX3NJOU9yZmtzcFBBVVVOcWc?oc=5\" target=\"_blank\">Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Imp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -4631,6 +4644,17 @@
         "Bitcoin"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda Bitcoin Magazine"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ybGtMbmxfRVQxa0dJUEc3WUNkR3lpZjJNOVR2aEJwdUJtYU1heEhfaEprWGtpLVk3cktjZjVSb2JKYU1maFhPdzVzMkRMMWRiVmNjZmZ6SFNCZ3A5Q0tIZ0pNTQ?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aap.com.au</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ybGtMbmxfRVQxa0dJUEc3WUNkR3lpZjJNOVR2aEJwdUJtYU1heEhfaEprWGtpLVk3cktjZjVSb2JKYU1maFhPdzVzMkRMMWRiVmNjZmZ6SFNCZ3A5Q0tIZ0pNTQ?oc=5",
+      "source": "aap.com.au",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-01-16T08:00:00+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance aap.com.au"
     },
     {
       "title": "US Senate committee delays crypto bill after opposition from Coinbase CEO",
