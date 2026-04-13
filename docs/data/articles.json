@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-13T07:07:20Z",
-  "total": 438,
+  "updated_at": "2026-04-13T09:23:19Z",
+  "total": 440,
   "by_ceo": {
-    "Richard Teng": 51,
-    "Brian Armstrong": 216,
+    "Brian Armstrong": 217,
+    "Richard Teng": 52,
     "CZ": 107,
     "Star Xu": 27,
     "Ben Zhou": 37
   },
   "articles": [
+    {
+      "title": "Ripple (XRP) Price Prediction: Coinbase CEO Armstrong Reverses Position on Federal Crypto Framework",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkxIazB2QmdKNzdTdDhrRGp0aHRmX3ZGQlZyYmE1d3JMNW5SamNwOGR0WFc5M2FxN2dKbjhESENNOWh3LWxpU2V3aVpyc0k4RHBlQW96M01Ubk10c2wzRjFodFVHYjcxdzJPUktmUlJCRlc4YXZqM0JqYURTdkN4cDU2UWk1NWJvcV91U19JOUVWM3NmVGJ4RTVsMA?oc=5\" target=\"_blank\">Ripple (XRP) Price Prediction: Coinbase CEO Armstrong Reverses Position on Federal Crypto Framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkxIazB2QmdKNzdTdDhrRGp0aHRmX3ZGQlZyYmE1d3JMNW5SamNwOGR0WFc5M2FxN2dKbjhESENNOWh3LWxpU2V3aVpyc0k4RHBlQW96M01Ubk10c2wzRjFodFVHYjcxdzJPUktmUlJCRlc4YXZqM0JqYURTdkN4cDU2UWk1NWJvcV91U19JOUVWM3NmVGJ4RTVsMA?oc=5",
+      "source": "openPR.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-13T08:46:00+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Ripple (XRP) Price Prediction: Coinbase CEO Armstrong Reverses Position on Federal Crypto Framework openPR.com"
+    },
     {
       "title": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PczNZbjNRdXlXZXYzZjV1QlpLVHdCT3JRdDItc29MWjZPaDdiVjBzTjV2YnlmLWpGNUdoclhjYWJEeXVfcmY3Z0VIcFRLNjhTVmdBLXNTRWR3TkVlYzBCSXpPV3k?oc=5\" target=\"_blank\">Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
@@ -26,6 +39,19 @@
       "title": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9waDhjZ2Z2cjFPZDdYZDB6eWo3a1NyblJTbnpRTzFMNW4yMlc1d3VaLXpMVk8xaWxkNjlmbE94TlFjQlFYQ3J5SnVjRVg5VDBGcnpuNW1ELS1GS2dMUVpEYVFlOVo2U21F?oc=5\" target=\"_blank\">Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9waDhjZ2Z2cjFPZDdYZDB6eWo3a1NyblJTbnpRTzFMNW4yMlc1d3VaLXpMVk8xaWxkNjlmbE94TlFjQlFYQ3J5SnVjRVg5VDBGcnpuNW1ELS1GS2dMUVpEYVFlOVo2U21F?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-13T04:40:52+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival Binance"
+    },
+    {
+      "title": "Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Cb0hJYWdGTFBfMmhNZnMwc2JaZ0h2YTB6cGNwd1dnenJZenJuS3BILTdvZWZpc19jZy1CdFppMkp2Q05HbmtPVndtYmFtSk1qdnk3UVd0M0xRNGtONnhTUWZQb0k?oc=5\" target=\"_blank\">Richard Teng and Yi He to Speak at the 2026 Hong Kong Web3 Festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Cb0hJYWdGTFBfMmhNZnMwc2JaZ0h2YTB6cGNwd1dnenJZenJuS3BILTdvZWZpc19jZy1CdFppMkp2Q05HbmtPVndtYmFtSk1qdnk3UVd0M0xRNGtONnhTUWZQb0k?oc=5",
       "source": "Binance",
       "ceo_name": "Richard Teng",
       "exchange": "Binance",
