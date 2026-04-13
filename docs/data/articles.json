@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-13T17:48:24Z",
-  "total": 442,
+  "updated_at": "2026-04-13T18:56:20Z",
+  "total": 443,
   "by_ceo": {
-    "CZ": 108,
+    "CZ": 109,
     "Brian Armstrong": 218,
     "Richard Teng": 52,
     "Star Xu": 27,
     "Ben Zhou": 37
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwNBVV95cUxQVFlZT25UeUptZjR1RnVZTXRxSE5vcGNhZV9iVmlzTVhIWTl6eWtCODVmd3pWY1I2TVRhcllqbXRGWWJ0cWJhQkdNeGtVZ01wOFlIMFhLYlJnMTVVYmRuakphc3g4MUJGRzRobjk2aGZGdVI5Z1dpc0pNUFNKVHUtM09fMGNXSzhrOUF3R1JSVWpDaHNGSEdqQzlEOWJhSFpOdHBOcVFuQS1kaFhza1NIbDN1bE9yVWdHZE1RQUlZOEs2X1VKUmxQc1pXcm9Cbk01bTdwNXVmV21YMjIycUxFZk5VMmVkYzhwbUhvbFdXZG0yNUhMVE9XVUlBTUhxVzRabm5acEViRGY5YkV0RVd3a05MZTBpY2RhdjlwQkNYODhGVnVzSDUzcjVUbWtGT1VCUTItY0tYNHpGbVhBMHJILXVyNWpJd1NfNlRpR0lHRVZodG95bTk4U2pBNVlTQ01Mb09ncGpDMFh4RWtqVnlmZFJyM05SQ2hVRUJNRjJ3MUVkQmhiTkkzT2dPczhfTFMteDk5OGNyYXFOSUt5UDJlQWVQV0FmaHFPQng5czFzU1p3U0s0Z1pMazNjd9IBuwNBVV95cUxQVFlZT25UeUptZjR1RnVZTXRxSE5vcGNhZV9iVmlzTVhIWTl6eWtCODVmd3pWY1I2TVRhcllqbXRGWWJ0cWJhQkdNeGtVZ01wOFlIMFhLYlJnMTVVYmRuakphc3g4MUJGRzRobjk2aGZGdVI5Z1dpc0pNUFNKVHUtM09fMGNXSzhrOUF3R1JSVWpDaHNGSEdqQzlEOWJhSFpOdHBOcVFuQS1kaFhza1NIbDN1bE9yVWdHZE1RQUlZOEs2X1VKUmxQc1pXcm9Cbk01bTdwNXVmV21YMjIycUxFZk5VMmVkYzhwbUhvbFdXZG0yNUhMVE9XVUlBTUhxVzRabm5acEViRGY5YkV0RVd3a05MZTBpY2RhdjlwQkNYODhGVnVzSDUzcjVUbWtGT1VCUTItY0tYNHpGbVhBMHJILXVyNWpJd1NfNlRpR0lHRVZodG95bTk4U2pBNVlTQ01Mb09ncGpDMFh4RWtqVnlmZFJyM05SQ2hVRUJNRjJ3MUVkQmhiTkkzT2dPczhfTFMteDk5OGNyYXFOSUt5UDJlQWVQV0FmaHFPQng5czFzU1p3U0s0Z1pMazNjdw?oc=5\" target=\"_blank\">Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Social News XYZ</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQVFlZT25UeUptZjR1RnVZTXRxSE5vcGNhZV9iVmlzTVhIWTl6eWtCODVmd3pWY1I2TVRhcllqbXRGWWJ0cWJhQkdNeGtVZ01wOFlIMFhLYlJnMTVVYmRuakphc3g4MUJGRzRobjk2aGZGdVI5Z1dpc0pNUFNKVHUtM09fMGNXSzhrOUF3R1JSVWpDaHNGSEdqQzlEOWJhSFpOdHBOcVFuQS1kaFhza1NIbDN1bE9yVWdHZE1RQUlZOEs2X1VKUmxQc1pXcm9Cbk01bTdwNXVmV21YMjIycUxFZk5VMmVkYzhwbUhvbFdXZG0yNUhMVE9XVUlBTUhxVzRabm5acEViRGY5YkV0RVd3a05MZTBpY2RhdjlwQkNYODhGVnVzSDUzcjVUbWtGT1VCUTItY0tYNHpGbVhBMHJILXVyNWpJd1NfNlRpR0lHRVZodG95bTk4U2pBNVlTQ01Mb09ncGpDMFh4RWtqVnlmZFJyM05SQ2hVRUJNRjJ3MUVkQmhiTkkzT2dPczhfTFMteDk5OGNyYXFOSUt5UDJlQWVQV0FmaHFPQng5czFzU1p3U0s0Z1pMazNjd9IBuwNBVV95cUxQVFlZT25UeUptZjR1RnVZTXRxSE5vcGNhZV9iVmlzTVhIWTl6eWtCODVmd3pWY1I2TVRhcllqbXRGWWJ0cWJhQkdNeGtVZ01wOFlIMFhLYlJnMTVVYmRuakphc3g4MUJGRzRobjk2aGZGdVI5Z1dpc0pNUFNKVHUtM09fMGNXSzhrOUF3R1JSVWpDaHNGSEdqQzlEOWJhSFpOdHBOcVFuQS1kaFhza1NIbDN1bE9yVWdHZE1RQUlZOEs2X1VKUmxQc1pXcm9Cbk01bTdwNXVmV21YMjIycUxFZk5VMmVkYzhwbUhvbFdXZG0yNUhMVE9XVUlBTUhxVzRabm5acEViRGY5YkV0RVd3a05MZTBpY2RhdjlwQkNYODhGVnVzSDUzcjVUbWtGT1VCUTItY0tYNHpGbVhBMHJILXVyNWpJd1NfNlRpR0lHRVZodG95bTk4U2pBNVlTQ01Mb09ncGpDMFh4RWtqVnlmZFJyM05SQ2hVRUJNRjJ3MUVkQmhiTkkzT2dPczhfTFMteDk5OGNyYXFOSUt5UDJlQWVQV0FmaHFPQng5czFzU1p3U0s0Z1pMazNjdw?oc=5",
+      "source": "Social News XYZ",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-13T18:17:06+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance Social News XYZ"
+    },
     {
       "title": "Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Improve Work Results",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeThUMEhjcDJmWE80a090U2NCTUZCbEt0Wl9reTJWSmxwek9iYzl1Y0NOT1RRSm5Qd1MtdzFBNUxPT3Ixa1R6eWZYTTdzSW94ZVNmSW9uZTRJMEZhQzJZZ1kzZ1NpTk56dllZVDJLS1QxM1Fka2ZvRDFEMVBYc0xDYVR1QmJ3c3JnMk9HVkZsYWREWXIxU21mRlROTldzZ2h6aGcxZHp6ZWU?oc=5\" target=\"_blank\">Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Improve Work Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
