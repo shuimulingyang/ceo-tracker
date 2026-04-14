@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-14T15:58:57Z",
-  "total": 456,
+  "updated_at": "2026-04-14T17:03:28Z",
+  "total": 458,
   "by_ceo": {
     "CZ": 116,
-    "Brian Armstrong": 220,
-    "Richard Teng": 55,
+    "Brian Armstrong": 221,
+    "Richard Teng": 56,
     "Star Xu": 28,
     "Ben Zhou": 37
   },
@@ -217,6 +217,17 @@
       "published_at": "2026-04-12T19:01:19+00:00",
       "tags": [],
       "key_quote": "Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Imp Benzinga"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE95TmVrbExZa2ZKTXcwcm1kVThFWHN6cWpNelR4a1h5SUVtbjByNENpRmxSZV90dXh4UU9zQ1RhYWdFUm1KZFo3R1RmZFk4bDJlRE9zbG14bGc0TWN4OEZUNGhESWE?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95TmVrbExZa2ZKTXcwcm1kVThFWHN6cWpNelR4a1h5SUVtbjByNENpRmxSZV90dXh4UU9zQ1RhYWdFUm1KZFo3R1RmZFk4bDJlRE9zbG14bGc0TWN4OEZUNGhESWE?oc=5",
+      "source": "Binance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-12T13:20:48+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill Binance"
     },
     {
       "title": "OKX CEO Criticizes CZ Over Claims in Freedom of Money",
@@ -5071,6 +5082,19 @@
       "title": "What Will 2026 Bring for the Crypto Market? Binance CEO Richard Teng Shares His Outlook",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMMjJtbDAzOXJXRFFqZVMwb0VhRGk2eTNodzRVV3Zhb2lKODN5Tml5Vno3aV9mSTU3TXo1NEJTYnpOenpsamI3Y3JJd1hfMmJoalV3U2xvdmU3ZXNLVElHWFV6Yw?oc=5\" target=\"_blank\">What Will 2026 Bring for the Crypto Market? Binance CEO Richard Teng Shares His Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMMjJtbDAzOXJXRFFqZVMwb0VhRGk2eTNodzRVV3Zhb2lKODN5Tml5Vno3aV9mSTU3TXo1NEJTYnpOenpsamI3Y3JJd1hfMmJoalV3U2xvdmU3ZXNLVElHWFV6Yw?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2025-12-15T08:00:00+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "What Will 2026 Bring for the Crypto Market? Binance CEO Richard Teng Shares His Outlook Binance"
+    },
+    {
+      "title": "What Will 2026 Bring for the Crypto Market? Binance CEO Richard Teng Shares His Outlook",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtaE1PVFhfaWYxRGlWNUNHbWtFQjB1SlVWSmhLSDRTNU5HSVBkRmRNT0VmNnVlS1g2Y2phNlpWSHVDemduX0pWcG5MYWpZOWxiWUo4Vk9xWHBmT1VrMlBEWUxVTQ?oc=5\" target=\"_blank\">What Will 2026 Bring for the Crypto Market? Binance CEO Richard Teng Shares His Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtaE1PVFhfaWYxRGlWNUNHbWtFQjB1SlVWSmhLSDRTNU5HSVBkRmRNT0VmNnVlS1g2Y2phNlpWSHVDemduX0pWcG5MYWpZOWxiWUo4Vk9xWHBmT1VrMlBEWUxVTQ?oc=5",
       "source": "Binance",
       "ceo_name": "Richard Teng",
       "exchange": "Binance",
