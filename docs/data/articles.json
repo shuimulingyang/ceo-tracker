@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-14T11:47:27Z",
-  "total": 454,
+  "updated_at": "2026-04-14T12:53:45Z",
+  "total": 456,
   "by_ceo": {
+    "CZ": 116,
     "Brian Armstrong": 220,
-    "CZ": 115,
     "Richard Teng": 55,
-    "Star Xu": 27,
+    "Star Xu": 28,
     "Ben Zhou": 37
   },
   "articles": [
+    {
+      "title": "Binance’s Changpeng Zhao Reveals Why He Went All-In on Bitcoin Early",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0g3a1NmMzdXZU13MXFjbklFdVAwb1AwWUM1R3RPazZXZXlXMENxb2YxUGJKbmx3S01oa19TQkxLS2JCT05haW5NeHdGVVVnVklOSWRuY0YyQnNhN01tT1NJZGtXYkRRLWxfR2MtUkxtQXc5MHpmR1p4ekk3cTNGQlItTlNWbkdnNU5GR0xMUzdiblJaejFwYQ?oc=5\" target=\"_blank\">Binance’s Changpeng Zhao Reveals Why He Went All-In on Bitcoin Early</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Watcher Guru</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0g3a1NmMzdXZU13MXFjbklFdVAwb1AwWUM1R3RPazZXZXlXMENxb2YxUGJKbmx3S01oa19TQkxLS2JCT05haW5NeHdGVVVnVklOSWRuY0YyQnNhN01tT1NJZGtXYkRRLWxfR2MtUkxtQXc5MHpmR1p4ekk3cTNGQlItTlNWbkdnNU5GR0xMUzdiblJaejFwYQ?oc=5",
+      "source": "Watcher Guru",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-14T12:37:06+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Binance’s Changpeng Zhao Reveals Why He Went All-In on Bitcoin Early Watcher Guru"
+    },
     {
       "title": "Ripple and Coinbase CEOs Back CLARITY Act as Senate Vote Nears",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDJyN1puMTVBaWVsS1JsYWhZVi1hV2ZmekFzd0JNSlMzamFFOG4yV3lKNjNvY2Vuc0lhd3Z3QURpaE5fQkJSQ05xVklNWXk3Q0s4X2Y3eUFTQTh2eUZNZHpQc0pvOF9vRHgzaTN1alRvaUxYRXBHbXgydy1VQWY2RDRrNkI3bHRLUzJIQWpxRjU3ZGR3c1VzbENOQm5KYUF5dEpLcFE4X05YS2VyenVPYmdVdVF4ZlBObEhKcUJzdw?oc=5\" target=\"_blank\">Ripple and Coinbase CEOs Back CLARITY Act as Senate Vote Nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
@@ -204,6 +217,17 @@
       "published_at": "2026-04-12T19:01:19+00:00",
       "tags": [],
       "key_quote": "Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Imp Benzinga"
+    },
+    {
+      "title": "OKX CEO Criticizes CZ Over Claims in Freedom of Money",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1g4Yy1SUGljc0RIUVpZdzJ1UWJGWDRlRUhBVloyWktNd1pMQjhCdEpfY0hHWkwweE1paTllR19fMnVObnhkLW5kMjR5Z3N4TmljMHpHMW14bHduUlhlMWNxbmtlblRjUGUtM1V1b25HemE3VmtmaS1RcDU5Q3lTbGpWeFBsRkdMbDA4QTdRbDlXektnM3JheVhn?oc=5\" target=\"_blank\">OKX CEO Criticizes CZ Over Claims in Freedom of Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1g4Yy1SUGljc0RIUVpZdzJ1UWJGWDRlRUhBVloyWktNd1pMQjhCdEpfY0hHWkwweE1paTllR19fMnVObnhkLW5kMjR5Z3N4TmljMHpHMW14bHduUlhlMWNxbmtlblRjUGUtM1V1b25HemE3VmtmaS1RcDU5Q3lTbGpWeFBsRkdMbDA4QTdRbDlXektnM3JheVhn?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-12T05:03:08+00:00",
+      "tags": [],
+      "key_quote": "OKX CEO Criticizes CZ Over Claims in Freedom of Money CryptoRank"
     },
     {
       "title": "News Explorer — Binance Founder Changpeng Zhao Receives Pardon From President Trump Following Money Laundering Conviction",
