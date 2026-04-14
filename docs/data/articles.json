@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-04-14T06:23:18Z",
-  "total": 450,
+  "updated_at": "2026-04-14T08:18:16Z",
+  "total": 453,
   "by_ceo": {
-    "CZ": 113,
-    "Brian Armstrong": 218,
+    "Brian Armstrong": 219,
+    "CZ": 115,
     "Richard Teng": 55,
     "Star Xu": 27,
     "Ben Zhou": 37
   },
   "articles": [
+    {
+      "title": "Ripple and Coinbase CEOs Back CLARITY Act as Senate Vote Nears",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDJyN1puMTVBaWVsS1JsYWhZVi1hV2ZmekFzd0JNSlMzamFFOG4yV3lKNjNvY2Vuc0lhd3Z3QURpaE5fQkJSQ05xVklNWXk3Q0s4X2Y3eUFTQTh2eUZNZHpQc0pvOF9vRHgzaTN1alRvaUxYRXBHbXgydy1VQWY2RDRrNkI3bHRLUzJIQWpxRjU3ZGR3c1VzbENOQm5KYUF5dEpLcFE4X05YS2VyenVPYmdVdVF4ZlBObEhKcUJzdw?oc=5\" target=\"_blank\">Ripple and Coinbase CEOs Back CLARITY Act as Senate Vote Nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDJyN1puMTVBaWVsS1JsYWhZVi1hV2ZmekFzd0JNSlMzamFFOG4yV3lKNjNvY2Vuc0lhd3Z3QURpaE5fQkJSQ05xVklNWXk3Q0s4X2Y3eUFTQTh2eUZNZHpQc0pvOF9vRHgzaTN1alRvaUxYRXBHbXgydy1VQWY2RDRrNkI3bHRLUzJIQWpxRjU3ZGR3c1VzbENOQm5KYUF5dEpLcFE4X05YS2VyenVPYmdVdVF4ZlBObEhKcUJzdw?oc=5",
+      "source": "National Today",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-14T07:34:39+00:00",
+      "tags": [],
+      "key_quote": "Ripple and Coinbase CEOs Back CLARITY Act as Senate Vote Nears National Today"
+    },
+    {
+      "title": "PRESS RELEASE | Changpeng Zhao (CZ) Releases ‘Freedom of Money,’ a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE40RXhjXzMzMkZEY1BENVdQWnA2b1ViUVdzSFlsS2xYRXhudVEyX3FOcXFyWW9mYXZqWl9KVkZHVUZ1YlNubGdBeDlzb2k0b3VCVl80SE8wUjRzYXBCZ0ZnY2xKX3BBcUZoTGFraEZSRUpkNldubndKYnpZbWU1azQ?oc=5\" target=\"_blank\">PRESS RELEASE | Changpeng Zhao (CZ) Releases ‘Freedom of Money,’ a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BitKE</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40RXhjXzMzMkZEY1BENVdQWnA2b1ViUVdzSFlsS2xYRXhudVEyX3FOcXFyWW9mYXZqWl9KVkZHVUZ1YlNubGdBeDlzb2k0b3VCVl80SE8wUjRzYXBCZ0ZnY2xKX3BBcUZoTGFraEZSRUpkNldubndKYnpZbWU1azQ?oc=5",
+      "source": "BitKE",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-14T07:00:59+00:00",
+      "tags": [],
+      "key_quote": "PRESS RELEASE | Changpeng Zhao (CZ) Releases ‘Freedom of Money,’ a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance BitKE"
+    },
     {
       "title": "Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwNBVV95cUxQVFlZT25UeUptZjR1RnVZTXRxSE5vcGNhZV9iVmlzTVhIWTl6eWtCODVmd3pWY1I2TVRhcllqbXRGWWJ0cWJhQkdNeGtVZ01wOFlIMFhLYlJnMTVVYmRuakphc3g4MUJGRzRobjk2aGZGdVI5Z1dpc0pNUFNKVHUtM09fMGNXSzhrOUF3R1JSVWpDaHNGSEdqQzlEOWJhSFpOdHBOcVFuQS1kaFhza1NIbDN1bE9yVWdHZE1RQUlZOEs2X1VKUmxQc1pXcm9Cbk01bTdwNXVmV21YMjIycUxFZk5VMmVkYzhwbUhvbFdXZG0yNUhMVE9XVUlBTUhxVzRabm5acEViRGY5YkV0RVd3a05MZTBpY2RhdjlwQkNYODhGVnVzSDUzcjVUbWtGT1VCUTItY0tYNHpGbVhBMHJILXVyNWpJd1NfNlRpR0lHRVZodG95bTk4U2pBNVlTQ01Mb09ncGpDMFh4RWtqVnlmZFJyM05SQ2hVRUJNRjJ3MUVkQmhiTkkzT2dPczhfTFMteDk5OGNyYXFOSUt5UDJlQWVQV0FmaHFPQng5czFzU1p3U0s0Z1pMazNjd9IBuwNBVV95cUxQVFlZT25UeUptZjR1RnVZTXRxSE5vcGNhZV9iVmlzTVhIWTl6eWtCODVmd3pWY1I2TVRhcllqbXRGWWJ0cWJhQkdNeGtVZ01wOFlIMFhLYlJnMTVVYmRuakphc3g4MUJGRzRobjk2aGZGdVI5Z1dpc0pNUFNKVHUtM09fMGNXSzhrOUF3R1JSVWpDaHNGSEdqQzlEOWJhSFpOdHBOcVFuQS1kaFhza1NIbDN1bE9yVWdHZE1RQUlZOEs2X1VKUmxQc1pXcm9Cbk01bTdwNXVmV21YMjIycUxFZk5VMmVkYzhwbUhvbFdXZG0yNUhMVE9XVUlBTUhxVzRabm5acEViRGY5YkV0RVd3a05MZTBpY2RhdjlwQkNYODhGVnVzSDUzcjVUbWtGT1VCUTItY0tYNHpGbVhBMHJILXVyNWpJd1NfNlRpR0lHRVZodG95bTk4U2pBNVlTQ01Mb09ncGpDMFh4RWtqVnlmZFJyM05SQ2hVRUJNRjJ3MUVkQmhiTkkzT2dPczhfTFMteDk5OGNyYXFOSUt5UDJlQWVQV0FmaHFPQng5czFzU1p3U0s0Z1pMazNjdw?oc=5\" target=\"_blank\">Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Social News XYZ</font>",
@@ -643,6 +665,19 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase CEO Buys $133M Property in Los Angeles CoinMarketCap"
+    },
+    {
+      "title": "Changpeng Zhao Reveals: US Crypto Market Stages Dramatic Recovery in 2025",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzhJdlVFSjRoeWFoSXdWeHRMSU5yTXhBaEY4Ymx0c0VfbnhNSnBIMjZIaXlzQUJEMEhibFMydEd3MWJFTzh2aXBwcFhsYU5nSkxnVno3bi1kNG5yMlF0U0JHTEJtZFZkcGxmOUh0YmJBMEhLZkZTWEVtLWEtUU9rX1MzQlA?oc=5\" target=\"_blank\">Changpeng Zhao Reveals: US Crypto Market Stages Dramatic Recovery in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzhJdlVFSjRoeWFoSXdWeHRMSU5yTXhBaEY4Ymx0c0VfbnhNSnBIMjZIaXlzQUJEMEhibFMydEd3MWJFTzh2aXBwcFhsYU5nSkxnVno3bi1kNG5yMlF0U0JHTEJtZFZkcGxmOUh0YmJBMEhLZkZTWEVtLWEtUU9rX1MzQlA?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-10T00:30:58+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Changpeng Zhao Reveals: US Crypto Market Stages Dramatic Recovery in 2025 CryptoRank"
     },
     {
       "title": "Changpeng Zhao: US crypto market showing signs of recovery",
