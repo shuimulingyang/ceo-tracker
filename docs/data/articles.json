@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-15T12:52:57Z",
-  "total": 463,
+  "updated_at": "2026-04-15T14:23:55Z",
+  "total": 464,
   "by_ceo": {
     "CZ": 118,
-    "Brian Armstrong": 221,
+    "Brian Armstrong": 222,
     "Richard Teng": 57,
     "Star Xu": 30,
     "Ben Zhou": 37
@@ -267,6 +267,17 @@
       "published_at": "2026-04-12T13:20:48+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill Binance"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1ZKOUFweER5YTRReHhXVTVTTVlwbFlFTWNRbW5uZHF5ai1OSE1rWWVFTWhHcjBmaFNwODZ3amotbFVsX2ZIRkVma0NocG8wQ2hUVHJqYzVZTHhxVkU3amZubkJvOXRueWpsWFc1WWMwT0pLRVJxVWJ4YjJBRDJ5bXNrVVhPWUs4cF9XVkVKM2d2OFNaaDZzMkV5WTd2Skt4SEE?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1ZKOUFweER5YTRReHhXVTVTTVlwbFlFTWNRbW5uZHF5ai1OSE1rWWVFTWhHcjBmaFNwODZ3amotbFVsX2ZIRkVma0NocG8wQ2hUVHJqYzVZTHhxVkU3amZubkJvOXRueWpsWFc1WWMwT0pLRVJxVWJ4YjJBRDJ5bXNrVVhPWUs4cF9XVkVKM2d2OFNaaDZzMkV5WTd2Skt4SEE?oc=5",
+      "source": "Blockonomi",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-12T13:14:48+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill Blockonomi"
     },
     {
       "title": "OKX CEO Criticizes CZ Over Claims in Freedom of Money",
