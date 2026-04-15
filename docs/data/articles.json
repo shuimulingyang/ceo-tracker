@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-15T01:12:59Z",
-  "total": 460,
+  "updated_at": "2026-04-15T04:34:47Z",
+  "total": 461,
   "by_ceo": {
     "CZ": 117,
     "Brian Armstrong": 221,
     "Richard Teng": 57,
-    "Star Xu": 28,
+    "Star Xu": 29,
     "Ben Zhou": 37
   },
   "articles": [
@@ -231,6 +231,20 @@
       "published_at": "2026-04-12T19:01:19+00:00",
       "tags": [],
       "key_quote": "Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Imp Benzinga"
+    },
+    {
+      "title": "OKX CEO Rips CZ Bitcoin Story as Dispute Escalates",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KWmVmYlBoQnpRYlRpbFlkUHgydExpRjJNUHVXR1hUNER2NWphNjBHcFdBRmlLTkFGMk1TbDhwN0lsNHpGV0RDUmNRLUpsenc?oc=5\" target=\"_blank\">OKX CEO Rips CZ Bitcoin Story as Dispute Escalates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mexc.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KWmVmYlBoQnpRYlRpbFlkUHgydExpRjJNUHVXR1hUNER2NWphNjBHcFdBRmlLTkFGMk1TbDhwN0lsNHpGV0RDUmNRLUpsenc?oc=5",
+      "source": "mexc.co",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-12T17:05:34+00:00",
+      "tags": [
+        "Bitcoin",
+        "DeFi"
+      ],
+      "key_quote": "OKX CEO Rips CZ Bitcoin Story as Dispute Escalates mexc.co"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill",
