@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-14T23:32:40Z",
-  "total": 459,
+  "updated_at": "2026-04-15T01:12:59Z",
+  "total": 460,
   "by_ceo": {
     "CZ": 117,
     "Brian Armstrong": 221,
-    "Richard Teng": 56,
+    "Richard Teng": 57,
     "Star Xu": 28,
     "Ben Zhou": 37
   },
@@ -953,6 +953,20 @@
       "exchange": "Binance",
       "published_at": "2026-04-08T20:44:05+00:00",
       "tags": [
+        "AI"
+      ],
+      "key_quote": "Richard Teng says AI agent usage of ERC-8004 has surged to 162,000 Bitget"
+    },
+    {
+      "title": "Richard Teng says AI agent usage of ERC-8004 has surged to 162,000",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE96YzJ4eW5GdmdsNDVDd3ZsSDhXNU1vLU1KN054cmpIVmY2MXE4aXAwVEVCdXlfcXFEQXBSVjY4SDktb2N2OGdPNlJXb1RodHlFWERrM2tnVkM3eTFVbi1uNzB5ZHHSAWpBVV95cUxQOWFDblVKeHdPZi1sZU51dTVlc2JpWjBOY3J1SGF2cHZTQUpSQmFuSzl0QmE0VzFQQUpObjVhcXh6YU9sdEJza1E1dldMNS1fRUlUcWcwOGk1YUtva3B2QWZGakdVQW5yc0ZB?oc=5\" target=\"_blank\">Richard Teng says AI agent usage of ERC-8004 has surged to 162,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96YzJ4eW5GdmdsNDVDd3ZsSDhXNU1vLU1KN054cmpIVmY2MXE4aXAwVEVCdXlfcXFEQXBSVjY4SDktb2N2OGdPNlJXb1RodHlFWERrM2tnVkM3eTFVbi1uNzB5ZHHSAWpBVV95cUxQOWFDblVKeHdPZi1sZU51dTVlc2JpWjBOY3J1SGF2cHZTQUpSQmFuSzl0QmE0VzFQQUpObjVhcXh6YU9sdEJza1E1dldMNS1fRUlUcWcwOGk1YUtva3B2QWZGakdVQW5yc0ZB?oc=5",
+      "source": "Bitget",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-08T20:44:05+00:00",
+      "tags": [
+        "ETF",
         "AI"
       ],
       "key_quote": "Richard Teng says AI agent usage of ERC-8004 has surged to 162,000 Bitget"
