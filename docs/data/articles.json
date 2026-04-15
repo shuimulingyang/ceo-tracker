@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-15T08:19:34Z",
-  "total": 461,
+  "updated_at": "2026-04-15T10:04:49Z",
+  "total": 462,
   "by_ceo": {
     "CZ": 117,
     "Brian Armstrong": 221,
     "Richard Teng": 57,
-    "Star Xu": 29,
+    "Star Xu": 30,
     "Ben Zhou": 37
   },
   "articles": [
@@ -739,6 +739,19 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase CEO Buys $133M Property in Los Angeles CoinMarketCap"
+    },
+    {
+      "title": "Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zMGttbHY2UGNINTZoNzFvaXozQ0dZUFJ6aHpKOWk2UUxwTU9IbUczT1V4MDhNU0hXeEZ1VGRSdFg1MmJiWnpn?oc=5\" target=\"_blank\">Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mexc.co</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zMGttbHY2UGNINTZoNzFvaXozQ0dZUFJ6aHpKOWk2UUxwTU9IbUczT1V4MDhNU0hXeEZ1VGRSdFg1MmJiWnpn?oc=5",
+      "source": "mexc.co",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-04-10T00:36:25+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies mexc.co"
     },
     {
       "title": "Changpeng Zhao Reveals: US Crypto Market Stages Dramatic Recovery in 2025",
