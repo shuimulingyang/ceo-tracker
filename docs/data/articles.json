@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-16T14:49:54Z",
-  "total": 472,
+  "updated_at": "2026-04-16T16:13:42Z",
+  "total": 473,
   "by_ceo": {
     "CZ": 123,
     "Ben Zhou": 39,
-    "Brian Armstrong": 223,
+    "Brian Armstrong": 224,
     "Richard Teng": 57,
     "Star Xu": 30
   },
@@ -5668,6 +5668,17 @@
       "published_at": "2025-09-25T07:00:00+00:00",
       "tags": [],
       "key_quote": "Binance and Bybit CEOs Meet With Vietnam’s Deputy PM For Expansion Plans Yahoo Finance"
+    },
+    {
+      "title": "New Crypto Bill: Coinbase CEO Brian Armstrong Heads to Washington DC",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWFkSE04MnNvcmVDeFJDLVZxRVcyVTZkWEFrRlZBYVYwZ0Y3dXMyRTRESDVuV2dyYVg3WmxRa2Zyb3VkWXVrLV9qS1R6bjNJY011VE9Ba3NsVFE3dkFwQl9HTElKdlhfVVRyNHlGMzVlYTBEWUxsMUV3WTQyd2lwdmVB?oc=5\" target=\"_blank\">New Crypto Bill: Coinbase CEO Brian Armstrong Heads to Washington DC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWFkSE04MnNvcmVDeFJDLVZxRVcyVTZkWEFrRlZBYVYwZ0Y3dXMyRTRESDVuV2dyYVg3WmxRa2Zyb3VkWXVrLV9qS1R6bjNJY011VE9Ba3NsVFE3dkFwQl9HTElKdlhfVVRyNHlGMzVlYTBEWUxsMUV3WTQyd2lwdmVB?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2025-09-19T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "New Crypto Bill: Coinbase CEO Brian Armstrong Heads to Washington DC Yahoo Finance"
     },
     {
       "title": "Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia",
