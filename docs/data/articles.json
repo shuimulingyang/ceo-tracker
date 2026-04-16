@@ -1,14 +1,39 @@
 {
-  "updated_at": "2026-04-16T19:53:35Z",
-  "total": 473,
+  "updated_at": "2026-04-16T20:36:34Z",
+  "total": 475,
   "by_ceo": {
+    "Richard Teng": 58,
+    "Brian Armstrong": 225,
     "CZ": 123,
     "Ben Zhou": 39,
-    "Brian Armstrong": 224,
-    "Richard Teng": 57,
     "Star Xu": 30
   },
   "articles": [
+    {
+      "title": "Inside Binance’s plan to become a global financial super app",
+      "content": "<p>Richard Teng explains why crypto fundamentals remain strong, how regulation is driving global adoption, and where Binance is headed next.</p>",
+      "url": "https://www.theblock.co/post/397806/inside-binances-plan-to-become-a-global-financial-super-app?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-16T20:20:45+00:00",
+      "tags": [
+        "监管 Regulation",
+        "机构 Institutional"
+      ],
+      "key_quote": "Richard Teng explains why crypto fundamentals remain strong, how regulation is driving global adoption, and where Binance is headed next."
+    },
+    {
+      "title": "'Machine-to-machine payments will increase demand for the digital dollar', Coinbase CEO says",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkh3S0JhektoZnoxRGYzdmpnMFNYdXV3UHBxZ0JWcEVPZnV1SHZWWF9mMktTWjlLZ0JidnZfNHdKS1VlaGp1ZzFYbWQ4SGstZ1htUk5QeVVxd190SHREWGRYT1pLQmhjVW9TQmMyWC1JTDhTQ0JzWFRmank1MF9FVkJPZjRnOGw0bS1GWE9GM1VjaDBGNmw5UkhGcnY0V19aZUNEWTdsel8yRVRDSngweVoyWVVGX0Z4RmFOaGpxVkVJbVJPZ2hlNmlMZVEtWkxxdzdsRnJCQzRERElqNHhtclZ3?oc=5\" target=\"_blank\">'Machine-to-machine payments will increase demand for the digital dollar', Coinbase CEO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUkh3S0JhektoZnoxRGYzdmpnMFNYdXV3UHBxZ0JWcEVPZnV1SHZWWF9mMktTWjlLZ0JidnZfNHdKS1VlaGp1ZzFYbWQ4SGstZ1htUk5QeVVxd190SHREWGRYT1pLQmhjVW9TQmMyWC1JTDhTQ0JzWFRmank1MF9FVkJPZjRnOGw0bS1GWE9GM1VjaDBGNmw5UkhGcnY0V19aZUNEWTdsel8yRVRDSngweVoyWVVGX0Z4RmFOaGpxVkVJbVJPZ2hlNmlMZVEtWkxxdzdsRnJCQzRERElqNHhtclZ3?oc=5",
+      "source": "StreetInsider",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-16T19:58:55+00:00",
+      "tags": [],
+      "key_quote": "'Machine-to-machine payments will increase demand for the digital dollar', Coinbase CEO says StreetInsider"
+    },
     {
       "title": "Crypto Billionaire Changpeng Zhao Claims Biden Administration Tried To Make An 'Example' Out Of Him",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW1QdHFvU3JMdzJEeEJVS2FGNkZTZUxnbGh5WmxjcjNFVGpieDBhZHNEZnNYMEhJMFdibkJaQlFTZDg3TVBWblExMDFURy1KamFaV1FLRzQ5VWlBR0ZTUVoxemxtMk5lT0I2U3RmS1Y5VGQzdWQ3aVNMbU42X2RIbGhnTThXdjNIdEw3eVRHSVBWZ0tHZl9xZVJXeUR3WXhLUkVkZlg2NGE?oc=5\" target=\"_blank\">Crypto Billionaire Changpeng Zhao Claims Biden Administration Tried To Make An 'Example' Out Of Him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
