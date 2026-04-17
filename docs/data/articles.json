@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-17T11:40:25Z",
-  "total": 477,
+  "updated_at": "2026-04-17T12:48:13Z",
+  "total": 478,
   "by_ceo": {
+    "Brian Armstrong": 227,
     "CZ": 124,
-    "Brian Armstrong": 226,
     "Richard Teng": 58,
     "Ben Zhou": 39,
     "Star Xu": 30
   },
   "articles": [
+    {
+      "title": "Brian Armstrong killed the Clarity Act in January — but now he's changed his mind",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQalk1dHZCRW5EZU9fYVY1Qzhlek5QazI1TEk1alNLS2oxYmZycmVYY0piVlBEVzN0TGRlU1lneUpMUkhHU3ZEeHI5YndrZ0pqNzMwZzdwc1o0Q01nX3g1d1lxdGM5YmU5bXE1c2JZSkJRYnJCcE5qYkxQT3lHS0tWOVFVaEVpeTE0NmdGNWlHYXFDVmlGMUs4T3R5a3p4WllLVFQ3UjVhbWFEU0psdVdmNmkyS3RPblBDUmZqbHZqN2ZlaERoNy02dHFrNA?oc=5\" target=\"_blank\">Brian Armstrong killed the Clarity Act in January — but now he's changed his mind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQalk1dHZCRW5EZU9fYVY1Qzhlek5QazI1TEk1alNLS2oxYmZycmVYY0piVlBEVzN0TGRlU1lneUpMUkhHU3ZEeHI5YndrZ0pqNzMwZzdwc1o0Q01nX3g1d1lxdGM5YmU5bXE1c2JZSkJRYnJCcE5qYkxQT3lHS0tWOVFVaEVpeTE0NmdGNWlHYXFDVmlGMUs4T3R5a3p4WllLVFQ3UjVhbWFEU0psdVdmNmkyS3RPblBDUmZqbHZqN2ZlaERoNy02dHFrNA?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-17T09:48:26+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong killed the Clarity Act in January — but now he's changed his mind MSN"
+    },
     {
       "title": "Changpeng Zhao Reveals Sam Bankman-Fried’s \"Casual\" Six Billion Dollar Bailout Request",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmVud1Z2V1NOR2FHUEhNdzd1b1oxSWdDNG5FZ1hfd2NqVGFGb1RRbVlNMDlzbUNVUkZINFVHNVRLX1dDM0U3LWZzbm1qTlJZNGdfbkZCSElQV2RmV1E3eGxtRlNDd1B0Z2wwak5ZdUx2bUlFVm5Md0R0azRuQ0JjWk55cElsQ1RQMjlONTJhYWRLOVhhaFRUOTVOTkNkaTFpMEU1aGEzZkpBY1g2R0E?oc=5\" target=\"_blank\">Changpeng Zhao Reveals Sam Bankman-Fried’s \"Casual\" Six Billion Dollar Bailout Request</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
