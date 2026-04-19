@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-19T01:17:25Z",
-  "total": 485,
+  "updated_at": "2026-04-19T04:40:13Z",
+  "total": 486,
   "by_ceo": {
+    "CZ": 127,
     "Brian Armstrong": 230,
-    "CZ": 126,
     "Richard Teng": 58,
     "Ben Zhou": 41,
     "Star Xu": 30
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao’s memoir is key to understanding the future of crypto",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ0hUUnBNSDE4VlJLemYwMnpGVEE0ak5hc25pb01vbFVPRWliY0NLdUdLTXAyMENDd2FCOWQ2NEZlaEVKWUdxTFo2OVVzUFgzRGRtZm5mVFNUV0dzVHMwaVpQUURuemlDbUpzMFc5Q3gzOUh5THh2aUhtTzZzRWkzd3ZRX3Y5OWR0RzhMaFRHQUpXYjdGSGZsV0ZINWQtcUYwZzVKaGRDaVUwVTlNRTM1WnI3aDZITHBPVXRoMGNCNWV2b1BMZDVsVS1qaEQyNlFQTHJna1NuTzd0WnFVMTJqOEh4QWg?oc=5\" target=\"_blank\">Changpeng Zhao’s memoir is key to understanding the future of crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ0hUUnBNSDE4VlJLemYwMnpGVEE0ak5hc25pb01vbFVPRWliY0NLdUdLTXAyMENDd2FCOWQ2NEZlaEVKWUdxTFo2OVVzUFgzRGRtZm5mVFNUV0dzVHMwaVpQUURuemlDbUpzMFc5Q3gzOUh5THh2aUhtTzZzRWkzd3ZRX3Y5OWR0RzhMaFRHQUpXYjdGSGZsV0ZINWQtcUYwZzVKaGRDaVUwVTlNRTM1WnI3aDZITHBPVXRoMGNCNWV2b1BMZDVsVS1qaEQyNlFQTHJna1NuTzd0WnFVMTJqOEh4QWg?oc=5",
+      "source": "New York Post",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-19T02:01:00+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao’s memoir is key to understanding the future of crypto New York Post"
+    },
     {
       "title": "Coinbase Stock Forecast as Brian Armstrong Predicts New Dawn for Agentic Commerce",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VLUZXWU5xMmhRdzFhMFBUYWJZQnRmNllldEdYZmlLMXVSWmo4OE82Qk01M0ZWUkZZQkJBZjdBZ1J0Y2FoS3IwVg?oc=5\" target=\"_blank\">Coinbase Stock Forecast as Brian Armstrong Predicts New Dawn for Agentic Commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
