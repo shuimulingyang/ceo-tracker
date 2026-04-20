@@ -1,14 +1,40 @@
 {
-  "updated_at": "2026-04-20T04:46:52Z",
-  "total": 488,
+  "updated_at": "2026-04-20T07:07:50Z",
+  "total": 490,
   "by_ceo": {
+    "Brian Armstrong": 233,
     "CZ": 128,
-    "Brian Armstrong": 231,
     "Richard Teng": 58,
     "Ben Zhou": 41,
     "Star Xu": 30
   },
   "articles": [
+    {
+      "title": "Coinbase tests AI agents that offer high-level feedback to staff",
+      "content": "<p>Coinbase CEO Brian Armstrong said the AI agents are modeled after former executives Fred Ehrsam and Balaji Srinivasan.</p>",
+      "url": "https://www.theblock.co/post/398038/coinbase-tests-ai-agents?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-20T06:16:49+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong said the AI agents are modeled after former executives Fred Ehrsam and Balaji Srinivasan."
+    },
+    {
+      "title": "Coinbase is testing AI agents that show up on Slack and email",
+      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase is testing AI agents that show up on Slack and email\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc0YzYtMmE4Ni03Njg5LWFjYjctMTU0ZDdlYmE3YTg5LmpwZw==.jpg\" /></p><p>Brian Armstrong has now predicted that AI agents will not only transact onchain more than humans but will outnumber employees at his company very soon.</p>",
+      "url": "https://cointelegraph.com/news/coinbase-introduces-two-ai-agents-assist-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-20T06:07:01+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Brian Armstrong has now predicted that AI agents will not only transact onchain more than humans but will outnumber employees at his company very soon."
+    },
     {
       "title": "Changpeng Zhao’s memoir is key to understanding the future of crypto",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ0hUUnBNSDE4VlJLemYwMnpGVEE0ak5hc25pb01vbFVPRWliY0NLdUdLTXAyMENDd2FCOWQ2NEZlaEVKWUdxTFo2OVVzUFgzRGRtZm5mVFNUV0dzVHMwaVpQUURuemlDbUpzMFc5Q3gzOUh5THh2aUhtTzZzRWkzd3ZRX3Y5OWR0RzhMaFRHQUpXYjdGSGZsV0ZINWQtcUYwZzVKaGRDaVUwVTlNRTM1WnI3aDZITHBPVXRoMGNCNWV2b1BMZDVsVS1qaEQyNlFQTHJna1NuTzd0WnFVMTJqOEh4QWg?oc=5\" target=\"_blank\">Changpeng Zhao’s memoir is key to understanding the future of crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
