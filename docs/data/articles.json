@@ -1,14 +1,51 @@
 {
-  "updated_at": "2026-04-20T07:07:50Z",
-  "total": 490,
+  "updated_at": "2026-04-20T09:29:29Z",
+  "total": 493,
   "by_ceo": {
+    "Richard Teng": 61,
     "Brian Armstrong": 233,
     "CZ": 128,
-    "Richard Teng": 58,
     "Ben Zhou": 41,
     "Star Xu": 30
   },
   "articles": [
+    {
+      "title": "Binance CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\"",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE41SHhFb1ZSQWlHay1vaEdKNmtJUUc0Q0diTlVsanFNblNneV9neTlKM0pCUDZjeEU5bUNGY1Q0Mms1WEk1Qy1CX3hBSm9xREJqdGF2ZndPRS1SQVRPOGZaTkhuVFY?oc=5\" target=\"_blank\">Binance CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41SHhFb1ZSQWlHay1vaEdKNmtJUUc0Q0diTlVsanFNblNneV9neTlKM0pCUDZjeEU5bUNGY1Q0Mms1WEk1Qy1CX3hBSm9xREJqdGF2ZndPRS1SQVRPOGZaTkhuVFY?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-20T09:03:42+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Binance CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\" Binance"
+    },
+    {
+      "title": "Binance CEO Richard Teng: TradFi-Crypto Convergence Is Both Competition and Collaboration — Here's Why Both Are Inevitable",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zcGFpZjQ5RExQb1B4SGZfRTRjUDhjNHRqVU9xVkJZMmJEZU5wWDhrQlA2cGhhcDd5cUZnaHJtNmphZ1paeURxbjZJV1M5ZG80YWRqNnp6TEdEYUU4UC1hSHZqR2c?oc=5\" target=\"_blank\">Binance CEO Richard Teng: TradFi-Crypto Convergence Is Both Competition and Collaboration — Here's Why Both Are Inevitable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zcGFpZjQ5RExQb1B4SGZfRTRjUDhjNHRqVU9xVkJZMmJEZU5wWDhrQlA2cGhhcDd5cUZnaHJtNmphZ1paeURxbjZJV1M5ZG80YWRqNnp6TEdEYUU4UC1hSHZqR2c?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-20T08:58:44+00:00",
+      "tags": [],
+      "key_quote": "Binance CEO Richard Teng: TradFi-Crypto Convergence Is Both Competition and Collaboration — Here's Why Both Are Inevitable Binance"
+    },
+    {
+      "title": "Binance CEO Richard Teng Announces Huge Increase in Traditional Asset-Based Futures! Here Are the Details",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE45dGFFRVJtUmN0aDJYcjd4a3J3Y2l2TW1YeXladjJsVWVPeG1FcUEzN2F3VUtDZEpNMGNhNGdNVDdvQVFjZHZ2S1ZnTk1TUDJJd3ZHYTROVQ?oc=5\" target=\"_blank\">Binance CEO Richard Teng Announces Huge Increase in Traditional Asset-Based Futures! Here Are the Details</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45dGFFRVJtUmN0aDJYcjd4a3J3Y2l2TW1YeXladjJsVWVPeG1FcUEzN2F3VUtDZEpNMGNhNGdNVDdvQVFjZHZ2S1ZnTk1TUDJJd3ZHYTROVQ?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-20T07:51:01+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Binance CEO Richard Teng Announces Huge Increase in Traditional Asset-Based Futures!"
+    },
     {
       "title": "Coinbase tests AI agents that offer high-level feedback to staff",
       "content": "<p>Coinbase CEO Brian Armstrong said the AI agents are modeled after former executives Fred Ehrsam and Balaji Srinivasan.</p>",
