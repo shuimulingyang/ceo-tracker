@@ -1,14 +1,29 @@
 {
-  "updated_at": "2026-04-20T18:46:04Z",
-  "total": 497,
+  "updated_at": "2026-04-20T19:51:41Z",
+  "total": 499,
   "by_ceo": {
+    "Brian Armstrong": 234,
     "Richard Teng": 65,
-    "Brian Armstrong": 233,
-    "CZ": 128,
+    "CZ": 129,
     "Ben Zhou": 41,
     "Star Xu": 30
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Unveils Coinbase AI Virtual Teammates Pilot",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxON3pJYjlXSEU3UkFuYXhxUGc5TTJXVzI4dXFNSnl3WS14SXFCODVVQVlLUlUzWW5BT2Q5OWZWdEFfbThiM3JKR2Y2QVpyeXlBMjFWMzcxZnJ2QzVFSVZFbGpSMTBGY3ZUMzNnbHVSUHgxdnlhNW5SQk8tWElLQ2h3a0JvaEcwdzFJWnI4SDc4TXlCdjg0NWtYbHc2NHc0QdIBqwFBVV95cUxOeHlJZ2RYWTlHbDQxeTdnRjNUb2gzQXE2RzNPYWxRWVBSSnBTcWFRcHpUc1h1NnlEVWxLY0tTZDZseUI2ZUtETnN6UEE3Y213QWZNUE9SdzIzRy1UX3d6WE55V0tyT1Rnb1RYNnhlSXI2VE9hYzJaeHl3TkJjVGo5aHUwaHBROWJhYmJ6b1RkQVJrU1RwWXV1dC0zWU16LU05Z2owWjZZbDd6SGM?oc=5\" target=\"_blank\">Brian Armstrong Unveils Coinbase AI Virtual Teammates Pilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics Insight</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON3pJYjlXSEU3UkFuYXhxUGc5TTJXVzI4dXFNSnl3WS14SXFCODVVQVlLUlUzWW5BT2Q5OWZWdEFfbThiM3JKR2Y2QVpyeXlBMjFWMzcxZnJ2QzVFSVZFbGpSMTBGY3ZUMzNnbHVSUHgxdnlhNW5SQk8tWElLQ2h3a0JvaEcwdzFJWnI4SDc4TXlCdjg0NWtYbHc2NHc0QdIBqwFBVV95cUxOeHlJZ2RYWTlHbDQxeTdnRjNUb2gzQXE2RzNPYWxRWVBSSnBTcWFRcHpUc1h1NnlEVWxLY0tTZDZseUI2ZUtETnN6UEE3Y213QWZNUE9SdzIzRy1UX3d6WE55V0tyT1Rnb1RYNnhlSXI2VE9hYzJaeHl3TkJjVGo5aHUwaHBROWJhYmJ6b1RkQVJrU1RwWXV1dC0zWU16LU05Z2owWjZZbDd6SGM?oc=5",
+      "source": "Analytics Insight",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-20T18:30:00+00:00",
+      "tags": [
+        "Bitcoin",
+        "DeFi",
+        "AI"
+      ],
+      "key_quote": "Brian Armstrong Unveils Coinbase AI Virtual Teammates Pilot Analytics Insight"
+    },
     {
       "title": "Binance Co-CEO Richard Teng at Hong Kong Web3 Festival 2026: Stablecoins, TradFi convergence, regulation, and why AI's native currency is crypto",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9raDZZeUJvR1JyNWV6QjZNd2VpdHJ5ZGJ4c3lERXNNdC1pQjNhd2M5WmdfajZLbEdSUnBOUDRiYnBoOWJGdktzWmpGY0J3WXdwdXoxWEZoUGhxaW9uX1p4QXdYWDE?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng at Hong Kong Web3 Festival 2026: Stablecoins, TradFi convergence, regulation, and why AI's native currency is crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
@@ -125,6 +140,17 @@
         "AI"
       ],
       "key_quote": "Brian Armstrong has now predicted that AI agents will not only transact onchain more than humans but will outnumber employees at his company very soon."
+    },
+    {
+      "title": "Changpeng Zhao's Memoir: A Key to Crypto's Future",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFZ3U0FqaWhYUFJ3V3Zjb0lZd29PSXZ6SVR1UlR3ajFPUXZSTWE5TjRhNExCajhxVHBscnpMY05ZUlk0U3U5eFFndk4zalNKSFNjdFI3WGEtSjU2Z205V016TXVXTEl1c3VOVFhBRnlIZjItaDFFMTV6YXhFcndvcVlVZURQMV9FUjQtUmlHdTJoUVd4MGtDY1FOOFhSbkFwb3BuTw?oc=5\" target=\"_blank\">Changpeng Zhao's Memoir: A Key to Crypto's Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phemex</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFZ3U0FqaWhYUFJ3V3Zjb0lZd29PSXZ6SVR1UlR3ajFPUXZSTWE5TjRhNExCajhxVHBscnpMY05ZUlk0U3U5eFFndk4zalNKSFNjdFI3WGEtSjU2Z205V016TXVXTEl1c3VOVFhBRnlIZjItaDFFMTV6YXhFcndvcVlVZURQMV9FUjQtUmlHdTJoUVd4MGtDY1FOOFhSbkFwb3BuTw?oc=5",
+      "source": "Phemex",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-19T19:06:44+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao's Memoir: A Key to Crypto's Future Phemex"
     },
     {
       "title": "Changpeng Zhao’s memoir is key to understanding the future of crypto",
