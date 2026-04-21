@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-21T21:34:40Z",
+  "updated_at": "2026-04-21T22:28:34Z",
   "total": 500,
   "by_ceo": {
     "CZ": 131,
     "Brian Armstrong": 237,
-    "Richard Teng": 64,
-    "Ben Zhou": 40,
+    "Richard Teng": 65,
+    "Ben Zhou": 39,
     "Star Xu": 28
   },
   "articles": [
@@ -440,6 +440,17 @@
       "published_at": "2026-04-16T07:24:47+00:00",
       "tags": [],
       "key_quote": "Bybit CEO Ben Zhou Predicts Rise of AI-Driven Finance at Paris Blockchain Week 2026 MEXC"
+    },
+    {
+      "title": "Richard Teng：Binance TradFi 永续合约正在快速扩张，已占据主流 TradFi 期货的约 4.9%",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE95TDlDVzYwUHMtQmNXWC1KM3NrYVMxMDlNQTJCYVBON2c2TjNkZHNyY3VFNkhaejVzZVFIc3RaTG0wblBLNGJKY1dLeElXUkNJclU4MW0zY18?oc=5\" target=\"_blank\">Richard Teng：Binance TradFi 永续合约正在快速扩张，已占据主流 TradFi 期货的约 4.9%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95TDlDVzYwUHMtQmNXWC1KM3NrYVMxMDlNQTJCYVBON2c2TjNkZHNyY3VFNkhaejVzZVFIc3RaTG0wblBLNGJKY1dLeElXUkNJclU4MW0zY18?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-16T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Richard Teng：Binance TradFi 永续合约正在快速扩张，已占据主流 TradFi 期货的约 4.9% CryptoRank"
     },
     {
       "title": "Binance Founder Changpeng Zhao Shares His Cryptocurrency Strategies – With Exclusive Insights",
@@ -6135,19 +6146,6 @@
         "ETF"
       ],
       "key_quote": "Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia Chainwire"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwgJBVV95cUxQVm9ybjVDZTNiMnFyRUdHYmVUS0UxV09UYWFWSWp2amhDZ2ZXRWk5Q3FTbjV2Q29yYjR5a0FnZGRoTzFuT2Nfd1ZsRGhlZnMzYWRFQ0NiVnhsVHdwSjdhc3lMMno2MFpxbDZWdGtqOWQzekVERUtEWWtSSlhvR0RTNnhfQWF5UDZzUmdacHd0OEwxT1kxeUtpcVBPTjctNUhPbUh4N2RDUExwNG5FTlNXTjhVRXlSeFB0VjRmYnJSMlFfTEtBNVh3cmtqNkhFM2RYNHZmRmkxcHBMVUhkU0pHdkw4Z0FRTV9SODVPYk9EcTNDLU1Td1EzYmcyVlQwUXRKRVQwb1c3NFNHcWdqdzRLa0I4dGVPRTQ4NnBjeVpJTmxnM1VRRkY5YWM0M2psM1g2SGRvUU14TU0tc1RTRlFyck1R?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQVm9ybjVDZTNiMnFyRUdHYmVUS0UxV09UYWFWSWp2amhDZ2ZXRWk5Q3FTbjV2Q29yYjR5a0FnZGRoTzFuT2Nfd1ZsRGhlZnMzYWRFQ0NiVnhsVHdwSjdhc3lMMno2MFpxbDZWdGtqOWQzekVERUtEWWtSSlhvR0RTNnhfQWF5UDZzUmdacHd0OEwxT1kxeUtpcVBPTjctNUhPbUh4N2RDUExwNG5FTlNXTjhVRXlSeFB0VjRmYnJSMlFfTEtBNVh3cmtqNkhFM2RYNHZmRmkxcHBMVUhkU0pHdkw4Z0FRTV9SODVPYk9EcTNDLU1Td1EzYmcyVlQwUXRKRVQwb1c3NFNHcWdqdzRLa0I4dGVPRTQ4NnBjeVpJTmxnM1VRRkY5YWM0M2psM1g2SGRvUU14TU0tc1RTRlFyck1R?oc=5",
-      "source": "PR Newswire",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2025-09-03T07:00:00+00:00",
-      "tags": [
-        "Ethereum"
-      ],
-      "key_quote": "Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia PR Newswire"
     }
   ]
 }
