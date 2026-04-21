@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-21T20:40:31Z",
+  "updated_at": "2026-04-21T21:34:40Z",
   "total": 500,
   "by_ceo": {
     "CZ": 131,
     "Brian Armstrong": 237,
-    "Richard Teng": 63,
-    "Ben Zhou": 41,
+    "Richard Teng": 64,
+    "Ben Zhou": 40,
     "Star Xu": 28
   },
   "articles": [
@@ -89,6 +89,20 @@
         "AI"
       ],
       "key_quote": "Brian Armstrong Unveils Coinbase AI Virtual Teammates Pilot Analytics Insight"
+    },
+    {
+      "title": "Richard Teng's Key Points from the Hong Kong Web3 Carnival: The Current Financial Infrastructure is Outdated, Stablecoins are Reshaping Cross-Border Payments",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQUZwMzUwSEZzQjJkZ2N5ZnQtS0NwNlZGZkpkNEtWT1R2TzF5dHU2WFFPLS1HZVpSM0dzQ1RpdFJSVnJ2RzdVUURfMHV1RWhQWXlIYXZncnh3dXhWRHdDSHJJd19LaHNSXzFpT3BQMDlnRE52Mm5tNU1JY3lMeGN3NjlLenRad2JxTkpv?oc=5\" target=\"_blank\">Richard Teng's Key Points from the Hong Kong Web3 Carnival: The Current Financial Infrastructure is Outdated, Stablecoins are Reshaping Cross-Border Payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQUZwMzUwSEZzQjJkZ2N5ZnQtS0NwNlZGZkpkNEtWT1R2TzF5dHU2WFFPLS1HZVpSM0dzQ1RpdFJSVnJ2RzdVUURfMHV1RWhQWXlIYXZncnh3dXhWRHdDSHJJd19LaHNSXzFpT3BQMDlnRE52Mm5tNU1JY3lMeGN3NjlLenRad2JxTkpv?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-20T09:50:38+00:00",
+      "tags": [
+        "Web3",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Richard Teng's Key Points from the Hong Kong Web3 Carnival: The Current Financial Infrastructure is Outdated, Stablecoins are Reshaping Cross-Border Payments Binance"
     },
     {
       "title": "Binance Co-CEO Richard Teng at Hong Kong Web3 Festival 2026: Stablecoins, TradFi convergence, regulation, and why AI's native currency is crypto",
@@ -6126,19 +6140,6 @@
       "title": "Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiwgJBVV95cUxQVm9ybjVDZTNiMnFyRUdHYmVUS0UxV09UYWFWSWp2amhDZ2ZXRWk5Q3FTbjV2Q29yYjR5a0FnZGRoTzFuT2Nfd1ZsRGhlZnMzYWRFQ0NiVnhsVHdwSjdhc3lMMno2MFpxbDZWdGtqOWQzekVERUtEWWtSSlhvR0RTNnhfQWF5UDZzUmdacHd0OEwxT1kxeUtpcVBPTjctNUhPbUh4N2RDUExwNG5FTlNXTjhVRXlSeFB0VjRmYnJSMlFfTEtBNVh3cmtqNkhFM2RYNHZmRmkxcHBMVUhkU0pHdkw4Z0FRTV9SODVPYk9EcTNDLU1Td1EzYmcyVlQwUXRKRVQwb1c3NFNHcWdqdzRLa0I4dGVPRTQ4NnBjeVpJTmxnM1VRRkY5YWM0M2psM1g2SGRvUU14TU0tc1RTRlFyck1R?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQVm9ybjVDZTNiMnFyRUdHYmVUS0UxV09UYWFWSWp2amhDZ2ZXRWk5Q3FTbjV2Q29yYjR5a0FnZGRoTzFuT2Nfd1ZsRGhlZnMzYWRFQ0NiVnhsVHdwSjdhc3lMMno2MFpxbDZWdGtqOWQzekVERUtEWWtSSlhvR0RTNnhfQWF5UDZzUmdacHd0OEwxT1kxeUtpcVBPTjctNUhPbUh4N2RDUExwNG5FTlNXTjhVRXlSeFB0VjRmYnJSMlFfTEtBNVh3cmtqNkhFM2RYNHZmRmkxcHBMVUhkU0pHdkw4Z0FRTV9SODVPYk9EcTNDLU1Td1EzYmcyVlQwUXRKRVQwb1c3NFNHcWdqdzRLa0I4dGVPRTQ4NnBjeVpJTmxnM1VRRkY5YWM0M2psM1g2SGRvUU14TU0tc1RTRlFyck1R?oc=5",
-      "source": "PR Newswire",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2025-09-03T07:00:00+00:00",
-      "tags": [
-        "Ethereum"
-      ],
-      "key_quote": "Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia PR Newswire"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxPNk94RFNzSGdWcnZUdjA5a05tc0VqSm5ZQXdFYjVDZjBHRGJ0SWRDanpaSVVsN1I0MXdUQ1pQakl5S2NuTlJJR3ZnLXRTM1YxeU1ONk1PanNsR2RhZTBGajdoRHd2UmZuWnRnQUNnOXpjY0FpbEJQWHFJY2tyTXhnb0trYlVHN2c2a2ZRSDlBTGZxaUxWZnZFcUF6RHpLT3IzalpDRGlvbXlvcHNBUF9FNHQwT08wa2ZzVHdKVzE5cmt2ZTJqMDdkcTFvMUJlb29TMjJCZ3NoWXJjREVJbmQxTDZFcTlGTU45OWMwc0l4VWFRaWV3c0Vsd1RZUUh5Z0hSMWlfVTIzb2F1TW1lNDIwUWJzNElqOWU1S2UtdERmRFpZUm1DUEJmUmp1YmtBaTBCZVJZd2d6UTV2MTA?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPNk94RFNzSGdWcnZUdjA5a05tc0VqSm5ZQXdFYjVDZjBHRGJ0SWRDanpaSVVsN1I0MXdUQ1pQakl5S2NuTlJJR3ZnLXRTM1YxeU1ONk1PanNsR2RhZTBGajdoRHd2UmZuWnRnQUNnOXpjY0FpbEJQWHFJY2tyTXhnb0trYlVHN2c2a2ZRSDlBTGZxaUxWZnZFcUF6RHpLT3IzalpDRGlvbXlvcHNBUF9FNHQwT08wa2ZzVHdKVzE5cmt2ZTJqMDdkcTFvMUJlb29TMjJCZ3NoWXJjREVJbmQxTDZFcTlGTU45OWMwc0l4VWFRaWV3c0Vsd1RZUUh5Z0hSMWlfVTIzb2F1TW1lNDIwUWJzNElqOWU1S2UtdERmRFpZUm1DUEJmUmp1YmtBaTBCZVJZd2d6UTV2MTA?oc=5",
       "source": "PR Newswire",
       "ceo_name": "Ben Zhou",
       "exchange": "Bybit",
