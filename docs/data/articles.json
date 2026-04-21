@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-21T16:01:11Z",
+  "updated_at": "2026-04-21T17:48:05Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 235,
+    "Brian Armstrong": 236,
     "CZ": 130,
-    "Richard Teng": 66,
+    "Richard Teng": 65,
     "Ben Zhou": 41,
     "Star Xu": 28
   },
   "articles": [
+    {
+      "title": "Coinbase CEO predicts G20 nations to adopt Bitcoin reserves soon",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0o1Wnl5ZmtBVS1uQThTN3VaVW9CN01PVkVnMTdQLTNUYW9jVlhsLVVBVTdnN21IUzV5XzBsc1FObW5vdS1SS181cE41RWVtam40REFzbW1TSTFvSHJtTm9pX0s3endJM1JNdXNWQzZXSi1KNVNfMkNFLXVJN1pBaVVkVWI2S0t5OVAtalZBdjlLTlg4ZFMw?oc=5\" target=\"_blank\">Coinbase CEO predicts G20 nations to adopt Bitcoin reserves soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0o1Wnl5ZmtBVS1uQThTN3VaVW9CN01PVkVnMTdQLTNUYW9jVlhsLVVBVTdnN21IUzV5XzBsc1FObW5vdS1SS181cE41RWVtam40REFzbW1TSTFvSHJtTm9pX0s3endJM1JNdXNWQzZXSi1KNVNfMkNFLXVJN1pBaVVkVWI2S0t5OVAtalZBdjlLTlg4ZFMw?oc=5",
+      "source": "Crypto Briefing",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-21T17:29:40+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO predicts G20 nations to adopt Bitcoin reserves soon Crypto Briefing"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Introduces New Platform To Help AI Agents Discover And Pay For Services",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTnVJbDZCWDJtUTJmanlOWjZZc2xxaEJuakxYSFoyR2FueVdOVVlDeDRVRjhzUXFjX3d4TnVqQWhqRkJnRUhVd21QeFRvenhHR1E2Q3JqWE55SGxidnVXUkUyc013NGJMalcyUnRxa3o2a2RhYkg3d0RXX3NDTXB1SGdsRUZkQ1o4VTF0bDdkUmZlajVpZ3A1ODhfTi1JQUtmRHBPdVJ6aDFYZ0FQMWhyMWIyQWs3N0lOS2s0N1NOTzg3azQyRng0TGVQemNtOXVZVW1HZlZpWXdrRUZQUUl1MThqTy1CVVU5RTRxR2lqWkQzSGNz?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Introduces New Platform To Help AI Agents Discover And Pay For Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -6129,17 +6142,6 @@
       "published_at": "2025-07-22T07:00:00+00:00",
       "tags": [],
       "key_quote": "Binance CEO Richard Teng Joins The Digital Chamber Advisory Board Binance"
-    },
-    {
-      "title": "Richard Teng, CEO of Binance, Has a Special Interview on the Occasion of the Company's Anniversary",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnMHFJSHNCQm9vajVlOXktTkk0TG4yZElvS2h5NWZQXzNaYkRtMklwMGtyT1hjSkpibnlueGZJRzM1VTIzeFlGeTBRWWRueGpVSUUyWkxpWVFqZFE0U045OElfZw?oc=5\" target=\"_blank\">Richard Teng, CEO of Binance, Has a Special Interview on the Occasion of the Company's Anniversary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnMHFJSHNCQm9vajVlOXktTkk0TG4yZElvS2h5NWZQXzNaYkRtMklwMGtyT1hjSkpibnlueGZJRzM1VTIzeFlGeTBRWWRueGpVSUUyWkxpWVFqZFE0U045OElfZw?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2025-07-19T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Richard Teng, CEO of Binance, Has a Special Interview on the Occasion of the Company's Anniversary Binance"
     }
   ]
 }
