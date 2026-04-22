@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-22T20:40:40Z",
+  "updated_at": "2026-04-22T21:40:04Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 132,
+    "CZ": 133,
     "Brian Armstrong": 237,
-    "Richard Teng": 66,
+    "Richard Teng": 65,
     "Ben Zhou": 37,
     "Star Xu": 28
   },
@@ -61,6 +61,19 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants MSN"
+    },
+    {
+      "title": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwNBVV95cUxONHRlOXBpdURRN1lNQXBFUFBmQ29YYVlEMV9OTW10c3E3bTFhRlBlb3p4SWl3VzZXNFNocVFSLWlfSVZfN2pHbUxwQmE1QTFfZmtXTHNYM3hpclZxQUlCbUZOdEZYNVRRWTNZbHBxQUY0RWx3OE9oNDdxcTdrbC1raVY1VmdQVjM2dXYwcTN5OFIwMHg0MnV4V2pKSXBYQlVfX1BYR2VHeS1zVnYwLUQ5Tzk5bFVzTm9RUzJ5ZGdyS3lXTWFPME96U2Q5Nl9lUDdKRnlXNGpwOGVfaHdOVFlIQ0dhTVlPVEZMc1RoMHFaLUltZFExRTdGVGZPajFhcjZmNWcyRkd6dnFUODVoZ19qV05IeFgwb2VYNFVKYW5PVHV5ZjFZd1BQNVJBMkVhWmEzV2IzOTh2TkpieWN3YWhFbENIVUZwVXJrR3I1bTI1cXU3VGdENHlLMFF4Q1lFTFNZc3FQOTdhMTZTTnRjSEFaUmN6TmRtb0x0QlRtbVJISF9vNzV3NWNCRlljZ1ZpcW8?oc=5\" target=\"_blank\">Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxONHRlOXBpdURRN1lNQXBFUFBmQ29YYVlEMV9OTW10c3E3bTFhRlBlb3p4SWl3VzZXNFNocVFSLWlfSVZfN2pHbUxwQmE1QTFfZmtXTHNYM3hpclZxQUlCbUZOdEZYNVRRWTNZbHBxQUY0RWx3OE9oNDdxcTdrbC1raVY1VmdQVjM2dXYwcTN5OFIwMHg0MnV4V2pKSXBYQlVfX1BYR2VHeS1zVnYwLUQ5Tzk5bFVzTm9RUzJ5ZGdyS3lXTWFPME96U2Q5Nl9lUDdKRnlXNGpwOGVfaHdOVFlIQ0dhTVlPVEZMc1RoMHFaLUltZFExRTdGVGZPajFhcjZmNWcyRkd6dnFUODVoZ19qV05IeFgwb2VYNFVKYW5PVHV5ZjFZd1BQNVJBMkVhWmEzV2IzOTh2TkpieWN3YWhFbENIVUZwVXJrR3I1bTI1cXU3VGdENHlLMFF4Q1lFTFNZc3FQOTdhMTZTTnRjSEFaUmN6TmRtb0x0QlRtbVJISF9vNzV3NWNCRlljZ1ZpcW8?oc=5",
+      "source": "MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-21T08:13:25+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure MSN"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Introduces New Platform To Help AI Agents Discover And Pay For Services",
@@ -6136,17 +6149,6 @@
         "AI"
       ],
       "key_quote": "OKX CEO Star Xu Unveils Three-Phase Strategy for X Layer, Backed by $100M Vision Fund Coinfomania"
-    },
-    {
-      "title": "Richard Teng Obituary",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1FaYkpHZ1ZpQVQ1eTNYLTdfeUhnLVJGU3pnaWJzLVJ4c2Q5ZGdjQXAtYjJEYTZEeTJjUUI5LU5ya2NncFp6REMtUjduRmVfZ2lCMkRQQS1VWkxoN3YxMWp0NkZGc094SlBEV1o5ekdNRzVnR2tISjFTaEpyVUxQeW9CMA?oc=5\" target=\"_blank\">Richard Teng Obituary - Las Vegas, NV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dignity Memorial</font>",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1FaYkpHZ1ZpQVQ1eTNYLTdfeUhnLVJGU3pnaWJzLVJ4c2Q5ZGdjQXAtYjJEYTZEeTJjUUI5LU5ya2NncFp6REMtUjduRmVfZ2lCMkRQQS1VWkxoN3YxMWp0NkZGc094SlBEV1o5ekdNRzVnR2tISjFTaEpyVUxQeW9CMA?oc=5",
-      "source": "Las Vegas, NV - Dignity Memorial",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2025-09-26T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Richard Teng Obituary - Las Vegas, NV Dignity Memorial"
     }
   ]
 }
