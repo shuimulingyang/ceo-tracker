@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-22T16:59:15Z",
+  "updated_at": "2026-04-22T17:59:11Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 131,
+    "CZ": 132,
     "Brian Armstrong": 237,
     "Richard Teng": 66,
-    "Ben Zhou": 38,
+    "Ben Zhou": 37,
     "Star Xu": 28
   },
   "articles": [
@@ -5394,6 +5394,19 @@
       "key_quote": "Binance founder Changpeng Zhao: 2026 will be a super-cycle for bitcoin CNBC"
     },
     {
+      "title": "Binance’s Changpeng Zhao says bitcoin will ‘break’ the four-year cycle this year",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdHZPNV9rMTliYm16X3c4cU90ampiZVRGakhGc3hFbS12UHVORDRfajlWLU9QT3h0MTdpTm52M3F0Q3BFdWxLQlpBdjFhWWNhZVBXaUdJRlc4bS10Q01TVkJqWmlQOENTU0VueWZEZTZ0amktNnVsbFJqTHM3Wi1aR25XY1JNY1F4?oc=5\" target=\"_blank\">Binance’s Changpeng Zhao says bitcoin will ‘break’ the four-year cycle this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdHZPNV9rMTliYm16X3c4cU90ampiZVRGakhGc3hFbS12UHVORDRfajlWLU9QT3h0MTdpTm52M3F0Q3BFdWxLQlpBdjFhWWNhZVBXaUdJRlc4bS10Q01TVkJqWmlQOENTU0VueWZEZTZ0amktNnVsbFJqTHM3Wi1aR25XY1JNY1F4?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-01-23T08:00:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Binance’s Changpeng Zhao says bitcoin will ‘break’ the four-year cycle this year Yahoo Finance"
+    },
+    {
       "title": "TradFi firms are increasingly warming to cryptocurrencies, says Bybit CEO Ben Zhou",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHdDWFU1X05UTFJyT1lJRWtoaE1sTlI4X2c3QXpacjVKU05fWlJ5Vi1EaW1ScWwwTUZ2SzZ6eHVzQ0NqOThGYmFfaDNuampnWllUTzk4dHBPTG44Q1h2NEpEVDBWQWt0U0V5OEtSSUltODd2eGh0R2lGMU5tS2xOX0djNzg?oc=5\" target=\"_blank\">TradFi firms are increasingly warming to cryptocurrencies, says Bybit CEO Ben Zhou</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHdDWFU1X05UTFJyT1lJRWtoaE1sTlI4X2c3QXpacjVKU05fWlJ5Vi1EaW1ScWwwTUZ2SzZ6eHVzQ0NqOThGYmFfaDNuampnWllUTzk4dHBPTG44Q1h2NEpEVDBWQWt0U0V5OEtSSUltODd2eGh0R2lGMU5tS2xOX0djNzg?oc=5",
@@ -6134,17 +6147,6 @@
       "published_at": "2025-09-26T07:00:00+00:00",
       "tags": [],
       "key_quote": "Richard Teng Obituary - Las Vegas, NV Dignity Memorial"
-    },
-    {
-      "title": "Binance and Bybit CEOs Meet With Vietnam’s Deputy PM For Expansion Plans",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObC1wYkpHcElJUHNXRFdvNlg5dkRXdlhtcHMzVllyT2FlWkRiOVNZQU9oVlVnMUhVS0toR3ZfcWpzUXIwSTZ1cS0zYjdtd0g5MVVqZThfTWcwa0hha2F5UnFPWm5aQmpHTnlUbE5BdGFCd1Ewc2g5Ql8ycVlDd2RyZmItaw?oc=5\" target=\"_blank\">Binance and Bybit CEOs Meet With Vietnam’s Deputy PM For Expansion Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObC1wYkpHcElJUHNXRFdvNlg5dkRXdlhtcHMzVllyT2FlWkRiOVNZQU9oVlVnMUhVS0toR3ZfcWpzUXIwSTZ1cS0zYjdtd0g5MVVqZThfTWcwa0hha2F5UnFPWm5aQmpHTnlUbE5BdGFCd1Ewc2g5Ql8ycVlDd2RyZmItaw?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2025-09-25T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Binance and Bybit CEOs Meet With Vietnam’s Deputy PM For Expansion Plans Yahoo Finance"
     }
   ]
 }
