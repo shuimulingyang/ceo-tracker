@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-22T11:48:59Z",
+  "updated_at": "2026-04-22T12:53:42Z",
   "total": 500,
   "by_ceo": {
     "CZ": 131,
-    "Brian Armstrong": 238,
-    "Richard Teng": 65,
+    "Brian Armstrong": 237,
+    "Richard Teng": 66,
     "Ben Zhou": 38,
     "Star Xu": 28
   },
@@ -231,6 +231,19 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Binance Co-CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses Binance"
+    },
+    {
+      "title": "Binance CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wSlR6QUNNd1lyWExOWkNkdVJyWEdoaXpDZjc2R2FKc01RalFJMHc1OGZKMVFVNVBRRmFjWGtlT2xTRTBKc1dJY1dWZldGQ1RQNDFpQUZaZnR0WVI2UUpwTVVQemY?oc=5\" target=\"_blank\">Binance CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wSlR6QUNNd1lyWExOWkNkdVJyWEdoaXpDZjc2R2FKc01RalFJMHc1OGZKMVFVNVBRRmFjWGtlT2xTRTBKc1dJY1dWZldGQ1RQNDFpQUZaZnR0WVI2UUpwTVVQemY?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-20T08:45:31+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Binance CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses Binance"
     },
     {
       "title": "Binance CEO Richard Teng Announces Huge Increase in Traditional Asset-Based Futures! Here Are the Details",
@@ -6132,17 +6145,6 @@
       "published_at": "2025-09-25T07:00:00+00:00",
       "tags": [],
       "key_quote": "Binance and Bybit CEOs Meet With Vietnam’s Deputy PM For Expansion Plans Yahoo Finance"
-    },
-    {
-      "title": "New Crypto Bill: Coinbase CEO Brian Armstrong Heads to Washington DC",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWFkSE04MnNvcmVDeFJDLVZxRVcyVTZkWEFrRlZBYVYwZ0Y3dXMyRTRESDVuV2dyYVg3WmxRa2Zyb3VkWXVrLV9qS1R6bjNJY011VE9Ba3NsVFE3dkFwQl9HTElKdlhfVVRyNHlGMzVlYTBEWUxsMUV3WTQyd2lwdmVB?oc=5\" target=\"_blank\">New Crypto Bill: Coinbase CEO Brian Armstrong Heads to Washington DC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOWFkSE04MnNvcmVDeFJDLVZxRVcyVTZkWEFrRlZBYVYwZ0Y3dXMyRTRESDVuV2dyYVg3WmxRa2Zyb3VkWXVrLV9qS1R6bjNJY011VE9Ba3NsVFE3dkFwQl9HTElKdlhfVVRyNHlGMzVlYTBEWUxsMUV3WTQyd2lwdmVB?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2025-09-19T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "New Crypto Bill: Coinbase CEO Brian Armstrong Heads to Washington DC Yahoo Finance"
     }
   ]
 }
