@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-21T23:25:13Z",
+  "updated_at": "2026-04-22T01:13:08Z",
   "total": 500,
   "by_ceo": {
     "CZ": 131,
-    "Brian Armstrong": 237,
+    "Brian Armstrong": 238,
     "Richard Teng": 65,
-    "Ben Zhou": 39,
+    "Ben Zhou": 38,
     "Star Xu": 28
   },
   "articles": [
@@ -22,6 +22,17 @@
         "Layer2"
       ],
       "key_quote": "Changpeng Zhao’s Memoir Is Key to Understanding Crypto RealClearMarkets"
+    },
+    {
+      "title": "Brian Armstrong: Quantum readiness research for blockchains moves forward with community involvement",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTVRYXZfc0pFazBIaXhLTzNuVU1PNF82X1F3U0ZQUVNoSHBDN0NTS3JydzJfUjZvdURZRldEM3hHRWZtampiNHpfZ1ZIS1dLYnA2ZmJwclgwaWVmSC1vTHd0WEhoN2hLdnBIRzBRODQxX0hkV0ZLQkx4WFB2QnhUOU5NN0Q1T3pUaVNIUEhSVWpZemhPMEktczhlbw?oc=5\" target=\"_blank\">Brian Armstrong: Quantum readiness research for blockchains moves forward with community involvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTVRYXZfc0pFazBIaXhLTzNuVU1PNF82X1F3U0ZQUVNoSHBDN0NTS3JydzJfUjZvdURZRldEM3hHRWZtampiNHpfZ1ZIS1dLYnA2ZmJwclgwaWVmSC1vTHd0WEhoN2hLdnBIRzBRODQxX0hkV0ZLQkx4WFB2QnhUOU5NN0Q1T3pUaVNIUEhSVWpZemhPMEktczhlbw?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-21T18:48:10+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong: Quantum readiness research for blockchains moves forward with community involvement Traders Union"
     },
     {
       "title": "Coinbase CEO predicts G20 nations to adopt Bitcoin reserves soon",
@@ -6132,20 +6143,6 @@
       "published_at": "2025-09-19T07:00:00+00:00",
       "tags": [],
       "key_quote": "New Crypto Bill: Coinbase CEO Brian Armstrong Heads to Washington DC Yahoo Finance"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNM2ZjUks1V01QTlpLejcyRE9RTTFFSk5jNkxxazFHXzctVmFDdzBpQVMzTjRGenR4cC1qR3hxLTJKUnBtQjdoMTI2a2lZeEU4T01jZXNtQTBDZ2lxbHp3YUwzMTZ4dHcyd3FWREtfc3lEQ0tvOUJNM1l6QnhtdklsNTBUcklfR05NSUViUXp1M2NKSjNMUVJLeWNzcDJ2SGtfcERULXdfVV9rU05lYUcwa1FwQlR5YnppMTRHVy04VktKVXZab1lncTdyR2JROUVMcGRkTkktZUdHbWp5TkNZbFlUTzdtZ3JlOWpha1FuNFdhRWZIeE0yTUFDWTFKZHBVbGtOS1R1ZnZTWm0zOU1oTWhyYmlTeHYxalJuaDVR?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chainwire</font>",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNM2ZjUks1V01QTlpLejcyRE9RTTFFSk5jNkxxazFHXzctVmFDdzBpQVMzTjRGenR4cC1qR3hxLTJKUnBtQjdoMTI2a2lZeEU4T01jZXNtQTBDZ2lxbHp3YUwzMTZ4dHcyd3FWREtfc3lEQ0tvOUJNM1l6QnhtdklsNTBUcklfR05NSUViUXp1M2NKSjNMUVJLeWNzcDJ2SGtfcERULXdfVV9rU05lYUcwa1FwQlR5YnppMTRHVy04VktKVXZab1lncTdyR2JROUVMcGRkTkktZUdHbWp5TkNZbFlUTzdtZ3JlOWpha1FuNFdhRWZIeE0yTUFDWTFKZHBVbGtOS1R1ZnZTWm0zOU1oTWhyYmlTeHYxalJuaDVR?oc=5",
-      "source": "Chainwire",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2025-09-03T07:00:00+00:00",
-      "tags": [
-        "Ethereum",
-        "ETF"
-      ],
-      "key_quote": "Bybit CEO Ben Zhou Strengthens Indonesia Focus at Coinfest Asia 2025 and Co-Hosts Strategic Event with Tether to Explore the Future of Crypto in Southeast Asia Chainwire"
     }
   ]
 }
