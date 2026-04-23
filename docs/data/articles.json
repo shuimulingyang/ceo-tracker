@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-23T18:50:44Z",
+  "updated_at": "2026-04-23T19:59:05Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 241,
-    "CZ": 131,
+    "CZ": 130,
+    "Ben Zhou": 38,
     "Richard Teng": 65,
-    "Ben Zhou": 37,
     "Star Xu": 26
   },
   "articles": [
@@ -140,6 +140,19 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants MSN"
+    },
+    {
+      "title": "Bybit CEO invited to London to discuss cryptocurrency regulation with the UK FCA and other institutions",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX3Q1bkt6ZWhlaFhnamZTOEVfRHpCQTVsazlva3FmSTd0UlZjbmUtYlo0WGU2cHh1MkJNY0g3bHdOOS14eFhPa2Q3U25acGNrQ3BFUU9MY3dlVmNBWEJDeTduV2ZjTVhBS0lDajFQTFdHb2xCQURKM0pfRjQ1WHlvbElfcS1Ya0Z4T1Jkd0c1Z3k4ZnZUdVg0M1lJZlR4Ukgtal9ZTnNwaTBOcERoazZmam1IWEFfQWxsbEplUmdNZTdaajc0dkFIam12eU5hNlp0NzhqVXRQTVAtdnM?oc=5\" target=\"_blank\">Bybit CEO invited to London to discuss cryptocurrency regulation with the UK FCA and other institutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX3Q1bkt6ZWhlaFhnamZTOEVfRHpCQTVsazlva3FmSTd0UlZjbmUtYlo0WGU2cHh1MkJNY0g3bHdOOS14eFhPa2Q3U25acGNrQ3BFUU9MY3dlVmNBWEJDeTduV2ZjTVhBS0lDajFQTFdHb2xCQURKM0pfRjQ1WHlvbElfcS1Ya0Z4T1Jkd0c1Z3k4ZnZUdVg0M1lJZlR4Ukgtal9ZTnNwaTBOcERoazZmam1IWEFfQWxsbEplUmdNZTdaajc0dkFIam12eU5hNlp0NzhqVXRQTVAtdnM?oc=5",
+      "source": "WEEX",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-04-21T15:50:51+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Bybit CEO invited to London to discuss cryptocurrency regulation with the UK FCA and other institutions WEEX"
     },
     {
       "title": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure",
@@ -6140,17 +6153,6 @@
       "published_at": "2025-10-23T07:00:00+00:00",
       "tags": [],
       "key_quote": "Trump pardons Binance founder Changpeng Zhao CNN"
-    },
-    {
-      "title": "Trump pardons Binance founder Changpeng Zhao",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPcnc3cW5yQUsyM0tQdEhsR09OUWxMR0g3dXg1OXpIWk5BVEh5emJkVk1zQ3Zyanc3c3lmUEFTV185dkowTWxPbWlCbGtjQjl3d3ZaZDJXR0hxazhHbTVYeXJiZXpjV1pJS1QxVDdLMU9Ca0YwenVXZDEzQ0pSWEx3NVRKY0FuVU16OHfSAY8BQVVfeXFMTUZHVnhxVzRROGZ3S2VNRVZtcy0wcWJpUnBDbmkzd1ZtLVJ0MXV2WXhyTFp6SUFVNTBlRFktck9JZUhuTllFV09INTVhNGhOb1BpS0tBR21nUG8zUnBlVTh0eTY4VXVlSUZQWl9JN0xpWllJaTZkazBaSktVQWRQZlQ4elNpenExYW1SWWFPbW8?oc=5\" target=\"_blank\">Trump pardons Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcnc3cW5yQUsyM0tQdEhsR09OUWxMR0g3dXg1OXpIWk5BVEh5emJkVk1zQ3Zyanc3c3lmUEFTV185dkowTWxPbWlCbGtjQjl3d3ZaZDJXR0hxazhHbTVYeXJiZXpjV1pJS1QxVDdLMU9Ca0YwenVXZDEzQ0pSWEx3NVRKY0FuVU16OHfSAY8BQVVfeXFMTUZHVnhxVzRROGZ3S2VNRVZtcy0wcWJpUnBDbmkzd1ZtLVJ0MXV2WXhyTFp6SUFVNTBlRFktck9JZUhuTllFV09INTVhNGhOb1BpS0tBR21nUG8zUnBlVTh0eTY4VXVlSUZQWl9JN0xpWllJaTZkazBaSktVQWRQZlQ4elNpenExYW1SWWFPbW8?oc=5",
-      "source": "PBS",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2025-10-23T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Trump pardons Binance founder Changpeng Zhao PBS"
     }
   ]
 }
