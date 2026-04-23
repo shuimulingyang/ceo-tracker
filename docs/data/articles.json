@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-23T06:30:05Z",
+  "updated_at": "2026-04-23T08:26:13Z",
   "total": 500,
   "by_ceo": {
+    "Brian Armstrong": 239,
     "CZ": 133,
-    "Brian Armstrong": 238,
     "Richard Teng": 65,
     "Ben Zhou": 37,
-    "Star Xu": 27
+    "Star Xu": 26
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Says Base Is the Best Chain for Trading, Payments, and Agents",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGg3VFUxQjZHdGlJQl9yWF9YV0ZGemF6SVRuLW9tdGZnaE50TWpKcGtOZDZEUGttSFRBdFRwSGFaSUlqSW1NeDBndkZldGs4YXFvT04ySnFSbkhaeFJQcmV5T0pvN2M0QjJhUzJ4YmtKNnFEb1VCUnZpNVJnNEZCWjBQZzFmMm5o?oc=5\" target=\"_blank\">Brian Armstrong Says Base Is the Best Chain for Trading, Payments, and Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGg3VFUxQjZHdGlJQl9yWF9YV0ZGemF6SVRuLW9tdGZnaE50TWpKcGtOZDZEUGttSFRBdFRwSGFaSUlqSW1NeDBndkZldGs4YXFvT04ySnFSbkhaeFJQcmV5T0pvN2M0QjJhUzJ4YmtKNnFEb1VCUnZpNVJnNEZCWjBQZzFmMm5o?oc=5",
+      "source": "Bitcoin News",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-23T08:11:45+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Brian Armstrong Says Base Is the Best Chain for Trading, Payments, and Agents Bitcoin News"
+    },
     {
       "title": "Changpeng Zhao’s Memoir Is Key to Understanding Crypto",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3pFc3NPaDZETGQzWElDRWlTWXFXRl9xMFJpTGplQ1lnUFRrUUI2ZFZlZDlRNDZ5b1JDN2w2WWJkVDJyQkFCY2hyWWxpSkhZc3pCSWFqU0tua3Vmc3d1c1dib0dfZTZlWlJHLWEwMXdHRG5DaDJRQVc3clc3TThiM2xrLXJ4Q2tsNVl2Y3dzNThNNnJLYlU5ODBkTlhlck9TWjFiM01KUGVxcXlsc2hr?oc=5\" target=\"_blank\">Changpeng Zhao’s Memoir Is Key to Understanding Crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RealClearMarkets</font>",
@@ -6133,19 +6146,6 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase CEO on crypto market structure bill: There's strong bipartisan support CNBC"
-    },
-    {
-      "title": "OKX CEO Star Xu Slams Huione Group After $15B DOJ Crackdown",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkwwaFQ1WFAteVFDZjFGMWJzS09SLV95VHo0SHFIYTdpUWRfX2ZPLW9MRktfSi15MzN6bVh3THF2cERocFowWVlSZE1KLXFQc2VLa2tJRHVsSHJPLU1JLThnYmppZzlWdEtHRUozcjJRQ0dBLVVfVlBNTVc2UmxkNzZpWER5V0cwUEk3YQ?oc=5\" target=\"_blank\">OKX CEO Star Xu Slams Huione Group After $15B DOJ Crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoPotato</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQkwwaFQ1WFAteVFDZjFGMWJzS09SLV95VHo0SHFIYTdpUWRfX2ZPLW9MRktfSi15MzN6bVh3THF2cERocFowWVlSZE1KLXFQc2VLa2tJRHVsSHJPLU1JLThnYmppZzlWdEtHRUozcjJRQ0dBLVVfVlBNTVc2UmxkNzZpWER5V0cwUEk3YQ?oc=5",
-      "source": "CryptoPotato",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2025-10-15T07:00:00+00:00",
-      "tags": [
-        "Ethereum"
-      ],
-      "key_quote": "OKX CEO Star Xu Slams Huione Group After $15B DOJ Crackdown CryptoPotato"
     }
   ]
 }
