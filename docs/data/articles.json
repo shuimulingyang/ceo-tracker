@@ -1,14 +1,42 @@
 {
-  "updated_at": "2026-04-23T08:26:13Z",
+  "updated_at": "2026-04-23T10:11:39Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 239,
-    "CZ": 133,
+    "Brian Armstrong": 240,
+    "CZ": 132,
     "Richard Teng": 65,
     "Ben Zhou": 37,
     "Star Xu": 26
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Says Stablecoins Are the Best Money as tGBP Launches",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0lmVy10QkVwZGZLTHRlMnhPN1g3aDN0Z0FSSU1sMzZoQmZha3NMdXkyMjViYkdGZHlrQnFLUWtKSWZWODVGM25QV2ZKbTNuZ2FodjNMbUZQMXowckhmSEVfU0NzVkRJam0wMG0yNk5SdkNxSGtqMzVrdGI2TVMzNlZjbFlmSlJJUDQ4UFZvb2VVX0VxMjFEU01yLTNyalIzQlhV?oc=5\" target=\"_blank\">Brian Armstrong Says Stablecoins Are the Best Money as tGBP Launches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Bitcoin News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0lmVy10QkVwZGZLTHRlMnhPN1g3aDN0Z0FSSU1sMzZoQmZha3NMdXkyMjViYkdGZHlrQnFLUWtKSWZWODVGM25QV2ZKbTNuZ2FodjNMbUZQMXowckhmSEVfU0NzVkRJam0wMG0yNk5SdkNxSGtqMzVrdGI2TVMzNlZjbFlmSlJJUDQ4UFZvb2VVX0VxMjFEU01yLTNyalIzQlhV?oc=5",
+      "source": "Live Bitcoin News",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-23T10:00:53+00:00",
+      "tags": [
+        "Bitcoin",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Brian Armstrong Says Stablecoins Are the Best Money as tGBP Launches Live Bitcoin News"
+    },
+    {
+      "title": "Why Satoshi’s Identity No Longer Matters: Strategy and Coinbase CEOs Signal the End of the Hunt",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQOER5NHk2ek5jSnlueWpoWkhEZ194YnBMcTluN3BYYUpLYm56WjBwMWllZkpTSlNyZnd2NmJoNVNYME5RVXl1eWlaY2otNEg4U2xkQ0NkblE2UWNYUTNNVmJtSDMzVG5UelpRNGh4QnlaQ3hNdG4zYVNEZ0ZkUzRxN2xqdGRGMEVqRkdYRlZ4TlNRSDViYXUzOTVNQVFUZVpFcFl2VzJiaHJsYk9xQVHSAbMBQVVfeXFMUC05eUM2MHFxNkZub2NmMkItZWY4NExUMDlydjBYSTdySkNqUlRHbkYwaTVkdEFjUDFUXy1jdlZRZDNOMmllNmcwSkI3Z212UVl3UGJPbXRNUVRlSTlpdldFWWNBaWo1dU5XZDAxYjlmaEpSTGlwOE9DTjlfZHJ4SGFjeEJLb0dGeHMwMFpVR3lQakNpalF2amx1aW53a2tHNHl2NjFKdERSdkdyeWZ4ZjJyN3c?oc=5\" target=\"_blank\">Why Satoshi’s Identity No Longer Matters: Strategy and Coinbase CEOs Signal the End of the Hunt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.Today</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOER5NHk2ek5jSnlueWpoWkhEZ194YnBMcTluN3BYYUpLYm56WjBwMWllZkpTSlNyZnd2NmJoNVNYME5RVXl1eWlaY2otNEg4U2xkQ0NkblE2UWNYUTNNVmJtSDMzVG5UelpRNGh4QnlaQ3hNdG4zYVNEZ0ZkUzRxN2xqdGRGMEVqRkdYRlZ4TlNRSDViYXUzOTVNQVFUZVpFcFl2VzJiaHJsYk9xQVHSAbMBQVVfeXFMUC05eUM2MHFxNkZub2NmMkItZWY4NExUMDlydjBYSTdySkNqUlRHbkYwaTVkdEFjUDFUXy1jdlZRZDNOMmllNmcwSkI3Z212UVl3UGJPbXRNUVRlSTlpdldFWWNBaWo1dU5XZDAxYjlmaEpSTGlwOE9DTjlfZHJ4SGFjeEJLb0dGeHMwMFpVR3lQakNpalF2amx1aW53a2tHNHl2NjFKdERSdkdyeWZ4ZjJyN3c?oc=5",
+      "source": "U.Today",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-23T09:18:44+00:00",
+      "tags": [
+        "Bitcoin",
+        "Layer2"
+      ],
+      "key_quote": "Why Satoshi’s Identity No Longer Matters: Strategy and Coinbase CEOs Signal the End of the Hunt U.Today"
+    },
     {
       "title": "Brian Armstrong Says Base Is the Best Chain for Trading, Payments, and Agents",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGg3VFUxQjZHdGlJQl9yWF9YV0ZGemF6SVRuLW9tdGZnaE50TWpKcGtOZDZEUGttSFRBdFRwSGFaSUlqSW1NeDBndkZldGs4YXFvT04ySnFSbkhaeFJQcmV5T0pvN2M0QjJhUzJ4YmtKNnFEb1VCUnZpNVJnNEZCWjBQZzFmMm5o?oc=5\" target=\"_blank\">Brian Armstrong Says Base Is the Best Chain for Trading, Payments, and Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin News</font>",
@@ -6120,32 +6148,6 @@
       "published_at": "2025-10-23T07:00:00+00:00",
       "tags": [],
       "key_quote": "Trump pardons crypto billionaire Changpeng Zhao Politico"
-    },
-    {
-      "title": "Trump pardons Binance cryptocurrency founder Changpeng Zhao",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjZldFd2TVkxdVo1RUNOSXFRZUNYTEk1emx2a1NuYV9YRFVuMnd4empETE1MZmQzSFRfbEVJX21iQlJERHJsZzV6VEM1YkxCVXdaeTFGaXNrMEliVDlONm9ZY1kta2htWUl5NU5ycmdMSWpEQ2YxcmJQcjVFNWJmb0NIRnVYTVhLZE1Iams1TW1WZjV1a0dEdmdHcXB4Z0pkbzhZ?oc=5\" target=\"_blank\">Trump pardons Binance cryptocurrency founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjZldFd2TVkxdVo1RUNOSXFRZUNYTEk1emx2a1NuYV9YRFVuMnd4empETE1MZmQzSFRfbEVJX21iQlJERHJsZzV6VEM1YkxCVXdaeTFGaXNrMEliVDlONm9ZY1kta2htWUl5NU5ycmdMSWpEQ2YxcmJQcjVFNWJmb0NIRnVYTVhLZE1Iams1TW1WZjV1a0dEdmdHcXB4Z0pkbzhZ?oc=5",
-      "source": "Al Jazeera",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2025-10-23T07:00:00+00:00",
-      "tags": [
-        "ETF"
-      ],
-      "key_quote": "Trump pardons Binance cryptocurrency founder Changpeng Zhao Al Jazeera"
-    },
-    {
-      "title": "Coinbase CEO on crypto market structure bill: There's strong bipartisan support",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmszR0NBSEpTamZlQnhDTWRHYTFpeUpfYUxJU0xiaXJ5akQ1ZGdRay1tSWJaRWp5SEMwNFFRclctMlRYUkttTTRXYVJuT3FQcGdfZkFYcmV1d055TjlpY0dGQTlkTGFYRjNHbG9wVDZEMzN4dDhSVjVCN0dmaGtmSG1ody1uaS0tQ0VnYk9zTjhUU0lCYXMyRDBzcUpXSmZOUjc4YnBkcVkwTXl0YVBmTktuS09sSmQ5RkU2Qw?oc=5\" target=\"_blank\">Coinbase CEO on crypto market structure bill: There's strong bipartisan support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmszR0NBSEpTamZlQnhDTWRHYTFpeUpfYUxJU0xiaXJ5akQ1ZGdRay1tSWJaRWp5SEMwNFFRclctMlRYUkttTTRXYVJuT3FQcGdfZkFYcmV1d055TjlpY0dGQTlkTGFYRjNHbG9wVDZEMzN4dDhSVjVCN0dmaGtmSG1ody1uaS0tQ0VnYk9zTjhUU0lCYXMyRDBzcUpXSmZOUjc4YnBkcVkwTXl0YVBmTktuS09sSmQ5RkU2Qw?oc=5",
-      "source": "CNBC",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2025-10-22T07:00:00+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase CEO on crypto market structure bill: There's strong bipartisan support CNBC"
     }
   ]
 }
