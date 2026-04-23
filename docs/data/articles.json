@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T15:04:40Z",
+  "updated_at": "2026-04-23T17:06:23Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 241,
@@ -36,6 +36,17 @@
         "Layer2"
       ],
       "key_quote": "Why Satoshi’s Identity No Longer Matters: Strategy and Coinbase CEOs Signal the End of the Hunt U.Today"
+    },
+    {
+      "title": "Changpeng Zhao delivers the first hard copies of Freedom of Money to a crypto world ready to receive them",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQYXBQT1Ayd0M2T0xKd1I2c2VFNW02MWFFdl9SUmk2amRvaGRjR2tTYmtvWWhpc1pDR0ZmUXQzZFQ3NlJYSmRWSW9BQVRrMExUUzFKX0JORHJNQjZVeWIyY0Z3d1pGU3lKNmxWMnNoa0NWeWkyTURQOVNiMjlJVzZkTGw2X0QyeU13eG9iUm1teGFENVY1cW03UUE2MGprM3RoUnVFRE9ZRmE4OU42TWhFSXl6ZU5UTTUzNEI1OVdUOXZwdElEbTR6cGhHUmcwdw?oc=5\" target=\"_blank\">Changpeng Zhao delivers the first hard copies of Freedom of Money to a crypto world ready to receive them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Fortune</font>",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYXBQT1Ayd0M2T0xKd1I2c2VFNW02MWFFdl9SUmk2amRvaGRjR2tTYmtvWWhpc1pDR0ZmUXQzZFQ3NlJYSmRWSW9BQVRrMExUUzFKX0JORHJNQjZVeWIyY0Z3d1pGU3lKNmxWMnNoa0NWeWkyTURQOVNiMjlJVzZkTGw2X0QyeU13eG9iUm1teGFENVY1cW03UUE2MGprM3RoUnVFRE9ZRmE4OU42TWhFSXl6ZU5UTTUzNEI1OVdUOXZwdElEbTR6cGhHUmcwdw?oc=5",
+      "source": "Startup Fortune",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-23T09:13:52+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao delivers the first hard copies of Freedom of Money to a crypto world ready to receive them Startup Fortune"
     },
     {
       "title": "Brian Armstrong Says Base Is the Best Chain for Trading, Payments, and Agents",
@@ -6140,17 +6151,6 @@
       "published_at": "2025-10-23T07:00:00+00:00",
       "tags": [],
       "key_quote": "Trump pardons Binance founder Changpeng Zhao PBS"
-    },
-    {
-      "title": "Trump pardons convicted Binance founder Changpeng Zhao",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE11akdhbVpzMDl5ci1Da3B2NjRvSkZRaGZiY0U0ZVhqMUYtM3JMVzZkY2FIVEJVWjRFT3UxbERVeHVEbFhCalNRbDYtWVNoc3NYbzBvSHcwZ0NiNURVeTBHdGo5U1ZOU2pTNDRQQ3AxWHJYQ0pPTk5BZkpMVFdMd2vSAYQBQVVfeXFMTW1oRmxmUkR3NFJ5Q3B5MmM5VjBtMTk1aXhIMDVNcE9FZWs5STAtTUNIZEg1dzVVMlVjQTFycEhQSGJkX0JTOUNRVzNCdF9sRjNPdDBBUGdVTDdkYVlSLU9HOENDajNjTjBFUm5QdC1Ea3FMTzRlejhIWV9rTS1QTlp2TFZv?oc=5\" target=\"_blank\">Trump pardons convicted Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11akdhbVpzMDl5ci1Da3B2NjRvSkZRaGZiY0U0ZVhqMUYtM3JMVzZkY2FIVEJVWjRFT3UxbERVeHVEbFhCalNRbDYtWVNoc3NYbzBvSHcwZ0NiNURVeTBHdGo5U1ZOU2pTNDRQQ3AxWHJYQ0pPTk5BZkpMVFdMd2vSAYQBQVVfeXFMTW1oRmxmUkR3NFJ5Q3B5MmM5VjBtMTk1aXhIMDVNcE9FZWs5STAtTUNIZEg1dzVVMlVjQTFycEhQSGJkX0JTOUNRVzNCdF9sRjNPdDBBUGdVTDdkYVlSLU9HOENDajNjTjBFUm5QdC1Ea3FMTzRlejhIWV9rTS1QTlp2TFZv?oc=5",
-      "source": "CNBC",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2025-10-23T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Trump pardons convicted Binance founder Changpeng Zhao CNBC"
     }
   ]
 }
