@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-24T21:36:14Z",
+  "updated_at": "2026-04-24T22:29:38Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 243,
+    "Brian Armstrong": 244,
     "Richard Teng": 66,
     "Ben Zhou": 39,
-    "CZ": 126,
+    "CZ": 125,
     "Star Xu": 26
   },
   "articles": [
+    {
+      "title": "AI and crypto could drive new use cases, Brian Armstrong notes",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEFQVHE3QkVLbEFBT2VxdDA2M25uZHpvTUtYeFpRbDhHSXo4Y2hseDZvUmw4V1E2ajBMcFBablMxdThmSFpUMDlSQUUtZk83blpnYmJ6VFlfNENCNkdaYnlQWXBBY2VVSkZVWlZSclZxdlpKTXpyZEd3enlaLWpxc1lhYk1makJhQVE?oc=5\" target=\"_blank\">AI and crypto could drive new use cases, Brian Armstrong notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEFQVHE3QkVLbEFBT2VxdDA2M25uZHpvTUtYeFpRbDhHSXo4Y2hseDZvUmw4V1E2ajBMcFBablMxdThmSFpUMDlSQUUtZk83blpnYmJ6VFlfNENCNkdaYnlQWXBBY2VVSkZVWlZSclZxdlpKTXpyZEd3enlaLWpxc1lhYk1makJhQVE?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-24T18:15:09+00:00",
+      "tags": [],
+      "key_quote": "AI and crypto could drive new use cases, Brian Armstrong notes Traders Union"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMigANBVV95cUxQdFB0YU9GbnlQSXV3OHkxUXFxUEVIaFlhVkxjRExrck1YWE5lOHdfUjdrUVV4VzJGVUxRU2p6VWllNzhfQVFfOUh6MkRMMThDemtnUzFtcHFPQ21xRTIwcEZ4dnVWN3pkYnNyaU9VaXR0VEpZZ25xWndLMjVkcmpMaU5KSGNHUE45SVpKbHlqV3FaVG9zR3NzeTlpMFBtUUN6My1Vc1J6ZmFKNjVZVWYzT2syQThGLUNZRnFIUnJZaVJpRlBhTmR5QUZMX2F6b2FwOGc4b1U2LVY4b2YxSl9ILWZ1TGtxNnJuQnVFQ3NZSVZraGZKWHNuMWV5bmFrRFJSdW9MSXZabzhNN0xfTDRsNGpDbHBucHdPU2RsQ0JyN29WSmZ5aVZmNDZVUnpTQXJDU2VacTlNNnV6MzNvalA4Wlp2dkpjME1YSXNVaVA4dG1rM21DWHp3ZDZZYjhrMmdXMHRuYm9EUnZYcndFTE9rTWdSeC1xekVka00xRFlDM0o?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
@@ -6147,17 +6158,6 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase CEO Reels Off Buzzwords in Earnings Call to Move Prediction Markets Yahoo Finance"
-    },
-    {
-      "title": "Is Trump’s pardon of Binance boss Changpeng Zhao a conflict of interest?",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2JSUmJ0cnBFMWJkeG8wSFRXRk5OclROT2NMSFVGaTRWX1RGemx6TVV2ekh4ZkJQTlVSdWQ0Mml1WE9OOHlIU3o5WHd1NFIzdlc3RGhJWC1hSHRCSDVpLUFyTWthWmhNcXdVWm9xMDZOTlkwTFRHTDBOMmRVMzlNV0JtX1Z1OVlPdEllSXRKRXY1MVJacXJnQzVzSFlLdzZrVXgyR3NqTXdDX2s5RlROeUp30gG3AUFVX3lxTE1WdjE0Q1NnR0QxUTNkcVR2Tk5Zc28xdTYtQjBQc3BTeElhS3BwWVpiTEk4ME45OFdJUE53VEptOWRjUXloamRFZnFMVnQ1QU9kMzhjTU5KaC10UmdMUVNuX2xWb0F2eDlUQjd1UWZvM0tiLXJSeWtCYlpDV3NpZ18xMnBsRWtaYlUtX1ZkVC10dmFfcHFjbkk5VGxqdUF1QUhIWDNyTWdCVjYxX0gxOTRVV29YMTNQRQ?oc=5\" target=\"_blank\">Is Trump’s pardon of Binance boss Changpeng Zhao a conflict of interest?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2JSUmJ0cnBFMWJkeG8wSFRXRk5OclROT2NMSFVGaTRWX1RGemx6TVV2ekh4ZkJQTlVSdWQ0Mml1WE9OOHlIU3o5WHd1NFIzdlc3RGhJWC1hSHRCSDVpLUFyTWthWmhNcXdVWm9xMDZOTlkwTFRHTDBOMmRVMzlNV0JtX1Z1OVlPdEllSXRKRXY1MVJacXJnQzVzSFlLdzZrVXgyR3NqTXdDX2s5RlROeUp30gG3AUFVX3lxTE1WdjE0Q1NnR0QxUTNkcVR2Tk5Zc28xdTYtQjBQc3BTeElhS3BwWVpiTEk4ME45OFdJUE53VEptOWRjUXloamRFZnFMVnQ1QU9kMzhjTU5KaC10UmdMUVNuX2xWb0F2eDlUQjd1UWZvM0tiLXJSeWtCYlpDV3NpZ18xMnBsRWtaYlUtX1ZkVC10dmFfcHFjbkk5VGxqdUF1QUhIWDNyTWdCVjYxX0gxOTRVV29YMTNQRQ?oc=5",
-      "source": "Al Jazeera",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2025-10-24T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Is Trump’s pardon of Binance boss Changpeng Zhao a conflict of interest?"
     }
   ]
 }
