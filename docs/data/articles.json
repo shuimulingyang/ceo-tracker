@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-24T11:49:48Z",
+  "updated_at": "2026-04-24T12:51:52Z",
   "total": 500,
   "by_ceo": {
+    "Richard Teng": 66,
     "Ben Zhou": 39,
-    "CZ": 129,
+    "CZ": 128,
     "Brian Armstrong": 241,
-    "Richard Teng": 65,
     "Star Xu": 26
   },
   "articles": [
+    {
+      "title": "Richard Teng: API keys can expose full account access if not secured",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxON0NRTFA4U1FsZVV5OGxEUUV3cmtUNG56U2dSR2NmRU1meHlubXdSYlpBbGdhQmVQTkd4SXdMNjlwZlpwYXBBV2FGaUhiZllWdGpfeUtSZHlXNXhIQmg2SFZ0QVA0RlIwVUFOdDJ0VEd1MkMybDRxNmRQdWwyekZqZlhtWE05bEU?oc=5\" target=\"_blank\">Richard Teng: API keys can expose full account access if not secured</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0NRTFA4U1FsZVV5OGxEUUV3cmtUNG56U2dSR2NmRU1meHlubXdSYlpBbGdhQmVQTkd4SXdMNjlwZlpwYXBBV2FGaUhiZllWdGpfeUtSZHlXNXhIQmg2SFZ0QVA0RlIwVUFOdDJ0VEd1MkMybDRxNmRQdWwyekZqZlhtWE05bEU?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-24T10:45:12+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Richard Teng: API keys can expose full account access if not secured Traders Union"
+    },
     {
       "title": "Bybit CEO Backs Mantle Proposal to Aid Aave, Citing Industry Support in Crises",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE02ZTZKYmRNVHc1cmtGN19fNzYyaGl6UDcxWVFLQW4ycEZkMWtYb2ZzZDhtVjE5OVN3MFJkajJjaU5YeFlpRGlIb3FYaHAyWDVTOXlmNw?oc=5\" target=\"_blank\">Bybit CEO Backs Mantle Proposal to Aid Aave, Citing Industry Support in Crises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
@@ -6144,17 +6157,6 @@
         "ETF"
       ],
       "key_quote": "Trump pardons Binance cryptocurrency founder Changpeng Zhao Al Jazeera"
-    },
-    {
-      "title": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2xZaWtZUEVITEVKenpVMllkU2JibDE5Q2EwV0FxMk01NTNuQzNxRnZCa1YwQl9iMFo5TXlMMS0wTVF5c2Z1cWx1aUhNYjNFNGlMWDFLNnUyNEN0RXFQMThjcEo4TjVhY0tJZURLWjJuSG5Nd0lLVjVnQ3NFY2x4aGdfS2NIdm9UVlMxVko2SmJEX3FPbVFJa19YSldra2d4SXRrS3BpREdzQi1jVjhCTg?oc=5\" target=\"_blank\">Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2xZaWtZUEVITEVKenpVMllkU2JibDE5Q2EwV0FxMk01NTNuQzNxRnZCa1YwQl9iMFo5TXlMMS0wTVF5c2Z1cWx1aUhNYjNFNGlMWDFLNnUyNEN0RXFQMThjcEo4TjVhY0tJZURLWjJuSG5Nd0lLVjVnQ3NFY2x4aGdfS2NIdm9UVlMxVko2SmJEX3FPbVFJa19YSldra2d4SXRrS3BpREdzQi1jVjhCTg?oc=5",
-      "source": "AP News",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2025-10-23T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure AP News"
     }
   ]
 }
