@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-25T20:24:39Z",
+  "updated_at": "2026-04-25T21:24:26Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 246,
-    "Richard Teng": 65,
-    "Ben Zhou": 39,
+    "Ben Zhou": 40,
+    "Richard Teng": 64,
     "CZ": 124,
     "Star Xu": 26
   },
@@ -32,6 +32,20 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO AI Agents to Power Future Crypto Payments Economy MEXC"
+    },
+    {
+      "title": "Bybit CEO Says DeFi Is Living in a Regulatory Honeymoon",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDAxMkRPR09yZEItbTEwUnVQR2JKQ0NBQWdvd2tucU9zZFlDSFVuYzFNc1A0YnZLYW43dldrd2c1d3hudWZheUpkdjl6bVdNNVFjOUNRbFl5X3p3N3k0Sml4VDhaTnJZRXN2UTFVbTdPSjdZWFVQazYyQ1RCelZKQWJNVkNrdXZLTmpUQUFhOEZIcTllWW5Zbg?oc=5\" target=\"_blank\">Bybit CEO Says DeFi Is Living in a Regulatory Honeymoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDAxMkRPR09yZEItbTEwUnVQR2JKQ0NBQWdvd2tucU9zZFlDSFVuYzFNc1A0YnZLYW43dldrd2c1d3hudWZheUpkdjl6bVdNNVFjOUNRbFl5X3p3N3k0Sml4VDhaTnJZRXN2UTFVbTdPSjdZWFVQazYyQ1RCelZKQWJNVkNrdXZLTmpUQUFhOEZIcTllWW5Zbg?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-04-25T11:52:21+00:00",
+      "tags": [
+        "监管 Regulation",
+        "DeFi"
+      ],
+      "key_quote": "Bybit CEO Says DeFi Is Living in a Regulatory Honeymoon CryptoRank"
     },
     {
       "title": "AI and crypto could drive new use cases, Brian Armstrong notes",
@@ -6145,19 +6159,6 @@
       "published_at": "2025-12-02T08:00:00+00:00",
       "tags": [],
       "key_quote": "Binance co-founder Yi He joins Richard Teng in dual leadership structure Reuters"
-    },
-    {
-      "title": "Binance Co-CEO Richard Teng Unveils New App, Institutional Partnerships, and 300M Users at Blockchain Week 2025",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFVlZHT2xsSmZWdmE3cjhFdUp3dkJmOWxWTlAwUVpXd0ZXV3AwRFhGNFJONzl5ODJnY2ZIM3pzZkcyaGlMb2hSR05kLXI0UkJXTktFblFqUEtEY0o1V0VnRHZoaw?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng Unveils New App, Institutional Partnerships, and 300M Users at Blockchain Week 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFVlZHT2xsSmZWdmE3cjhFdUp3dkJmOWxWTlAwUVpXd0ZXV3AwRFhGNFJONzl5ODJnY2ZIM3pzZkcyaGlMb2hSR05kLXI0UkJXTktFblFqUEtEY0o1V0VnRHZoaw?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2025-12-02T08:00:00+00:00",
-      "tags": [
-        "机构 Institutional"
-      ],
-      "key_quote": "Binance Co-CEO Richard Teng Unveils New App, Institutional Partnerships, and 300M Users at Blockchain Week 2025 Binance"
     }
   ]
 }
