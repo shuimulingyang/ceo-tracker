@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-26T21:25:54Z",
+  "updated_at": "2026-04-26T22:24:10Z",
   "total": 500,
   "by_ceo": {
-    "Ben Zhou": 43,
-    "Brian Armstrong": 247,
+    "Brian Armstrong": 248,
+    "Ben Zhou": 41,
     "Richard Teng": 60,
-    "CZ": 126,
+    "CZ": 127,
     "Star Xu": 24
   },
   "articles": [
+    {
+      "title": "Brian Armstrong: Nium enables global stablecoin payments in over 190 countries",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPajh0al8zMlpFUkdfblpsVmhPSU1qNV9MLVdNSVRyZ3lfQzVqaXBKVnROR0ZtVWh6ZDRfc19qaTlpd09mYlg3RkpQblIzSjRMMkEwYkg0RXBDT3o0UWVLYzNyUUR5NW9yMWtqNUNBQnJ1YlJsZnlOcFF4S3JMVTU1RFZOM1doaHA4aFZiRER0c1RQdw?oc=5\" target=\"_blank\">Brian Armstrong: Nium enables global stablecoin payments in over 190 countries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajh0al8zMlpFUkdfblpsVmhPSU1qNV9MLVdNSVRyZ3lfQzVqaXBKVnROR0ZtVWh6ZDRfc19qaTlpd09mYlg3RkpQblIzSjRMMkEwYkg0RXBDT3o0UWVLYzNyUUR5NW9yMWtqNUNBQnJ1YlJsZnlOcFF4S3JMVTU1RFZOM1doaHA4aFZiRER0c1RQdw?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-26T21:15:35+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Brian Armstrong: Nium enables global stablecoin payments in over 190 countries Traders Union"
+    },
     {
       "title": "Bybit CEO Says MiCA License Alone Not Enough for Profit in Europe",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzR5SFMtS2c1N2s1aFM4bmRwcGFlNERfOS1rRXFtVmZCckR2WlNuZWhSOUlPM2F0MEhlaVJMcWlBNDVPdFRVZm1oU05RazJFQkljR1ljRm9hUDZkdmY3QzhFTFcwX3VSRGV4dFAxQUhDMjd6S08zTGg0MktKVllid2dRellLUXYzdy1VTDBTbHc2TlJKN2c?oc=5\" target=\"_blank\">Bybit CEO Says MiCA License Alone Not Enough for Profit in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
@@ -165,6 +178,19 @@
       "exchange": "Binance",
       "published_at": "2026-04-24T03:26:35+00:00",
       "tags": [],
+      "key_quote": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure MSN"
+    },
+    {
+      "title": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxNbUh4dV9nb0M1azVDX2drWWY3UzZmVWZlM1l4aVJIdTM5a0JvYVdFRFlMdy1ZQjdNS1U2V0pqN2Nld2p1MXV1dExIejBwSWpYU2c5LWRIVnY4anhmbU5oam1pR1RMd09oeDZLaTZOcFJOSFJDNFVaNk1vb0luRmNEOE5TbEZOLXMzZ2plVjZmQWVwNFVST2tZdFdtc1I2Z0xZaU8tWnl5Z3owSTJNYzFRR3lUUmJ2Ym42Si1tTHV2Z3lZVkJvR3ZYWUFqS3JYcmxfUDFEelA3d3oxQ3RRYmVhQUl4djZJX2c3TVNLMi1GMzFOSUZDR3FQVzVnLXU1d0EwbDliSmhURGZnM0t2cldNYVFYWUJOUkowbUJ3VHhRZTViZDNYN0U2N1BVeDZRd3pLbk9fZC0zc3RpeG5rR1diakVlNjE2TEYxeFNJQjhVLWJyY2NtazBKS0ZDUzdGRGkzYXdaZVNKNHB0Z2FUNnY5NVdrX19JWVhjVHVKem1ieXkyQkgzMzlYdnE4c1VlUQ?oc=5\" target=\"_blank\">Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNbUh4dV9nb0M1azVDX2drWWY3UzZmVWZlM1l4aVJIdTM5a0JvYVdFRFlMdy1ZQjdNS1U2V0pqN2Nld2p1MXV1dExIejBwSWpYU2c5LWRIVnY4anhmbU5oam1pR1RMd09oeDZLaTZOcFJOSFJDNFVaNk1vb0luRmNEOE5TbEZOLXMzZ2plVjZmQWVwNFVST2tZdFdtc1I2Z0xZaU8tWnl5Z3owSTJNYzFRR3lUUmJ2Ym42Si1tTHV2Z3lZVkJvR3ZYWUFqS3JYcmxfUDFEelA3d3oxQ3RRYmVhQUl4djZJX2c3TVNLMi1GMzFOSUZDR3FQVzVnLXU1d0EwbDliSmhURGZnM0t2cldNYVFYWUJOUkowbUJ3VHhRZTViZDNYN0U2N1BVeDZRd3pLbk9fZC0zc3RpeG5rR1diakVlNjE2TEYxeFNJQjhVLWJyY2NtazBKS0ZDUzdGRGkzYXdaZVNKNHB0Z2FUNnY5NVdrX19JWVhjVHVKem1ieXkyQkgzMzlYdnE4c1VlUQ?oc=5",
+      "source": "MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-23T22:55:27+00:00",
+      "tags": [
+        "DeFi"
+      ],
       "key_quote": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure MSN"
     },
     {
@@ -6130,33 +6156,6 @@
         "机构 Institutional"
       ],
       "key_quote": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals TradingView"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQkdmUFhxemhncms2VVRGNWdhTTR4WFJDQWJKSkpSZ0J5SGloWDVjaU1Tb2FuT3hDMEtlZHFpNUtZSk8wejRNZ2xuMEI1dTJueVpON3dlMnlnTjVhN3hmNWxOZWR1cEdBckxrMGRSRWF5azczUnZDa3N0a25QRktBT3E2OEVELXhWTWt5d09fUEl2Yy1nZDlLX1VMOXFkU0RjNWw3WnlBTkxWM1J0X0U1MjdFWndQenJ2SlZQMTJZTkU0ZWo3SVJGa2xPUGdfQVRnVU9VUlFhZW8wTkVZbFpKVllnOFprTTgxWElYNGI2TWtJb2QtR1BHTGc4bw?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQkdmUFhxemhncms2VVRGNWdhTTR4WFJDQWJKSkpSZ0J5SGloWDVjaU1Tb2FuT3hDMEtlZHFpNUtZSk8wejRNZ2xuMEI1dTJueVpON3dlMnlnTjVhN3hmNWxOZWR1cEdBckxrMGRSRWF5azczUnZDa3N0a25QRktBT3E2OEVELXhWTWt5d09fUEl2Yy1nZDlLX1VMOXFkU0RjNWw3WnlBTkxWM1J0X0U1MjdFWndQenJ2SlZQMTJZTkU0ZWo3SVJGa2xPUGdfQVRnVU9VUlFhZW8wTkVZbFpKVllnOFprTTgxWElYNGI2TWtJb2QtR1BHTGc4bw?oc=5",
-      "source": "PR Newswire",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2025-12-08T08:00:00+00:00",
-      "tags": [
-        "机构 Institutional",
-        "Layer2"
-      ],
-      "key_quote": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals PR Newswire"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNdTdJUFdRckR2S2Q4NGFiWUx1WFljUC1EZWE1YlVkSU1QZ3RzMkxGdzNkMHpBVFhqN3VxeEJuZldtTWdHQVB0OVdGYWx2aWt6VkRiRjNLNmZCLXRLNGJzUGpWZkpwekdGVDc2OGU4aHRVUndxVDZNTGZYNDJVS18zSDNJd3ZRZjVkQUw2ank0dkNOY2h0X1JLWF9FWmdLSjBJU1B2TlBPVll6dDlDUW10LVZpaUhPZ1RPNUdlMmFlRVR2MmZ0UHVJN1hMSmVobXpubEV2ZWI3QUZwQkE3akwyQ3RadFMtWTdLMmZWUm80cy01S3d6cUdUN3JJWEd6Y1hEc1BwVmp5RVVRdktCcC0wRkZBamlsY0FtSng0T3VXakczZw?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdTdJUFdRckR2S2Q4NGFiWUx1WFljUC1EZWE1YlVkSU1QZ3RzMkxGdzNkMHpBVFhqN3VxeEJuZldtTWdHQVB0OVdGYWx2aWt6VkRiRjNLNmZCLXRLNGJzUGpWZkpwekdGVDc2OGU4aHRVUndxVDZNTGZYNDJVS18zSDNJd3ZRZjVkQUw2ank0dkNOY2h0X1JLWF9FWmdLSjBJU1B2TlBPVll6dDlDUW10LVZpaUhPZ1RPNUdlMmFlRVR2MmZ0UHVJN1hMSmVobXpubEV2ZWI3QUZwQkE3akwyQ3RadFMtWTdLMmZWUm80cy01S3d6cUdUN3JJWEd6Y1hEc1BwVmp5RVVRdktCcC0wRkZBamlsY0FtSng0T3VXakczZw?oc=5",
-      "source": "The Globe and Mail",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2025-12-08T08:00:00+00:00",
-      "tags": [
-        "机构 Institutional"
-      ],
-      "key_quote": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals The Globe and Mail"
     }
   ]
 }
