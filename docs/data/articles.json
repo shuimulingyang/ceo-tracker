@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-26T01:19:49Z",
+  "updated_at": "2026-04-26T04:48:27Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 246,
+    "Brian Armstrong": 247,
     "Ben Zhou": 40,
-    "Richard Teng": 64,
+    "Richard Teng": 63,
     "CZ": 124,
     "Star Xu": 26
   },
@@ -69,6 +69,20 @@
       "tags": [
         "监管 Regulation",
         "AI"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants MSN"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_wJBVV95cUxQN3A1N05qMzVRaG9OaW5LeVh3VFBTbHprMDZJcm44ZEV4LVdkcWdlRlltLXRpOHA3aDl2NEUtU0NobzlRYTVVX2xNWXVEQmlvTFM5RFJaVUxSV1FYS3d3SWlXVTFYZmlDREhwZmJDLXpBYlYyaVVuYi1BMFlhd25TbG40T2d2YWVMT3dtTDc3b2xTUDlMNkVpcmhVLU5VcWk0TVZTbjIzazVEM3RpT1IzZTMtUFplS0JWREZiOEZCTDlFWkdsVVR3WjV2cXcwVFhqY1FTRlV5aFE5QncxYU1meGZZMllOcjhBdjM4VC14cUtDUGtueVhyaTRUeDZEUkpjdnVETTdWRFhjeU1pR3JFbG1jdnFqRkxnMHk2blM2QjdMNHV6c0JCamtCckdaMzZrMUZiRnAwQ2xXbjk2aDUySzJOZXFXakl5dm85QnJ4ck90aVFSNjI0SnpyMkpGa1ZRZjcxWTZhaWt2Z1FzTzZrUklyS01FMm1yMm5qaGRvYw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQN3A1N05qMzVRaG9OaW5LeVh3VFBTbHprMDZJcm44ZEV4LVdkcWdlRlltLXRpOHA3aDl2NEUtU0NobzlRYTVVX2xNWXVEQmlvTFM5RFJaVUxSV1FYS3d3SWlXVTFYZmlDREhwZmJDLXpBYlYyaVVuYi1BMFlhd25TbG40T2d2YWVMT3dtTDc3b2xTUDlMNkVpcmhVLU5VcWk0TVZTbjIzazVEM3RpT1IzZTMtUFplS0JWREZiOEZCTDlFWkdsVVR3WjV2cXcwVFhqY1FTRlV5aFE5QncxYU1meGZZMllOcjhBdjM4VC14cUtDUGtueVhyaTRUeDZEUkpjdnVETTdWRFhjeU1pR3JFbG1jdnFqRkxnMHk2blM2QjdMNHV6c0JCamtCckdaMzZrMUZiRnAwQ2xXbjk2aDUySzJOZXFXakl5dm85QnJ4ck90aVFSNjI0SnpyMkpGa1ZRZjcxWTZhaWt2Z1FzTzZrUklyS01FMm1yMm5qaGRvYw?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-24T17:13:23+00:00",
+      "tags": [
+        "AI",
+        "Layer2"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants MSN"
     },
@@ -6148,17 +6162,6 @@
         "Layer2"
       ],
       "key_quote": "Binance Appoints Co-Founder Yi He as Co-CEO Alongside Richard Teng PYMNTS.com"
-    },
-    {
-      "title": "Binance co-founder Yi He joins Richard Teng in dual leadership structure",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXhUOWNRUWUtM2ZUWUlrRGp1WGNpbFZONXlHNEhEcEpDckFmcDllWE9QUGdGRGNKeEp6eDNxaXdFMUlXNXpreEFWTWdmekdGUk81NVY3T2hFWE5rWXN4bmN0Nms0LWdDcG02WnNUR25aWmFtQzk2TGw1ZUFfRmxYNHF3?oc=5\" target=\"_blank\">Binance co-founder Yi He joins Richard Teng in dual leadership structure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXhUOWNRUWUtM2ZUWUlrRGp1WGNpbFZONXlHNEhEcEpDckFmcDllWE9QUGdGRGNKeEp6eDNxaXdFMUlXNXpreEFWTWdmekdGUk81NVY3T2hFWE5rWXN4bmN0Nms0LWdDcG02WnNUR25aWmFtQzk2TGw1ZUFfRmxYNHF3?oc=5",
-      "source": "Reuters",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2025-12-02T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Binance co-founder Yi He joins Richard Teng in dual leadership structure Reuters"
     }
   ]
 }
