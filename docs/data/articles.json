@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-26T17:28:54Z",
+  "updated_at": "2026-04-26T18:32:37Z",
   "total": 500,
   "by_ceo": {
-    "Ben Zhou": 42,
+    "Ben Zhou": 43,
     "Brian Armstrong": 247,
     "Richard Teng": 60,
     "CZ": 126,
-    "Star Xu": 25
+    "Star Xu": 24
   },
   "articles": [
+    {
+      "title": "Bybit CEO Says MiCA License Alone Not Enough for Profit in Europe",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzR5SFMtS2c1N2s1aFM4bmRwcGFlNERfOS1rRXFtVmZCckR2WlNuZWhSOUlPM2F0MEhlaVJMcWlBNDVPdFRVZm1oU05RazJFQkljR1ljRm9hUDZkdmY3QzhFTFcwX3VSRGV4dFAxQUhDMjd6S08zTGg0MktKVllid2dRellLUXYzdy1VTDBTbHc2TlJKN2c?oc=5\" target=\"_blank\">Bybit CEO Says MiCA License Alone Not Enough for Profit in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzR5SFMtS2c1N2s1aFM4bmRwcGFlNERfOS1rRXFtVmZCckR2WlNuZWhSOUlPM2F0MEhlaVJMcWlBNDVPdFRVZm1oU05RazJFQkljR1ljRm9hUDZkdmY3QzhFTFcwX3VSRGV4dFAxQUhDMjd6S08zTGg0MktKVllid2dRellLUXYzdy1VTDBTbHc2TlJKN2c?oc=5",
+      "source": "FinanceFeeds",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-04-26T17:42:18+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO Says MiCA License Alone Not Enough for Profit in Europe FinanceFeeds"
+    },
     {
       "title": "Europe's MiCA Crypto License Rule Isn't Enough for Profitability: Bybit CEO",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZzVXRVJOUEVobXBEYlN5c0tHZ0xkVnBVa2lpSTYzUlV2NHBscVFGSDNTVVpfU2ZHOUhQYVlFSUlzSVVLU1ZMOHQzdG5rdGpwVGpQQVdiTWF5akJSTEx1dDVHNDZKUzJ6dnNOV2MtYXpvd1FsR0ROSFFGZlphVG1yZDVIYXI1VTVjOG9wYzV2eHplWjFnY29hSDloSnhlRDFndzQ1X2NIbGhxM0NhbGtBSDVlSEVSZDJZaWNEQVhNS1Fmem1odmQ3U04xaGwyUzFkc0V6akV0dFF1X0J0?oc=5\" target=\"_blank\">Europe's MiCA Crypto License Rule Isn't Enough for Profitability: Bybit CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Whalesbook</font>",
@@ -6146,17 +6157,6 @@
         "机构 Institutional"
       ],
       "key_quote": "Bybit CEO Ben Zhou Signals a New Era of Regulated Institutional Finance Following Full VAPO and MiCAR Approvals The Globe and Mail"
-    },
-    {
-      "title": "OKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZENHOWRURzUyWF9hUFB0a3Vic1hBOGs4VFliVzV5V2t1SWJpNjd2S0wybXFPMDVYS3RneWdFTG5GNzZHc19YQUVVN1RjblJrWkluQUZmWWd2SXM4bWozWndiS1JnTmdLaE9KM04wZXBzaFoyVDVUQkJvbndXbW1mMHpSc0pkemowUkpLbVN4VV9hTDM0UDhmTw?oc=5\" target=\"_blank\">OKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews</font>",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZENHOWRURzUyWF9hUFB0a3Vic1hBOGs4VFliVzV5V2t1SWJpNjd2S0wybXFPMDVYS3RneWdFTG5GNzZHc19YQUVVN1RjblJrWkluQUZmWWd2SXM4bWozWndiS1JnTmdLaE9KM04wZXBzaFoyVDVUQkJvbndXbW1mMHpSc0pkemowUkpLbVN4VV9hTDM0UDhmTw?oc=5",
-      "source": "Cryptonews",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2025-12-08T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "OKX CEO Star Xu Says 50% of Global Economy Will Run On Blockchain Cryptonews"
     }
   ]
 }
