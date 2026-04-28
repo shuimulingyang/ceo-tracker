@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-28T21:47:59Z",
+  "updated_at": "2026-04-28T22:43:05Z",
   "total": 500,
   "by_ceo": {
-    "Richard Teng": 61,
-    "Brian Armstrong": 252,
+    "Richard Teng": 60,
+    "Brian Armstrong": 253,
     "Ben Zhou": 35,
     "CZ": 127,
     "Star Xu": 25
@@ -737,6 +737,17 @@
       "published_at": "2026-04-19T19:06:44+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao's Memoir: A Key to Crypto's Future Phemex"
+    },
+    {
+      "title": "Coinbase is late to stocks—but CEO Brian Armstrong says it will win in the long run",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdF9yaThiYWFIRHFsVnpKRFp6dWplSXpXSWpUZk9PTDdJeUU4VnZZeXkzV3V5V2NJTWh1Q2NSd3ZYNFJ2QTJqTzBXNjhSampsU3VHczdRYjNoOC03RHp1emZSTzRSTEc5YWx1bUZ0QXNUaGJsVXhfc2dFbk9yOHctaGk0eHg?oc=5\" target=\"_blank\">Coinbase is late to stocks—but CEO Brian Armstrong says it will win in the long run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdF9yaThiYWFIRHFsVnpKRFp6dWplSXpXSWpUZk9PTDdJeUU4VnZZeXkzV3V5V2NJTWh1Q2NSd3ZYNFJ2QTJqTzBXNjhSampsU3VHczdRYjNoOC03RHp1emZSTzRSTEc5YWx1bUZ0QXNUaGJsVXhfc2dFbk9yOHctaGk0eHg?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-19T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase is late to stocks—but CEO Brian Armstrong says it will win in the long run AOL.com"
     },
     {
       "title": "Changpeng Zhao’s memoir is key to understanding the future of crypto",
@@ -6143,17 +6154,6 @@
       "published_at": "2025-12-23T08:00:00+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong: Propelling the Crypto Economy Goldman Sachs"
-    },
-    {
-      "title": "How Richard Teng Is Positioning Binance For The Next Crypto Boom",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmFVdGFxYXNiSjlRRk8wTkVlTkZxekVtMmtGVWpDTHVKeGZwQmxKZ1BVZG1LVGtnT0xMUDNybkxVcU1pajU3WTNad21OZGhGYkNNVlNtR3FnUUp1MUx3ckdqTzF3LXozdjNXbXM3cE1zTHUtM3UtRUlLaFFXd0xveVI3dEVhQ3JIem95LTNNNDRDQmJ4elJSTVZRb2t6cmJqZGtGVUNMd2RVbW95dllRSEo4ZXUzc3R3U1Y3SGNfQklvTGVTYXhDMTBTZHFSNmZpT2p5WVV3?oc=5\" target=\"_blank\">How Richard Teng Is Positioning Binance For The Next Crypto Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmFVdGFxYXNiSjlRRk8wTkVlTkZxekVtMmtGVWpDTHVKeGZwQmxKZ1BVZG1LVGtnT0xMUDNybkxVcU1pajU3WTNad21OZGhGYkNNVlNtR3FnUUp1MUx3ckdqTzF3LXozdjNXbXM3cE1zTHUtM3UtRUlLaFFXd0xveVI3dEVhQ3JIem95LTNNNDRDQmJ4elJSTVZRb2t6cmJqZGtGVUNMd2RVbW95dllRSEo4ZXUzc3R3U1Y3SGNfQklvTGVTYXhDMTBTZHFSNmZpT2p5WVV3?oc=5",
-      "source": "Forbes",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2025-12-21T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "How Richard Teng Is Positioning Binance For The Next Crypto Boom Forbes"
     }
   ]
 }
