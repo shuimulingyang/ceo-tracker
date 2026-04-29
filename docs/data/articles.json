@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-04-29T11:22:08Z",
+  "updated_at": "2026-04-29T13:14:40Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 254,
-    "Richard Teng": 59,
+    "Brian Armstrong": 253,
+    "Richard Teng": 60,
     "Ben Zhou": 35,
     "CZ": 127,
     "Star Xu": 25
   },
   "articles": [
+    {
+      "title": "Coinbase CEO proposes surprising fix to $60B remittance fees",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPenA2MGN1djlxbnZ3cVBLZ1VBbkxvUHYzenlkc25lcUF3cXk5LTJ2cVh0SVJmTTRYVGhrUnB2a04wRGsyVkVucXpZZ2xocDg3V0FyWWt2QU5MYnA1bDEtdnNpUWY0c2ktLUFLZVFKMlUwWVY5MXZudldoX3pGeThjNGswYmYweTVkQmxRWVM0RHFmSWFTSTFmVkFReUNQU3VidXc?oc=5\" target=\"_blank\">Coinbase CEO proposes surprising fix to $60B remittance fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenA2MGN1djlxbnZ3cVBLZ1VBbkxvUHYzenlkc25lcUF3cXk5LTJ2cVh0SVJmTTRYVGhrUnB2a04wRGsyVkVucXpZZ2xocDg3V0FyWWt2QU5MYnA1bDEtdnNpUWY0c2ktLUFLZVFKMlUwWVY5MXZudldoX3pGeThjNGswYmYweTVkQmxRWVM0RHFmSWFTSTFmVkFReUNQU3VidXc?oc=5",
+      "source": "thestreet.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-29T11:30:00+00:00",
+      "tags": [
+        "Ethereum"
+      ],
+      "key_quote": "Coinbase CEO proposes surprising fix to $60B remittance fees thestreet.com"
+    },
     {
       "title": "People may accept stablecoins and bypass FX, Brian Armstrong notes",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOdk1yREFVM0w4YW53YTVhdnNacTlzMS0wM1FELUMyWjhLMnEzQ2g5NTJpMWtkUUhDSFRGaHBZMk5SRWJkdm5GdnlOQUdpX25nM0RjWmdvXzQzSUhsdlpmTWJDSEI4WFRxR2ZRTkFGTGU3SXFXaVZUZE92aTRRZXZETFhmRlhrbTZDUTF5SXF3azk?oc=5\" target=\"_blank\">People may accept stablecoins and bypass FX, Brian Armstrong notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
@@ -22,6 +35,17 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "People may accept stablecoins and bypass FX, Brian Armstrong notes Traders Union"
+    },
+    {
+      "title": "News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EVmJqWGNsSFl5Z3JXd2xWb1lialZRT3QxSk5sMDFvTmpyNEtXRE51Rk5JODZrRVd5Q0gwaUN6Mm9lc2FMbUpWNXZZLXN4clI3eUl1NUNJYTdJZ2NmUDU0bm5QcDI4QQ?oc=5\" target=\"_blank\">News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EVmJqWGNsSFl5Z3JXd2xWb1lialZRT3QxSk5sMDFvTmpyNEtXRE51Rk5JODZrRVd5Q0gwaUN6Mm9lc2FMbUpWNXZZLXN4clI3eUl1NUNJYTdJZ2NmUDU0bm5QcDI4QQ?oc=5",
+      "source": "Decrypt",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-28T15:58:16+00:00",
+      "tags": [],
+      "key_quote": "News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng Decrypt"
     },
     {
       "title": "TriFi integrates TradFi, CeFi, and DeFi for seamless financial systems, Richard Teng notes",
@@ -6132,32 +6156,6 @@
         "ETF"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong says company opposed crypto bill to protect consumers CoinDesk"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Pulls Support for Crypto Market-Structure Bill",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPck11eVJhTE52MTlodWtiNWxDYW5tNkoxcW9EMVBtX2FoQU9YSl9uX1h2Rm9Ebmp1QVRhNUFpeE5Lc1RHSmFidW85U0pOa3pQSW1IYWFpT3FhN2tzaVpSZFFZSDZZN0c4OXhPMF9HUkZlWXN4c1lhRGhQamxVajhMYmxHLWVmZG1FWlVOVmRwSlRvWWFpUURoWXVEX1Nyc3dkODZQQ1NCSWhSbVJBQXUtQUc2bUlDbWhKbzBIczN3?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Pulls Support for Crypto Market-Structure Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPck11eVJhTE52MTlodWtiNWxDYW5tNkoxcW9EMVBtX2FoQU9YSl9uX1h2Rm9Ebmp1QVRhNUFpeE5Lc1RHSmFidW85U0pOa3pQSW1IYWFpT3FhN2tzaVpSZFFZSDZZN0c4OXhPMF9HUkZlWXN4c1lhRGhQamxVajhMYmxHLWVmZG1FWlVOVmRwSlRvWWFpUURoWXVEX1Nyc3dkODZQQ1NCSWhSbVJBQXUtQUc2bUlDbWhKbzBIczN3?oc=5",
-      "source": "Bloomberg",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-01-14T08:00:00+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong Pulls Support for Crypto Market-Structure Bill Bloomberg"
-    },
-    {
-      "title": "Coinbase CEO Pulls Support for Senate Crypto Bill Over Tokenized Equities Ban",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUMyMGpMYk5WNGlVLXdpUVg5QkdwQVBvUDNtUUlURlVMWU16a2EwOXBNWHJPOTZoc3o3bThUNFRQSTkzSlRKSXJBODBtTmNpZWJ1TXB0ZzgtcUpIWVFYSUt0aERCX3h3dXdTaUxiOWdBSml2RFh2YVlVTUx0aWRfeE1VLV91YTFnMXBWOG92Q2p5aVJGR1JUbkowdzZoZWlMQ3QwZWRrMklhcmwyY0lqWkJtX2I4T3BrS1E4dUlB?oc=5\" target=\"_blank\">Coinbase CEO Pulls Support for Senate Crypto Bill Over Tokenized Equities Ban</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOUMyMGpMYk5WNGlVLXdpUVg5QkdwQVBvUDNtUUlURlVMWU16a2EwOXBNWHJPOTZoc3o3bThUNFRQSTkzSlRKSXJBODBtTmNpZWJ1TXB0ZzgtcUpIWVFYSUt0aERCX3h3dXdTaUxiOWdBSml2RFh2YVlVTUx0aWRfeE1VLV91YTFnMXBWOG92Q2p5aVJGR1JUbkowdzZoZWlMQ3QwZWRrMklhcmwyY0lqWkJtX2I4T3BrS1E4dUlB?oc=5",
-      "source": "PYMNTS.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-01-14T08:00:00+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Coinbase CEO Pulls Support for Senate Crypto Bill Over Tokenized Equities Ban PYMNTS.com"
     }
   ]
 }
