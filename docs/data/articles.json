@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-29T09:53:35Z",
+  "updated_at": "2026-04-29T11:22:08Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 253,
-    "Richard Teng": 60,
+    "Brian Armstrong": 254,
+    "Richard Teng": 59,
     "Ben Zhou": 35,
     "CZ": 127,
     "Star Xu": 25
@@ -147,6 +147,20 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin helps USD's reserve status in a strange way: Coinbase CEO MSN"
+    },
+    {
+      "title": "Coinbase CEO: Stablecoins will become the default currency for AI agents",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwNBVV95cUxNbW1yTWJNM3dVYy1kNUd1c0xiUlhnbmMtMFBjVlhqOVI0X1U0M29udTdFOVNqVUUtMkNpNkxJYzdHaFpYNmdXVkVfZzdRaVN5Y3lLVE9RbFNtT0xIMUJKeEt5UE1MdlRYSUZZS2VhWUtGb0NqVjBLaHVCTnhIM0ZkWm1STUlLV1oxMHFMUjhYUjc3bkdzcEgwbEVNQ2lqcnZ0bi1IX2xlV0FLTjc2OVpaUVRDamxzVElHaTc1SkVXa2ppcHkwRHNVN3VwcFdWS0dkX19veDJ1SVdkeVRqN0ltWmxXNnlXOVNiM3g5cFBhQTk0ZDFveTVmbFNjemxFR3lJT3JaZUlfSHBjLU1uNE4yNzNHVTFTOFBWRDNRWHV3SFFrRnZ0M2tDTDFCY2RGZGl3WV9QZzNzeFN2dW1wdDZNX0lrdXBOcFIyMTBlNnhQUC1NR3R0YzBvejVsRFlhdGlaWWVJaGJkWjkwZDd6MFAyZ1ZrZ1ZIYXN0aGFiOTVkZU5ldG85NkFMY25fVTJJSjRQRElhclpSYw?oc=5\" target=\"_blank\">Coinbase CEO: Stablecoins will become the default currency for AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNbW1yTWJNM3dVYy1kNUd1c0xiUlhnbmMtMFBjVlhqOVI0X1U0M29udTdFOVNqVUUtMkNpNkxJYzdHaFpYNmdXVkVfZzdRaVN5Y3lLVE9RbFNtT0xIMUJKeEt5UE1MdlRYSUZZS2VhWUtGb0NqVjBLaHVCTnhIM0ZkWm1STUlLV1oxMHFMUjhYUjc3bkdzcEgwbEVNQ2lqcnZ0bi1IX2xlV0FLTjc2OVpaUVRDamxzVElHaTc1SkVXa2ppcHkwRHNVN3VwcFdWS0dkX19veDJ1SVdkeVRqN0ltWmxXNnlXOVNiM3g5cFBhQTk0ZDFveTVmbFNjemxFR3lJT3JaZUlfSHBjLU1uNE4yNzNHVTFTOFBWRDNRWHV3SFFrRnZ0M2tDTDFCY2RGZGl3WV9QZzNzeFN2dW1wdDZNX0lrdXBOcFIyMTBlNnhQUC1NR3R0YzBvejVsRFlhdGlaWWVJaGJkWjkwZDd6MFAyZ1ZrZ1ZIYXN0aGFiOTVkZU5ldG85NkFMY25fVTJJSjRQRElhclpSYw?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-26T08:10:00+00:00",
+      "tags": [
+        "AI",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO: Stablecoins will become the default currency for AI agents MSN"
     },
     {
       "title": "Coinbase CEO: Stablecoins will become the default currency for AI agents",
@@ -6144,19 +6158,6 @@
         "Layer2"
       ],
       "key_quote": "Coinbase CEO Pulls Support for Senate Crypto Bill Over Tokenized Equities Ban PYMNTS.com"
-    },
-    {
-      "title": "Binance co-CEO Richard Teng on the company's 2025 annual report",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGZGenI2TXJmVDhtcjc0VVY5eXVrMWZoU0pZZzNadkNSUDFzVF9UcUVxWDczei1pNndnOVFodm42QjhVOHRVbnltQXdEWUdmZEJlN1ZNZjJ1THBKdGM0azVTbU5Nd3NmQTNjbmJ3Z0dqd19YTlVjdEExTEZqNXI3aWl2cG9LYXFDZjJlM09OTlplcUlTLU9aQkd2VWVmSkRFRnJwN0xiMnM?oc=5\" target=\"_blank\">Binance co-CEO Richard Teng on the company's 2025 annual report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGZGenI2TXJmVDhtcjc0VVY5eXVrMWZoU0pZZzNadkNSUDFzVF9UcUVxWDczei1pNndnOVFodm42QjhVOHRVbnltQXdEWUdmZEJlN1ZNZjJ1THBKdGM0azVTbU5Nd3NmQTNjbmJ3Z0dqd19YTlVjdEExTEZqNXI3aWl2cG9LYXFDZjJlM09OTlplcUlTLU9aQkd2VWVmSkRFRnJwN0xiMnM?oc=5",
-      "source": "CNBC",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-01-08T08:00:00+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Binance co-CEO Richard Teng on the company's 2025 annual report CNBC"
     }
   ]
 }
