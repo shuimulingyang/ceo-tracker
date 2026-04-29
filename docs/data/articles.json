@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-04-29T21:48:41Z",
+  "updated_at": "2026-04-29T22:42:27Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 253,
-    "Richard Teng": 60,
-    "Ben Zhou": 35,
+    "Richard Teng": 61,
+    "Ben Zhou": 34,
     "CZ": 127,
     "Star Xu": 25
   },
@@ -82,6 +82,17 @@
       "ceo_name": "Richard Teng",
       "exchange": "Binance",
       "published_at": "2026-04-28T15:58:16+00:00",
+      "tags": [],
+      "key_quote": "News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng Decrypt"
+    },
+    {
+      "title": "News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMbF9RM3lhX015aVd2eGs0dTBNZDZnV0Zld19IQ2l5WjZjZ09pMzV0WUF1eUx3dl8tNzlKYzFRa1hoMlExbGRyVk11azdHSTlZX1VCOG04TzVEbFU?oc=5\" target=\"_blank\">News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMbF9RM3lhX015aVd2eGs0dTBNZDZnV0Zld19IQ2l5WjZjZ09pMzV0WUF1eUx3dl8tNzlKYzFRa1hoMlExbGRyVk11azdHSTlZX1VCOG04TzVEbFU?oc=5",
+      "source": "Decrypt",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-28T15:33:23+00:00",
       "tags": [],
       "key_quote": "News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng Decrypt"
     },
@@ -1416,6 +1427,17 @@
       "published_at": "2026-04-11T14:42:28+00:00",
       "tags": [],
       "key_quote": "Brian Armstrong Legacy obituary"
+    },
+    {
+      "title": "Brian Armstrong Killed The Clarity Act In January — But Now He's Changed His Mind",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjFsdVJDSXNFX1VIZC1rMDdPSGZ4U3VtbXJIRXozamhIcHhEMVVORVpfR3AyTXNVaHFxSFNFSXhVT3BuZjVULWUxZi10QmJCaHhCOGxLV0kzTHhseXpGNXpVVWtHU0dRSnMyOXBNSEdYZGo2a2JTQnZuNTAtOVdOTjdBd1NDby1ORFEtVjZ3cGtPd3poQ1hqVWVGanVtN0piaFp1aTBka2lJZ3YtM1dHbXFwN3BPUDdMSjI1STFvYmxNZW55cjBiQXJR?oc=5\" target=\"_blank\">Brian Armstrong Killed The Clarity Act In January — But Now He's Changed His Mind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjFsdVJDSXNFX1VIZC1rMDdPSGZ4U3VtbXJIRXozamhIcHhEMVVORVpfR3AyTXNVaHFxSFNFSXhVT3BuZjVULWUxZi10QmJCaHhCOGxLV0kzTHhseXpGNXpVVWtHU0dRSnMyOXBNSEdYZGo2a2JTQnZuNTAtOVdOTjdBd1NDby1ORFEtVjZ3cGtPd3poQ1hqVWVGanVtN0piaFp1aTBka2lJZ3YtM1dHbXFwN3BPUDdMSjI1STFvYmxNZW55cjBiQXJR?oc=5",
+      "source": "Sahm",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-11T13:14:16+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong Killed The Clarity Act In January — But Now He's Changed His Mind Sahm"
     },
     {
       "title": "Controversy surrounding the book \"Freedom of Money\" between OKX CEO and CZ",
@@ -6133,28 +6155,6 @@
         "Bitcoin"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda Bitcoin Magazine"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ybGtMbmxfRVQxa0dJUEc3WUNkR3lpZjJNOVR2aEJwdUJtYU1heEhfaEprWGtpLVk3cktjZjVSb2JKYU1maFhPdzVzMkRMMWRiVmNjZmZ6SFNCZ3A5Q0tIZ0pNTQ?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aap.com.au</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ybGtMbmxfRVQxa0dJUEc3WUNkR3lpZjJNOVR2aEJwdUJtYU1heEhfaEprWGtpLVk3cktjZjVSb2JKYU1maFhPdzVzMkRMMWRiVmNjZmZ6SFNCZ3A5Q0tIZ0pNTQ?oc=5",
-      "source": "aap.com.au",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-01-16T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance aap.com.au"
-    },
-    {
-      "title": "US Senate committee delays crypto bill after opposition from Coinbase CEO",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeko5OXpzU3lXcEUyYnplVjUtdTlJMWJBTnR5am9VQkdmckpUNTE3UFlYVVZORnBGMExiMmc4SU9VbjNpdEYxci04dmVtVjM5Y05RT0VkaHBTY3B3MnlfcjlCTk8zSl9nY1RnZktuczlVOFljWjhKSGlVWE9ZS2czOEtCV2VKcHFGTFo0SXpwZjJ6bWlmMUxTSEdjRlJwM1JkM3UxZThmM0JOeHRYM0NJaG5UYnpiSDBnVV9zdS1teFoweFdCVngzeXE2ZndaRU5wUzROTDZHY1ZBS1E?oc=5\" target=\"_blank\">US Senate committee delays crypto bill after opposition from Coinbase CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeko5OXpzU3lXcEUyYnplVjUtdTlJMWJBTnR5am9VQkdmckpUNTE3UFlYVVZORnBGMExiMmc4SU9VbjNpdEYxci04dmVtVjM5Y05RT0VkaHBTY3B3MnlfcjlCTk8zSl9nY1RnZktuczlVOFljWjhKSGlVWE9ZS2czOEtCV2VKcHFGTFo0SXpwZjJ6bWlmMUxTSEdjRlJwM1JkM3UxZThmM0JOeHRYM0NJaG5UYnpiSDBnVV9zdS1teFoweFdCVngzeXE2ZndaRU5wUzROTDZHY1ZBS1E?oc=5",
-      "source": "Reuters",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-01-15T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "US Senate committee delays crypto bill after opposition from Coinbase CEO Reuters"
     }
   ]
 }
