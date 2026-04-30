@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-30T05:18:06Z",
+  "updated_at": "2026-04-30T07:56:18Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 253,
+    "Ben Zhou": 35,
+    "Brian Armstrong": 252,
     "Richard Teng": 61,
-    "Ben Zhou": 34,
     "CZ": 127,
     "Star Xu": 25
   },
   "articles": [
+    {
+      "title": "Bybit CEO Says Malaysia Watchlist Tag Removed Following Regulator Engagement",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOSktiZnNRUzJfVmhHcFpIcWJCSExiSjUzd0dkbEtid3p6Z1FCc2U3V2RRTkg5MWpEX1lNUzBHTm4wVUJrMUpHWHRSWExpb0F2NkJCLVhob3VLZG9PMG5OYmpUcTNFV0RVWWJIbS15a1dVeFpOeExlVFdmTnE5dU9pbG05NkpnSUhwTkxQbktreHR6QUNwc0RtMzhiMHYtNE5xeU9BU0FIbUktVVVuYTdLaEhBaF9rcGlDbDVqbUVvMWF4THpYY3c?oc=5\" target=\"_blank\">Bybit CEO Says Malaysia Watchlist Tag Removed Following Regulator Engagement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BanklessTimes</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSktiZnNRUzJfVmhHcFpIcWJCSExiSjUzd0dkbEtid3p6Z1FCc2U3V2RRTkg5MWpEX1lNUzBHTm4wVUJrMUpHWHRSWExpb0F2NkJCLVhob3VLZG9PMG5OYmpUcTNFV0RVWWJIbS15a1dVeFpOeExlVFdmTnE5dU9pbG05NkpnSUhwTkxQbktreHR6QUNwc0RtMzhiMHYtNE5xeU9BU0FIbUktVVVuYTdLaEhBaF9rcGlDbDVqbUVvMWF4THpYY3c?oc=5",
+      "source": "BanklessTimes",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-04-30T06:19:07+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO Says Malaysia Watchlist Tag Removed Following Regulator Engagement BanklessTimes"
+    },
     {
       "title": "Coinbase CEO Says Stablecoins Could Cut $60B Remittance Fees",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQVlBNGJGM3RfX0dhcUtoR25hdGpqTTBDOFItU293WUNZSzJvQ0xXeVhBYnVYN0owY29kZHZBZlhGOF9keGlzeHRSTHAzYTROby1ZendMUnFBRnVJSHB5b0k5Tms2TndiS3B4ZHVrOTdDUFZLOFFIQkdTWG5RZWZWYVEwZG1uTDN3UDUxdGtSUWp3U3RBM1ljQ1BNZUh5UdIBqwFBVV95cUxQcEZuajc5MlA0eDl2emp4QUhvcm1QdllrbDc5cXFkZlhzYVJoYmdKNjBOeV9JOVFuYXdIQ1R3bDh5dEtkOTZVN2JfOUdGazdZN3JYZ1N0NHY4WHBUTDJ3TzVLTzMzRjB6NlUtV3JNQVNBRUo2Wms2LU1nTllsUnpySjhEYjhvN0pHcVVldkc0cGFoMFFNaXByRzhYOHJXTFpYWUdmTG1uamtBaTA?oc=5\" target=\"_blank\">Coinbase CEO Says Stablecoins Could Cut $60B Remittance Fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics Insight</font>",
@@ -6142,19 +6153,6 @@
       "published_at": "2026-01-16T08:00:00+00:00",
       "tags": [],
       "key_quote": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance TradingView"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5vdDNidUJESWFMeG9fZlNSTElpZmR0cE5weWtVWjM1SXVIeEs3YTdDa0c3bER2eERjc1ZwNDhUTUJJemRJY2J3MFV0RkMxRTlDRXhQTUhZQTdEa0wtTWk5STlSMWdYcUdwVzRpaXdQcEdqQmFL?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Magazine</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vdDNidUJESWFMeG9fZlNSTElpZmR0cE5weWtVWjM1SXVIeEs3YTdDa0c3bER2eERjc1ZwNDhUTUJJemRJY2J3MFV0RkMxRTlDRXhQTUhZQTdEa0wtTWk5STlSMWdYcUdwVzRpaXdQcEdqQmFL?oc=5",
-      "source": "Bitcoin Magazine",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-01-16T08:00:00+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda Bitcoin Magazine"
     }
   ]
 }
