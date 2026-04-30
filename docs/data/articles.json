@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-04-30T11:24:56Z",
+  "updated_at": "2026-04-30T13:13:55Z",
   "total": 500,
   "by_ceo": {
-    "Ben Zhou": 35,
-    "Brian Armstrong": 252,
-    "Richard Teng": 61,
-    "CZ": 127,
+    "CZ": 129,
+    "Richard Teng": 62,
+    "Ben Zhou": 33,
+    "Brian Armstrong": 251,
     "Star Xu": 25
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao's Memoir Reveals Truths from Prison",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHUxV2pNaU00VG9uWVJUMnJiNzhObHp6SDctTFpadDNaaGhqNUtKZXNtOVM1d2pxUkNvRnp3T2pOWDdnNXl3clhpWnNmZ0pSZjdSX2RSMDJnNmUxZEp2Rzhvdjg1dFRRU01RRkFFWGpoNGFmYmNxckVwR2t4TzBuMy1RTlhaT0VqdXF5Uw?oc=5\" target=\"_blank\">Changpeng Zhao's Memoir Reveals Truths from Prison</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intellectia AI</font>",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHUxV2pNaU00VG9uWVJUMnJiNzhObHp6SDctTFpadDNaaGhqNUtKZXNtOVM1d2pxUkNvRnp3T2pOWDdnNXl3clhpWnNmZ0pSZjdSX2RSMDJnNmUxZEp2Rzhvdjg1dFRRU01RRkFFWGpoNGFmYmNxckVwR2t4TzBuMy1RTlhaT0VqdXF5Uw?oc=5",
+      "source": "Intellectia AI",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-30T11:36:57+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao's Memoir Reveals Truths from Prison Intellectia AI"
+    },
+    {
+      "title": "Changpeng Zhao has some scores to settle in 'Freedom of Money'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmtyMEdkUFVlTzY3WnlLcHJzUTNwaWEwSTFxeDFuaE52Z3NqcGxucXVKdlBjd1VLeHBNb3FKdlZMN2dDVWQxTkdObDFtenhGZGlnbkozNUZUT1NNeFVhdlFKRllKSHVCSjJnV2s3YWoxUnNOdXNPamEyT3V6RVAxLWNBVnZNVHU3VXM2NFBCTTMtQUtRbE82VTVGSjVkRlpPSjNaUlBaZlc?oc=5\" target=\"_blank\">Changpeng Zhao has some scores to settle in 'Freedom of Money'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmtyMEdkUFVlTzY3WnlLcHJzUTNwaWEwSTFxeDFuaE52Z3NqcGxucXVKdlBjd1VLeHBNb3FKdlZMN2dDVWQxTkdObDFtenhGZGlnbkozNUZUT1NNeFVhdlFKRllKSHVCSjJnV2s3YWoxUnNOdXNPamEyT3V6RVAxLWNBVnZNVHU3VXM2NFBCTTMtQUtRbE82VTVGSjVkRlpPSjNaUlBaZlc?oc=5",
+      "source": "thestreet.com",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-30T10:30:00+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao has some scores to settle in 'Freedom of Money' thestreet.com"
+    },
+    {
+      "title": "Richard Teng: Crypto ecosystem growth depends on local communities worldwide",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkRUbHc5akx2TVpuc0FSN0xXakl0eHVTd2lhQ3BIeDZwbU9RRmd0elNENC1GQXdCMDFyeDBpZ28ya25WUWNiejJQOGg0eWRXc0lDTGRYRVU2cEZ0cFVZOTJvMk9mWE8xcUhqZEIzMXZkeHB2YUdacExTajdIcl9CN3p2eU1SOUpsSEk2dHNtZWNoUFU?oc=5\" target=\"_blank\">Richard Teng: Crypto ecosystem growth depends on local communities worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkRUbHc5akx2TVpuc0FSN0xXakl0eHVTd2lhQ3BIeDZwbU9RRmd0elNENC1GQXdCMDFyeDBpZ28ya25WUWNiejJQOGg0eWRXc0lDTGRYRVU2cEZ0cFVZOTJvMk9mWE8xcUhqZEIzMXZkeHB2YUdacExTajdIcl9CN3p2eU1SOUpsSEk2dHNtZWNoUFU?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-30T09:45:31+00:00",
+      "tags": [],
+      "key_quote": "Richard Teng: Crypto ecosystem growth depends on local communities worldwide Traders Union"
+    },
     {
       "title": "Bybit CEO Says Malaysia Watchlist Status Lifted After Talks With Regulators",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1U4U2hQN3N3N3AzSUVuTXdJSXp3bEw2Vjh3NFFtVU9RQnFjZl9DQUJBUFFCVUk0WDh3d2dNR2t3TUdpY1BCaUQ5a3NqdHpEZWJqd2ZZWHowMGh4TkxZM2txVmdWUjRqZmJCT2FOTHVrM2NvQ2Z6Nm9ncU10SHRaMnc3LWp6VU1LNUpMQmgyNFh5WXExY0dOVngzZGlsY291TklZ?oc=5\" target=\"_blank\">Bybit CEO Says Malaysia Watchlist Status Lifted After Talks With Regulators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
@@ -6120,39 +6153,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Brian Armstrong Demands 'Level Playing Field' In Congressional Laws — Coinbase CEO Accuses Banks Of Stifling Competition Yahoo Finance"
-    },
-    {
-      "title": "Coinbase is late to stocks—but CEO Brian Armstrong says it will win in the long run",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDVVSkRyT0JaOXZRVHRneklUYjNYTmlfZlFtVmJRV1VuMmF0eWNoaWRwUXpVNk16NHVEMWFGS0F3YTU3a2tkdHRGMlN1WjJGNUFkUkVsZDZXcW82eVNhVjlsUEt3Rk9kVDUtRGJxQWJaNnkxaEZGNk1tYU10LUhZNkhWYjJxbVNsT0tQVERqam9ITXpzMG5QQnJZYmZDcURxV3FRVDJOTW9fZHBiUld2Sm51Z0pKQQ?oc=5\" target=\"_blank\">Coinbase is late to stocks—but CEO Brian Armstrong says it will win in the long run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDVVSkRyT0JaOXZRVHRneklUYjNYTmlfZlFtVmJRV1VuMmF0eWNoaWRwUXpVNk16NHVEMWFGS0F3YTU3a2tkdHRGMlN1WjJGNUFkUkVsZDZXcW82eVNhVjlsUEt3Rk9kVDUtRGJxQWJaNnkxaEZGNk1tYU10LUhZNkhWYjJxbVNsT0tQVERqam9ITXpzMG5QQnJZYmZDcURxV3FRVDJOTW9fZHBiUld2Sm51Z0pKQQ?oc=5",
-      "source": "Fortune",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-01-16T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase is late to stocks—but CEO Brian Armstrong says it will win in the long run Fortune"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQjBrak53M2lpYWdyWm9WTHRibm5ZRFY0UFZscWFGUzVkbFlQLUdQdHZRR2xTejdnYjN5cERrdDRJSHF6bWpIMTZHME5xamRpLTRkUmM3dGltbk1IYjR1Xy1CeEs1eUhxVFVkcWRzTTBibDRqM1JCNkh4RDBENk95Q0tLZ2k4cjZnQUJJMndWUDNlWS1DZGluS1JpeW1QN0ZnTHJkMEhxY3YwbUhsdThXZmhqMGo4Q2VUNFlxSzNEMDRBM0xza1J1bWNTR2ozdENlcUc2cFhFeUVKeUVQZ1hF?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQjBrak53M2lpYWdyWm9WTHRibm5ZRFY0UFZscWFGUzVkbFlQLUdQdHZRR2xTejdnYjN5cERrdDRJSHF6bWpIMTZHME5xamRpLTRkUmM3dGltbk1IYjR1Xy1CeEs1eUhxVFVkcWRzTTBibDRqM1JCNkh4RDBENk95Q0tLZ2k4cjZnQUJJMndWUDNlWS1DZGluS1JpeW1QN0ZnTHJkMEhxY3YwbUhsdThXZmhqMGo4Q2VUNFlxSzNEMDRBM0xza1J1bWNTR2ozdENlcUc2cFhFeUVKeUVQZ1hF?oc=5",
-      "source": "PR Newswire",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-01-16T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance PR Newswire"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPODZlVnVIQVpHZ2ZocnhKVUdUbDBfSVJLUk10UDcwTlNjMVJDNFlhdmZNZ0xpN3IzZmFpUmxLelhSbWd3U2gzSFIwQy1VSC1ZaW5FRFZ4c2MzWU1uS29NUFBkUlNxd291dlo3SXN1RENFUlI3WW9ZVHktR2xvVzVKZzcyVWhWTGlldU5wbEdGTDVvRU9vZFBTMkpUREZsNGFxbzBXS3o5Z0RJZms1cGJzU2UycUxKLVR4WUNTcW5LN2NxZw?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chainwire</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPODZlVnVIQVpHZ2ZocnhKVUdUbDBfSVJLUk10UDcwTlNjMVJDNFlhdmZNZ0xpN3IzZmFpUmxLelhSbWd3U2gzSFIwQy1VSC1ZaW5FRFZ4c2MzWU1uS29NUFBkUlNxd291dlo3SXN1RENFUlI3WW9ZVHktR2xvVzVKZzcyVWhWTGlldU5wbEdGTDVvRU9vZFBTMkpUREZsNGFxbzBXS3o5Z0RJZms1cGJzU2UycUxKLVR4WUNTcW5LN2NxZw?oc=5",
-      "source": "Chainwire",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-01-16T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance Chainwire"
     }
   ]
 }
