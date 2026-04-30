@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-04-30T19:02:35Z",
+  "updated_at": "2026-04-30T20:46:35Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 129,
+    "CZ": 130,
     "Richard Teng": 63,
     "Ben Zhou": 33,
-    "Brian Armstrong": 250,
+    "Brian Armstrong": 249,
     "Star Xu": 25
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao has some scores to settle in 'Freedom of Money'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZjROd1A1b2FTVWt4V0I3dnBQdXRXUjlWd1Q4RmtWTFY1UHpNa3hQdHJfNzNRYnNtemxlM0ZwSC1BUVZOdVR3UGpmTTBNRGdYUHZDVXV1ckx1aHJqUTNLRm43b3lyVUJYZWpfM3BjNlQ3eE50SnZhaTlnaDJGaVEtTXJXdnA5OUlLU2kxbjZhQXR1bG9TWVN2WkpmbDF6V1lQS2Vv?oc=5\" target=\"_blank\">Changpeng Zhao has some scores to settle in 'Freedom of Money'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZjROd1A1b2FTVWt4V0I3dnBQdXRXUjlWd1Q4RmtWTFY1UHpNa3hQdHJfNzNRYnNtemxlM0ZwSC1BUVZOdVR3UGpmTTBNRGdYUHZDVXV1ckx1aHJqUTNLRm43b3lyVUJYZWpfM3BjNlQ3eE50SnZhaTlnaDJGaVEtTXJXdnA5OUlLU2kxbjZhQXR1bG9TWVN2WkpmbDF6V1lQS2Vv?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-30T13:30:00+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao has some scores to settle in 'Freedom of Money' Yahoo Finance"
+    },
     {
       "title": "Changpeng Zhao's Memoir Reveals Truths from Prison",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHUxV2pNaU00VG9uWVJUMnJiNzhObHp6SDctTFpadDNaaGhqNUtKZXNtOVM1d2pxUkNvRnp3T2pOWDdnNXl3clhpWnNmZ0pSZjdSX2RSMDJnNmUxZEp2Rzhvdjg1dFRRU01RRkFFWGpoNGFmYmNxckVwR2t4TzBuMy1RTlhaT0VqdXF5Uw?oc=5\" target=\"_blank\">Changpeng Zhao's Memoir Reveals Truths from Prison</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intellectia AI</font>",
@@ -63,6 +74,20 @@
       "published_at": "2026-04-30T06:19:07+00:00",
       "tags": [],
       "key_quote": "Bybit CEO Says Malaysia Watchlist Tag Removed Following Regulator Engagement BanklessTimes"
+    },
+    {
+      "title": "Brian Armstrong reveals retail users 'buying the dip' in Bitcoin, Ethereum: Coinbase CEO says, 'They have diamond hands'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqANBVV95cUxPZDEzdm1oeVJITzhnaVpoNmg4T1FaY25HbjJhbjhuZWNFeUhUeTZNT3FDUDhIZU1pbVdvTHE4NGEyVkRlME9naHd3ekZrUVRuMVoyTERvLWlvTEJzVHVQSmRwX3dzYko4OTBUbGhPYWh2dHFocWFzNl9BVnR3cG0yVTFnTnVtckM5c3JEV0pFUjMyS0lFNkV3SkhrZjZxMlVabHhMRkwwcjFPREtvN0NRaU1FcjlHYm50NWRSWm5CYzV0Q0VTOG94STQ0TVFDbVUxX2ZwQWFZeE1TXzNDczZ0M0JRSlFyNGZsZXd1b3RmWC03Zng3RjVkR01BdGx4amJVOXhWZkZyaWFQbVhGOTdLR05zeU5ybDl0NnllRjNKWnd5R2llVFhWbVljV1J2Z0d3YVA0NXh4emE5Tms1dXVLRXhxa3cyUEx3elZPblZNWU84SVpoNUFSZU13V3NmM2h2MVFUa0daNUJwSVRVUFdBNUxMSkZYM1h5bEhhUlF4SWhGVzRITzFFSnFUYTdpSnV0MXJtUHB4TGdSTzhSSGp3QlI1Y1BXUjlo?oc=5\" target=\"_blank\">Brian Armstrong reveals retail users 'buying the dip' in Bitcoin, Ethereum: Coinbase CEO says, 'They have diamond hands'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPZDEzdm1oeVJITzhnaVpoNmg4T1FaY25HbjJhbjhuZWNFeUhUeTZNT3FDUDhIZU1pbVdvTHE4NGEyVkRlME9naHd3ekZrUVRuMVoyTERvLWlvTEJzVHVQSmRwX3dzYko4OTBUbGhPYWh2dHFocWFzNl9BVnR3cG0yVTFnTnVtckM5c3JEV0pFUjMyS0lFNkV3SkhrZjZxMlVabHhMRkwwcjFPREtvN0NRaU1FcjlHYm50NWRSWm5CYzV0Q0VTOG94STQ0TVFDbVUxX2ZwQWFZeE1TXzNDczZ0M0JRSlFyNGZsZXd1b3RmWC03Zng3RjVkR01BdGx4amJVOXhWZkZyaWFQbVhGOTdLR05zeU5ybDl0NnllRjNKWnd5R2llVFhWbVljV1J2Z0d3YVA0NXh4emE5Tms1dXVLRXhxa3cyUEx3elZPblZNWU84SVpoNUFSZU13V3NmM2h2MVFUa0daNUJwSVRVUFdBNUxMSkZYM1h5bEhhUlF4SWhGVzRITzFFSnFUYTdpSnV0MXJtUHB4TGdSTzhSSGp3QlI1Y1BXUjlo?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-30T02:58:39+00:00",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "key_quote": "Brian Armstrong reveals retail users 'buying the dip' in Bitcoin, Ethereum: Coinbase CEO says, 'They have diamond hands' MSN"
     },
     {
       "title": "Coinbase CEO Says Stablecoins Could Cut $60B Remittance Fees",
@@ -6126,33 +6151,6 @@
         "市场 Market"
       ],
       "key_quote": "As crypto markets touch a $4 trillion market cap, Richard Teng says India now ranks #1 in blockchain adoption, with skeptics beginning to change their stance."
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong on crypto regulation: Banks should compete on a level playing field",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNHg2LXZLSUdmRjgtZXlLYWI2Z1hwUUw4bGhiWkRlcXR6eWtyZldlQWM2RGpDRmgzcDNEdmpILVJNMWlLNkhqc3J2aXkxXzh5a1BURlRKa0ItUXpWOXdUQnlaOEFkRHVZLXJ6VGgzUzBVb3hoZ09YbmpXOV9FcWZVaDFia2ZxZGlMU1RBbFZyOGxTZ08wUG1TYklUNElwa2l2NEhYclVWSEstQWZCMVpjbUZZaG5ocmNBcVQzdXhEdG1qbEZ0aHVnMFdDRUQ5OXhvZjlDVWpfS2xDWEJCdVczZzRLQS1TWEdOb2dVeU1mMmF4eTVDSEh2ODNENTNCbWs?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong on crypto regulation: Banks should compete on a level playing field</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNHg2LXZLSUdmRjgtZXlLYWI2Z1hwUUw4bGhiWkRlcXR6eWtyZldlQWM2RGpDRmgzcDNEdmpILVJNMWlLNkhqc3J2aXkxXzh5a1BURlRKa0ItUXpWOXdUQnlaOEFkRHVZLXJ6VGgzUzBVb3hoZ09YbmpXOV9FcWZVaDFia2ZxZGlMU1RBbFZyOGxTZ08wUG1TYklUNElwa2l2NEhYclVWSEstQWZCMVpjbUZZaG5ocmNBcVQzdXhEdG1qbEZ0aHVnMFdDRUQ5OXhvZjlDVWpfS2xDWEJCdVczZzRLQS1TWEdOb2dVeU1mMmF4eTVDSEh2ODNENTNCbWs?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-01-20T08:00:00+00:00",
-      "tags": [
-        "监管 Regulation",
-        "Layer2"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong on crypto regulation: Banks should compete on a level playing field MSN"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong to work on market structure bill in Davos",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNX3lfa3N3Zm9QX190WG9CMjBqTl9CbVdFRUVDR0dmRVRDTzVPZEFicGc5RjZsdHp4UlE0LWNLQTR0LWItZUJyVjVHbno2dGoySXdGVXlRNmh5cjc5SDhwQ2ZsU3BUdS1GYXRpUGY5eXdaTEZhLWdqMkNqZm1ETDBsN2dCbGtkM0pJZVozY01rZHA1Zw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong to work on market structure bill in Davos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX3lfa3N3Zm9QX190WG9CMjBqTl9CbVdFRUVDR0dmRVRDTzVPZEFicGc5RjZsdHp4UlE0LWNLQTR0LWItZUJyVjVHbno2dGoySXdGVXlRNmh5cjc5SDhwQ2ZsU3BUdS1GYXRpUGY5eXdaTEZhLWdqMkNqZm1ETDBsN2dCbGtkM0pJZVozY01rZHA1Zw?oc=5",
-      "source": "The Block",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-01-19T08:00:00+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong to work on market structure bill in Davos The Block"
     }
   ]
 }
