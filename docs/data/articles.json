@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-05-01T05:30:18Z",
+  "updated_at": "2026-05-01T07:55:55Z",
   "total": 500,
   "by_ceo": {
+    "Brian Armstrong": 251,
     "CZ": 130,
-    "Richard Teng": 62,
+    "Richard Teng": 61,
     "Ben Zhou": 33,
-    "Brian Armstrong": 250,
     "Star Xu": 25
   },
   "articles": [
+    {
+      "title": "Brian Armstrong's Regulatory Playbook Is Working. He's Not the Only One Who Noticed",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT1V2bXhFWTBDZ1cyX0pHamRHTVJ4VVdIdDNBUC1Oa1c2OWpJZ293Y2ROa2R5SWYwVVdPZGJoV0Z0SXQ3S0hEbEROekx5dWZ6VFlOZlhNeXkwdlRFQjk4VlZOd0pNQ3V3eDllczN4NDlhbEdUcmZwd0JqQ2M0dXNDdEVtODFLd2M3QmdNYXM3b2lkenBId3RUcldpc2ZScjk1LWVvUE8wNXlOeFRHSlJZemtoejJORVhxajd5cndjTldaNDVCWk1YeXd2eFJMYlFlQmtuWkQtMm5xc0haV05aSlBYVjU5R2tVc2xvNUh3?oc=5\" target=\"_blank\">Brian Armstrong's Regulatory Playbook Is Working. He's Not the Only One Who Noticed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinancialContent</font>",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT1V2bXhFWTBDZ1cyX0pHamRHTVJ4VVdIdDNBUC1Oa1c2OWpJZ293Y2ROa2R5SWYwVVdPZGJoV0Z0SXQ3S0hEbEROekx5dWZ6VFlOZlhNeXkwdlRFQjk4VlZOd0pNQ3V3eDllczN4NDlhbEdUcmZwd0JqQ2M0dXNDdEVtODFLd2M3QmdNYXM3b2lkenBId3RUcldpc2ZScjk1LWVvUE8wNXlOeFRHSlJZemtoejJORVhxajd5cndjTldaNDVCWk1YeXd2eFJMYlFlQmtuWkQtMm5xc0haV05aSlBYVjU5R2tVc2xvNUh3?oc=5",
+      "source": "FinancialContent",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-01T07:00:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Brian Armstrong's Regulatory Playbook Is Working. He's Not the Only One Who Noticed FinancialContent"
+    },
     {
       "title": "Changpeng Zhao has some scores to settle in 'Freedom of Money'",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZjROd1A1b2FTVWt4V0I3dnBQdXRXUjlWd1Q4RmtWTFY1UHpNa3hQdHJfNzNRYnNtemxlM0ZwSC1BUVZOdVR3UGpmTTBNRGdYUHZDVXV1ckx1aHJqUTNLRm43b3lyVUJYZWpfM3BjNlQ3eE50SnZhaTlnaDJGaVEtTXJXdnA5OUlLU2kxbjZhQXR1bG9TWVN2WkpmbDF6V1lQS2Vv?oc=5\" target=\"_blank\">Changpeng Zhao has some scores to settle in 'Freedom of Money'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -6138,19 +6151,6 @@
         "Bitcoin"
       ],
       "key_quote": "Brian Armstrong defends Bitcoin in tiff with French central banker dlnews.com"
-    },
-    {
-      "title": "Regulatory clarity key for crypto adoption: Binance co-CEO Richard Teng",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcF9pRG1WbFhIRUo4bF9JMDF1My1VY2lMdlo0cnBFTEZJa3ZXUjNnczkwa293S3hIQnlyd1ZKVWRUYWFZZV8wNkpSMmFJMzVMSTB4TnFrOWU0bWVuaFpwZ0ZISzNpUjVQVWtmZnVxenBMT3JmNHo3ZFAwVkI0YlBlT25pcHBLWXZtSlRiT1FMaTdIUG5vQUU4UEZEZEVtanp0MnZQbDlRX1pMeTlGYVk4eGVLZUFkVy1IMEg3czRyeUloV19FeVota3VUSzV4bUtGdUJDVEVVd9IB3AFBVV95cUxQckU4S3ZISVAxZ2NhaXlXR2c3OGluTW9kQ3JmWk1YM25IUElYVlgxOTY4LXZaeF9vZ1VOcXVPdTNRc3dBUXFLOFBJanlDcEIyZ3ZLdUFnX1o5RHBScFRKdnh2U3F1QkhGR3hxeXV5bEswa05VYTdjS2I0T3BScTNHTU9QSTV2QzljRUMtY3FVVGR5SXFoLXZ2QXpBM0xNMTZOVVY4MUY1NDJhbXh4UjJ5alZzNlkwRDd5azNZSDRHRHF0T0hmeWwyMzItVVJlMFFNcm9laTU1OTRha19a?oc=5\" target=\"_blank\">Regulatory clarity key for crypto adoption: Binance co-CEO Richard Teng</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcF9pRG1WbFhIRUo4bF9JMDF1My1VY2lMdlo0cnBFTEZJa3ZXUjNnczkwa293S3hIQnlyd1ZKVWRUYWFZZV8wNkpSMmFJMzVMSTB4TnFrOWU0bWVuaFpwZ0ZISzNpUjVQVWtmZnVxenBMT3JmNHo3ZFAwVkI0YlBlT25pcHBLWXZtSlRiT1FMaTdIUG5vQUU4UEZEZEVtanp0MnZQbDlRX1pMeTlGYVk4eGVLZUFkVy1IMEg3czRyeUloV19FeVota3VUSzV4bUtGdUJDVEVVd9IB3AFBVV95cUxQckU4S3ZISVAxZ2NhaXlXR2c3OGluTW9kQ3JmWk1YM25IUElYVlgxOTY4LXZaeF9vZ1VOcXVPdTNRc3dBUXFLOFBJanlDcEIyZ3ZLdUFnX1o5RHBScFRKdnh2U3F1QkhGR3hxeXV5bEswa05VYTdjS2I0T3BScTNHTU9QSTV2QzljRUMtY3FVVGR5SXFoLXZ2QXpBM0xNMTZOVVY4MUY1NDJhbXh4UjJ5alZzNlkwRDd5azNZSDRHRHF0T0hmeWwyMzItVVJlMFFNcm9laTU1OTRha19a?oc=5",
-      "source": "The Economic Times",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-01-21T08:00:00+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Regulatory clarity key for crypto adoption: Binance co-CEO Richard Teng The Economic Times"
     }
   ]
 }
