@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-01T18:52:28Z",
+  "updated_at": "2026-05-01T19:58:06Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 251,
-    "CZ": 130,
+    "CZ": 131,
     "Richard Teng": 61,
-    "Ben Zhou": 33,
+    "Ben Zhou": 32,
     "Star Xu": 25
   },
   "articles": [
@@ -128,6 +128,17 @@
         "Layer2"
       ],
       "key_quote": "Coinbase CEO Says Stablecoins Could Cut $60B Remittance Fees Analytics Insight"
+    },
+    {
+      "title": "Coinbase CEO proposes surprising fix to $60B remittance fees",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmhrQUdwbVl6ZWU0eGlDcHA1RUVSQTdRNVFUZk5IMFUyUVFWaHlheS1JOXlqVFB5LW1hNHdRY1RHRDNWV2ZTUkpUUmh1djRVUWlBMHhYTlU5TG9fdGpVdDlOeGFTWHBzSUo1cTFjdzJOcktJRTA4cUdrc0dyWnNJQ0VyOS1VTFRGX0pFb1lTTHB1ZThnMXZyZTFSUVpORi1GTDBZ?oc=5\" target=\"_blank\">Coinbase CEO proposes surprising fix to $60B remittance fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmhrQUdwbVl6ZWU0eGlDcHA1RUVSQTdRNVFUZk5IMFUyUVFWaHlheS1JOXlqVFB5LW1hNHdRY1RHRDNWV2ZTUkpUUmh1djRVUWlBMHhYTlU5TG9fdGpVdDlOeGFTWHBzSUo1cTFjdzJOcktJRTA4cUdrc0dyWnNJQ0VyOS1VTFRGX0pFb1lTTHB1ZThnMXZyZTFSUVpORi1GTDBZ?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-04-29T14:30:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO proposes surprising fix to $60B remittance fees Yahoo Finance"
     },
     {
       "title": "Brian Armstrong stablecoin stance contrasts with declining Coinbase momentum",
@@ -262,6 +273,17 @@
       "published_at": "2026-04-26T17:42:18+00:00",
       "tags": [],
       "key_quote": "Bybit CEO Says MiCA License Alone Not Enough for Profit in Europe FinanceFeeds"
+    },
+    {
+      "title": "US President Trump pardons convicted Binance founder Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxNLU9tVk9Hb2phWks2NEEySy00dmk4ZmJ3ZUI3Ry15Qk1fcUdOcXlILV9RS2FhNjItVWlkWG9ZMW5vaHRqSGViNHhXU0ZVVkpoNDdoX2o1TmVOclpJeGRpSEhrY3hrZDlzNUM0RzNwZUlrR0tMbDM3TlZMQ2hTa3MtU3V4Mjg5c2tDMkViNG90Wk1RbTVmS096M2JBa0R2X08wazNaUTQ5MWUyYkhVLTFpVHF4WVY5VTlXUmhPcEZHci1ZejdVd3JPbEg5djAtcWwydUljTzRsUElvX2ctSXJkcHNMZTB5cWZXejhjRDFhekk3RDc0bk9MM1hMVmswb0ltWVNkeDdFaTBIWW5TOHVOUjdlNTI1alNaM3BTSTVENG1wUk5xS3NadXZGNnpKUTc4T2FtVndMY0trSnpOcG1GQXZkeTllSlBHbzdNNzhJNEE3OEJRTEdfQ0lWRV9FZjNabVpWbnliREJUTmFYZG1OUnNicGxMOVlTTFJQTUlROWRzZUVLLXJJdE50c2ljZw?oc=5\" target=\"_blank\">US President Trump pardons convicted Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNLU9tVk9Hb2phWks2NEEySy00dmk4ZmJ3ZUI3Ry15Qk1fcUdOcXlILV9RS2FhNjItVWlkWG9ZMW5vaHRqSGViNHhXU0ZVVkpoNDdoX2o1TmVOclpJeGRpSEhrY3hrZDlzNUM0RzNwZUlrR0tMbDM3TlZMQ2hTa3MtU3V4Mjg5c2tDMkViNG90Wk1RbTVmS096M2JBa0R2X08wazNaUTQ5MWUyYkhVLTFpVHF4WVY5VTlXUmhPcEZHci1ZejdVd3JPbEg5djAtcWwydUljTzRsUElvX2ctSXJkcHNMZTB5cWZXejhjRDFhekk3RDc0bk9MM1hMVmswb0ltWVNkeDdFaTBIWW5TOHVOUjdlNTI1alNaM3BTSTVENG1wUk5xS3NadXZGNnpKUTc4T2FtVndMY0trSnpOcG1GQXZkeTllSlBHbzdNNzhJNEE3OEJRTEdfQ0lWRV9FZjNabVpWbnliREJUTmFYZG1OUnNicGxMOVlTTFJQTUlROWRzZUVLLXJJdE50c2ljZw?oc=5",
+      "source": "MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-26T17:33:01+00:00",
+      "tags": [],
+      "key_quote": "US President Trump pardons convicted Binance founder Changpeng Zhao MSN"
     },
     {
       "title": "Coinbase CEO: Big banks are trying to 'kill the competition' through crypto regulation",
@@ -6127,30 +6149,6 @@
         "Bitcoin"
       ],
       "key_quote": "Binance’s Changpeng Zhao says bitcoin will ‘break’ the four-year cycle this year Yahoo Finance"
-    },
-    {
-      "title": "TradFi firms are increasingly warming to cryptocurrencies, says Bybit CEO Ben Zhou",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHdDWFU1X05UTFJyT1lJRWtoaE1sTlI4X2c3QXpacjVKU05fWlJ5Vi1EaW1ScWwwTUZ2SzZ6eHVzQ0NqOThGYmFfaDNuampnWllUTzk4dHBPTG44Q1h2NEpEVDBWQWt0U0V5OEtSSUltODd2eGh0R2lGMU5tS2xOX0djNzg?oc=5\" target=\"_blank\">TradFi firms are increasingly warming to cryptocurrencies, says Bybit CEO Ben Zhou</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHdDWFU1X05UTFJyT1lJRWtoaE1sTlI4X2c3QXpacjVKU05fWlJ5Vi1EaW1ScWwwTUZ2SzZ6eHVzQ0NqOThGYmFfaDNuampnWllUTzk4dHBPTG44Q1h2NEpEVDBWQWt0U0V5OEtSSUltODd2eGh0R2lGMU5tS2xOX0djNzg?oc=5",
-      "source": "Fortune",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-01-22T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "TradFi firms are increasingly warming to cryptocurrencies, says Bybit CEO Ben Zhou Fortune"
-    },
-    {
-      "title": "Brian Armstrong defends Bitcoin in tiff with French central banker",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFgzVm9kVjliSjlUNi16UDFnSk5XejYtVm9mYUFIaXVUUkRYVzlUbWpVWVFPNG1ERi1Gcm9Qa3B3aTFsTk1GTmlnUVBBR1FBbWtKT3B1a2luLVpsVm05MDF2LURBckhoTU1ldWQ3RUdNclczR2xuX2s2QWJyNGZyMm9xOUtQdmVDVGFqX3BOSG5Ebm5JSHg4OWFJeHBLeWc?oc=5\" target=\"_blank\">Brian Armstrong defends Bitcoin in tiff with French central banker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dlnews.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFgzVm9kVjliSjlUNi16UDFnSk5XejYtVm9mYUFIaXVUUkRYVzlUbWpVWVFPNG1ERi1Gcm9Qa3B3aTFsTk1GTmlnUVBBR1FBbWtKT3B1a2luLVpsVm05MDF2LURBckhoTU1ldWQ3RUdNclczR2xuX2s2QWJyNGZyMm9xOUtQdmVDVGFqX3BOSG5Ebm5JSHg4OWFJeHBLeWc?oc=5",
-      "source": "dlnews.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-01-22T08:00:00+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Brian Armstrong defends Bitcoin in tiff with French central banker dlnews.com"
     }
   ]
 }
