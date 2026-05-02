@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-02T22:26:49Z",
+  "updated_at": "2026-05-02T23:31:06Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 253,
+    "Brian Armstrong": 252,
     "CZ": 130,
-    "Richard Teng": 61,
+    "Richard Teng": 62,
     "Ben Zhou": 32,
     "Star Xu": 24
   },
@@ -1006,6 +1006,19 @@
         "Layer2"
       ],
       "key_quote": "Binance CEO Richard Teng Announces Huge Increase in Traditional Asset-Based Futures!"
+    },
+    {
+      "title": "Binance Co-CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\"",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMlRuOUlGVjdYeTNpZFY3ZGx3WG1nY3JzLTJzY2RzUHNVdUx0RU1GYXlTSHN5blFjd1kzSGpQSENSQ09OTmhPZU5Qblc1cHFDd0YxUEdNNTJHTlNrb1N3bUl6eHM?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMlRuOUlGVjdYeTNpZFY3ZGx3WG1nY3JzLTJzY2RzUHNVdUx0RU1GYXlTSHN5blFjd1kzSGpQSENSQ09OTmhPZU5Qblc1cHFDd0YxUEdNNTJHTlNrb1N3bUl6eHM?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-04-20T07:00:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Binance Co-CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\" Binance"
     },
     {
       "title": "Coinbase tests AI agents that offer high-level feedback to staff",
@@ -6137,19 +6150,6 @@
       "published_at": "2026-01-30T08:00:00+00:00",
       "tags": [],
       "key_quote": "Coinbase's (COIN) Brian Armstrong was snubbed by top executives from the biggest U.S."
-    },
-    {
-      "title": "Brian Armstrong was snubbed by top executives from the biggest U.S. banks in Davos",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZkgwZXFPOENjVExoeVp5THo5bjRWWkh2VnFxdWZpcTRMZHVGRFlqSTNhc3FteFl3M20wd0ZtOXBxVTRfalJPemd2YjZSeG04RVZqb1ZEX29Dc3JFVzRhLTFQWTVZQXJ3b3VnTV9ncGpDQ2pMaDlCMEtVeTlSYTBTcGY5MWlPSmNFdnpDRg?oc=5\" target=\"_blank\">Brian Armstrong was snubbed by top executives from the biggest U.S. banks in Davos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZkgwZXFPOENjVExoeVp5THo5bjRWWkh2VnFxdWZpcTRMZHVGRFlqSTNhc3FteFl3M20wd0ZtOXBxVTRfalJPemd2YjZSeG04RVZqb1ZEX29Dc3JFVzRhLTFQWTVZQXJ3b3VnTV9ncGpDQ2pMaDlCMEtVeTlSYTBTcGY5MWlPSmNFdnpDRg?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-01-30T08:00:00+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Brian Armstrong was snubbed by top executives from the biggest U.S."
     }
   ]
 }
