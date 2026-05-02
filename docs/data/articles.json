@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-05-02T15:35:12Z",
+  "updated_at": "2026-05-02T16:33:14Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 129,
     "Brian Armstrong": 253,
+    "CZ": 129,
     "Richard Teng": 61,
     "Ben Zhou": 32,
     "Star Xu": 25
   },
   "articles": [
+    {
+      "title": "Coinbase says deal reached on Clarity Act stablecoin yield, clearing path to long-stalled Senate markup",
+      "content": "<p>Coinbase CEO Brian Armstrong urged the Senate Banking Committee to \"mark it up\" as a months-long stalemate appears to be at an end. </p>",
+      "url": "https://www.theblock.co/post/399780/coinbase-says-deal-reached-on-clarity-act-stablecoin-yield-clearing-path-to-long-stalled-senate-markup?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-02T15:40:00+00:00",
+      "tags": [
+        "DeFi",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong urged the Senate Banking Committee to \"mark it up\" as a months-long stalemate appears to be at an end."
+    },
     {
       "title": "Changpeng Zhao: Freedom of Money book covers Binance, Luna, FTX, and U.S. legal saga",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2QydnRfQnJzSTcyeE9rMzIyRl9tXzdzOHdJR0FKamFwM1R3XzZpNkRTVjY1T0ZqNmlXMkxQeHRxWUNvZDlrZG5NREsyR0NELWZiR0dCOE1Xc2xYV1FmelhBaHdLUDJNaTJjeWEzbk9ncFREX3VRcGZUMENIenA3TFhuMG9FNTNCNXU0VngzTQ?oc=5\" target=\"_blank\">Changpeng Zhao: Freedom of Money book covers Binance, Luna, FTX, and U.S. legal saga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
@@ -6138,17 +6152,6 @@
         "市场 Market"
       ],
       "key_quote": "OKX CEO Star Xu Warns October 2025 Crash Did 'Lasting Damage' — Criticism Appears Aimed at Binance Yahoo Finance"
-    },
-    {
-      "title": "Coinbase CEO says big banks now view crypto as an ‘existential’ threat to their business",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNX0I5RmpJUFJmRUxBQjdOeVUwcFB2bkVJcENkWjJ4Um5tQm1FVWo3YTZvdW5iR0V1SEZ2aVhVd2ZmQ0Y0OUpneFdtWDAzT1JQbEV6NFExZEFhMVBWeUJRenBlMGtiNTNObXkyNUdIU0tBMFZNaXhlQUZtRlRwQzQzTmFsVDA0SDhmRG5DTS1xb28tbTVMU2RoajV5aFdJZVJ2QXBOR0JHSDdKdHV0dG1IZWlIckptcmtuZ3h3VjFVMnpzbEppWWZYeWRCVQ?oc=5\" target=\"_blank\">Coinbase CEO says big banks now view crypto as an ‘existential’ threat to their business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNX0I5RmpJUFJmRUxBQjdOeVUwcFB2bkVJcENkWjJ4Um5tQm1FVWo3YTZvdW5iR0V1SEZ2aVhVd2ZmQ0Y0OUpneFdtWDAzT1JQbEV6NFExZEFhMVBWeUJRenBlMGtiNTNObXkyNUdIU0tBMFZNaXhlQUZtRlRwQzQzTmFsVDA0SDhmRG5DTS1xb28tbTVMU2RoajV5aFdJZVJ2QXBOR0JHSDdKdHV0dG1IZWlIckptcmtuZ3h3VjFVMnpzbEppWWZYeWRCVQ?oc=5",
-      "source": "CoinDesk",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-01-24T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO says big banks now view crypto as an ‘existential’ threat to their business CoinDesk"
     }
   ]
 }
