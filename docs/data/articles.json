@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-03T10:41:32Z",
+  "updated_at": "2026-05-03T11:32:46Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 252,
-    "CZ": 130,
+    "Brian Armstrong": 251,
+    "CZ": 131,
     "Richard Teng": 62,
     "Ben Zhou": 32,
     "Star Xu": 24
@@ -105,6 +105,17 @@
       "published_at": "2026-04-30T10:30:00+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao has some scores to settle in 'Freedom of Money' thestreet.com"
+    },
+    {
+      "title": "Changpeng Zhao has some scores to settle in 'Freedom of Money'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdW9xNEUzUEdSNW1lOFlZajBTOHdNU2lMbUFXT054V1Q1T25VWU81QXN4Vmd1RVhRczE0MWM4QkNkUWF1TEFkYk1xSkZEbkJoWnJHZFBwNkZPU1FkV3h0Rktlai1ZY1JIRW9WM1JMNnhsWkVaSWtBYU9OMnJidlZTTFZrWVZRZw?oc=5\" target=\"_blank\">Changpeng Zhao has some scores to settle in 'Freedom of Money'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdW9xNEUzUEdSNW1lOFlZajBTOHdNU2lMbUFXT054V1Q1T25VWU81QXN4Vmd1RVhRczE0MWM4QkNkUWF1TEFkYk1xSkZEbkJoWnJHZFBwNkZPU1FkV3h0Rktlai1ZY1JIRW9WM1JMNnhsWkVaSWtBYU9OMnJidlZTTFZrWVZRZw?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-04-30T10:30:00+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao has some scores to settle in 'Freedom of Money' AOL.com"
     },
     {
       "title": "Richard Teng: Crypto ecosystem growth depends on local communities worldwide",
@@ -6137,19 +6148,6 @@
       "published_at": "2026-01-31T08:00:00+00:00",
       "tags": [],
       "key_quote": "Binance campaign triggered October crypto collapse, says OKX CEO dlnews.com"
-    },
-    {
-      "title": "Jamie Dimon Tells Coinbase CEO Brian Armstrong He’s ‘Full of Sh—’ in Davos Clash: WSJ",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBsYXA3ZHBVT2xHWDYwYVU0XzRvTURTUHV0dTlyYWV1SnQwY1BZcEc3Z3ZxS2QtR0hNb2pfeGtRbkNqaVIyWUIweGp4RUVCQnBVaWlpU0pCNHpzdnN2Y2oxUjlJMzJRREVjUWw4N2hIV2dybUVTMDc0eFBBWlpkVEE?oc=5\" target=\"_blank\">Jamie Dimon Tells Coinbase CEO Brian Armstrong He’s ‘Full of Sh—’ in Davos Clash: WSJ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Magazine</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsYXA3ZHBVT2xHWDYwYVU0XzRvTURTUHV0dTlyYWV1SnQwY1BZcEc3Z3ZxS2QtR0hNb2pfeGtRbkNqaVIyWUIweGp4RUVCQnBVaWlpU0pCNHpzdnN2Y2oxUjlJMzJRREVjUWw4N2hIV2dybUVTMDc0eFBBWlpkVEE?oc=5",
-      "source": "Bitcoin Magazine",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-01-30T08:00:00+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Jamie Dimon Tells Coinbase CEO Brian Armstrong He’s ‘Full of Sh—’ in Davos Clash: WSJ Bitcoin Magazine"
     }
   ]
 }
