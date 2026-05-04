@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-04T18:07:55Z",
+  "updated_at": "2026-05-04T20:08:06Z",
   "total": 500,
   "by_ceo": {
+    "Brian Armstrong": 253,
     "Richard Teng": 64,
     "CZ": 133,
-    "Brian Armstrong": 252,
-    "Ben Zhou": 32,
+    "Ben Zhou": 31,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Why Brian Armstrong said \"mark it up\" on CLARITY Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9vZnZrZ0dlOGZWVDVYVXJra0tQZHVXUFpiU01ndUh3LUVhYVFPY0ttYjNZOWd4S1JXbU9fRlIzZ2toOXFSNDU5ajFhRlU0YVFDNXJwVTlGdmhrZzV0alA5VHlNNzdwMUVfMXlQb2tXMUU2N2pvX3pHSnYtaw?oc=5\" target=\"_blank\">Why Brian Armstrong said \"mark it up\" on CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vZnZrZ0dlOGZWVDVYVXJra0tQZHVXUFpiU01ndUh3LUVhYVFPY0ttYjNZOWd4S1JXbU9fRlIzZ2toOXFSNDU5ajFhRlU0YVFDNXJwVTlGdmhrZzV0alA5VHlNNzdwMUVfMXlQb2tXMUU2N2pvX3pHSnYtaw?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-04T18:57:27+00:00",
+      "tags": [],
+      "key_quote": "Why Brian Armstrong said \"mark it up\" on CLARITY Act crypto.news"
+    },
     {
       "title": "Binance Co-CEO Richard Teng Lays Out Case for Crypto’s Transformational Growth",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5scXB5aTJGMTFVdGJzR1F0RlN5bXNHZHVkU2xWVDUyZWRBY09iLWo1SEVNV1lObEdJbDNna21uYURxTFVNYmhuc0hOdS04NnpKeG1tYWhhc0xkblU?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng Lays Out Case for Crypto’s Transformational Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
@@ -6134,17 +6145,6 @@
         "Layer2"
       ],
       "key_quote": "Bybit CEO Ben Zhou: Cryptographic assets are evolving from trading tools into global financial infrastructure 深潮TechFlow"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou: Crypto assets are moving from trading tools to global financial infrastructure",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFVG9qVVI1RXhvLTg4ajhMMWp1QnhGRW9GTlF5WEhaRzlLaFNTVXc1ZVM3azY4V2RQeDhxeHcwUUQ4OGRfVTFIc1laLTBLYVF3VDlUeDBPejluYy1xTUItUG5iU20?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: Crypto assets are moving from trading tools to global financial infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFVG9qVVI1RXhvLTg4ajhMMWp1QnhGRW9GTlF5WEhaRzlLaFNTVXc1ZVM3azY4V2RQeDhxeHcwUUQ4OGRfVTFIc1laLTBLYVF3VDlUeDBPejluYy1xTUItUG5iU20?oc=5",
-      "source": "Binance",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-02-09T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Bybit CEO Ben Zhou: Crypto assets are moving from trading tools to global financial infrastructure Binance"
     }
   ]
 }
