@@ -1,14 +1,50 @@
 {
-  "updated_at": "2026-05-04T01:25:02Z",
+  "updated_at": "2026-05-04T05:20:54Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 251,
-    "CZ": 131,
+    "CZ": 133,
+    "Brian Armstrong": 252,
     "Richard Teng": 62,
     "Ben Zhou": 32,
-    "Star Xu": 24
+    "Star Xu": 21
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao ‘CZ’ brings freedom of money to the United Arab Emirates in first-ever book signing",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVVI1ZFhaZXlJUFQ3VjJEWXpPTHpRVmVYRVprejVyS0NnQ1BBS0hVeU5vZHA1Rkp0XzBHUzBYamR5b1V5WGNxRW5iV2UyVFhpRElJX1I2QzR4dVdoMmJIYl9jcnVIWEp0V1pQMmNVMTBVYUZlS0FONWU3REs1UGQtSk16TV81T21QT2R4VC14cFdHRktZdVFxRVlndjA5alBiY3ZCTTY0Q1VzMjN5aUdIeGR5bm94MHhnMjVPWmhRSFgwSjlZLVd3S0hnaGRmbHI0V2M1aFlXVDk0XzRobWZSUkg0OG1na0puYktkRkw5cEM?oc=5\" target=\"_blank\">Changpeng Zhao ‘CZ’ brings freedom of money to the United Arab Emirates in first-ever book signing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZAWYA</font>",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVVI1ZFhaZXlJUFQ3VjJEWXpPTHpRVmVYRVprejVyS0NnQ1BBS0hVeU5vZHA1Rkp0XzBHUzBYamR5b1V5WGNxRW5iV2UyVFhpRElJX1I2QzR4dVdoMmJIYl9jcnVIWEp0V1pQMmNVMTBVYUZlS0FONWU3REs1UGQtSk16TV81T21QT2R4VC14cFdHRktZdVFxRVlndjA5alBiY3ZCTTY0Q1VzMjN5aUdIeGR5bm94MHhnMjVPWmhRSFgwSjlZLVd3S0hnaGRmbHI0V2M1aFlXVDk0XzRobWZSUkg0OG1na0puYktkRkw5cEM?oc=5",
+      "source": "ZAWYA",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-04T04:52:30+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao ‘CZ’ brings freedom of money to the United Arab Emirates in first-ever book signing ZAWYA"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Says 'Mark It Up' After Reported Compromise On Clarity Act's Stablecoin Yields Clause",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPQmZScnJDRFZDUXRmMU9XUldNcHpZZ0RBNE1idkZHTG9pVlNtWUl4VEFLOXNYSXN5V2ZKd0RzX3U5ODhMaDFsYUxWdmlXUUZiOUVMUXctZkZETVJEUllGeEJyZnFyY3dzTmlXTjNOWDAta21VenBTU09PbGFMdmhNTW1FTmRnaUVwUFR5RHN1elVvbC16WGxkaWdYbE1wdzRJeHN2ZlhOeTJRSDBYdkFoNE5GekYtekhnS3NQY2RUY01tbVJIVDFfQVhYbXNrUXhjN3BPWlJEdkZEa3VFM1h4cWpldEpXZHVFWWZKSldmS3JQVWpkcWpWaGk3aDgwWWpjbFlz?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says 'Mark It Up' After Reported Compromise On Clarity Act's Stablecoin Yields Clause</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQmZScnJDRFZDUXRmMU9XUldNcHpZZ0RBNE1idkZHTG9pVlNtWUl4VEFLOXNYSXN5V2ZKd0RzX3U5ODhMaDFsYUxWdmlXUUZiOUVMUXctZkZETVJEUllGeEJyZnFyY3dzTmlXTjNOWDAta21VenBTU09PbGFMdmhNTW1FTmRnaUVwUFR5RHN1elVvbC16WGxkaWdYbE1wdzRJeHN2ZlhOeTJRSDBYdkFoNE5GekYtekhnS3NQY2RUY01tbVJIVDFfQVhYbXNrUXhjN3BPWlJEdkZEa3VFM1h4cWpldEpXZHVFWWZKSldmS3JQVWpkcWpWaGk3aDgwWWpjbFlz?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-04T03:51:31+00:00",
+      "tags": [
+        "DeFi",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says 'Mark It Up' After Reported Compromise On Clarity Act's Stablecoin Yields Clause Benzinga"
+    },
+    {
+      "title": "'UAE will be the centre for money,' says Binance founder Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSzliUEpLaTRBOGxZRzRfdVhDNnVzeS1KZzlEbDJnSDhXbmRZUTMxTmpOY1U5X2VkU2xQRWJlNGVpRG9aQ2FXVVBOMk9Ma0tlU2FwTS13SlExdWNqR3RKN2tCVHdIUzQycUVhdG9VYVpXZ3ZSZkFuZXBkOUZ6b3RzdVZvejktbnN4S01XNlA2Z0FMRnhTNHpfV2ZVTFJia0NjWmhLbkhPTXhHZzlKdm10bU1pRmN3S3ZFTnZiZERmam5hUG1QZVE?oc=5\" target=\"_blank\">'UAE will be the centre for money,' says Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSzliUEpLaTRBOGxZRzRfdVhDNnVzeS1KZzlEbDJnSDhXbmRZUTMxTmpOY1U5X2VkU2xQRWJlNGVpRG9aQ2FXVVBOMk9Ma0tlU2FwTS13SlExdWNqR3RKN2tCVHdIUzQycUVhdG9VYVpXZ3ZSZkFuZXBkOUZ6b3RzdVZvejktbnN4S01XNlA2Z0FMRnhTNHpfV2ZVTFJia0NjWmhLbkhPTXhHZzlKdm10bU1pRmN3S3ZFTnZiZERmam5hUG1QZVE?oc=5",
+      "source": "The National",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-04T03:33:45+00:00",
+      "tags": [],
+      "key_quote": "'UAE will be the centre for money,' says Binance founder Changpeng Zhao The National"
+    },
     {
       "title": "CLARITY Act Gains Momentum Coinbase CEO Says “Mark It Up”",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UT2hjbW5mYlZJS2g4eDVGZHBERG9XYlE1Z1NCYVB6bzM2UjI2NTd5c285ZVBiWEpkN25raE1vbkg5aHpvUTMxTw?oc=5\" target=\"_blank\">CLARITY Act Gains Momentum Coinbase CEO Says “Mark It Up”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
@@ -6109,45 +6145,6 @@
       "published_at": "2026-01-31T08:00:00+00:00",
       "tags": [],
       "key_quote": "Binance campaign triggered October crypto collapse, says OKX CEO Yahoo Finance"
-    },
-    {
-      "title": "OKX CEO blames irresponsible USDe yield campaigns for October flash crash",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQdXRhMEtpZlpDTU5odlVlaWtRdVhpMDBxUW9XSE9xUF9YTW5FX1ZKbnl3OXdtXzUwUTZGeGM2bDlwZnlsTEU3Tl9NbHpXSWVJdnJyVDJ4SV9ZZWw1d1hQYU01Ny1EWmRXbVlsZDNwRG1NTGRoenRjRWcyamxVLU1xRlh2WElJTTRGdHlRaENJdzJOekdT?oc=5\" target=\"_blank\">OKX CEO blames irresponsible USDe yield campaigns for October flash crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdXRhMEtpZlpDTU5odlVlaWtRdVhpMDBxUW9XSE9xUF9YTW5FX1ZKbnl3OXdtXzUwUTZGeGM2bDlwZnlsTEU3Tl9NbHpXSWVJdnJyVDJ4SV9ZZWw1d1hQYU01Ny1EWmRXbVlsZDNwRG1NTGRoenRjRWcyamxVLU1xRlh2WElJTTRGdHlRaENJdzJOekdT?oc=5",
-      "source": "Crypto Briefing",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-01-31T08:00:00+00:00",
-      "tags": [
-        "DeFi",
-        "市场 Market"
-      ],
-      "key_quote": "OKX CEO blames irresponsible USDe yield campaigns for October flash crash Crypto Briefing"
-    },
-    {
-      "title": "OKX CEO: Binance’s USDe Yield Campaign Caused the October 10 Crash",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBKVUFLcGlqemsxQXNxVjNVQjBabGs1RlhiVkdpdVhOUjFVSXdMSGVpX1EzVllkZ21ROTlLR3NXTDdvNE0xNU42SlAxTHdlS0ZXTVdLUGZSeF9weEwtX2FudkFhODNKaXQtNldKd21JMUFOblZTalBfNUE3SXo?oc=5\" target=\"_blank\">OKX CEO: Binance’s USDe Yield Campaign Caused the October 10 Crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKVUFLcGlqemsxQXNxVjNVQjBabGs1RlhiVkdpdVhOUjFVSXdMSGVpX1EzVllkZ21ROTlLR3NXTDdvNE0xNU42SlAxTHdlS0ZXTVdLUGZSeF9weEwtX2FudkFhODNKaXQtNldKd21JMUFOblZTalBfNUE3SXo?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-01-31T08:00:00+00:00",
-      "tags": [
-        "DeFi",
-        "市场 Market"
-      ],
-      "key_quote": "OKX CEO: Binance’s USDe Yield Campaign Caused the October 10 Crash Yahoo Finance"
-    },
-    {
-      "title": "Binance campaign triggered October crypto collapse, says OKX CEO",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnJpNVkzZjJ6ZGU2Q0lRTXFyU0hLOHlSSFVYaU1OOW4xSVNtX0syaUJiUk1nWGlaMnhya2J0WUdxSENXMXQ4NG53RkpMQlBCVkhjajVlWHNURXNmZERQZklrUUR2VWNUT2hIcm0tWGVKRGJZSXg1elBwcFVxZUU3UVUyRE10T1pqSkpReUc3dFVUYlRpdHROYnpuaXY?oc=5\" target=\"_blank\">Binance campaign triggered October crypto collapse, says OKX CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dlnews.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnJpNVkzZjJ6ZGU2Q0lRTXFyU0hLOHlSSFVYaU1OOW4xSVNtX0syaUJiUk1nWGlaMnhya2J0WUdxSENXMXQ4NG53RkpMQlBCVkhjajVlWHNURXNmZERQZklrUUR2VWNUT2hIcm0tWGVKRGJZSXg1elBwcFVxZUU3UVUyRE10T1pqSkpReUc3dFVUYlRpdHROYnpuaXY?oc=5",
-      "source": "dlnews.com",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-01-31T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Binance campaign triggered October crypto collapse, says OKX CEO dlnews.com"
     }
   ]
 }
