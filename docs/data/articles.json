@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-04T08:10:38Z",
+  "updated_at": "2026-05-04T10:52:17Z",
   "total": 500,
   "by_ceo": {
-    "Richard Teng": 63,
+    "Richard Teng": 64,
     "CZ": 133,
     "Brian Armstrong": 252,
     "Ben Zhou": 32,
-    "Star Xu": 20
+    "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Binance Co-CEO Richard Teng Lays Out Case for Crypto’s Transformational Growth",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5scXB5aTJGMTFVdGJzR1F0RlN5bXNHZHVkU2xWVDUyZWRBY09iLWo1SEVNV1lObEdJbDNna21uYURxTFVNYmhuc0hOdS04NnpKeG1tYWhhc0xkblU?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng Lays Out Case for Crypto’s Transformational Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5scXB5aTJGMTFVdGJzR1F0RlN5bXNHZHVkU2xWVDUyZWRBY09iLWo1SEVNV1lObEdJbDNna21uYURxTFVNYmhuc0hOdS04NnpKeG1tYWhhc0xkblU?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-05-04T08:31:51+00:00",
+      "tags": [],
+      "key_quote": "Binance Co-CEO Richard Teng Lays Out Case for Crypto’s Transformational Growth Cryptonews.net"
+    },
     {
       "title": "Binance Co-CEO Richard Teng Lays Out Case for Crypto’s Transformational Growth",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3NmMVV0cnByVmk3cU9UTmoyUzBGSW9SaV9EWjVRbE9xMzl0Y0h4LXI5aXg3b3NvcW5rS3p0cHA4T0NxZlQyRWVyNWlMeUViZmVBMHZ4UWZaMmk5VkQybU5qZGtnYkxXR0xQZXlxZkhvLTJyME1hZGFiVWlqdHRvVTRiQW9rTWFicThGTjF0RFRSRnhJYU1n?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng Lays Out Case for Crypto’s Transformational Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -6134,19 +6145,6 @@
       "published_at": "2026-02-09T08:00:00+00:00",
       "tags": [],
       "key_quote": "Bybit CEO Ben Zhou: Crypto assets are moving from trading tools to global financial infrastructure Binance"
-    },
-    {
-      "title": "OKX CEO Star Xu Warns October 2025 Crash Did 'Lasting Damage' — Criticism Appears Aimed at Binance",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGRKdnd2UDV1TU1iak5EWl9HWnJ2ZGxTUHhkUFVnX0QxbU9JT0JTc0ZweTVZMjFuLVBOdXRtUUV1R2tXUnVSZ2x3YWs2RUpjYVNvZm9Xd0lGcEJFOFR3UE5PeW5ESElxcU5xdEUxSzVBS2NTb3h5RzFULVlIUGNSeFljUGN1bVU?oc=5\" target=\"_blank\">OKX CEO Star Xu Warns October 2025 Crash Did 'Lasting Damage' — Criticism Appears Aimed at Binance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGRKdnd2UDV1TU1iak5EWl9HWnJ2ZGxTUHhkUFVnX0QxbU9JT0JTc0ZweTVZMjFuLVBOdXRtUUV1R2tXUnVSZ2x3YWs2RUpjYVNvZm9Xd0lGcEJFOFR3UE5PeW5ESElxcU5xdEUxSzVBS2NTb3h5RzFULVlIUGNSeFljUGN1bVU?oc=5",
-      "source": "CCN.com",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-02-02T08:00:00+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "OKX CEO Star Xu Warns October 2025 Crash Did 'Lasting Damage' — Criticism Appears Aimed at Binance CCN.com"
     }
   ]
 }
