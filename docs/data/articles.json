@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-04T20:08:06Z",
+  "updated_at": "2026-05-04T21:50:00Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 253,
+    "Brian Armstrong": 254,
     "Richard Teng": 64,
     "CZ": 133,
-    "Ben Zhou": 31,
+    "Ben Zhou": 30,
     "Star Xu": 19
   },
   "articles": [
@@ -43,6 +43,20 @@
         "DeFi"
       ],
       "key_quote": "Binance Co-CEO Richard Teng Lays Out Case for Crypto’s Transformational Growth Yahoo Finance"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong says 'mark it up' after reported compromise on Clarity Act's stablecoin yields clause",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQeTlNcmtHaWhjbVByN2VTNXJtUHdDUjhldUxTeFU5VU5yUTgzbHRMLW9UdDAzTzJSVEljMklNQmdQcUc3X3R1RnRuTUx2c1BoRnZNM1dOd09MRS1TMklUZUE0SE9nRW1jcjVCZVZSemVtbWNmOHFKbUljdGU2cWpmcldfdktNOGxZX3RzeHdNZmVTU05SRTZKQTh2MDdldG1MRDlnMUN2eUl1ZUxHQVR4MDk0TnBJYjk1elZrSWRhbHZOV1BjeUdlbVZBN0RqdGgzMVNwTnBGUFNkaFQzNmhJeGx5eVpUckgzR1dUblhzRG9EM0NoR01DTUJ5V2hiNXZJd1BsaXRwYTNNcmhLYTBDdHdpV1VpVkk?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong says 'mark it up' after reported compromise on Clarity Act's stablecoin yields clause</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQeTlNcmtHaWhjbVByN2VTNXJtUHdDUjhldUxTeFU5VU5yUTgzbHRMLW9UdDAzTzJSVEljMklNQmdQcUc3X3R1RnRuTUx2c1BoRnZNM1dOd09MRS1TMklUZUE0SE9nRW1jcjVCZVZSemVtbWNmOHFKbUljdGU2cWpmcldfdktNOGxZX3RzeHdNZmVTU05SRTZKQTh2MDdldG1MRDlnMUN2eUl1ZUxHQVR4MDk0TnBJYjk1elZrSWRhbHZOV1BjeUdlbVZBN0RqdGgzMVNwTnBGUFNkaFQzNmhJeGx5eVpUckgzR1dUblhzRG9EM0NoR01DTUJ5V2hiNXZJd1BsaXRwYTNNcmhLYTBDdHdpV1VpVkk?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-04T05:36:15+00:00",
+      "tags": [
+        "DeFi",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong says 'mark it up' after reported compromise on Clarity Act's stablecoin yields clause MSN"
     },
     {
       "title": "Changpeng Zhao ‘CZ’ brings freedom of money to the United Arab Emirates in first-ever book signing",
@@ -6132,19 +6146,6 @@
         "Layer2"
       ],
       "key_quote": "Coinbase CEO Falls From List Of World’s Richest as Crypto Slides Bloomberg"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou: Cryptographic assets are evolving from trading tools into global financial infrastructure",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QeDJhSFFkY1pFZDRCRDJQRUF3TTEydGRWZ3p5d0N6Z0JYekpKdDZHZ2ZsalI2NUlDN2xXZjF6M0ItcUEwaTl6QmJWRDh1UXBjWU0xcTl2TmhFa1VDOWtOVDl3?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: Cryptographic assets are evolving from trading tools into global financial infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QeDJhSFFkY1pFZDRCRDJQRUF3TTEydGRWZ3p5d0N6Z0JYekpKdDZHZ2ZsalI2NUlDN2xXZjF6M0ItcUEwaTl6QmJWRDh1UXBjWU0xcTl2TmhFa1VDOWtOVDl3?oc=5",
-      "source": "深潮TechFlow",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-02-09T08:00:00+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Bybit CEO Ben Zhou: Cryptographic assets are evolving from trading tools into global financial infrastructure 深潮TechFlow"
     }
   ]
 }
