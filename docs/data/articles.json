@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T07:08:40Z",
+  "updated_at": "2026-05-05T09:48:45Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 254,
@@ -9,6 +9,19 @@
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase Q1 Preview: Can Brian Armstrong's Crypto Giant Beat Bearish Expectations?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGRKZjAtNWZXX3hIblhaVkhwS05IVmo3TC1wci01Z3Rkay14S2FqMmQ0V3pQckdsT3pvYWdfNmRZNmxwODdJM2pXWlBwaVdKSWpsaHczRmhyREllWkEyeWI1N2hKQ0VZQW9tdktJRzl1Q2lfRndKbmM0ZndYNjVQb0syOURmME9OQkt5X3QwU0NVNWtCekdVX2h3YV9TOVNTVGJDMGZGbF9DR01Xdlo5X3V6N0RTV3RranpubVY0ODRNRHlZTlhiNHd5bHZ4aS03Sy1oc1oycmc?oc=5\" target=\"_blank\">Coinbase Q1 Preview: Can Brian Armstrong's Crypto Giant Beat Bearish Expectations?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGRKZjAtNWZXX3hIblhaVkhwS05IVmo3TC1wci01Z3Rkay14S2FqMmQ0V3pQckdsT3pvYWdfNmRZNmxwODdJM2pXWlBwaVdKSWpsaHczRmhyREllWkEyeWI1N2hKQ0VZQW9tdktJRzl1Q2lfRndKbmM0ZndYNjVQb0syOURmME9OQkt5X3QwU0NVNWtCekdVX2h3YV9TOVNTVGJDMGZGbF9DR01Xdlo5X3V6N0RTV3RranpubVY0ODRNRHlZTlhiNHd5bHZ4aS03Sy1oc1oycmc?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-05T08:25:09+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase Q1 Preview: Can Brian Armstrong's Crypto Giant Beat Bearish Expectations?"
+    },
     {
       "title": "Why Brian Armstrong said \"mark it up\" on CLARITY Act",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9vZnZrZ0dlOGZWVDVYVXJra0tQZHVXUFpiU01ndUh3LUVhYVFPY0ttYjNZOWd4S1JXbU9fRlIzZ2toOXFSNDU5ajFhRlU0YVFDNXJwVTlGdmhrZzV0alA5VHlNNzdwMUVfMXlQb2tXMUU2N2pvX3pHSnYtaw?oc=5\" target=\"_blank\">Why Brian Armstrong said \"mark it up\" on CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
@@ -6133,19 +6146,6 @@
       "published_at": "2026-02-11T08:00:00+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong Argues Crypto, Tokenization Ensure 'Level Playing Field' In Wealth Creation: 'Equality Of Opportunity' Worth Pursuing Yahoo Finance"
-    },
-    {
-      "title": "Coinbase CEO Falls From List Of World’s Richest as Crypto Slides",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHZXTUtYUGxsaUpXbzYxQ3RaQjdWcWo2WmRBd2QtcURQbUI4czVwT3FuaFVHTjVxNmY0NUFraXp5VFl2c2htb2lLUWhaQS0yWlVHSmNaQWNGN1JyckNkWlB3MVRCRXdVVFdYb09pa29KVUJwMXdVbGtnRE9iREF3cGMtZURIRExMWEVyVWcxUUlxYnJCeUpYRnFFSDU3ZnpjOFFXQmhUbFlORFoxVFdfTHRNYUVrUk9oYTRlUg?oc=5\" target=\"_blank\">Coinbase CEO Falls From List Of World’s Richest as Crypto Slides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHZXTUtYUGxsaUpXbzYxQ3RaQjdWcWo2WmRBd2QtcURQbUI4czVwT3FuaFVHTjVxNmY0NUFraXp5VFl2c2htb2lLUWhaQS0yWlVHSmNaQWNGN1JyckNkWlB3MVRCRXdVVFdYb09pa29KVUJwMXdVbGtnRE9iREF3cGMtZURIRExMWEVyVWcxUUlxYnJCeUpYRnFFSDU3ZnpjOFFXQmhUbFlORFoxVFdfTHRNYUVrUk9oYTRlUg?oc=5",
-      "source": "Bloomberg",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-02-10T08:00:00+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Coinbase CEO Falls From List Of World’s Richest as Crypto Slides Bloomberg"
     }
   ]
 }
