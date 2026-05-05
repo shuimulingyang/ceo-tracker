@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-05-05T19:00:34Z",
+  "updated_at": "2026-05-05T20:49:14Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 267,
-    "Richard Teng": 56,
+    "Brian Armstrong": 268,
+    "Richard Teng": 55,
     "CZ": 129,
     "Ben Zhou": 29,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase's Brian Armstrong replacing 'pure managers' with 'player-coaches' is another sign the org chart is changing in a big way",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNZGtOdlBwR0FGc1ZjNDE3UmxmRXVBQi1aX2t1Y25UcFdUbTFCOGxSa3Q2MTRrd3l1Zld1OGx6UVpnOE56WXFFNjRxSDdHQzI0UDhiLVBjSmhrZWhfM0hlTjQwdVlZUHJNRXB5aFA3WWZtRTg0T3pzcURDREtVOEltVG4wZFZra1VibXNNV2VPWTk2ejg?oc=5\" target=\"_blank\">Coinbase's Brian Armstrong replacing 'pure managers' with 'player-coaches' is another sign the org chart is changing in a big way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZGtOdlBwR0FGc1ZjNDE3UmxmRXVBQi1aX2t1Y25UcFdUbTFCOGxSa3Q2MTRrd3l1Zld1OGx6UVpnOE56WXFFNjRxSDdHQzI0UDhiLVBjSmhrZWhfM0hlTjQwdVlZUHJNRXB5aFA3WWZtRTg0T3pzcURDREtVOEltVG4wZFZra1VibXNNV2VPWTk2ejg?oc=5",
+      "source": "Fortune",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-05T20:27:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase's Brian Armstrong replacing 'pure managers' with 'player-coaches' is another sign the org chart is changing in a big way Fortune"
+    },
+    {
+      "title": "Read the email Coinbase CEO Brian Armstrong sent when he laid off 14% of his staff",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzB3V2JoeWNtSVB3NWszcksxTldpdklRNFVmQVZ1WDdFNjd1bk55U19VZExxd2ZXS1NfZDFpZmZldTlEY1hrVkZRald5dEt5TVQzQk9mYUlGZmxnZGs4WTlsREZQeE5fMjlsUHhJLWpqRmd6dTFROFNZMnc0UmJQUVhyeVFCd2ZVaGx6N1NxT1owd214cXFady1sOUNBM2RGemlrd0hlajlJSnM0TUNuYU03SVIyR2Y0U0E?oc=5\" target=\"_blank\">Read the email Coinbase CEO Brian Armstrong sent when he laid off 14% of his staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzB3V2JoeWNtSVB3NWszcksxTldpdklRNFVmQVZ1WDdFNjd1bk55U19VZExxd2ZXS1NfZDFpZmZldTlEY1hrVkZRald5dEt5TVQzQk9mYUlGZmxnZGs4WTlsREZQeE5fMjlsUHhJLWpqRmd6dTFROFNZMnc0UmJQUVhyeVFCd2ZVaGx6N1NxT1owd214cXFady1sOUNBM2RGemlrd0hlajlJSnM0TUNuYU03SVIyR2Y0U0E?oc=5",
+      "source": "Fast Company",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-05T18:11:15+00:00",
+      "tags": [],
+      "key_quote": "Read the email Coinbase CEO Brian Armstrong sent when he laid off 14% of his staff Fast Company"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Says 'Mark It Up' After Reported Compromise On Clarity Act's Stablecoin Yields Clause",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNaThoSWJZYmhIRDd3RWx5ZlFOblpiLXM4ZGVwY19zTUJ2bWY2WFBidndma2lUYVVsSkhxeXU4NWVURldFUmJ6enRZeGt3Wm9KZUxJcW1FOVdaZU5KZzZzRjFzTDluOW5GakZTWkpLVWQ3V0hhRXVBakprZWNOdy1HT0NoY0lTRDlkbG82dGFneTgxZ2QwUGFFbENndHlQams?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says 'Mark It Up' After Reported Compromise On Clarity Act's Stablecoin Yields Clause</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -171,6 +193,24 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase CEO: Due to market conditions and the transition to an AI-native architecture, approximately 14% of the workforce will be laid off WEEX"
+    },
+    {
+      "title": "Coinbase cuts headcount by 14% citing AI acceleration",
+      "content": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdExrWlZGNGFtYm9Od2xuTG1lbGF5N3dVTTQ1SUFxNy1NT3A0c3htX0ZIczVuVTk0UXZyRmQyTVhiNWdweE5Fb0d0RmhqQWN5dF8zMS16eHdmdWFyNGQ3LWhhUm10ZGhCWlJ3eWxGb3U5MkdJaHNLWG1HSjNBRUVYcXd0QUZxZW9FTTYtdFJSZ2NzZGtCLTBwS09kb1hObEpVeUJFTGdEWnFWMENXWTRzajcwa2FvaHlRM2130gHAAUFVX3lxTE1SSE9lQm42SDhQMlVvOW5YSVloRFgzOXJlMVoyQzUtd29Nci11azd5UVkzN0xUaXlOWmNPMGZQb2JneXF1R2oxRnZaRnNZNnp0cFhMaG5vVGdZWGZzYWlLZzA5ZUZvb1lWVU5FUGFyRnBzckFvM3U4ajVwYnprRkEteUEzb1VCUzZhQWk4M3BYOFlDZEhXVlhnWEl6ZGxFcS11Ynd6cVAtbmh4cWV2SExGOEJsX1JIVFFMaXdpMnhXYg?oc=5\" target=\"_blank\">Coinbase cuts headcount by 14% citing AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVm0zYkpmQURfczFycnJSY25jbWhoc0N5UzQzS0tpbGpjY0EtSnFXZEJjQ3VVVk5jX3ZvNG9wOXk1dElMVUstUk8yeUhXTENwNldubEd3ZFViekh2YnZMcnhwcjFDbU9tb3RTa2RvOTZGVkx0TUtIZDBwdzJUbGVCbXZPX0hRR2JFeV9DZFhqWlpxd0Zy?oc=5\" target=\"_blank\">Coinbase is laying off 14% of staff, citing AI. Read the letter from its CEO.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1XeS0zS2FMdFoybkJic3hOMTlOblRBa1lrd1VUNV9KajFNUnl6RFo2RTljZkNCd2NZQzBSNjhtRlU0YTlqVEdFXzV2YzdBWlJaOGtBR1I3OEwzZEZ6aUdaNjc2Ry1pcy1DWUNEbU5QNkhZaFVtdF8zQVlDSHFOQQ?oc=5\" target=\"_blank\">Formerly SF-headquartered crypto giant to lay off 700 workers in AI shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTJFdS1mRm9WQ0tFQ3g3SEF1cVItT2xFTGhxaHBrZF9NLTRCR3hubTlkSE9pajJ4ZkRqeVpWY2FERjRfU2FtcDFVSl9LME8xc0FmM0Y4Q3NTdXd4cHZKekJKVUlFN2Nsam8xYm8ySEZLVHhmbk10SzNYcHZIcGxzU2pFa3BNa1VLNENEYXdEX0RuaWlGaEhOU2lB?oc=5\" target=\"_blank\">Coinbase didn't just lay off 14% of its staff due to AI. It replaced managers with ‘player-coaches’ and turned its org chart upside down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOelhtdmVQTk55TU1jWXpOVTdFNXNLTEdyTEFZdmQxNXRmYUl5bi1oQzZEc3k5Q3JaVFVoVEFLR1ZuT3haM3ZyR081bmlCS2k5UmFndXZDSl9pT1NuYTdjaXBwSENIZjVKTmF0dEtfaXBGTDE1dElRZ3VrYTRadHRlWWgwblpJM2tDS1JlTU03SVZ6ZDFTODRKalRsQkJzTlBtSU5CQ2lvSTVLSVRGTTNjM0NQTWg1UUNhWFFSN1hPUm12a3J4bU9ldjBTU3pZNUxGMkt5YlNSM1VuU1JxT29XSmxGUlM?oc=5\" target=\"_blank\">Coinbase to lay off 14% of staff as CEO Brian Armstrong restructures crypto exchange for AI efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmVEQVR5Sk5UekVKNl84eFpScmdpY3JRUHZqWENPQ3ctQU9ORUlmOHFFa2VfdXN2WGZrU0NYUzNiT0dEWjduN1JYWVZETHhDcDUtMFBDZTAxbWVNNkRNXzl0WWlrbF90XzEzSlhNZFQweFItTGJodERqTy1MQXVGZEFiMFBkYUFUUFpvbDZoOUNjczFkZzA5MW9oTGg5STNDY3U2UDFnTWRlZkRjOUJnTnlOZw?oc=5\" target=\"_blank\">Coinbase will lay off 14% of its staff as AI spurs ‘a new way of working’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVZZckZFUl9YNlNNaFE0T3ZaYmphZTNtVlFFOGhfTTFPNTlPMVVaUjFEZWNNWXR0YXpMd1FrUlZpWFZnT0FZWTRXdTdnTDdySzYwLXJoY1RoYnFmR0hCQzJlR0x0c2tldEpVakt4R2tacjVXa0hIekNmd184MXN0a0hWUdIBiAFBVV95cUxQMUt4c1RKV3hVV0pZVUMzamtFTk1ISk5FX0g5QzJDdm9Ba1gyNW40cTRsNS1RLWo3bUVuai1WNF9fd1FDeHZWTkVZN1F2NmxYNllhRlRPMnZ3U3hLZDFub0ZvUHhIYmJJZFBaSVlUSHVmSnd6aWpIQ3dvUXFEZkpMZTBaY0prUTFX?oc=5\" target=\"_blank\">Coinbase laying off hundreds of employees, citing AI advancements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUdiYW8xb09tWi1vZFZFSldUR3R0YTRHRkVBSkZNcEJWMktXRFlKbEJ6S1h1eHEwQUx1UnpsX084TEt5QXB1bFhnVE9FbTBMZXRFRHF5cmp6ckFibTFrYzh0TURaaUxRNDRJYzM4aUZzUVQ5X1BqcGFBYWlIZF8xQVE5djRXUVlFbDVnN2RtTW5tMzRZMkVVdWU3TjZkSHFITGJLSDB6QnJfQ011?oc=5\" target=\"_blank\">Coinbase layoffs today: Crypto giant cuts hundreds of jobs as CEO says AI is 'changing how we work'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxNQTBhcEhicTllcmtFWUtuRXBVd0Z5d1ZTbVhmRmtWcHg1S0EwaVh0N181ZkZZbk5mcVBJblliRmFPUkhWaGlieVZQRS1SY3dNS3drdGozbnF0cDJEZWdxQ3VLeDBVaWtROXNJOTVuVWVGVTJ1ckdmVVNmRHpqOHlGX21UclkyVTA0OGJadjB4aThTNmwzS0tQQUtPeUlDTVk5ZHItXzlqeEFkOHI2THktZ213SG1MZDYwV2F2Mi1sNnhhZUZfQlUzMHJBSFVLZ3lkSmpRT01oQjRjRFpwWWhPSHdEUWx4UzJITmM3TWRsWk0zMm9xNFNhbjdrNk5QX3E1T21ya0xxdkhHODlaZGVWemxEcG9DY0MybzIwT1hJSHVfSUh6UzIyNzFadVVDS19rQUpqUE8yWURrSzlhSXpMTkZId3U3RUdHQ1VzMlpSX2FmeTFs0gHaAkFVX3lxTE9JTVFJUlpZTHl2c1JXWkxfd215ZkFWNjQtY2FZV2pSV2VTYWxqblhackRKa1BlakZPS0Vmc3FHc0wtaFNhWkNjTkRid2xYd0FmNjAxRXNKX1FjWWg5MWFTWG8tRmU1SVRvMXJnRkNVdTN1a0Job0RCMG1KdmZFSU1Pd0FPajZJVVBHU2hUeEd3eDBtclpaNGhHVXdWR0FZNmlHdUlNamFHc28zdE5iejBTS2lId056aEdIbEhDbUtjLUl0MFIzbmpudFhXMi1HWXhwWVh4UjVGRHY2WmZ4bkV5alA3czRreW1GZEh6ZjJZS2FiOE41WTZOb1FvYkN1Q2VGbF9Ub3QyaGFGYUNCNWx5WUVFQm9WZzBwMnZZSjhhbTVlaXo2RDhVc3FCVEU0TUhOcDRLMi1IemZWZjhtY1RwYUJqZGl6aEFoYm00YlUtaEg0dmtOYzF0eFE?oc=5\" target=\"_blank\">Brian Armstrong, CEO of America's largest crypto exchange, Coinbase in layoff email to employees: Over th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li></ol>",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdExrWlZGNGFtYm9Od2xuTG1lbGF5N3dVTTQ1SUFxNy1NT3A0c3htX0ZIczVuVTk0UXZyRmQyTVhiNWdweE5Fb0d0RmhqQWN5dF8zMS16eHdmdWFyNGQ3LWhhUm10ZGhCWlJ3eWxGb3U5MkdJaHNLWG1HSjNBRUVYcXd0QUZxZW9FTTYtdFJSZ2NzZGtCLTBwS09kb1hObEpVeUJFTGdEWnFWMENXWTRzajcwa2FvaHlRM2130gHAAUFVX3lxTE1SSE9lQm42SDhQMlVvOW5YSVloRFgzOXJlMVoyQzUtd29Nci11azd5UVkzN0xUaXlOWmNPMGZQb2JneXF1R2oxRnZaRnNZNnp0cFhMaG5vVGdZWGZzYWlLZzA5ZUZvb1lWVU5FUGFyRnBzckFvM3U4ajVwYnprRkEteUEzb1VCUzZhQWk4M3BYOFlDZEhXVlhnWEl6ZGxFcS11Ynd6cVAtbmh4cWV2SExGOEJsX1JIVFFMaXdpMnhXYg?oc=5",
+      "source": "CNBC",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-05T11:48:52+00:00",
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "DeFi",
+        "市场 Market",
+        "ETF",
+        "安全 Security"
+      ],
+      "key_quote": "Coinbase cuts headcount by 14% citing AI acceleration CNBC Coinbase is laying off 14% of staff, citing AI."
     },
     {
       "title": "Coinbase to lay off 700 workers as CEO Brian Armstrong restructures crypto exchange for AI efficiency",
@@ -360,6 +400,17 @@
         "监管 Regulation"
       ],
       "key_quote": "Changpeng Zhao: Freedom of Money book covers Binance, Luna, FTX, and U.S."
+    },
+    {
+      "title": "Interview with Changpeng Zhao, Founder of Binance, on crypto, fintech and the UAE",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkItcFNCc3BlSVRySXgyVy1ZRjJlNEUyYVJKWmM2Vk5ReEIyeEx0UlhjMUt5bHBTYy1ubzdLXzZLWmxvaTZfcnRIX1I5NmJmay1TdUpCQ3NOZjJyWFYyUTd4X0tvRmk5T0U1alU3QktjcEJoQURXR19rb0hJeHRJbkdZRzYxWUFaQllucWIzU0hmaUdMODFaNVE1YmZ0cUp3NmRr?oc=5\" target=\"_blank\">Interview with Changpeng Zhao, Founder of Binance, on crypto, fintech and the UAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economy Middle East</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkItcFNCc3BlSVRySXgyVy1ZRjJlNEUyYVJKWmM2Vk5ReEIyeEx0UlhjMUt5bHBTYy1ubzdLXzZLWmxvaTZfcnRIX1I5NmJmay1TdUpCQ3NOZjJyWFYyUTd4X0tvRmk5T0U1alU3QktjcEJoQURXR19rb0hJeHRJbkdZRzYxWUFaQllucWIzU0hmaUdMODFaNVE1YmZ0cUp3NmRr?oc=5",
+      "source": "Economy Middle East",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-01T17:10:12+00:00",
+      "tags": [],
+      "key_quote": "Interview with Changpeng Zhao, Founder of Binance, on crypto, fintech and the UAE Economy Middle East"
     },
     {
       "title": "Brian Armstrong's Regulatory Playbook Is Working. He's Not the Only One Who Noticed",
@@ -6121,58 +6172,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong, Sen. Bernie Moreno on the future of crypto regulation CNBC"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Addresses “Paper Bitcoin” Claims, Claims Bitcoin ETFs Are Fully Backed",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAtXy12OUF0YV82Rkk2WGllSDdyZTljUWE0bmFLY2ZhZjBPM1Q0QzNzS1RDOUpkRTAtLWZ1TzRMQm5jNTJ6aEVLYmxCcUY1UEpNcDFwYzdCUFhvc1g1OWtOTWZDRm9xX2JNQ2ZHRjlsazFKYjQyQ2JBMw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Addresses “Paper Bitcoin” Claims, Claims Bitcoin ETFs Are Fully Backed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Magazine</font>",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtXy12OUF0YV82Rkk2WGllSDdyZTljUWE0bmFLY2ZhZjBPM1Q0QzNzS1RDOUpkRTAtLWZ1TzRMQm5jNTJ6aEVLYmxCcUY1UEpNcDFwYzdCUFhvc1g1OWtOTWZDRm9xX2JNQ2ZHRjlsazFKYjQyQ2JBMw?oc=5",
-      "source": "Bitcoin Magazine",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-02-17T08:00:00+00:00",
-      "tags": [
-        "Bitcoin",
-        "ETF"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong Addresses “Paper Bitcoin” Claims, Claims Bitcoin ETFs Are Fully Backed Bitcoin Magazine"
-    },
-    {
-      "title": "Binance Co-CEO Richard Teng: \"The Smart Money Is Deploying\" Amid Market Volatility",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNeFpBS01fWjRHUERDcEV5aXh0bEJ4NGJaSmpvYWE4QnZuMU1GS1pMaXpWRmdNczlLT2k1NXNtRjNuMmw0TWRlOF90WTg0SUJubGFlb3RFdmMtX2dtcDdiaElrYXJNRThhVlEwVmw4Z2ppYUlhN1BBSnI1VWFTcDJxTjZwNG1RUEZvNFh4aWp4U1NJcF9yQm5QNTI4elR1NnBneVA3TlZrQVlnMjZlOS14VWhKWEE?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng: \"The Smart Money Is Deploying\" Amid Market Volatility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Entrepreneur</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeFpBS01fWjRHUERDcEV5aXh0bEJ4NGJaSmpvYWE4QnZuMU1GS1pMaXpWRmdNczlLT2k1NXNtRjNuMmw0TWRlOF90WTg0SUJubGFlb3RFdmMtX2dtcDdiaElrYXJNRThhVlEwVmw4Z2ppYUlhN1BBSnI1VWFTcDJxTjZwNG1RUEZvNFh4aWp4U1NJcF9yQm5QNTI4elR1NnBneVA3TlZrQVlnMjZlOS14VWhKWEE?oc=5",
-      "source": "Entrepreneur",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-02-16T08:00:00+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Binance Co-CEO Richard Teng: \"The Smart Money Is Deploying\" Amid Market Volatility Entrepreneur"
-    },
-    {
-      "title": "Crypto Billionaire Changpeng Zhao Calls Prison A 'Bad Experience,' Reveals What A Prison Guard Told Him When He Was Processed",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0EwY2w4X21JUmNoWEoxWDJRcHppZDh6QkxyN3UtcTNfY2ptM3NvNjRyZ0xoaFV3OEhfajJESm44dEZERWFsNTlJOE5jZG95cVd0RlVBaldpSl84OWRucVJwR2JQc29jVTRnUjNuRmZWMzVUY3M0SlVWUDZ2VUtJcTJSdU1nNTN3VFlINlFn?oc=5\" target=\"_blank\">Crypto Billionaire Changpeng Zhao Calls Prison A 'Bad Experience,' Reveals What A Prison Guard Told Him When He Was Processed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0EwY2w4X21JUmNoWEoxWDJRcHppZDh6QkxyN3UtcTNfY2ptM3NvNjRyZ0xoaFV3OEhfajJESm44dEZERWFsNTlJOE5jZG95cVd0RlVBaldpSl84OWRucVJwR2JQc29jVTRnUjNuRmZWMzVUY3M0SlVWUDZ2VUtJcTJSdU1nNTN3VFlINlFn?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-02-16T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Crypto Billionaire Changpeng Zhao Calls Prison A 'Bad Experience,' Reveals What A Prison Guard Told Him When He Was Processed Yahoo Finance"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Was Asked Whether COIN Plans To Launch Its Own Prediction Market Business—Here's What He Said",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnFfSVNMM05zMHU0ZDFEVVNTZ1pVbURMaUltLVlvd0tGOWM1dGphWm9XQ05LSzNmS3JzSThTUW55T1dfRUNDd1BHeFA5Q1k3aFU5TV9OYnQ1TXNDSE53SzRBR21vX1FrZzFIdlhDckhJUzJMZXQyTmJ6RDFURUQ2QkV1d1pzZ2s?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Was Asked Whether COIN Plans To Launch Its Own Prediction Market Business—Here's What He Said</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnFfSVNMM05zMHU0ZDFEVVNTZ1pVbURMaUltLVlvd0tGOWM1dGphWm9XQ05LSzNmS3JzSThTUW55T1dfRUNDd1BHeFA5Q1k3aFU5TV9OYnQ1TXNDSE53SzRBR21vX1FrZzFIdlhDckhJUzJMZXQyTmJ6RDFURUQ2QkV1d1pzZ2s?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-02-14T08:00:00+00:00",
-      "tags": [
-        "Ethereum",
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong Was Asked Whether COIN Plans To Launch Its Own Prediction Market Business—Here's What He Said Yahoo Finance"
     }
   ]
 }
