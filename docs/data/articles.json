@@ -1,14 +1,79 @@
 {
-  "updated_at": "2026-05-05T11:07:24Z",
+  "updated_at": "2026-05-05T13:02:50Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 254,
-    "Richard Teng": 64,
-    "CZ": 133,
+    "Brian Armstrong": 259,
+    "Richard Teng": 62,
+    "CZ": 130,
     "Ben Zhou": 30,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase Cuts 14% of Staff Amid Crypto 'Down Market,' AI Adoption: CEO",
+      "content": "The crypto exchange is restructuring around artificial intelligence and flattening its org chart, CEO Brian Armstrong said.",
+      "url": "https://decrypt.co/366765/coinbase-cuts-14-of-staff-amid-crypto-down-market-ai-adoption-ceo",
+      "source": "Decrypt",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-05T12:18:41+00:00",
+      "tags": [
+        "市场 Market",
+        "AI"
+      ],
+      "key_quote": "The crypto exchange is restructuring around artificial intelligence and flattening its org chart, CEO Brian Armstrong said."
+    },
+    {
+      "title": "Coinbase cuts 14% of staff as it navigates downturn, shifts to AI-native operations",
+      "content": "<p>Coinbase CEO Brian Armstrong confirmed the layoffs on X, saying that the company's business remains \"volatile\" from quarter to quarter.</p>",
+      "url": "https://www.theblock.co/post/400023/coinbase-cuts-staff?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-05T12:04:12+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong confirmed the layoffs on X, saying that the company's business remains \"volatile\" from quarter to quarter."
+    },
+    {
+      "title": "Coinbase CEO: Due to market conditions and the transition to an AI-native architecture, approximately 14% of the workforce will be laid off",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPaVcwOF9xWE5mclJ1VEtpa2tSV1NHdmVqSWtEbFR3elBZa0s4ZVItcGRvRXY0V0ZUZWZiN1BLeUNsVnNDVWZrRC1oYjZxdlMzRTh1dm1obkhsRTRuTGdQakRhbC1mbmxyeXJwN1FFYU0yLTRNSDd4bEpxMnpnSGZtbXBFbkMzXzh0QlR0TXVEQUdLbUwxR2V5UmV1bXA1alV2dzNaYVVibHBEUVZlR3hDSUFQdlJodmk3ZEV1QjJrdEMxb0pvSnF0QzlQdzdpa2FpdkhVdGRFYThubzk2VkRHdXJ4NWdWWDZEMDBDeTlESlVMcDNpQ3JSdWpmLVIzYUxYajRGYkNLNA?oc=5\" target=\"_blank\">Coinbase CEO: Due to market conditions and the transition to an AI-native architecture, approximately 14% of the workforce will be laid off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaVcwOF9xWE5mclJ1VEtpa2tSV1NHdmVqSWtEbFR3elBZa0s4ZVItcGRvRXY0V0ZUZWZiN1BLeUNsVnNDVWZrRC1oYjZxdlMzRTh1dm1obkhsRTRuTGdQakRhbC1mbmxyeXJwN1FFYU0yLTRNSDd4bEpxMnpnSGZtbXBFbkMzXzh0QlR0TXVEQUdLbUwxR2V5UmV1bXA1alV2dzNaYVVibHBEUVZlR3hDSUFQdlJodmk3ZEV1QjJrdEMxb0pvSnF0QzlQdzdpa2FpdkhVdGRFYThubzk2VkRHdXJ4NWdWWDZEMDBDeTlESlVMcDNpQ3JSdWpmLVIzYUxYajRGYkNLNA?oc=5",
+      "source": "WEEX",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-05T12:00:05+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO: Due to market conditions and the transition to an AI-native architecture, approximately 14% of the workforce will be laid off WEEX"
+    },
+    {
+      "title": "Coinbase Cuts 14% of Workforce, Signals AI-Driven Future",
+      "content": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Coinbase-Cuts-14-of-Workforce-Signals-AI-Driven-Future.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coinbase-cuts-14-of-workforce\" rel=\"nofollow\">Coinbase Cuts 14% of Workforce, Signals AI-Driven Future</a></p>\n<div id=\"bsf_rt_marker\"></div>\n<p>Coinbase announced a 14% reduction in its workforce on Tuesday, a decision CEO Brian Armstrong <a href=\"https://x.com/brian_armstrong/status/2051616759145185723\">described</a> as preparation for what he called a &#8220;new way of working&#8221; built on artificial intelligence—not a defensive reaction to market conditions.</p>\n\n\n\n<p>In a company-wide email, Armstrong cited two forces behind the move: the persistence of crypto market cycles and a transformation in how AI has changed the pace of internal work.&nbsp;</p>\n\n\n\n<p>Engineers at Coinbase use AI to ship in days what full teams required weeks to complete, Armstrong wrote, and the pace of that shift is an acceleration, not a plateau.</p>\n\n\n\n<p>Coinbase had 4,951 employees as of December 31, 2025, placing the number of affected workers at an estimated 693 people. Departing U.S. employees will receive a minimum of 16 weeks of base pay, plus two weeks per year of service, their next equity vest, and six months of COBRA health coverage.&nbsp;</p>\n\n\n\n<p>Employees on work visas receive extra transition support. System access was cut on the day of the announcement — a practice Armstrong acknowledged as harsh but defended as a matter of customer data protection.</p>\n\n\n\n<p>The cuts follow a pattern that traces to 2022. In June of that year, Coinbase <a href=\"https://www.npr.org/2022/06/14/1105026558/coinbase-cryptocurrency-layoffs\" rel=\"noopener\" target=\"_blank\">eliminated</a> 18% of its workforce — 1,100 roles — as crypto prices fell and recession fears mounted. In January 2023, a second major reduction of 20%, covering 950 employees, followed the collapse of FTX and a prolonged market contraction. Those two rounds cut headcount by more than 2,100 people. Each time, Armstrong positioned the pain as the foundation for a stronger company on the other side.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Coinbase: AI is changing our company</h2>\n\n\n\n<p>This round carries a structural argument the prior two did not. The 2022 and 2023 reductions were market responses. The 2026 restructuring is, in Armstrong&#8217;s framing, an AI-driven redesign of how the company operates.&nbsp;</p>\n\n\n\n<p>He has fired engineers who refused to adopt tools such as GitHub Copilot and Cursor after securing enterprise licenses for both, and has set a target of 50% AI-written code at Coinbase.&nbsp;</p>\n\n\n\n<p>The logic of the current cuts extends that mandate: if AI increases the output of a small team, a large team becomes a drag on performance.</p>\n\n\n\n<p>The org chart changes Armstrong outlined are broad. The company will flatten to no more than five layers below the CEO and COO. Every leader must carry an active individual contributor role — a &#8220;player-coach&#8221; model. Cross-functional &#8220;AI-native pods&#8221; will replace traditional team structures, with experiments in one-person teams that fold engineering, design, and product responsibilities into a single role.</p>\n\n\n\n<p>COIN shares trade near $210 in pre-market trading, a fraction of the highs the stock reached in late 2024.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coinbase-cuts-14-of-workforce\" rel=\"nofollow\">Coinbase Cuts 14% of Workforce, Signals AI-Driven Future</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+      "url": "https://bitcoinmagazine.com/news/coinbase-cuts-14-of-workforce",
+      "source": "Bitcoin Magazine",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-05T11:28:24+00:00",
+      "tags": [
+        "监管 Regulation",
+        "Bitcoin",
+        "市场 Market",
+        "AI"
+      ],
+      "key_quote": "Bitcoin Magazine Coinbase Cuts 14% of Workforce, Signals AI-Driven Future Coinbase announced a 14% reduction in its workforce on Tuesday, a decision CEO Brian Armstrong described as preparation for what he called a “new way of working” built on artif"
+    },
+    {
+      "title": "Why Brian Armstrong Is Letting 14% of Coinbase Staff Go",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0yR0U3NXdpUlZzWDMwYzZKZkd5YUxTQkFtbC1xazFJV2pHeGlYd2sxa1JtSWw4NUFILUM0a3I5VERfaldPWkVybUx2N3Z6SE1jZC03TWY3UnlTN0NQYzRoYkRZMW9uM0NESXRJR1VwWENuZnpy?oc=5\" target=\"_blank\">Why Brian Armstrong Is Letting 14% of Coinbase Staff Go</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yR0U3NXdpUlZzWDMwYzZKZkd5YUxTQkFtbC1xazFJV2pHeGlYd2sxa1JtSWw4NUFILUM0a3I5VERfaldPWkVybUx2N3Z6SE1jZC03TWY3UnlTN0NQYzRoYkRZMW9uM0NESXRJR1VwWENuZnpy?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-05T11:21:00+00:00",
+      "tags": [],
+      "key_quote": "Why Brian Armstrong Is Letting 14% of Coinbase Staff Go BeInCrypto"
+    },
     {
       "title": "Coinbase CEO: Flattening our org structure to 5 layers max below CEO/COO",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbllESUszNkVlZjlwYUVDQjdVOW54cF95UzV2UGNsdW10dHBnVlM4amFad2thbFV0VFdpRGNxc2NhSlQtdUxEejRwWHlYSHN2S0dZY3FEb3VQVnpsbE0zMThLNzdJMjZjNHV5T0VQT2Y4VHdPaTFzR1pQcnY5Z2FnUnlzNW5Cd21CWm1Xa1p4bFo2aG9mTDFsR2psdFA3MmlyX3pWb1hpdDVqbFdmcmFxX0ZhV3JnLUNTRUVVQkREZ2kyZw?oc=5\" target=\"_blank\">Coinbase CEO: Flattening our org structure to 5 layers max below CEO/COO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
@@ -6089,65 +6154,6 @@
         "Layer2"
       ],
       "key_quote": "Binance's Richard Teng breaks down the ‘10/10’ nightmare that rocked crypto Yahoo Finance Singapore"
-    },
-    {
-      "title": "Richard Teng: Clear Regulation Is the Foundation of Innovation; Hong Kong Has the Conditions to Become a Global Crypto Hub",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RMjdhRmdzemtOT2gyNU1YcERtYlhLdndSR3Yyd1pxa2RYUndfX05JWktGQ2gxQ1gtSFhwMmJRMWpRNHg2MzNVTEZQMVdha1VCWkg2SHRpbG1tT24tVUN0eGdVM2I?oc=5\" target=\"_blank\">Richard Teng: Clear Regulation Is the Foundation of Innovation; Hong Kong Has the Conditions to Become a Global Crypto Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RMjdhRmdzemtOT2gyNU1YcERtYlhLdndSR3Yyd1pxa2RYUndfX05JWktGQ2gxQ1gtSFhwMmJRMWpRNHg2MzNVTEZQMVdha1VCWkg2SHRpbG1tT24tVUN0eGdVM2I?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-02-12T08:00:00+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Richard Teng: Clear Regulation Is the Foundation of Innovation; Hong Kong Has the Conditions to Become a Global Crypto Hub Binance"
-    },
-    {
-      "title": "Richard Teng: Clear regulation is the cornerstone of innovation, Hong Kong has the conditions to be a global crypto hub",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QYlp3dlhOS3BTeWJnYS1QR2RPZkU1cE9RS3dGVjNUZDRtQVBIczFIN2tiM19GSVdxNFVwbVBDUld4NVowMUhGRHdHSm9tdEZDV2h1ZVF6NktCNjdWeGV2c3pvU2w?oc=5\" target=\"_blank\">Richard Teng: Clear regulation is the cornerstone of innovation, Hong Kong has the conditions to be a global crypto hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QYlp3dlhOS3BTeWJnYS1QR2RPZkU1cE9RS3dGVjNUZDRtQVBIczFIN2tiM19GSVdxNFVwbVBDUld4NVowMUhGRHdHSm9tdEZDV2h1ZVF6NktCNjdWeGV2c3pvU2w?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-02-12T08:00:00+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Richard Teng: Clear regulation is the cornerstone of innovation, Hong Kong has the conditions to be a global crypto hub Binance"
-    },
-    {
-      "title": "Trump pardons billionaire Binance founder Changpeng Zhao, says he did so at request of others",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXNEbURLdk9IaTlydmhfdGhqa1RiWWtkdUZyXzVNVjRuRl9wVnJDOHNEVDdjbF9tUXpYaHF0S0hldDNNaDItVm4xUzFBblZmVDh3N2lQb29jQTYyS2VlREJfbkxkei1oeVRMeWtlWlRvVFZxa0h4YnJhdC1NbmFmYld3VGFYM2xCc1hpaDNJeUh2Y3lWM2lfV3kwbGJfQ3NYYUNXZWNNNNIBrAFBVV95cUxQVHRqazdRbUlVdlo3RGs2RUZUUjByZUd2MW1MdmpPUGFsSzNLV0Z3OHc2Tjd6WUJMT1NyRXBDbGNnNWoyZzBQYzNDN2hFWUxKNmJVRVpBMlYtRFA2ZXdLblF2a1JOdWhFREJEcDdrTDBRREpsZ1JLMFhmOUdwTzliSUlfYXZYbnpZemNRZzYwTEJ0Qjd0SWI5cTB5UzVCQ2QtOGRTaGlRUkFPNnp6?oc=5\" target=\"_blank\">Trump pardons billionaire Binance founder Changpeng Zhao, says he did so at request of others</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abcnews.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXNEbURLdk9IaTlydmhfdGhqa1RiWWtkdUZyXzVNVjRuRl9wVnJDOHNEVDdjbF9tUXpYaHF0S0hldDNNaDItVm4xUzFBblZmVDh3N2lQb29jQTYyS2VlREJfbkxkei1oeVRMeWtlWlRvVFZxa0h4YnJhdC1NbmFmYld3VGFYM2xCc1hpaDNJeUh2Y3lWM2lfV3kwbGJfQ3NYYUNXZWNNNNIBrAFBVV95cUxQVHRqazdRbUlVdlo3RGs2RUZUUjByZUd2MW1MdmpPUGFsSzNLV0Z3OHc2Tjd6WUJMT1NyRXBDbGNnNWoyZzBQYzNDN2hFWUxKNmJVRVpBMlYtRFA2ZXdLblF2a1JOdWhFREJEcDdrTDBRREpsZ1JLMFhmOUdwTzliSUlfYXZYbnpZemNRZzYwTEJ0Qjd0SWI5cTB5UzVCQ2QtOGRTaGlRUkFPNnp6?oc=5",
-      "source": "abcnews.com",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-02-11T08:30:03+00:00",
-      "tags": [],
-      "key_quote": "Trump pardons billionaire Binance founder Changpeng Zhao, says he did so at request of others abcnews.com"
-    },
-    {
-      "title": "All-In Interview: w/ Binance founder Changpeng Zhao (Transcript)",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3Voc1k1aXJKNVVrZmJ1LVVwVGcteG9VZFgzS1FUQTZpLTZYN19hMGk4ajdZRHM5OTk3MF9mSmFjbm9PZHFySUtzR3ItTTg5YUhUZVVwdzVORXh5Z0lGTWxmSXNjS3JmblNTMmJPSE45b0gtcWtNN2N2aEJJVjFUVmdFTzU2ZUJJam0zeg?oc=5\" target=\"_blank\">All-In Interview: w/ Binance founder Changpeng Zhao (Transcript)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Singju Post</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3Voc1k1aXJKNVVrZmJ1LVVwVGcteG9VZFgzS1FUQTZpLTZYN19hMGk4ajdZRHM5OTk3MF9mSmFjbm9PZHFySUtzR3ItTTg5YUhUZVVwdzVORXh5Z0lGTWxmSXNjS3JmblNTMmJPSE45b0gtcWtNN2N2aEJJVjFUVmdFTzU2ZUJJam0zeg?oc=5",
-      "source": "The Singju Post",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-02-11T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "All-In Interview: w/ Binance founder Changpeng Zhao (Transcript) The Singju Post"
-    },
-    {
-      "title": "Binance founder Changpeng Zhao says he ‘didn’t do much’ to get Trump pardon",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1RhUEJrcWVCTWRLVlZPTFNzVEJkdWlyR2g0eVZ3YkZEcXNScGU0djViaExsTEpuTm5nWktlYTFoRnc4TzhabVR3ZVV2Q1pjR3FmTjBEUjVKWGQ5MWtFS2xrbXNjUG56dlR2UFQ4WEFlSUdMb2JrRDdpNFhacFdLdHdvSEptclY0OGkyOTJZaTcxN2NoRFo4RnF3c3FhZnhqWTB1dERHZTJqM3Jy?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao says he ‘didn’t do much’ to get Trump pardon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dlnews.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1RhUEJrcWVCTWRLVlZPTFNzVEJkdWlyR2g0eVZ3YkZEcXNScGU0djViaExsTEpuTm5nWktlYTFoRnc4TzhabVR3ZVV2Q1pjR3FmTjBEUjVKWGQ5MWtFS2xrbXNjUG56dlR2UFQ4WEFlSUdMb2JrRDdpNFhacFdLdHdvSEptclY0OGkyOTJZaTcxN2NoRFo4RnF3c3FhZnhqWTB1dERHZTJqM3Jy?oc=5",
-      "source": "dlnews.com",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-02-11T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Binance founder Changpeng Zhao says he ‘didn’t do much’ to get Trump pardon dlnews.com"
     }
   ]
 }
