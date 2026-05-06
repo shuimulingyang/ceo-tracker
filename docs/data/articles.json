@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-05-06T19:15:42Z",
+  "updated_at": "2026-05-06T20:59:26Z",
   "total": 500,
   "by_ceo": {
-    "Richard Teng": 56,
-    "Brian Armstrong": 268,
-    "CZ": 129,
-    "Ben Zhou": 28,
+    "Brian Armstrong": 266,
+    "Richard Teng": 57,
+    "CZ": 131,
+    "Ben Zhou": 27,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase to lay off 14% of workers as CEO Brian Armstrong restructures crypto exchange for AI efficiency",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTGM3c1E3Yktwc3NUX0V6OWhoU1MxYUU2bWpIMk9XTG5xd2NpYUdVN3NjbzI4bWI5STNwQzNVTzk0bG1WbEFRaWVvTU11eVdvc1M0SkdkWVNzX1MxV0QxRHk2ZGhDU1JBa1c0STliMkNqejhWU0ZHWmRBdlVCaHBjSkxGYl9QcjFhVktseWJydVE1OXd6TTJvaS02OEhBVVN4UEt1YmJsWW9ZNUloejhkVTNIQ1F6b3o4dlFYajJCNTF6cHk3MVdkZnRoOUxoXzFXRzFONVdBRDdCdEhLQ1NVQzlNYnM3NDZtUWFFNG91VlFwcTRlQ3Ztdw?oc=5\" target=\"_blank\">Coinbase to lay off 14% of workers as CEO Brian Armstrong restructures crypto exchange for AI efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTGM3c1E3Yktwc3NUX0V6OWhoU1MxYUU2bWpIMk9XTG5xd2NpYUdVN3NjbzI4bWI5STNwQzNVTzk0bG1WbEFRaWVvTU11eVdvc1M0SkdkWVNzX1MxV0QxRHk2ZGhDU1JBa1c0STliMkNqejhWU0ZHWmRBdlVCaHBjSkxGYl9QcjFhVktseWJydVE1OXd6TTJvaS02OEhBVVN4UEt1YmJsWW9ZNUloejhkVTNIQ1F6b3o4dlFYajJCNTF6cHk3MVdkZnRoOUxoXzFXRzFONVdBRDdCdEhLQ1NVQzlNYnM3NDZtUWFFNG91VlFwcTRlQ3Ztdw?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-06T16:08:41+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Coinbase to lay off 14% of workers as CEO Brian Armstrong restructures crypto exchange for AI efficiency Yahoo Finance"
+    },
     {
       "title": "Binance Pay handled over $280 billion and is expanding to more countries, Richard Teng notes",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOaXdPSmZNSjNJdnN5WlNibU9DY3BUVy1MVEVycHFfaGEzNjNLWlQ3NUFKYW5yc2I5RlRmZ2ctZ3VmSHpWUEprVHNzWktSTHlWRVV5TmV5eVNqM3VmZDlkd0ptSUJRbENCckM2VHdiTzNRTmJkTjJuaWxMeEdMeDNkWVhqUTZkY2M?oc=5\" target=\"_blank\">Binance Pay handled over $280 billion and is expanding to more countries, Richard Teng notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
@@ -54,6 +67,17 @@
       "published_at": "2026-05-06T01:44:23+00:00",
       "tags": [],
       "key_quote": "3 key things we learned about Brian Armstrong's vision for Coinbase's post-layoff workforce AOL.com"
+    },
+    {
+      "title": "Users should consider locking accounts when traveling to high-risk destinations, Changpeng Zhao adds",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGJLZ18zV0FQU2RMbTVJYm5sbzctRllSMVJ1cGUxSnBYZTBNYV9iY2RtNFZxcGV4by11RE9RSlAtOWVoMHFKVlNNMVFnT2trTDYzcHkxRllrcmdYcXlaOWhJR2F3TGhOV2RyczhBX0RZamRuc3I4NFEzUDhfb0lfYjc3cmlzRE8wSEl5NTM4ZlA?oc=5\" target=\"_blank\">Users should consider locking accounts when traveling to high-risk destinations, Changpeng Zhao adds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGJLZ18zV0FQU2RMbTVJYm5sbzctRllSMVJ1cGUxSnBYZTBNYV9iY2RtNFZxcGV4by11RE9RSlAtOWVoMHFKVlNNMVFnT2trTDYzcHkxRllrcmdYcXlaOWhJR2F3TGhOV2RyczhBX0RZamRuc3I4NFEzUDhfb0lfYjc3cmlzRE8wSEl5NTM4ZlA?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-06T01:16:31+00:00",
+      "tags": [],
+      "key_quote": "Users should consider locking accounts when traveling to high-risk destinations, Changpeng Zhao adds Traders Union"
     },
     {
       "title": "Coinbase's Brian Armstrong replacing 'pure managers' with 'player-coaches' is another sign the org chart is changing in a big way",
@@ -461,6 +485,20 @@
       "published_at": "2026-05-04T03:33:45+00:00",
       "tags": [],
       "key_quote": "'UAE will be the centre for money,' says Binance founder Changpeng Zhao The National"
+    },
+    {
+      "title": "US President Trump pardons convicted Binance founder Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxQdlRGZG1Ic0VUTjJMUm9DVWRDVHNBeHJMS0V3OVBUQ0VhY0x1VHVaNzNoMGlqWkI2SGNvWjVkNy12U1FLV2dBRUMyV29SM2lmZllMWXIxWmxiMFRocVVlSGhCZjA4b3lhY01WdTFIOVlUaFF5Z1cybkdPZHBSc0MtVmFPN01VeGdOLXpTNU5xdUs0OW8ycko0cnE1ZVp5YURUU3lhMHJ3MkpSRDBvdmI0ZjUxa0JRZGpqY2hwTXFKdVhjQTR3TWo3cVRlUWhFNGZmN00xamxXVXVpQzlXSHZOc193TGt3UlhFTklWN1cyMWJfVnNCUThPYTRIWXlHMDhPRTRJR004OGRsTExJZ2haUDc4dGVyckFuNDB4ZGFTdmk3UFBlakx3cXltUGZFTGhmbXBtLXhWTk5sbFA0WmRXRGFTTTAzX3JZNkNTYw?oc=5\" target=\"_blank\">US President Trump pardons convicted Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQdlRGZG1Ic0VUTjJMUm9DVWRDVHNBeHJMS0V3OVBUQ0VhY0x1VHVaNzNoMGlqWkI2SGNvWjVkNy12U1FLV2dBRUMyV29SM2lmZllMWXIxWmxiMFRocVVlSGhCZjA4b3lhY01WdTFIOVlUaFF5Z1cybkdPZHBSc0MtVmFPN01VeGdOLXpTNU5xdUs0OW8ycko0cnE1ZVp5YURUU3lhMHJ3MkpSRDBvdmI0ZjUxa0JRZGpqY2hwTXFKdVhjQTR3TWo3cVRlUWhFNGZmN00xamxXVXVpQzlXSHZOc193TGt3UlhFTklWN1cyMWJfVnNCUThPYTRIWXlHMDhPRTRJR004OGRsTExJZ2haUDc4dGVyckFuNDB4ZGFTdmk3UFBlakx3cXltUGZFTGhmbXBtLXhWTk5sbFA0WmRXRGFTTTAzX3JZNkNTYw?oc=5",
+      "source": "MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-02T22:48:52+00:00",
+      "tags": [
+        "机构 Institutional",
+        "AI"
+      ],
+      "key_quote": "US President Trump pardons convicted Binance founder Changpeng Zhao MSN"
     },
     {
       "title": "CLARITY Act Gains Momentum Coinbase CEO Says “Mark It Up”",
@@ -5182,6 +5220,19 @@
       "key_quote": "Coinbase CEO Drops Bombshell: Crypto Could Replace Venture Capital and Let Startups Raise Millions Overnight MEXC"
     },
     {
+      "title": "Changpeng Zhao names Richard Teng as new Binance CEO",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9WY2MyMjRmUlRTRXJoOHV0SlFHTzRmMW5GOV9mTUJqdUlLMW1qcGxTTzlIZXlDUkZBMnh6ajF0TTBZbEw2LVJLVjYwb0ktTHVJUkNXejJtX3Jha3pPSWJPb2Z1OUowOVppWlpzN3J6STlpUndJT0lVcU9UOU0?oc=5\" target=\"_blank\">Changpeng Zhao names Richard Teng as new Binance CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockworks</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WY2MyMjRmUlRTRXJoOHV0SlFHTzRmMW5GOV9mTUJqdUlLMW1qcGxTTzlIZXlDUkZBMnh6ajF0TTBZbEw2LVJLVjYwb0ktTHVJUkNXejJtX3Jha3pPSWJPb2Z1OUowOVppWlpzN3J6STlpUndJT0lVcU9UOU0?oc=5",
+      "source": "Blockworks",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-03-09T14:22:40+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Changpeng Zhao names Richard Teng as new Binance CEO Blockworks"
+    },
+    {
       "title": "Coinbase CEO Highlights UK Regulatory Risks as US Stablecoin Framework Advances and Global Adoption Surges",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeUNESGRlM0ltT3FCWklXVl9XLUlwbVY3cE16czdVTUdHVnBIdWZkVkNjNi14RGx0Zjl1VkY4ZVlRNVJ4aUNEa0lkMFVIR3F2NDJ3ZUZseDVSY0xtQm5wTllXUm9ob3dMNkZjUjRMNlFZOG5iR1MtN1FOMU5wOGJISGR1Z2FpUVB5T0NWdVk2bGM0eXlxSnNpU1VMNGxBS2tUZ1ZQWDlWZm8xTTBhZDdmREhjQXk1eUVFQkpVdjhpZTRieUFmaGxaaHNmdjNkMklvcmJLVUFUbmp2enBpQzltMTNfT0FEbkdIRjFv?oc=5\" target=\"_blank\">Coinbase CEO Highlights UK Regulatory Risks as US Stablecoin Framework Advances and Global Adoption Surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crowdfund Insider</font>",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeUNESGRlM0ltT3FCWklXVl9XLUlwbVY3cE16czdVTUdHVnBIdWZkVkNjNi14RGx0Zjl1VkY4ZVlRNVJ4aUNEa0lkMFVIR3F2NDJ3ZUZseDVSY0xtQm5wTllXUm9ob3dMNkZjUjRMNlFZOG5iR1MtN1FOMU5wOGJISGR1Z2FpUVB5T0NWdVk2bGM0eXlxSnNpU1VMNGxBS2tUZ1ZQWDlWZm8xTTBhZDdmREhjQXk1eUVFQkpVdjhpZTRieUFmaGxaaHNmdjNkMklvcmJLVUFUbmp2enBpQzltMTNfT0FEbkdIRjFv?oc=5",
@@ -6125,55 +6176,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Richard Teng: WSJ's Claims on Binance's Compliance Program Are False Binance"
-    },
-    {
-      "title": "Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9wOWNkY1lNOVI3LXFRQzF2LVoxemdZWUNzRG1FNWY5aTNqbzUzVkZVbEdGQUFBUWhFM3JmTENjbkxMMmpZYzgzX2djX04tZkloeHY5bmhGS2ZkQWFrXzB3dmdNTjk3d24yb2FwTnpwLXVEc09DNjI2Um9NTkRVZw?oc=5\" target=\"_blank\">Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wOWNkY1lNOVI3LXFRQzF2LVoxemdZWUNzRG1FNWY5aTNqbzUzVkZVbEdGQUFBUWhFM3JmTENjbkxMMmpZYzgzX2djX04tZkloeHY5bmhGS2ZkQWFrXzB3dmdNTjk3d24yb2FwTnpwLXVEc09DNjI2Um9NTkRVZw?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-02-24T08:00:00+00:00",
-      "tags": [
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge Yahoo Finance"
-    },
-    {
-      "title": "Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDZDY21IOVNyOV9yOWNSaHFkdmVwdFNkMEtDaFlkUlN4ZzZuSjcxanZmY3FwM0Fqc1E4QWtaR1dIUVZURVo3NWxlc1BRR3VSU3ViZGQwRXllMkVXYlpteS1xRWtCY09aRm1QYldjRW5VTHV0WHR2eDNrYzQtSk1wakEtZ9IBiwFBVV95cUxPQXFGeG5KdnVGXzhINk04MEE2WE5SdTBLalN0dWtVd2R5OS1xMWw0UmxBV3cxYlQwVC1NaWcwUGtzRlpsVnY3bFFhYVlLLVRFcnE3el9UZ2J6Y2lRSUg1aG5Ra18xQzJlaHNtVHRnem1GMUZ4RE42REh1VDQ3RlBKb2JpUHA4TDhxUVdn?oc=5\" target=\"_blank\">Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDZDY21IOVNyOV9yOWNSaHFkdmVwdFNkMEtDaFlkUlN4ZzZuSjcxanZmY3FwM0Fqc1E4QWtaR1dIUVZURVo3NWxlc1BRR3VSU3ViZGQwRXllMkVXYlpteS1xRWtCY09aRm1QYldjRW5VTHV0WHR2eDNrYzQtSk1wakEtZ9IBiwFBVV95cUxPQXFGeG5KdnVGXzhINk04MEE2WE5SdTBLalN0dWtVd2R5OS1xMWw0UmxBV3cxYlQwVC1NaWcwUGtzRlpsVnY3bFFhYVlLLVRFcnE3el9UZ2J6Y2lRSUg1aG5Ra18xQzJlaHNtVHRnem1GMUZ4RE42REh1VDQ3RlBKb2JpUHA4TDhxUVdn?oc=5",
-      "source": "Decrypt",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-02-24T08:00:00+00:00",
-      "tags": [
-        "AI",
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "Coinbase CEO Pushes Back on UK Stablecoin Caps as Token Profits Surge Decrypt"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Says Quantum Computing 'Very Solvable' Issue, Sees No Risk To Blockchain",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPam5hWFpGSkNTYTQzSlFLWEFBVDA1S0lyLTFpb1lJOVk5bzhmbkYyU2xMTUhhS1lXc3RLaUc2TlpXbGViTlpOSkt0X2V5YkNQb083SHBKc1hsZ2hJcFloS3huVlNMeWRoUlVQUEJfV1Y2NHRDTUdsYWJlR1RSdFpqRkQ4VzVQQQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says Quantum Computing 'Very Solvable' Issue, Sees No Risk To Blockchain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPam5hWFpGSkNTYTQzSlFLWEFBVDA1S0lyLTFpb1lJOVk5bzhmbkYyU2xMTUhhS1lXc3RLaUc2TlpXbGViTlpOSkt0X2V5YkNQb083SHBKc1hsZ2hJcFloS3huVlNMeWRoUlVQUEJfV1Y2NHRDTUdsYWJlR1RSdFpqRkQ4VzVQQQ?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-02-21T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong Says Quantum Computing 'Very Solvable' Issue, Sees No Risk To Blockchain Yahoo Finance"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1h1OWpRak9jUDFMZ0ZVYmZ3aXlQblJYUUI3RzZwalFjOVgwRHFBR0RyaGg0WFNNYXpIUnlPbDRLaTZQZ3ozTU1TaktaZ292aFRxblY4dEJ3b1ZsbnpQOXJFZElrNlNKcVR1cWF3aTNLMFZOZU1xb2R2dDNwWm13X055dXpfUUo2VHlIdWxxZmhPdnlITXd6RmFR?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sharecast.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1h1OWpRak9jUDFMZ0ZVYmZ3aXlQblJYUUI3RzZwalFjOVgwRHFBR0RyaGg0WFNNYXpIUnlPbDRLaTZQZ3ozTU1TaktaZ292aFRxblY4dEJ3b1ZsbnpQOXJFZElrNlNKcVR1cWF3aTNLMFZOZU1xb2R2dDNwWm13X055dXpfUUo2VHlIdWxxZmhPdnlITXd6RmFR?oc=5",
-      "source": "Sharecast.com",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-02-19T08:00:00+00:00",
-      "tags": [],
-      "key_quote": "Bybit CEO Ben Zhou to Unveil 2026 Roadmap in Keynote Heralding New Era for Digital Finance Sharecast.com"
     }
   ]
 }
