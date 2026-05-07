@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-07T20:54:25Z",
+  "updated_at": "2026-05-07T21:43:05Z",
   "total": 500,
   "by_ceo": {
     "Richard Teng": 55,
-    "Brian Armstrong": 269,
-    "CZ": 131,
+    "Brian Armstrong": 270,
+    "CZ": 130,
     "Ben Zhou": 26,
     "Star Xu": 19
   },
@@ -22,6 +22,17 @@
         "AI"
       ],
       "key_quote": "Binance CEO Richard Teng Says AI Can Both Protect and Exploit Users MEXC"
+    },
+    {
+      "title": "20VC x SaaStr: The Most Aggressive Quarter in American Capitalism, Palantir’s Rule of 145, and Why Brian Armstrong Just Killed the Manager-of-Managers",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ19LcmpfWXVCZEJVdWNTaWtGRVNXdUJ1SENlYllfcVVLZ3dFUkd4ZVBRZEZSeWgyYUVWUGF3a0tvWnVVblJYZUxnS2YyXzY0LUpJREs0SDRmQ3Iyd2kyWFp4MTF5TjBkYmVBeE9QT0gwcVlrMEhzdk9ZZUpTVXRHN0RRS0dPQ3JNVF93eVJpaVZVdUFnVURGeVJlMlBqWkFqcjJUbnJxSmZPQllnejlOR2ozS2JEcnoxYnVkYllpNXIyRkMwSThoZkF3SVFFbjc1SVM4dXlSR2UyS1lYUEttc0Y1dXBvRm1JSnpONVdBSkRrRHhTYTNUdUpGblhtM0E?oc=5\" target=\"_blank\">20VC x SaaStr: The Most Aggressive Quarter in American Capitalism, Palantir’s Rule of 145, and Why Brian Armstrong Just Killed the Manager-of-Managers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SaaStr</font>",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ19LcmpfWXVCZEJVdWNTaWtGRVNXdUJ1SENlYllfcVVLZ3dFUkd4ZVBRZEZSeWgyYUVWUGF3a0tvWnVVblJYZUxnS2YyXzY0LUpJREs0SDRmQ3Iyd2kyWFp4MTF5TjBkYmVBeE9QT0gwcVlrMEhzdk9ZZUpTVXRHN0RRS0dPQ3JNVF93eVJpaVZVdUFnVURGeVJlMlBqWkFqcjJUbnJxSmZPQllnejlOR2ozS2JEcnoxYnVkYllpNXIyRkMwSThoZkF3SVFFbjc1SVM4dXlSR2UyS1lYUEttc0Y1dXBvRm1JSnpONVdBSkRrRHhTYTNUdUpGblhtM0E?oc=5",
+      "source": "SaaStr",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-07T15:35:44+00:00",
+      "tags": [],
+      "key_quote": "20VC x SaaStr: The Most Aggressive Quarter in American Capitalism, Palantir’s Rule of 145, and Why Brian Armstrong Just Killed the Manager-of-Managers SaaStr"
     },
     {
       "title": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce",
@@ -6160,20 +6171,6 @@
       "published_at": "2026-02-26T11:00:13+00:00",
       "tags": [],
       "key_quote": "Richard Teng Explains Why Binance Chose Greece for Its EU MiCA License Finance Magnates"
-    },
-    {
-      "title": "Wall Street Should Worry More About AI Than Crypto, Says Changpeng Zhao As Anthropic's Latest Announcement Hammers IBM Stock",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE96VVcxcHNzMDhQTWMxU0xFTHpUMHJoWEtrMHI0UjRGMjI5QUozWlR5dk1DdXg0SlFLZHp5bUJEOVAtdnNQbVptY3ZYNHh5WUdrVEdDNXE3Z3VkS3BnTTJXTzNaRFFIY2lWZzNSZ2FwbzhLczJHS0ticGladw?oc=5\" target=\"_blank\">Wall Street Should Worry More About AI Than Crypto, Says Changpeng Zhao As Anthropic's Latest Announcement Hammers IBM Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96VVcxcHNzMDhQTWMxU0xFTHpUMHJoWEtrMHI0UjRGMjI5QUozWlR5dk1DdXg0SlFLZHp5bUJEOVAtdnNQbVptY3ZYNHh5WUdrVEdDNXE3Z3VkS3BnTTJXTzNaRFFIY2lWZzNSZ2FwbzhLczJHS0ticGladw?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-02-25T23:01:14+00:00",
-      "tags": [
-        "DeFi",
-        "AI"
-      ],
-      "key_quote": "Wall Street Should Worry More About AI Than Crypto, Says Changpeng Zhao As Anthropic's Latest Announcement Hammers IBM Stock Yahoo Finance"
     }
   ]
 }
