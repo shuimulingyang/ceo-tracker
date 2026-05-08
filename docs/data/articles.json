@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-05-08T08:15:36Z",
+  "updated_at": "2026-05-08T10:13:20Z",
   "total": 500,
   "by_ceo": {
+    "Brian Armstrong": 270,
     "CZ": 130,
-    "Brian Armstrong": 271,
-    "Richard Teng": 54,
+    "Richard Teng": 55,
     "Ben Zhou": 26,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Disney CEO thanks employees in earnings memo; Coinbase CEO tells employees he wants to reform company in layoff note",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1icVBPT1ZYSEV5ZTZWMUtZSlQ5MERLazJla1VVUW12bUxwd1ozb0pvdUo0YnRBbWd6RHdOZXBPRC1TUnF5bHF1V0tGQnRqZjg0M19VS19VWEs5TzN4MUxjcnNLLUF4Rnh5SWJodjNXbzU0bllP?oc=5\" target=\"_blank\">Disney CEO thanks employees in earnings memo; Coinbase CEO tells employees he wants to reform company in layoff note</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ragan Communications</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1icVBPT1ZYSEV5ZTZWMUtZSlQ5MERLazJla1VVUW12bUxwd1ozb0pvdUo0YnRBbWd6RHdOZXBPRC1TUnF5bHF1V0tGQnRqZjg0M19VS19VWEs5TzN4MUxjcnNLLUF4Rnh5SWJodjNXbzU0bllP?oc=5",
+      "source": "Ragan Communications",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-08T10:00:31+00:00",
+      "tags": [],
+      "key_quote": "Disney CEO thanks employees in earnings memo; Coinbase CEO tells employees he wants to reform company in layoff note Ragan Communications"
+    },
+    {
+      "title": "Coinbase CEO Armstrong Sold 1.5 Million Shares Over the Past Year for $550 Million",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0talBMWFhPUUF5aG1IQ3lVdlFyZWc4ZjNJZDJqVWJTdTVNUDFsNkZ6eVNNTHRyeFlfZE5rRk1VVnZWNzN0MTA3eElBNzltalpBRzFKcw?oc=5\" target=\"_blank\">Coinbase CEO Armstrong Sold 1.5 Million Shares Over the Past Year for $550 Million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0talBMWFhPUUF5aG1IQ3lVdlFyZWc4ZjNJZDJqVWJTdTVNUDFsNkZ6eVNNTHRyeFlfZE5rRk1VVnZWNzN0MTA3eElBNzltalpBRzFKcw?oc=5",
+      "source": "bloomingbit",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-08T09:25:03+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Armstrong Sold 1.5 Million Shares Over the Past Year for $550 Million bloomingbit"
+    },
     {
       "title": "ARK Invest’s Cathie Wood in Conversation with Binance’s Changpeng Zhao: AI, Stablecoins, Quantum Threats, Crypto, and the Future of Finance",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aazRZS0VWS2h1cnROeWZ2eW16MXh3NXVhTTVCd2xWbmc5Vnc5aFRKTWpLM0ZXeFFEcmRNTXFsUFR3X2NybTBvWnpobmlkSlhLcmtBQkFnanM2bnVO?oc=5\" target=\"_blank\">ARK Invest’s Cathie Wood in Conversation with Binance’s Changpeng Zhao: AI, Stablecoins, Quantum Threats, Crypto, and the Future of Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
@@ -58,6 +80,20 @@
         "Ethereum"
       ],
       "key_quote": "Onchain economy reaches escape velocity, Brian Armstrong notes Traders Union"
+    },
+    {
+      "title": "Binance CEO Richard Teng Says AI Can Both Protect and Exploit Users",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNVjhsYV9nemlRMHFlR2R6MS1KNGpHUG9kdmphSE9odXdxNEZKVVdCdzRXUDJPdE9FeDQ2eEpwa1F0SDQtdHJn?oc=5\" target=\"_blank\">Binance CEO Richard Teng Says AI Can Both Protect and Exploit Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC Exchange</font>",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNVjhsYV9nemlRMHFlR2R6MS1KNGpHUG9kdmphSE9odXdxNEZKVVdCdzRXUDJPdE9FeDQ2eEpwa1F0SDQtdHJn?oc=5",
+      "source": "MEXC Exchange",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-05-07T18:25:53+00:00",
+      "tags": [
+        "安全 Security",
+        "AI"
+      ],
+      "key_quote": "Binance CEO Richard Teng Says AI Can Both Protect and Exploit Users MEXC Exchange"
     },
     {
       "title": "Binance CEO Richard Teng Says AI Can Both Protect and Exploit Users",
@@ -6140,39 +6176,6 @@
       "published_at": "2026-03-04T04:05:11+00:00",
       "tags": [],
       "key_quote": "Trump met with Coinbase CEO before bashing banks over crypto bill Politico"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Visits White House Amid CLARITY Act Stalemate: Report",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3ZTckgxMGhURFBXMktoQVpmb0pvUlNYc01IWlJVaVFMNTl5a2ltSVp0b092eDZfUzlKczJZVUVrTkszSGprd2VTcHpEY2ctMUpJVHlhUldhcXBuTmg1SFR2ZHc2bTRVblQ5dUNQSG4yQ0lCSnU0VEsxLW9aX2tObVFFQldEczJrTmNBMERYbG5KdTlBaVlSTUFVdDJzU0k0Rl8tZXhIVjVxclJGQzEwTFZnLW9rSkhlNDZBRUhKRXc2VS1FTG1DdnRpMHJZR2VsemVpYUtLczZOQQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Visits White House Amid CLARITY Act Stalemate: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3ZTckgxMGhURFBXMktoQVpmb0pvUlNYc01IWlJVaVFMNTl5a2ltSVp0b092eDZfUzlKczJZVUVrTkszSGprd2VTcHpEY2ctMUpJVHlhUldhcXBuTmg1SFR2ZHc2bTRVblQ5dUNQSG4yQ0lCSnU0VEsxLW9aX2tObVFFQldEczJrTmNBMERYbG5KdTlBaVlSTUFVdDJzU0k0Rl8tZXhIVjVxclJGQzEwTFZnLW9rSkhlNDZBRUhKRXc2VS1FTG1DdnRpMHJZR2VsemVpYUtLczZOQQ?oc=5",
-      "source": "Stocktwits",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-03T23:38:58+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong Visits White House Amid CLARITY Act Stalemate: Report Stocktwits"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong says Base App's SocialFi features 'didn't quite work'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubUNTek1QQVdjR0JJVGk3REhEVGNYMThoMndzOEtGb3RwTWdlYVJVWXQ2N2FLVEdlWElXRDRXcnZqMkFXVjRhRGZNalpqRk9yeG9iTC1FUnlCYi1a?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong says Base App's SocialFi features 'didn't quite work'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubUNTek1QQVdjR0JJVGk3REhEVGNYMThoMndzOEtGb3RwTWdlYVJVWXQ2N2FLVEdlWElXRDRXcnZqMkFXVjRhRGZNalpqRk9yeG9iTC1FUnlCYi1a?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-03T21:21:57+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong says Base App's SocialFi features 'didn't quite work' Cryptonews.net"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong says Base App's SocialFi features 'didn't quite work'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHFjalY0Y2RUcTdod2RHczNQUE9CcVU2emlQdENxNTN2VnZSUWVQeUp2ZEtncmctUmZTSjA1ZnVteXEzdGtkazR6aVNtSHhnejlvYWh6aU4wRlZ3ZHBQaXpiU2RxY1pPT2Q1enNjMG9UbzhUMkVUcXhIOHp2VllVSVZTclVXNlJpZnZsLVc3Nk1BbU9NVFlqOVB3Q3NZYjQwS2tJWC1teU9neEF3Y24xaW84TGY?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong says Base App's SocialFi features 'didn't quite work'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHFjalY0Y2RUcTdod2RHczNQUE9CcVU2emlQdENxNTN2VnZSUWVQeUp2ZEtncmctUmZTSjA1ZnVteXEzdGtkazR6aVNtSHhnejlvYWh6aU4wRlZ3ZHBQaXpiU2RxY1pPT2Q1enNjMG9UbzhUMkVUcXhIOHp2VllVSVZTclVXNlJpZnZsLVc3Nk1BbU9NVFlqOVB3Q3NZYjQwS2tJWC1teU9neEF3Y24xaW84TGY?oc=5",
-      "source": "The Block",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-03T20:13:48+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong says Base App's SocialFi features 'didn't quite work' The Block"
     }
   ]
 }
