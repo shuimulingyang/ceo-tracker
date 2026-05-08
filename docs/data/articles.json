@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-05-08T06:25:27Z",
+  "updated_at": "2026-05-08T08:15:36Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 273,
-    "Richard Teng": 53,
-    "CZ": 129,
+    "CZ": 130,
+    "Brian Armstrong": 271,
+    "Richard Teng": 54,
     "Ben Zhou": 26,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "ARK Invest’s Cathie Wood in Conversation with Binance’s Changpeng Zhao: AI, Stablecoins, Quantum Threats, Crypto, and the Future of Finance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aazRZS0VWS2h1cnROeWZ2eW16MXh3NXVhTTVCd2xWbmc5Vnc5aFRKTWpLM0ZXeFFEcmRNTXFsUFR3X2NybTBvWnpobmlkSlhLcmtBQkFnanM2bnVO?oc=5\" target=\"_blank\">ARK Invest’s Cathie Wood in Conversation with Binance’s Changpeng Zhao: AI, Stablecoins, Quantum Threats, Crypto, and the Future of Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aazRZS0VWS2h1cnROeWZ2eW16MXh3NXVhTTVCd2xWbmc5Vnc5aFRKTWpLM0ZXeFFEcmRNTXFsUFR3X2NybTBvWnpobmlkSlhLcmtBQkFnanM2bnVO?oc=5",
+      "source": "深潮TechFlow",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-08T04:29:29+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "ARK Invest’s Cathie Wood in Conversation with Binance’s Changpeng Zhao: AI, Stablecoins, Quantum Threats, Crypto, and the Future of Finance 深潮TechFlow"
+    },
     {
       "title": "Coinbase shares slide on $400M Q1 loss, revenue miss",
       "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase shares slide on $400M Q1 loss, revenue miss\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwQ3J5cHRvJTIwUmVwb3J0aW5nJTIwRmFpbHVyZXMlMjBDYW4lMjBCZSUyMEV4cGVuc2l2ZSUyQyUyMEV2ZW4lMjBDcmltaW5hbDMuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg\" /></p><p>Coinbase financial chief Alesia Haas said “macro conditions were genuinely tough,” while CEO Brian Armstrong highlighted a plan to diversify beyond spot trading.</p>",
@@ -70,6 +83,17 @@
       "published_at": "2026-05-07T15:35:44+00:00",
       "tags": [],
       "key_quote": "20VC x SaaStr: The Most Aggressive Quarter in American Capitalism, Palantir’s Rule of 145, and Why Brian Armstrong Just Killed the Manager-of-Managers SaaStr"
+    },
+    {
+      "title": "Richard Teng: Binance aims to become financial super app for all assets",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVVVMGtZMjlyX2Vtc2U5UXJQY1ZkeWJzZVMxSWNOSDFfbHVBakZhMHFhV1FGeEtnaWhZN2VqclJVNHFZM1FfQlI5R2pHU2poNEpVNGFyRjM0bHEwZUhwbjd1LTBpOW5SM2pWTGh4dzNkUXdnNVptb1BiNk44QllGbTd2YVFRb2dMVmhnM2hR?oc=5\" target=\"_blank\">Richard Teng: Binance aims to become financial super app for all assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVVVMGtZMjlyX2Vtc2U5UXJQY1ZkeWJzZVMxSWNOSDFfbHVBakZhMHFhV1FGeEtnaWhZN2VqclJVNHFZM1FfQlI5R2pHU2poNEpVNGFyRjM0bHEwZUhwbjd1LTBpOW5SM2pWTGh4dzNkUXdnNVptb1BiNk44QllGbTd2YVFRb2dMVmhnM2hR?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-05-07T05:57:51+00:00",
+      "tags": [],
+      "key_quote": "Richard Teng: Binance aims to become financial super app for all assets Traders Union"
     },
     {
       "title": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce",
@@ -6149,30 +6173,6 @@
       "published_at": "2026-03-03T20:13:48+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong says Base App's SocialFi features 'didn't quite work' The Block"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong says Base App’s SocialFi features ‘didn’t quite work’",
-      "content": "<p>Last year, Coinbase relaunched the noncustodial Base App with social features like Creator Coins that have since been phased out.</p>",
-      "url": "https://www.theblock.co/post/392080/coinbase-ceo-brian-armstrong-says-base-apps-socialfi-features-didnt-quite-work?utm_source=rss&utm_medium=rss",
-      "source": "The Block",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-03T20:13:48+00:00",
-      "tags": [],
-      "key_quote": "Last year, Coinbase relaunched the noncustodial Base App with social features like Creator Coins that have since been phased out."
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Says $100 Trillion Could Move Into Bitcoin and Crypto",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVpzQmhjbWxKWHNNYk1nT05Rd2xzdG9PR3RjZHR2MWpMTXY0SHRDSDdsVG1zd0o5alltMlhfbTBlcG95UzExQmctSnF3cWV5cTFDa2ExN2RpU2Y2MWdmaEJ4MHBiMVNHMG1zNEsza1loeTJCenJNTktrQ2JmV3hGVnpEZDRLLVBJcWNJQXltaWpWRVM2LWJGdVU4bXFFWnZoMVRQVE8zU1NpeHdUS0cyOURRNkdmS1ljS1RZ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says $100 Trillion Could Move Into Bitcoin and Crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVpzQmhjbWxKWHNNYk1nT05Rd2xzdG9PR3RjZHR2MWpMTXY0SHRDSDdsVG1zd0o5alltMlhfbTBlcG95UzExQmctSnF3cWV5cTFDa2ExN2RpU2Y2MWdmaEJ4MHBiMVNHMG1zNEsza1loeTJCenJNTktrQ2JmV3hGVnpEZDRLLVBJcWNJQXltaWpWRVM2LWJGdVU4bXFFWnZoMVRQVE8zU1NpeHdUS0cyOURRNkdmS1ljS1RZ?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-03T17:57:47+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong Says $100 Trillion Could Move Into Bitcoin and Crypto CryptoRank"
     }
   ]
 }
