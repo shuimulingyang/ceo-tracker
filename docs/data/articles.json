@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-05-09T11:39:06Z",
+  "updated_at": "2026-05-09T12:44:39Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 270,
-    "CZ": 130,
+    "Brian Armstrong": 271,
+    "CZ": 129,
     "Richard Teng": 55,
     "Ben Zhou": 26,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase outage: Crypto trading platform goes down a day after CEO Brian Armstrong predicted a future whe",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNDJSUlNETlpuZENiMTVWWEVjTVh4NVkwV3ozdi05OERYSzFkUzVQbVRFdmg2TzhFZXR4UFVVZ0hJUS0wOUx4YVlZS1ZKNTd5U2lTTDZBbVR6WUpibUZPRjgzZkRENHIwVjBVeWJJUjkyOHBIQXBjdlEyMEhEZXRoV0FqdkgyOFRhYmc1XzNaSm1IV0lOOGlxV1g5ejNWRThUYk5jUWNIZ3MyalpfclVXRzVfc1ZRMG42VnFmeENfblI4emt6RDdMcGlONmdCaUlTcVlnQjIyZmVZV1Nkb0RSdWZkWGFhMXhtWVJnTENrbkdvY3lhSXAweU1hdHZxeXM0V0VaUG1LSERHYUNfX05jRlBtNW9qbk1JSU13OWxIY1gtTS1scnpWMWR6emx2dVZFVUtsaWxYYkxSTlNMc2hwZENkSm56MVRjenFrMFBFTVJGZjEyQVdHWtIB3gJBVV95cUxNYU9FSC1iaWMxaG91Nl9iYjhMVzk4TjRSNzhJMF9mUm95WC1oYWJGOWZvT3hQaEozdDRxblRjZW9HdzJ6MzFuQk00ZjZwNjdVZGRPOERzSWRZbUgwUFFlbmlCakJRYjBqd3daQzc2RWRkd0ZrYzJiNHJVWEoxNGRhd1J5bDZUOUlZUGFiak8yOVpTc2NaOE5sdG5OM3lsWjZLQ0Nhb3NiektSQXp0NWFqX3dnbnNuUjFISVdDVGZQTlN4cEhRNmxMcDNvTjBheldIWWhwcWZVak9kejdPSFJ3YjREYlZPT1prTWtvMkNCd1B0TjlCNWtDS0pNX2VRN1hpUWQxeUxEcWNrNVdfZU5RMVV3VnB1Z19iRnNIdUZFTDlSRFpCU2JJZlcxTmt5cWhiVzlUNkl2dDZNSXBDUHhIVldVMjFyUW05Y3hPZ2hyV0prVGhsbE9Lb1lqUXZqUQ?oc=5\" target=\"_blank\">Coinbase outage: Crypto trading platform goes down a day after CEO Brian Armstrong predicted a future whe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNDJSUlNETlpuZENiMTVWWEVjTVh4NVkwV3ozdi05OERYSzFkUzVQbVRFdmg2TzhFZXR4UFVVZ0hJUS0wOUx4YVlZS1ZKNTd5U2lTTDZBbVR6WUpibUZPRjgzZkRENHIwVjBVeWJJUjkyOHBIQXBjdlEyMEhEZXRoV0FqdkgyOFRhYmc1XzNaSm1IV0lOOGlxV1g5ejNWRThUYk5jUWNIZ3MyalpfclVXRzVfc1ZRMG42VnFmeENfblI4emt6RDdMcGlONmdCaUlTcVlnQjIyZmVZV1Nkb0RSdWZkWGFhMXhtWVJnTENrbkdvY3lhSXAweU1hdHZxeXM0V0VaUG1LSERHYUNfX05jRlBtNW9qbk1JSU13OWxIY1gtTS1scnpWMWR6emx2dVZFVUtsaWxYYkxSTlNMc2hwZENkSm56MVRjenFrMFBFTVJGZjEyQVdHWtIB3gJBVV95cUxNYU9FSC1iaWMxaG91Nl9iYjhMVzk4TjRSNzhJMF9mUm95WC1oYWJGOWZvT3hQaEozdDRxblRjZW9HdzJ6MzFuQk00ZjZwNjdVZGRPOERzSWRZbUgwUFFlbmlCakJRYjBqd3daQzc2RWRkd0ZrYzJiNHJVWEoxNGRhd1J5bDZUOUlZUGFiak8yOVpTc2NaOE5sdG5OM3lsWjZLQ0Nhb3NiektSQXp0NWFqX3dnbnNuUjFISVdDVGZQTlN4cEhRNmxMcDNvTjBheldIWWhwcWZVak9kejdPSFJ3YjREYlZPT1prTWtvMkNCd1B0TjlCNWtDS0pNX2VRN1hpUWQxeUxEcWNrNVdfZU5RMVV3VnB1Z19iRnNIdUZFTDlSRFpCU2JJZlcxTmt5cWhiVzlUNkl2dDZNSXBDUHhIVldVMjFyUW05Y3hPZ2hyV0prVGhsbE9Lb1lqUXZqUQ?oc=5",
+      "source": "The Times of India",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-09T11:58:00+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Coinbase outage: Crypto trading platform goes down a day after CEO Brian Armstrong predicted a future whe The Times of India"
+    },
     {
       "title": "Coinbase CEO Calls Outage ‘Never Acceptable’ As AWS Failure Hits Crypto Firm",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3BvREhSUzM0bGhIaUpIMUg0b2l3WGdURDNNYmlId3lLMl9HVE5DMjRrYTFCMTIzbE5UN3M1SzRaZi1zM05OME5sRndFamN6eFNITzJjMDI1c2JTeVRwLVBlTjhzd2paVXFpMnN1ekhJUHY1bGhXVGxxdTRBdlFfY2doMk9CUmV4MkJrSE5MM1dSTWw0bk1LcDJPZ1hxS2d4OHAtSnM3dnZlLW8?oc=5\" target=\"_blank\">Coinbase CEO Calls Outage ‘Never Acceptable’ As AWS Failure Hits Crypto Firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
@@ -6179,17 +6192,6 @@
       "published_at": "2026-03-04T15:36:20+00:00",
       "tags": [],
       "key_quote": "Binance Leadership: CZ's Departure & Richard Teng's CEO Role in 2024 Bitget"
-    },
-    {
-      "title": "Changpeng Zhao backs Predict.fun’s acquisition of Probable",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGpnaG1hUW9pN2JNeVhrRHF4emdranBnZlhBWHBJRFdHbjItTVEzR2h4TzN5Z1ZvWWpKWmNjb2J3R0tha2JONm92bVczbGxYaks4NFFMeGxzQ0hkYk1lN2gyTkVNbGxCaVFNWmxwdl96Mkd3ejA3UjNUeklnR3R6S2R4eGE?oc=5\" target=\"_blank\">Changpeng Zhao backs Predict.fun’s acquisition of Probable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGpnaG1hUW9pN2JNeVhrRHF4emdranBnZlhBWHBJRFdHbjItTVEzR2h4TzN5Z1ZvWWpKWmNjb2J3R0tha2JONm92bVczbGxYaks4NFFMeGxzQ0hkYk1lN2gyTkVNbGxCaVFNWmxwdl96Mkd3ejA3UjNUeklnR3R6S2R4eGE?oc=5",
-      "source": "crypto.news",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-04T15:35:00+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao backs Predict.fun’s acquisition of Probable crypto.news"
     }
   ]
 }
