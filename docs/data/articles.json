@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T01:28:25Z",
+  "updated_at": "2026-05-09T04:57:06Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 270,
@@ -9,6 +9,32 @@
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase Says AWS Cooling Failure Crashed Exchange During Turbulent Week— CEO Brian Armstrong Calls It 'N",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcFVZY0laUUtsdHFINGxRQjVsRDZlVURXb01wTzNBckZ5dUtheTU3QW5DbnRmVnd0RGlWaTRNcEw5MVB4dU15V3VKZkNHeGRrb3Z5TjRJcHY3Q3lIbXltMTdTN190UzJwdWdtbXFwZlpOWTlvdzU0LThpelZDMnpRRjF0Mk1UMU9pdi00SGNuaDBnY21PWW1hUTVvd3BGRm1xVXBaYjMyUnhreUNUMEhfNEtrWFhoTTM0clkzMy04a0xYSHIyY0tQZk9KZ3NlQzlqLWs0T3NmWHpQcWw4RHFDYkNmd2pQeEQwV3dwLTN0WElsQ0lFa2tVaA?oc=5\" target=\"_blank\">Coinbase Says AWS Cooling Failure Crashed Exchange During Turbulent Week— CEO Brian Armstrong Calls It 'N</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcFVZY0laUUtsdHFINGxRQjVsRDZlVURXb01wTzNBckZ5dUtheTU3QW5DbnRmVnd0RGlWaTRNcEw5MVB4dU15V3VKZkNHeGRrb3Z5TjRJcHY3Q3lIbXltMTdTN190UzJwdWdtbXFwZlpOWTlvdzU0LThpelZDMnpRRjF0Mk1UMU9pdi00SGNuaDBnY21PWW1hUTVvd3BGRm1xVXBaYjMyUnhreUNUMEhfNEtrWFhoTTM0clkzMy04a0xYSHIyY0tQZk9KZ3NlQzlqLWs0T3NmWHpQcWw4RHFDYkNmd2pQeEQwV3dwLTN0WElsQ0lFa2tVaA?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-09T02:25:44+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase Says AWS Cooling Failure Crashed Exchange During Turbulent Week— CEO Brian Armstrong Calls It 'N Benzinga"
+    },
+    {
+      "title": "Coinbase CEO: Onchain Economy Has Reached Escape Velocity Amid Generational Shift",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUZXMnF3UlBsY0tMZlZTMnI2QjZUVHFKQTh6NUlYai1BWXppYXhTdzZaUVdIQ2JBbXE1ZEJtdDFGVVVvSkRlZEpNUC1EWGdBWDhERWxxdjN3TVBEUGZjMUt6aFRnSFpkWTMyb1pIRm4tNHN6amgxVklzRXp0WnZDMHRNUVJsUmhwU0tCMTJGZmUxNXFFQW1JRUROblRuazNQRWF0QjQ5Wmkxdw?oc=5\" target=\"_blank\">Coinbase CEO: Onchain Economy Has Reached Escape Velocity Amid Generational Shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin News</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUZXMnF3UlBsY0tMZlZTMnI2QjZUVHFKQTh6NUlYai1BWXppYXhTdzZaUVdIQ2JBbXE1ZEJtdDFGVVVvSkRlZEpNUC1EWGdBWDhERWxxdjN3TVBEUGZjMUt6aFRnSFpkWTMyb1pIRm4tNHN6amgxVklzRXp0WnZDMHRNUVJsUmhwU0tCMTJGZmUxNXFFQW1JRUROblRuazNQRWF0QjQ5Wmkxdw?oc=5",
+      "source": "Bitcoin News",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-09T01:33:31+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO: Onchain Economy Has Reached Escape Velocity Amid Generational Shift Bitcoin News"
+    },
     {
       "title": "News Explorer — Coinbase CEO Brian Armstrong Sold $540 Million in Stock Across Eight Months",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXBuT1hndkppeEd1bHVSb0RvN1hfR243YUJfenUtbVBPM2pyaHh2Uk1jal9mOWp4WS1lNmVmVi1jdTNmaklXSlltbmdKS2haSlRWYUlRWEpfNWx2NWdvcXZ0RGtMbVQteWs5aGpGWDZIcjIycVRDN19JRUVPTWpzOXMyOVFxa1FrTk14N25iSzM1OGpfXzZTSzNMM0wwWXNhUE5NUktOV1hUcFVkQS02aFFBcEtiTzdocUZQU1AtTk94eTQtdU5V?oc=5\" target=\"_blank\">News Explorer — Coinbase CEO Brian Armstrong Sold $540 Million in Stock Across Eight Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
@@ -6162,28 +6188,6 @@
       "published_at": "2026-03-04T14:48:45+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO: The business of crypto has 'never been stronger' AOL.com"
-    },
-    {
-      "title": "Coinbase CEO: The Business Of Crypto Has 'Never Been Stronger'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFB4OHNrY0FJR2JlRURHMkVBUi02VWxscGgwQTBkUGlEa1JjbnNkYlZJN0dYNnRtSFRBT3BGQ05ueXQtU2U0bl9hRnFyS1pZVFRmeUNHbktJcFlCZWJtcnhlbVVRcXdvSUtURTlUdmItMS1jT2xWSEowVk13dUdubGl0Z0dwcEk4OFJReTBuQVhtY2xhaTBsZA?oc=5\" target=\"_blank\">Coinbase CEO: The Business Of Crypto Has 'Never Been Stronger'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wealth Advisor</font>",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFB4OHNrY0FJR2JlRURHMkVBUi02VWxscGgwQTBkUGlEa1JjbnNkYlZJN0dYNnRtSFRBT3BGQ05ueXQtU2U0bl9hRnFyS1pZVFRmeUNHbktJcFlCZWJtcnhlbVVRcXdvSUtURTlUdmItMS1jT2xWSEowVk13dUdubGl0Z0dwcEk4OFJReTBuQVhtY2xhaTBsZA?oc=5",
-      "source": "The Wealth Advisor",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-04T14:40:33+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO: The Business Of Crypto Has 'Never Been Stronger' The Wealth Advisor"
-    },
-    {
-      "title": "Coinbase CEO: The business of crypto has 'never been stronger'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHN3Z09QU2k4Z3RoUktXZVlLeHNqYVVBSzd6S18tMmdZZTVtOGZMRWxzbldsQS1xc19LQXBEWU1WTUZGVk12MHc2NU52T3hoZkNRNUNPb0FwWFI0WWEwWS1WNjlxb0tsMnNraVNlSEVEa2RNNmJ2QW5DNWhVRmdGOUtjYTgtU1NwYjlMd2pBNnkxVDVkekhVWmFMa2U1bWRKQnZpTE93R1gyUkRrTzhGd0NHTkM0eEpIT3RV?oc=5\" target=\"_blank\">Coinbase CEO: The business of crypto has 'never been stronger'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHN3Z09QU2k4Z3RoUktXZVlLeHNqYVVBSzd6S18tMmdZZTVtOGZMRWxzbldsQS1xc19LQXBEWU1WTUZGVk12MHc2NU52T3hoZkNRNUNPb0FwWFI0WWEwWS1WNjlxb0tsMnNraVNlSEVEa2RNNmJ2QW5DNWhVRmdGOUtjYTgtU1NwYjlMd2pBNnkxVDVkekhVWmFMa2U1bWRKQnZpTE93R1gyUkRrTzhGd0NHTkM0eEpIT3RV?oc=5",
-      "source": "National Today",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-04T14:08:16+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO: The business of crypto has 'never been stronger' National Today"
     }
   ]
 }
