@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-10T21:35:51Z",
+  "updated_at": "2026-05-10T22:33:29Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 276,
     "CZ": 129,
-    "Richard Teng": 49,
-    "Ben Zhou": 27,
+    "Richard Teng": 48,
+    "Ben Zhou": 28,
     "Star Xu": 19
   },
   "articles": [
@@ -2309,6 +2309,17 @@
       "published_at": "2026-04-15T11:51:45+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao publishes his memoir and dares the crypto world to see him whole again Startup Fortune"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQcDJCQzFmVkpZMk1OWm9CNDJ1N252anVteWc0RjZmTEZSOHRvUkN5TG8tcU0zXzVqblk2Rkswc0NqXy1KbWFTR3RjTnhqZzd0TUZoTWJ6cjROZHNaVkJWWUJETlFONERaZEVBLVFiakdUSU5KQVhMa3BUQkthdE9tcmdRVjdtQmViN2ZaN1U4bEtRNE5tYmxNN1NQd3ZpYjFzTEVBWDI3RnFmQ2FSYTBGTHltU1lXa0d1VG5GcUJJQUVGMEFhcFZBNVFVQWVlWUZTV25MSWtJdkxBSlBJS054a0FXVVRiTFB1Wnk1MmoxbEY3Qkx2eUpveDhyLVRpWDFPWkNWakdB?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcDJCQzFmVkpZMk1OWm9CNDJ1N252anVteWc0RjZmTEZSOHRvUkN5TG8tcU0zXzVqblk2Rkswc0NqXy1KbWFTR3RjTnhqZzd0TUZoTWJ6cjROZHNaVkJWWUJETlFONERaZEVBLVFiakdUSU5KQVhMa3BUQkthdE9tcmdRVjdtQmViN2ZaN1U4bEtRNE5tYmxNN1NQd3ZpYjFzTEVBWDI3RnFmQ2FSYTBGTHltU1lXa0d1VG5GcUJJQUVGMEFhcFZBNVFVQWVlWUZTV25MSWtJdkxBSlBJS054a0FXVVRiTFB1Wnk1MmoxbEY3Qkx2eUpveDhyLVRpWDFPWkNWakdB?oc=5",
+      "source": "The Globe and Mail",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-04-15T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026 The Globe and Mail"
     },
     {
       "title": "Binance Founder Changpeng Zhao (CZ) Speaks Out for the First Time Following Bitcoin’s Rally",
@@ -6187,19 +6198,6 @@
         "Bitcoin"
       ],
       "key_quote": "President Trump Meets With Coinbase’s Brian Armstrong, Then Blasts Banks Over Stalled Crypto Legislation Bitcoin Magazine"
-    },
-    {
-      "title": "Binance CEO History: From CZ to Richard Teng Leadership Transition",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zdExnbGhtYUhsZ1BtLUpLNDBaRnZVNS13ZFJCc3RQVFBXQkVOUjF4U2czT0FsRDBvbXRuajZ6QjBTNVFMTHNWbVRTQWhWZDYwVzVPOXhLMEk0cm5Ia0hKZFlSM1XSAWRBVV95cUxPc3RMZ2xobWFIbGdQbS1KSzQwWkZ2VTUtd2RSQnN0UFRQV0JFTlIxeFNnM09BbEQwb210bmo2ekIwUzVRTExzVm1UU0FoVmQ2MFc1Tzl4SzBJNHJuSGtISmRZUjNV?oc=5\" target=\"_blank\">Binance CEO History: From CZ to Richard Teng Leadership Transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zdExnbGhtYUhsZ1BtLUpLNDBaRnZVNS13ZFJCc3RQVFBXQkVOUjF4U2czT0FsRDBvbXRuajZ6QjBTNVFMTHNWbVRTQWhWZDYwVzVPOXhLMEk0cm5Ia0hKZFlSM1XSAWRBVV95cUxPc3RMZ2xobWFIbGdQbS1KSzQwWkZ2VTUtd2RSQnN0UFRQV0JFTlIxeFNnM09BbEQwb210bmo2ekIwUzVRTExzVm1UU0FoVmQ2MFc1Tzl4SzBJNHJuSGtISmRZUjNV?oc=5",
-      "source": "Bitget",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-03-04T15:51:15+00:00",
-      "tags": [
-        "DeFi"
-      ],
-      "key_quote": "Binance CEO History: From CZ to Richard Teng Leadership Transition Bitget"
     }
   ]
 }
