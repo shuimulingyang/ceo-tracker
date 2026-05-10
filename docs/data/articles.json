@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-09T23:34:06Z",
+  "updated_at": "2026-05-10T01:30:00Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 274,
+    "Brian Armstrong": 275,
     "CZ": 129,
-    "Richard Teng": 51,
+    "Richard Teng": 50,
     "Ben Zhou": 27,
     "Star Xu": 19
   },
@@ -247,6 +247,17 @@
       "published_at": "2026-05-08T12:15:38+00:00",
       "tags": [],
       "key_quote": "Brian Armstrong Says Crypto Has Reached 'Escape Velocity:' Can Coinbase Grow To $300 Billion?"
+    },
+    {
+      "title": "Coinbase reports service issues, CEO Brian Armstrong 'points finger' at AWS cloud outage",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRVBTLWI3cFZ2WEFfSGptTlJOMTA0LUt0WmRoWEQxZXBub21Oc0xLQWhMbVZzS296RWpvaUR0dlp0UjkwX0RVS2Vxb3pzS1pkbEZhX1pIc3lFOHE2UmU5aXVOdGF4OVFhYmVFTHp4N0lwRS1RVlA1OWM4aVhiandKMWN4Q05YZTlseGg1UmxEZ1ZmcFVTLWdwTmpNMnFNeEVOSzlPTGYtUHRJYnRuVjY0TTlHOVZRSFJ4elhvY2NuR190SElCUFJQcUFFTWt2bjhSckE1c1BLMG5BUVlJOGFxbE1R0gHnAUFVX3lxTFBEV09ncEFmejJaSkJGUGxmRXd4WVlkbF9nUi03T3h1czNuMXVUTGFZYjdXMUNCM2dmZkdpRV8taTVOSFA0b05DWUZrcTVsdEhVVEdLbnVPTWJuRXpIbWU3VW91ODduVW1Yc0tuN1NvTzdFOFVZTWMtdndkRTRyU2xIRzdaYXBTQ19rMWw4MW5yb0F6OF95eV9NNzdoX0syd3hRRjhEUVpxem1DM0I2dDIzRHktX2E4c3RBM3dLdnUyRUtDbGJvdmFwOUFnMm9oTGkzcThDZkpkNHNjN05DSzhQc0JJdWdibw?oc=5\" target=\"_blank\">Coinbase reports service issues, CEO Brian Armstrong 'points finger' at AWS cloud outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRVBTLWI3cFZ2WEFfSGptTlJOMTA0LUt0WmRoWEQxZXBub21Oc0xLQWhMbVZzS296RWpvaUR0dlp0UjkwX0RVS2Vxb3pzS1pkbEZhX1pIc3lFOHE2UmU5aXVOdGF4OVFhYmVFTHp4N0lwRS1RVlA1OWM4aVhiandKMWN4Q05YZTlseGg1UmxEZ1ZmcFVTLWdwTmpNMnFNeEVOSzlPTGYtUHRJYnRuVjY0TTlHOVZRSFJ4elhvY2NuR190SElCUFJQcUFFTWt2bjhSckE1c1BLMG5BUVlJOGFxbE1R0gHnAUFVX3lxTFBEV09ncEFmejJaSkJGUGxmRXd4WVlkbF9nUi03T3h1czNuMXVUTGFZYjdXMUNCM2dmZkdpRV8taTVOSFA0b05DWUZrcTVsdEhVVEdLbnVPTWJuRXpIbWU3VW91ODduVW1Yc0tuN1NvTzdFOFVZTWMtdndkRTRyU2xIRzdaYXBTQ19rMWw4MW5yb0F6OF95eV9NNzdoX0syd3hRRjhEUVpxem1DM0I2dDIzRHktX2E4c3RBM3dLdnUyRUtDbGJvdmFwOUFnMm9oTGkzcThDZkpkNHNjN05DSzhQc0JJdWdibw?oc=5",
+      "source": "The Times of India",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-08T10:58:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase reports service issues, CEO Brian Armstrong 'points finger' at AWS cloud outage The Times of India"
     },
     {
       "title": "Changpeng Zhao Seeks to Bring Binance’s Global Liquidity to U.S. Investors",
@@ -6181,17 +6192,6 @@
       "title": "Binance CEO History: From CZ to Richard Teng Leadership Transition",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE14LTlNWGczRnFDU0pnVVFab3BLUGNSQjFIRTc5QzFPZU5tWnljeDVGMGo5RWItMnNCcm5Ka0Nwdl9NSVBCWGJQTkExRWVBeWNZNGFwbFhYdXRvWFQxcWxn0gFkQVVfeXFMT3N0TGdsaG1hSGxnUG0tSks0MFpGdlU1LXdkUkJzdFBUUFdCRU5SMXhTZzNPQWxEMG9tdG5qNnpCMFM1UUxMc1ZtVFNBaFZkNjBXNU85eEswSTRybkhrSEpkWVIzVQ?oc=5\" target=\"_blank\">Binance CEO History: From CZ to Richard Teng Leadership Transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14LTlNWGczRnFDU0pnVVFab3BLUGNSQjFIRTc5QzFPZU5tWnljeDVGMGo5RWItMnNCcm5Ka0Nwdl9NSVBCWGJQTkExRWVBeWNZNGFwbFhYdXRvWFQxcWxn0gFkQVVfeXFMT3N0TGdsaG1hSGxnUG0tSks0MFpGdlU1LXdkUkJzdFBUUFdCRU5SMXhTZzNPQWxEMG9tdG5qNnpCMFM1UUxMc1ZtVFNBaFZkNjBXNU85eEswSTRybkhrSEpkWVIzVQ?oc=5",
-      "source": "Bitget",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-03-04T15:51:15+00:00",
-      "tags": [],
-      "key_quote": "Binance CEO History: From CZ to Richard Teng Leadership Transition Bitget"
-    },
-    {
-      "title": "Binance CEO History: From CZ to Richard Teng Leadership Transition",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mNE45MjNJU0NnU1V3MHptVXRJRXIwbU52R1lHY2dseW9OM1NweUxIVzVJdk1weTVVd3JwU1JRVnBMX0NVWjM2b2NCbldSMGxhMEk1dnNtSUF0SjNX0gFeQVVfeXFMTWVMX2o4NnpUdzgwQmp6UkVuM19vM25WWGpFdWlFbDFsZ3ppM2tXU1RvNFZNUG9ydTVrTnJPTlVVUTZoX05wQjlLS3NXeldmX0lWdGdGdjR1UG1VcnBmdw?oc=5\" target=\"_blank\">Binance CEO History: From CZ to Richard Teng Leadership Transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mNE45MjNJU0NnU1V3MHptVXRJRXIwbU52R1lHY2dseW9OM1NweUxIVzVJdk1weTVVd3JwU1JRVnBMX0NVWjM2b2NCbldSMGxhMEk1dnNtSUF0SjNX0gFeQVVfeXFMTWVMX2o4NnpUdzgwQmp6UkVuM19vM25WWGpFdWlFbDFsZ3ppM2tXU1RvNFZNUG9ydTVrTnJPTlVVUTZoX05wQjlLS3NXeldmX0lWdGdGdjR1UG1VcnBmdw?oc=5",
       "source": "Bitget",
       "ceo_name": "Richard Teng",
       "exchange": "Binance",
