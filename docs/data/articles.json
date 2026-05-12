@@ -1,14 +1,52 @@
 {
-  "updated_at": "2026-05-12T05:27:13Z",
+  "updated_at": "2026-05-12T08:16:45Z",
   "total": 500,
   "by_ceo": {
+    "Brian Armstrong": 274,
     "Richard Teng": 49,
-    "Brian Armstrong": 275,
     "CZ": 129,
-    "Ben Zhou": 28,
+    "Ben Zhou": 29,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase CEO to Meet Republican Senators Ahead of CLARITY Act Vote",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXaHZJTzhUZWYzbFVGRm1CU1ZQUy0xWUpaZW9Qdk5jbVlEcU13TWhGZzFVTWVPRWphSUpiU0M5NFNIcnhqXy1HWVpDWnFPU1Yzemg2SQ?oc=5\" target=\"_blank\">Coinbase CEO to Meet Republican Senators Ahead of CLARITY Act Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXaHZJTzhUZWYzbFVGRm1CU1ZQUy0xWUpaZW9Qdk5jbVlEcU13TWhGZzFVTWVPRWphSUpiU0M5NFNIcnhqXy1HWVpDWnFPU1Yzemg2SQ?oc=5",
+      "source": "bloomingbit",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-12T07:55:05+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO to Meet Republican Senators Ahead of CLARITY Act Vote bloomingbit"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong to Meet Lawmakers Ahead of Critical CLARITY Act Vote",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSElZaERwM01OUFpsdUl6bW1kNFJoa0ZRZS0wSHNIQm9Gd3NGeFl2YURzUHJRNWRUdzdzaXJhRmVlZ0JNTU1qcDMxbFRMZFluTG1uYklTNndjSExjWWtxZEFXSW5OR2hlR0xrZ1h5c2pBVm1oZ0RxU2lrb1ViQnNVRHBQbW5TUGtkLTJLT19zUTQ2ZjFNdGdnT0ptLUpyYXpVUjh0VEEyWGM5d28?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong to Meet Lawmakers Ahead of Critical CLARITY Act Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSElZaERwM01OUFpsdUl6bW1kNFJoa0ZRZS0wSHNIQm9Gd3NGeFl2YURzUHJRNWRUdzdzaXJhRmVlZ0JNTU1qcDMxbFRMZFluTG1uYklTNndjSExjWWtxZEFXSW5OR2hlR0xrZ1h5c2pBVm1oZ0RxU2lrb1ViQnNVRHBQbW5TUGtkLTJLT19zUTQ2ZjFNdGdnT0ptLUpyYXpVUjh0VEEyWGM5d28?oc=5",
+      "source": "FinanceFeeds",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-12T07:24:00+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong to Meet Lawmakers Ahead of Critical CLARITY Act Vote FinanceFeeds"
+    },
+    {
+      "title": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-wJBVV95cUxPQUVsdkl2ZGEtbU1zM0tMaE81QW9aZU9aaDhxSzNRUVVCMjBLaGp4UzUya2tQWTZXd0pxaUprYm00WG4zRVlSMTljaTYzbzZtRUdqWkNTR280QTVhN1l5MU9iX2kwUFhfV1hBYlRtVTZVdmpUSFp0aFUxVkx1eEJfeUNMaWxqNXhuckx4am5qZ24tLXJhTzNacVQwRVl2dUhmVEdMZlVPSVh6QmtaekZEVHEybm5EUC11cW1tRGVIcHNuM0VSZHFPNWF1YVpEbVh4Qlg0XzB6U2NGQy13Zk9CZWlMd014Z00wNG9INFF1YWpET2FzY3VPZ1lVUEJmc2Jfa2d6ZG10NWZDUUpfSjZNWDIzN3JlMkJYcU5PaFhiT0ZWV1V1a19BMGg1SlVtOGZVaUJMUzhDdTFBOUFITEJKTXNsbFM1bGtXbHFiZXJpUnpvVmNGQXVwSkgzQ1d0cm5mTG85RlUtS0o4S05kVVExYmtkQTNLWmJZYnJn?oc=5\" target=\"_blank\">Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPQUVsdkl2ZGEtbU1zM0tMaE81QW9aZU9aaDhxSzNRUVVCMjBLaGp4UzUya2tQWTZXd0pxaUprYm00WG4zRVlSMTljaTYzbzZtRUdqWkNTR280QTVhN1l5MU9iX2kwUFhfV1hBYlRtVTZVdmpUSFp0aFUxVkx1eEJfeUNMaWxqNXhuckx4am5qZ24tLXJhTzNacVQwRVl2dUhmVEdMZlVPSVh6QmtaekZEVHEybm5EUC11cW1tRGVIcHNuM0VSZHFPNWF1YVpEbVh4Qlg0XzB6U2NGQy13Zk9CZWlMd014Z00wNG9INFF1YWpET2FzY3VPZ1lVUEJmc2Jfa2d6ZG10NWZDUUpfSjZNWDIzN3JlMkJYcU5PaFhiT0ZWV1V1a19BMGg1SlVtOGZVaUJMUzhDdTFBOUFITEJKTXNsbFM1bGtXbHFiZXJpUnpvVmNGQXVwSkgzQ1d0cm5mTG85RlUtS0o4S05kVVExYmtkQTNLWmJZYnJn?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-12T07:21:04+00:00",
+      "tags": [
+        "AI",
+        "Layer2"
+      ],
+      "key_quote": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce MSN"
+    },
     {
       "title": "DeFi hacks totaled $621 million in April 2026, Richard Teng warns",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEh6eWhGbEFZUTVCcmVybXR1U3F0RnlDdm1fVFVnb1IwLS01ZmpTTUUzVl9sUXR3U09SeEVncWkzNEdwQlRZWEI5ZU8wRld4bXJXT3VKYm4yLWYtRDBhN2VySENYQldweW1zWmR0TndTUUVQZ29tY3lQelZiYy1Ecm5STmltQQ?oc=5\" target=\"_blank\">DeFi hacks totaled $621 million in April 2026, Richard Teng warns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
@@ -1806,6 +1844,17 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Introduces New Platform To Help AI Agents Discover And Pay For Services Sahm"
+    },
+    {
+      "title": "Bybit CEO 受邀赴伦敦，与英国 FCA 等机构讨论加密监管",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE16SHVTby13MFBHaFZYLTgxWHgxdXhQUEtTV19CWFA2clJNd2dXZS1UZ2Q3Q2pZS2tqdXZBWWtOMEMtSVVBVVhOVlZjR2VnQzRvS0gyWlNRU1I?oc=5\" target=\"_blank\">Bybit CEO 受邀赴伦敦，与英国 FCA 等机构讨论加密监管</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16SHVTby13MFBHaFZYLTgxWHgxdXhQUEtTV19CWFA2clJNd2dXZS1UZ2Q3Q2pZS2tqdXZBWWtOMEMtSVVBVVhOVlZjR2VnQzRvS0gyWlNRU1I?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-04-21T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO 受邀赴伦敦，与英国 FCA 等机构讨论加密监管 CryptoRank"
     },
     {
       "title": "Crypto billionaire Changpeng Zhao claims Biden administration tried to make an 'example' out of him",
@@ -6145,60 +6194,6 @@
         "ETF"
       ],
       "key_quote": "Trump met Coinbase CEO before slamming banks over crypto bill: Report TradingView"
-    },
-    {
-      "title": "Trump met Coinbase CEO before slamming banks over crypto bill: Report",
-      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump met Coinbase CEO before slamming banks over crypto bill: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2I5ZTEtMzEyMS03MGE5LWIwYzUtMWFiYWNlMTBiMjE1LmpwZw==.jpg\" /></p><p>The meeting reportedly happened hours before Donald Trump posted to his social media platform, echoing some of Brian Armstrong's public statements about stablecoin yield.</p>",
-      "url": "https://cointelegraph.com/news/donald-trump-coinbase-brian-armstrong-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-04T20:00:11+00:00",
-      "tags": [
-        "DeFi",
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "The meeting reportedly happened hours before Donald Trump posted to his social media platform, echoing some of Brian Armstrong's public statements about stablecoin yield."
-    },
-    {
-      "title": "Brian Armstrong met with Trump before the president slammed banks over crypto bill",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU3l0eTIyNmdRLWlKNUg1V20tejE3eTJjODdaZlRBUVVZWklqYV9xaFVaQnhIb28zamdER0tTNW1xaEZSeXFuZlZjTlY1Z1FDcDUtaGFORzYxdm82V0VNbHlqT3BBUkVLNWFYQ1lCM05ubmRpVkZrSTZ4S0pYQmZIU3l1NERGRGVVOFVuQjlJb2NYSnJtdGdqREpXZlNsbkdLeTZpU21IV2hvdFVsV0dla3ctZG1VNHJEZWdZbnQ0cFRZa3ZhMUlRTw?oc=5\" target=\"_blank\">Brian Armstrong met with Trump before the president slammed banks over crypto bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU3l0eTIyNmdRLWlKNUg1V20tejE3eTJjODdaZlRBUVVZWklqYV9xaFVaQnhIb28zamdER0tTNW1xaEZSeXFuZlZjTlY1Z1FDcDUtaGFORzYxdm82V0VNbHlqT3BBUkVLNWFYQ1lCM05ubmRpVkZrSTZ4S0pYQmZIU3l1NERGRGVVOFVuQjlJb2NYSnJtdGdqREpXZlNsbkdLeTZpU21IV2hvdFVsV0dla3ctZG1VNHJEZWdZbnQ0cFRZa3ZhMUlRTw?oc=5",
-      "source": "CoinDesk",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-04T17:37:26+00:00",
-      "tags": [
-        "DeFi"
-      ],
-      "key_quote": "Brian Armstrong met with Trump before the president slammed banks over crypto bill CoinDesk"
-    },
-    {
-      "title": "COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVFGcmZjT2ZTYm9QYlk5VW5KTHp4azZrLUpZSEo2bmhDNzVxbktaOEJBY3JBY3pmVk15TEt1alpNa1U2OVNUak5SVG8zN0hlMkQzVXBONVdkejR5aXdrVy1ENHIxRXIxVmVETW0tMXE5eGhqeHc0Vi1DX1pnSjBtcENvczdCQ2tucG5TU3ZtYlhhcmpWVmZhQzduajFuUFVRbHRzRDMxR0lxTUZMeVBkc3lwNU9iVUgzcmZOTGJjYw?oc=5\" target=\"_blank\">COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVFGcmZjT2ZTYm9QYlk5VW5KTHp4azZrLUpZSEo2bmhDNzVxbktaOEJBY3JBY3pmVk15TEt1alpNa1U2OVNUak5SVG8zN0hlMkQzVXBONVdkejR5aXdrVy1ENHIxRXIxVmVETW0tMXE5eGhqeHc0Vi1DX1pnSjBtcENvczdCQ2tucG5TU3ZtYlhhcmpWVmZhQzduajFuUFVRbHRzRDMxR0lxTUZMeVBkc3lwNU9iVUgzcmZOTGJjYw?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-04T17:33:34+00:00",
-      "tags": [
-        "Bitcoin",
-        "市场 Market"
-      ],
-      "key_quote": "COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements CryptoRank"
-    },
-    {
-      "title": "COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzgzMFRfT0lqVzRRR2VQc0ZCWk41UDVsN0RpR293Z0c1aUxzdVVadzFPb2Y1SGtkRm1YY0VQbW9EbjFjUm5TNzVHdmVQb1RqWjR5UjZ2R3Zhd241bTZaMXdTNXQ1VWFTSWdsa1lZRHlJQl9yRktscFBpZVZhLWlnNmhXVjBpdXZ3ZkJWYi1QaEQ0ZHR5NHEzWnJXUF9mVXhucGplU0gydDhnZW1tU1M1dE5n?oc=5\" target=\"_blank\">COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpaper</font>",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzgzMFRfT0lqVzRRR2VQc0ZCWk41UDVsN0RpR293Z0c1aUxzdVVadzFPb2Y1SGtkRm1YY0VQbW9EbjFjUm5TNzVHdmVQb1RqWjR5UjZ2R3Zhd241bTZaMXdTNXQ1VWFTSWdsa1lZRHlJQl9yRktscFBpZVZhLWlnNmhXVjBpdXZ3ZkJWYi1QaEQ0ZHR5NHEzWnJXUF9mVXhucGplU0gydDhnZW1tU1M1dE5n?oc=5",
-      "source": "Coinpaper",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-04T17:30:25+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "COIN Stock Jumps Over 14% as Brian Armstrong and Donald Trump Make Bullish Statements Coinpaper"
     }
   ]
 }
