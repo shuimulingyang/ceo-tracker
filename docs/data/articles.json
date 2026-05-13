@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T22:02:16Z",
+  "updated_at": "2026-05-13T23:45:05Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 273,
@@ -9,6 +9,30 @@
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3B6SDRrMy10YkxFdS0zRlRoYUhReFZNMHFOTmVZQzg5Z09wWFAxaG9GRVRicjlrSmw2eWxfbE9PZWFmWDQxTWNMOXRoVU9lQlpoa1B6VXVmY0VIclhOSi1NSzRIX1hYUjI3WEtaSFh5Qi1MMzVVWGZrNk9OOFlTNXAyZTNyNUdyNUcybmJ4LUdmMlo4d2xNOFkxMjBhNHhVc1R2T2FHdWRWWlI0SF9FUEF6a1d3RWhvUERYWmVZbjd3Qlc5Y29wQkdMbDgzUnFHZTBfVm9TUkQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3B6SDRrMy10YkxFdS0zRlRoYUhReFZNMHFOTmVZQzg5Z09wWFAxaG9GRVRicjlrSmw2eWxfbE9PZWFmWDQxTWNMOXRoVU9lQlpoa1B6VXVmY0VIclhOSi1NSzRIX1hYUjI3WEtaSFh5Qi1MMzVVWGZrNk9OOFlTNXAyZTNyNUdyNUcybmJ4LUdmMlo4d2xNOFkxMjBhNHhVc1R2T2FHdWRWWlI0SF9FUEF6a1d3RWhvUERYWmVZbjd3Qlc5Y29wQkdMbDgzUnFHZTBfVm9TUkQ?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-13T21:56:58+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup TradingView"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
+      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aG8taXMtYnJpYW4tYXJtc3Ryb25nLXByb2ZpbGUtYW5kLWJpb2dyYXBoeS5qcGc=.jpg\" /></p><p>Armstrong said the bill is \"closer than ever\" to advancing in the US Congress after months of negotiations between the crypto industry and banks.</p>",
+      "url": "https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-clarity-act-thursday-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-13T21:56:58+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Armstrong said the bill is \"closer than ever\" to advancing in the US Congress after months of negotiations between the crypto industry and banks."
+    },
     {
       "title": "Coinbase CEO Unpacks The Crypto Bill’s Biggest Promise For The US Financial System",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSlEzSmRSemdkd0t0LUVpMnJ4Z0RlcUJFZk1memZDRzg3LUpNYV9IR3lERFhmVWlqSlU2bTVXbU9ibnB6bDUyTWtCN2g3MTRGNDZhZUZ4RGNWVEFaVERjWEtkZWltRU1Pb0pnd2JjMGpPclg0ejBQNjZuN3U1bF9ZTEViZDNNTnZseGpVaHlmbEFFSDI4YVFEb3ozaXRpeVI0VkkxY1piYlN1MGxYLXI4YnVJcjdWMko3YW83LWY2MUZVaksyOTczRG1IUjFSQjhkNlN6b3ZhMA?oc=5\" target=\"_blank\">Coinbase CEO Unpacks The Crypto Bill’s Biggest Promise For The US Financial System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
@@ -6170,30 +6194,6 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Coinbase CEO Highlights UK Regulatory Risks as US Stablecoin Framework Advances and Global Adoption Surges Crowdfund Insider"
-    },
-    {
-      "title": "'Crypto Will Break Down Barriers': Coinbase CEO Hints at Potential in Capital Formation",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOU91VVVzX2J5UF9fY05GdzZ6LWRCUTNKendxTW9pclNrUk0wZE83WFNZSnoxZ0o4NGF6SVJKSXk4aFREdC1WaW12NDd3VVYzZW9DOW43N1ZqbUF0cXhuRUJJSjNkQksxdG1PNHF5eUhoWi1ZeFZldU45aUVjUGY0RUpScmVPRWplNjh3RVRvUU1Cb3NzVzBXRTFEYldMSFo0aEZ3M2ZwbHQ4aEczUkZQclZXYU0ySDFXZkpOUHk1cjFoT0xCcnptVzU4UWxkdm9QR1pIbHhrdUNLZw?oc=5\" target=\"_blank\">'Crypto Will Break Down Barriers': Coinbase CEO Hints at Potential in Capital Formation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOU91VVVzX2J5UF9fY05GdzZ6LWRCUTNKendxTW9pclNrUk0wZE83WFNZSnoxZ0o4NGF6SVJKSXk4aFREdC1WaW12NDd3VVYzZW9DOW43N1ZqbUF0cXhuRUJJSjNkQksxdG1PNHF5eUhoWi1ZeFZldU45aUVjUGY0RUpScmVPRWplNjh3RVRvUU1Cb3NzVzBXRTFEYldMSFo0aEZ3M2ZwbHQ4aEczUkZQclZXYU0ySDFXZkpOUHk1cjFoT0xCcnptVzU4UWxkdm9QR1pIbHhrdUNLZw?oc=5",
-      "source": "TradingView",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-09T12:24:00+00:00",
-      "tags": [],
-      "key_quote": "'Crypto Will Break Down Barriers': Coinbase CEO Hints at Potential in Capital Formation TradingView"
-    },
-    {
-      "title": "Bitcoin To $1.3 Million? Coinbase CEO Brian Armstrong Urges: 'Own A Crypto Wallet'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPYlZpY3Nqd1h0UzVMOVpBdjluZjNjTi1oWjMxckp5NWpWc1dHc24zRW1WaEozcGJyZ194aW9uLWYtY2ZENlkxdUhJc3RwMnZpbkFtMWd4OVNyY0dlVTE3NlZVS3hNTVNsR2hGS3pXTDdwTzVoN0ZoS1pxTDRXa29zY2dmUkh6WlFmNm9DOUE5ZXFQMTNGTFg2QXBEdnNwc2FUeTU1LXVMdXkwZ09fVVhMZ3RMZVRNT1VFa19lWkVvRG9hVEM0QzI0?oc=5\" target=\"_blank\">Bitcoin To $1.3 Million? Coinbase CEO Brian Armstrong Urges: 'Own A Crypto Wallet'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYlZpY3Nqd1h0UzVMOVpBdjluZjNjTi1oWjMxckp5NWpWc1dHc24zRW1WaEozcGJyZ194aW9uLWYtY2ZENlkxdUhJc3RwMnZpbkFtMWd4OVNyY0dlVTE3NlZVS3hNTVNsR2hGS3pXTDdwTzVoN0ZoS1pxTDRXa29zY2dmUkh6WlFmNm9DOUE5ZXFQMTNGTFg2QXBEdnNwc2FUeTU1LXVMdXkwZ09fVVhMZ3RMZVRNT1VFa19lWkVvRG9hVEM0QzI0?oc=5",
-      "source": "Sahm",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-09T07:00:00+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong Urges: 'Own A Crypto Wallet' Sahm"
     }
   ]
 }
