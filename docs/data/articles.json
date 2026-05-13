@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-13T02:27:59Z",
+  "updated_at": "2026-05-13T06:14:25Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 274,
+    "CZ": 130,
+    "Brian Armstrong": 273,
     "Richard Teng": 49,
-    "CZ": 129,
     "Ben Zhou": 29,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "PBD #797: Binance Founder Changpeng Zhao Opens Up (Transcript)",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdWREQkhfejk5VG5YWDY4YnRLRTc0cWs3MzBKNXFyRUUtMml6RG03dTdObDNST2p1SEVQbFN5RURPMHdSRU5wSDFXbkljZzVtMHVHRVZtVV9MV2R4cmZWNnRWWVAxS0g3R2Q4dDNDcEpMMW1nODc5RlFDVUcyTkt5cF9ESVc3d0tnLXc?oc=5\" target=\"_blank\">PBD #797: Binance Founder Changpeng Zhao Opens Up (Transcript)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Singju Post</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdWREQkhfejk5VG5YWDY4YnRLRTc0cWs3MzBKNXFyRUUtMml6RG03dTdObDNST2p1SEVQbFN5RURPMHdSRU5wSDFXbkljZzVtMHVHRVZtVV9MV2R4cmZWNnRWWVAxS0g3R2Q4dDNDcEpMMW1nODc5RlFDVUcyTkt5cF9ESVc3d0tnLXc?oc=5",
+      "source": "The Singju Post",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-13T03:04:11+00:00",
+      "tags": [],
+      "key_quote": "PBD #797: Binance Founder Changpeng Zhao Opens Up (Transcript) The Singju Post"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong heads to Senate to advocate for crypto market structure bill",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFMkxDZm03UGF4OW01Z2dJT3BnSmt6d1J6SnM3aWhpOW10R1dUYUJXVkhZR2xUbEhhV3ExR0R1clZmY29iUGV1ZTVzYWp3RWtUZ2FHOTB4R29hbkw2S0dUVWg3UE9nQ281UHB3?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong heads to Senate to advocate for crypto market structure bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
@@ -6185,19 +6196,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Before Trump Lashed Out at Banks, Coinbase CEO Had Just Secretly Met with Him TechFlow Post"
-    },
-    {
-      "title": "Trump Meets Coinbase CEO Brian Armstrong as Crypto Market Structure Fight Intensifies",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzFLUy1mUEpQYkZEUWctSnNyNzNOTGctcU5qSk9NM1ZIeElDam1IWFpXeWdyUHNUQVM3YUV2dVo2WXlhT3ktMkZ5VUJDdXcwXzFwN2p1SU1ydnN2V1dMOVRCZ0hLT0tIU3pYR25wbXpqWW5mdjdXV1JLWmJFaTJ3T3pUWlBIckQxc0t2cWNMQkZPZXJMS2o5bkdEeGJja3Frd2YtNnBrNXIta29kbkdiRw?oc=5\" target=\"_blank\">Trump Meets Coinbase CEO Brian Armstrong as Crypto Market Structure Fight Intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzFLUy1mUEpQYkZEUWctSnNyNzNOTGctcU5qSk9NM1ZIeElDam1IWFpXeWdyUHNUQVM3YUV2dVo2WXlhT3ktMkZ5VUJDdXcwXzFwN2p1SU1ydnN2V1dMOVRCZ0hLT0tIU3pYR25wbXpqWW5mdjdXV1JLWmJFaTJ3T3pUWlBIckQxc0t2cWNMQkZPZXJMS2o5bkdEeGJja3Frd2YtNnBrNXIta29kbkdiRw?oc=5",
-      "source": "FinanceFeeds",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-04T23:56:55+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Trump Meets Coinbase CEO Brian Armstrong as Crypto Market Structure Fight Intensifies FinanceFeeds"
     }
   ]
 }
