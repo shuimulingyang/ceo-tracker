@@ -1,14 +1,75 @@
 {
-  "updated_at": "2026-05-13T13:57:47Z",
+  "updated_at": "2026-05-13T16:14:23Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 272,
-    "Richard Teng": 50,
-    "CZ": 130,
+    "Richard Teng": 51,
+    "CZ": 129,
     "Ben Zhou": 29,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Announces US Cryptocurrency Bill is About to Become Law!",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WVWhuUWdlT09oU1ktV0dnRnRCNW1DRXU4cEszaFREMkI1dWlFU0lIaFFBZzNYZVdpaVhPX0x4THVOcW1xN0ZwRUR3R2FTZElQSGdwMWRB?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Announces US Cryptocurrency Bill is About to Become Law!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WVWhuUWdlT09oU1ktV0dnRnRCNW1DRXU4cEszaFREMkI1dWlFU0lIaFFBZzNYZVdpaVhPX0x4THVOcW1xN0ZwRUR3R2FTZElQSGdwMWRB?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-13T15:57:35+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Announces US Cryptocurrency Bill is About to Become Law!"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQbzV3aDZzQ0FGUDZMS2pha0lPZGk1OUJ4WHpGMlQ2aVktUDl5YUNfb0M1d01peWI1QjRua1hUOWRJWUlxbDRwV0w5WS1CVjBob1pZOGN2eDR1eEV5c0x1b01Nb0J0VVhiS1BRVjRDQk1va0NXSXpKeEJ0anhLb0pfTjhPOTRqbHM?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbzV3aDZzQ0FGUDZMS2pha0lPZGk1OUJ4WHpGMlQ2aVktUDl5YUNfb0M1d01peWI1QjRua1hUOWRJWUlxbDRwV0w5WS1CVjBob1pZOGN2eDR1eEV5c0x1b01Nb0J0VVhiS1BRVjRDQk1va0NXSXpKeEJ0anhLb0pfTjhPOTRqbHM?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-13T15:54:49+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical Yahoo Finance"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa2g2aFVYR0lDSEQ1ellyMHNhREJ5SHVtX191a3UtSUNUSTAzTlVMWGM1Z0ZiQ0NLajJFNEFIQ2liamhaZXFlZ00yR0NtY0x4REVqQjIzODhUekE2NUFVV1NqUkdsLUppYWVPRVh1Z1ZKaVpHTlRLQ0duQ25iWXRnVFlwZlVpQ3VrWWVBYXJTRTZ1NVFya2V6NGtkel81c3J3bWxEeDFsbWZTSkNrR2pBSUNPSUprRjV6bUZtbVpxUHFQSU1iMlQ0cm1ZdGhlZzcyZzFnc0FZd2hDeGVQeFFsT3A4ZXZuRXdXdElaQTRPRzNQSllxMHpVXw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa2g2aFVYR0lDSEQ1ellyMHNhREJ5SHVtX191a3UtSUNUSTAzTlVMWGM1Z0ZiQ0NLajJFNEFIQ2liamhaZXFlZ00yR0NtY0x4REVqQjIzODhUekE2NUFVV1NqUkdsLUppYWVPRVh1Z1ZKaVpHTlRLQ0duQ25iWXRnVFlwZlVpQ3VrWWVBYXJTRTZ1NVFya2V6NGtkel81c3J3bWxEeDFsbWZTSkNrR2pBSUNPSUprRjV6bUZtbVpxUHFQSU1iMlQ0cm1ZdGhlZzcyZzFnc0FZd2hDeGVQeFFsT3A4ZXZuRXdXdElaQTRPRzNQSllxMHpVXw?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-13T15:54:49+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical Benzinga"
+    },
+    {
+      "title": "Coinbase CEO says crypto bill could transform US financial system as Senate vote approaches",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPa094ckdiRkVNZnJZU0xFQnkxTVF2Z0xwemtuSHNSSzBsYWN3WXFka2hydElMaElma1BfdEhlcUk4bi1yN3RhRVVJbGJ0dnRIeWUtbmhwb0I2RWpPaWk5RkNFNWN3QklzekU1VGdJSlpPYS05WDkyclBtczFmV3NWdElURGxsVkNPYUNiX0ctaG1nYzMtUDc3Uzk5WHplOWw3bHNyRlUtOU1aVUNIZm9Dei1mckkzSGNqdU8ySlZ3b9IBxAFBVV95cUxPS2ViZWNGMHZhRU5xVWdjX0dwbS1iUmE5MjVwM3lkZ2QyRjVEUjhvLVEtb3V2TGJUSmF5c3hxSGY0TkpfN2hyQjNhNTVWd25SQlZPa29xRk1oVERwY21WMkJMSWc1dThJTVZJS3pjX3BEd0VhY2djdEdwdE1Md0NqWE1lZVd0eXlTdjQtU1cwSE9vZFFuZGlwUUdSSDdBdFd5VnRRdTJBbmlnVHVlRk9ocjMxSm9DNEF6T3lxODZEUGYwNWxL?oc=5\" target=\"_blank\">Coinbase CEO says crypto bill could transform US financial system as Senate vote approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa094ckdiRkVNZnJZU0xFQnkxTVF2Z0xwemtuSHNSSzBsYWN3WXFka2hydElMaElma1BfdEhlcUk4bi1yN3RhRVVJbGJ0dnRIeWUtbmhwb0I2RWpPaWk5RkNFNWN3QklzekU1VGdJSlpPYS05WDkyclBtczFmV3NWdElURGxsVkNPYUNiX0ctaG1nYzMtUDc3Uzk5WHplOWw3bHNyRlUtOU1aVUNIZm9Dei1mckkzSGNqdU8ySlZ3b9IBxAFBVV95cUxPS2ViZWNGMHZhRU5xVWdjX0dwbS1iUmE5MjVwM3lkZ2QyRjVEUjhvLVEtb3V2TGJUSmF5c3hxSGY0TkpfN2hyQjNhNTVWd25SQlZPa29xRk1oVERwY21WMkJMSWc1dThJTVZJS3pjX3BEd0VhY2djdEdwdE1Md0NqWE1lZVd0eXlTdjQtU1cwSE9vZFFuZGlwUUdSSDdBdFd5VnRRdTJBbmlnVHVlRk9ocjMxSm9DNEF6T3lxODZEUGYwNWxL?oc=5",
+      "source": "Fox Business",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-13T15:35:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO says crypto bill could transform US financial system as Senate vote approaches Fox Business"
+    },
+    {
+      "title": "Coinbase CEO signals green light as Senate crypto bill nears critical vote",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE15YkFzNVJxT1Z4bVdJMHFpbEltSzJfWUYyRmRsZEM5bmpsVkNKWlZKbHlnMW9DYVZwY084QW0yeS1Ub0VDa2gyMHRZbTlndGJSU3gxbXMxUDFSU3M?oc=5\" target=\"_blank\">Coinbase CEO signals green light as Senate crypto bill nears critical vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15YkFzNVJxT1Z4bVdJMHFpbEltSzJfWUYyRmRsZEM5bmpsVkNKWlZKbHlnMW9DYVZwY084QW0yeS1Ub0VDa2gyMHRZbTlndGJSU3gxbXMxUDFSU3M?oc=5",
+      "source": "Fox Business",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-13T14:42:27+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO signals green light as Senate crypto bill nears critical vote Fox Business"
+    },
     {
       "title": "Coinbase CEO Says CLARITY Act Is Closer Than Ever",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1veFdldTJTQ252eUIwZFl6RXhnR2QzTDhrMmk1a0tDMHlYelBmdDJsYnViWUNtend4MlVrNEttYXhDcTRLX296T1V1Wk9KaEhFVHlfOA?oc=5\" target=\"_blank\">Coinbase CEO Says CLARITY Act Is Closer Than Ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
@@ -32,6 +93,17 @@
         "Layer2"
       ],
       "key_quote": "Brian Armstrong: Bill aims to make U.S. financial system faster and more accessible Traders Union"
+    },
+    {
+      "title": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XR3hud3dOZllqSVlLLUNiRTNteW5vY29DR3VVVDZVQWNPTngySFNwMktTbHU2d3B1bjlSUVNDQ0g0a05ieWhpTHYwSnBaSFd3dkpFLUJRN2dSZG1NWTVIUS1jUEU?oc=5\" target=\"_blank\">Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XR3hud3dOZllqSVlLLUNiRTNteW5vY29DR3VVVDZVQWNPTngySFNwMktTbHU2d3B1bjlSUVNDQ0g0a05ieWhpTHYwSnBaSFd3dkpFLUJRN2dSZG1NWTVIUS1jUEU?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-05-13T12:08:19+00:00",
+      "tags": [],
+      "key_quote": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\" Binance"
     },
     {
       "title": "Richard Teng: Rachel Conlan steps down from Binance after over three years",
@@ -6125,80 +6197,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong faces shareholder lawsuit over compliance failures and disclosures Crypto Briefing"
-    },
-    {
-      "title": "Coinbase Shareholder Sues CEO Brian Armstrong and Board Over Misleading Disclosures",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0JidjhMQjNndHVGcVpvVzJPVVVvaXgxUXRyMnNqa3FIY29KNDFta0t3cjBhWmFEXzVBRFdmeldRV3Zubk8wWmMtUzFQd1NVckhWcTNsYVBucWthdDhJRDM2WFZEdzhpMEZ2Q1J6eUphZ3BSREY0amdRemdlTDhNX1RYTXlTbW5zN1pFeG1KY19jZmpQVklIVTd4RjBxVFg4TE84dXZnTWJBZnVBUXc?oc=5\" target=\"_blank\">Coinbase Shareholder Sues CEO Brian Armstrong and Board Over Misleading Disclosures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0JidjhMQjNndHVGcVpvVzJPVVVvaXgxUXRyMnNqa3FIY29KNDFta0t3cjBhWmFEXzVBRFdmeldRV3Zubk8wWmMtUzFQd1NVckhWcTNsYVBucWthdDhJRDM2WFZEdzhpMEZ2Q1J6eUphZ3BSREY0amdRemdlTDhNX1RYTXlTbW5zN1pFeG1KY19jZmpQVklIVTd4RjBxVFg4TE84dXZnTWJBZnVBUXc?oc=5",
-      "source": "FinanceFeeds",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-05T19:59:03+00:00",
-      "tags": [],
-      "key_quote": "Coinbase Shareholder Sues CEO Brian Armstrong and Board Over Misleading Disclosures FinanceFeeds"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUW5HOGZmMU40OEh6VFNaM21EeGhmVk9FYXczVXA3MU1VSy02b1M5R21DTFpzYzZZazlobmQ3dWQ2VUVnRkQ0V0luWVdfX2VQbmVOelBIbHZKc0VGTTA4SWQzTnRzQ0pwMHFXcVM3SlZIdGw0bF9hSFdpQm5RN0g2aXQwMkdwa0QwWXJKUEo3Tm1EaFh3c3doYjhLTThTSFZ1TTk2RDNNdXRqbVpMRzFF?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUW5HOGZmMU40OEh6VFNaM21EeGhmVk9FYXczVXA3MU1VSy02b1M5R21DTFpzYzZZazlobmQ3dWQ2VUVnRkQ0V0luWVdfX2VQbmVOelBIbHZKc0VGTTA4SWQzTnRzQ0pwMHFXcVM3SlZIdGw0bF9hSFdpQm5RN0g2aXQwMkdwa0QwWXJKUEo3Tm1EaFh3c3doYjhLTThTSFZ1TTk2RDNNdXRqbVpMRzFF?oc=5",
-      "source": "The Block",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-05T19:28:08+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures The Block"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures",
-      "content": "<p>The complaint centers on custody disclosures tied to bankruptcy risk, whether Coinbase listed tokens that could be securities and deficiencies in the company’s AML program.</p>",
-      "url": "https://www.theblock.co/post/392455/coinbase-ceo-brian-armstrong-execs-shareholder-lawsuit-compliance-failures?utm_source=rss&utm_medium=rss",
-      "source": "The Block",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-05T19:28:08+00:00",
-      "tags": [
-        "监管 Regulation",
-        "Ethereum",
-        "DeFi"
-      ],
-      "key_quote": "The complaint centers on custody disclosures tied to bankruptcy risk, whether Coinbase listed tokens that could be securities and deficiencies in the company’s AML program."
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjFxaEMxR1RLWTlOc21BMXJlN1AwYnpKWXdUYkdXRi1qS1Q1TG1xSTFtZ2JvT1NKZTNBLXk3MTZiVEVFR3cwRjJ6UXNRSy1Uai14NXVuVXBodWtOM19UaWEwQTJHMVF5NVZFTGV1ZE00YnhmRm82MURtdXJVY1RvWExqR3pkSmVBYmR5VHlVSy1YenhTc01XOXBjcWRCZllVdjVfdEUzUnVkVmhYSkRnRjdGR0I?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjFxaEMxR1RLWTlOc21BMXJlN1AwYnpKWXdUYkdXRi1qS1Q1TG1xSTFtZ2JvT1NKZTNBLXk3MTZiVEVFR3cwRjJ6UXNRSy1Uai14NXVuVXBodWtOM19UaWEwQTJHMVF5NVZFTGV1ZE00YnhmRm82MURtdXJVY1RvWExqR3pkSmVBYmR5VHlVSy1YenhTc01XOXBjcWRCZllVdjVfdEUzUnVkVmhYSkRnRjdGR0I?oc=5",
-      "source": "The Block",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-05T19:28:08+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong and execs face shareholder lawsuit over disclosures, compliance failures The Block"
-    },
-    {
-      "title": "CZ Binance Dog Name: Crypto Leader's Pet & Community Culture Explained",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdXdqRm5qUG1Gcm45c2hEVlptcDVDdFlwcFhPdWhzWUs1b3lwUVRMTTFOX3pTenF1dVBSTE5iUjltck5EZUhBNDAtTTdlb3U4Q2MtaVFhemhsYzZXVEJIRGpNU3nSAWRBVV95cUxQYXV3akZualBtRnJuOXNoRFZabXA1Q3RZcHBYT3Voc1lLNW95cFFUTE0xTl96U3pxdXVQUkxOYlI5bXJORGVIQTQwLU03ZW91OENjLWlRYXpobGM2V1RCSERqTVN5?oc=5\" target=\"_blank\">CZ Binance Dog Name: Crypto Leader's Pet & Community Culture Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhdXdqRm5qUG1Gcm45c2hEVlptcDVDdFlwcFhPdWhzWUs1b3lwUVRMTTFOX3pTenF1dVBSTE5iUjltck5EZUhBNDAtTTdlb3U4Q2MtaVFhemhsYzZXVEJIRGpNU3nSAWRBVV95cUxQYXV3akZualBtRnJuOXNoRFZabXA1Q3RZcHBYT3Voc1lLNW95cFFUTE0xTl96U3pxdXVQUkxOYlI5bXJORGVIQTQwLU03ZW91OENjLWlRYXpobGM2V1RCSERqTVN5?oc=5",
-      "source": "Bitget",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-05T16:40:45+00:00",
-      "tags": [],
-      "key_quote": "CZ Binance Dog Name: Crypto Leader's Pet & Community Culture Explained Bitget"
-    },
-    {
-      "title": "Coinbase Board and CEO Brian Armstrong Face Shareholder Lawsuit",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEJPYUNYVjE2cDJ1enhRbTk0RDZ1ODhPZHZFVUw3VHJxYWlfeHFMZF9DeVVfWFJBcHZTZ2tCbkNISTdFdzAxNWJPckRvRWhiaXV1bHJyUnZjNGhKMzR2OFRncUN3MDhocEtYdHV4RFNYS05mczNCV085QktHRk5WODN0MjZhM2tLc0JORDZGU1BWU05KbFd2Z0JXYUgxYkJPdDZDdW1sU280WTFxWDlBa3VtMkJSaVA2VG91ajVB?oc=5\" target=\"_blank\">Coinbase Board and CEO Brian Armstrong Face Shareholder Lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEJPYUNYVjE2cDJ1enhRbTk0RDZ1ODhPZHZFVUw3VHJxYWlfeHFMZF9DeVVfWFJBcHZTZ2tCbkNISTdFdzAxNWJPckRvRWhiaXV1bHJyUnZjNGhKMzR2OFRncUN3MDhocEtYdHV4RFNYS05mczNCV085QktHRk5WODN0MjZhM2tLc0JORDZGU1BWU05KbFd2Z0JXYUgxYkJPdDZDdW1sU280WTFxWDlBa3VtMkJSaVA2VG91ajVB?oc=5",
-      "source": "TradingView",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-05T15:09:07+00:00",
-      "tags": [],
-      "key_quote": "Coinbase Board and CEO Brian Armstrong Face Shareholder Lawsuit TradingView"
     }
   ]
 }
