@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-13T20:25:25Z",
+  "updated_at": "2026-05-13T22:02:16Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 274,
+    "Brian Armstrong": 273,
     "Richard Teng": 52,
-    "CZ": 126,
+    "CZ": 127,
     "Ben Zhou": 29,
     "Star Xu": 19
   },
@@ -194,6 +194,17 @@
         "Layer2"
       ],
       "key_quote": "Brian Armstrong: Bill aims to make U.S. financial system faster and more accessible Traders Union"
+    },
+    {
+      "title": "Coinbase CEO issues warning to all Americans amid mass layoffs",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNWE1BQlVpOTBrSGw4alRITUF3QnU5MEVCZmR1RDMzaG1Mb2lYcUVyYUVobnFzUlpxclk3Z0I0bTVPZ09HaXlaVGR6cF9xblhlNHNxSGhnVzdIeFh4UTBDajZlYVVObnNaVHBNdWVEanZYbFppU1hKMlltcnc5a2F6cmFmUU1BVTJBd3FQN2ZwLUFaLUo4SmFXM3RLMUh5Uk96QklMV053LXFNeWVva1VSUkl5UDNDZG9CQmRIcGFvZ3cxczNhZklEaTA0OXRzMmdoTGhYRFd4ZHJKUFBXQTJ0dzkwQXR2Y0QzUXJGOVFLZlRONVVlcjVHVFRHTFdhRFNxSWpz?oc=5\" target=\"_blank\">Coinbase CEO issues warning to all Americans amid mass layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWE1BQlVpOTBrSGw4alRITUF3QnU5MEVCZmR1RDMzaG1Mb2lYcUVyYUVobnFzUlpxclk3Z0I0bTVPZ09HaXlaVGR6cF9xblhlNHNxSGhnVzdIeFh4UTBDajZlYVVObnNaVHBNdWVEanZYbFppU1hKMlltcnc5a2F6cmFmUU1BVTJBd3FQN2ZwLUFaLUo4SmFXM3RLMUh5Uk96QklMV053LXFNeWVva1VSUkl5UDNDZG9CQmRIcGFvZ3cxczNhZklEaTA0OXRzMmdoTGhYRFd4ZHJKUFBXQTJ0dzkwQXR2Y0QzUXJGOVFLZlRONVVlcjVHVFRHTFdhRFNxSWpz?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-13T12:41:25+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO issues warning to all Americans amid mass layoffs MSN"
     },
     {
       "title": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"",
@@ -697,6 +708,17 @@
       "title": "Changpeng Zhao",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE56TkFncmxQb21fVUVBNENjWnpOZDlka2tlbXVXQldBY1pfblEzbmptTFlvMERsbjEyeFE3bFN6TVVfR3k4c29xLUg3TFdkdS1pRS1UWjV0NS1UVk9JazhUbDhCaw?oc=5\" target=\"_blank\">Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes Middle East</font>",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56TkFncmxQb21fVUVBNENjWnpOZDlka2tlbXVXQldBY1pfblEzbmptTFlvMERsbjEyeFE3bFN6TVVfR3k4c29xLUg3TFdkdS1pRS1UWjV0NS1UVk9JazhUbDhCaw?oc=5",
+      "source": "Forbes Middle East",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-08T07:46:58+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao Forbes Middle East"
+    },
+    {
+      "title": "Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ0ZqcnRnbFpzZU5sSElWU0dFZnk1SWYyaG1OUFNIRjdLV2p4MHlVU2dJdU1KcDNES1lUQkk5ODdwa3lHblh0R3ZGengxNk8tRXgzWVhFc29SY1M5ckJwTnNHX1hrTVZFZ0xqd2pCamo1TVJsQ2RfdFR2SVJ0VW13T2p4Tmc5dEFDcVRobVZGZUUwQQ?oc=5\" target=\"_blank\">Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes Middle East</font>",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ0ZqcnRnbFpzZU5sSElWU0dFZnk1SWYyaG1OUFNIRjdLV2p4MHlVU2dJdU1KcDNES1lUQkk5ODdwa3lHblh0R3ZGengxNk8tRXgzWVhFc29SY1M5ckJwTnNHX1hrTVZFZ0xqd2pCamo1TVJsQ2RfdFR2SVJ0VW13T2p4Tmc5dEFDcVRobVZGZUUwQQ?oc=5",
       "source": "Forbes Middle East",
       "ceo_name": "CZ",
       "exchange": "Binance",
@@ -6172,30 +6194,6 @@
         "Bitcoin"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Urges: 'Own A Crypto Wallet' Sahm"
-    },
-    {
-      "title": "Brian Armstrong Hunted For Fixes When His Crypto Company Went Flat Post-Launch: He Found Them By Simply Picking Up The Phone",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxQeFRZM2hidDB6a3YxTFN5RnJRUUV4ZDNXZTg2c2IxRk9KcVlzOTZJTTdZSVlyXzlIanR5ZkhuX1FPdGJBdVNPLS1vZ2xadHdob093Tmw4Nl9zLWduVm1pTkVxZ1ZqR3hKMHVKNXRxcm1VNzhKOVJzZmcyQkI5OFZpRWJaVl9DN2JoVFdWUVNpZGQ1M3dHY2dFNWt2NldlT1g2dHEzN1VaSVl5bHZhTVc1N1dORVItSkY3anRqQlVfOHEtaE95QzY3eGRpcXpaVVBqbDlHNWZSaXE5dlZuampQTWw4amZIQWZVUjNLLWNEY2pwZkVJRl9BYlVGVHhBdmJBSHVRQmhBZkJTcnI1NjNFYThsUQ?oc=5\" target=\"_blank\">Brian Armstrong Hunted For Fixes When His Crypto Company Went Flat Post-Launch: He Found Them By Simply Picking Up The Phone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeFRZM2hidDB6a3YxTFN5RnJRUUV4ZDNXZTg2c2IxRk9KcVlzOTZJTTdZSVlyXzlIanR5ZkhuX1FPdGJBdVNPLS1vZ2xadHdob093Tmw4Nl9zLWduVm1pTkVxZ1ZqR3hKMHVKNXRxcm1VNzhKOVJzZmcyQkI5OFZpRWJaVl9DN2JoVFdWUVNpZGQ1M3dHY2dFNWt2NldlT1g2dHEzN1VaSVl5bHZhTVc1N1dORVItSkY3anRqQlVfOHEtaE95QzY3eGRpcXpaVVBqbDlHNWZSaXE5dlZuampQTWw4amZIQWZVUjNLLWNEY2pwZkVJRl9BYlVGVHhBdmJBSHVRQmhBZkJTcnI1NjNFYThsUQ?oc=5",
-      "source": "Benzinga",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-08T17:01:09+00:00",
-      "tags": [],
-      "key_quote": "Brian Armstrong Hunted For Fixes When His Crypto Company Went Flat Post-Launch: He Found Them By Simply Picking Up The Phone Benzinga"
-    },
-    {
-      "title": "Brian Armstrong Hunted For Fixes When His Crypto Company Went Flat Post-Launch: He Found Them By Simply Picking Up The Phone",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOQkstSVFOYUJPckNKVnhZQzdRX2pBdlQ1RS00S2E0bldEZ01EdGhXd09QM01xWWE3RVVXdXRNaTNBNjB2M1g0TzZMQS1oWEN0MmtrWkVXZjFtMnF4dUtwa1RJQndUREpTbkxYUFlra0h4dlE5QVQ2MGppMTRpT2pvdHBrQS1NaWk3RnVWV0Nzemt4b25ZeUNtY3I3S3g5NFFkSDNLM2phdDdaOEk1dG4tS1FtdG5pMmhKb3E5UHJZTFJUeVEyamRPRW92Yy10dU10VkRnM3cyY0tGeXRrU1ozZFFtbE9UMUxyZVNQeFljTjh1TXBuRGRaNUQyOVdRZzVGa09jdHNB?oc=5\" target=\"_blank\">Brian Armstrong Hunted For Fixes When His Crypto Company Went Flat Post-Launch: He Found Them By Simply Picking Up The Phone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQkstSVFOYUJPckNKVnhZQzdRX2pBdlQ1RS00S2E0bldEZ01EdGhXd09QM01xWWE3RVVXdXRNaTNBNjB2M1g0TzZMQS1oWEN0MmtrWkVXZjFtMnF4dUtwa1RJQndUREpTbkxYUFlra0h4dlE5QVQ2MGppMTRpT2pvdHBrQS1NaWk3RnVWV0Nzemt4b25ZeUNtY3I3S3g5NFFkSDNLM2phdDdaOEk1dG4tS1FtdG5pMmhKb3E5UHJZTFJUeVEyamRPRW92Yy10dU10VkRnM3cyY0tGeXRrU1ozZFFtbE9UMUxyZVNQeFljTjh1TXBuRGRaNUQyOVdRZzVGa09jdHNB?oc=5",
-      "source": "Sahm",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-08T08:00:00+00:00",
-      "tags": [
-        "Web3"
-      ],
-      "key_quote": "Brian Armstrong Hunted For Fixes When His Crypto Company Went Flat Post-Launch: He Found Them By Simply Picking Up The Phone Sahm"
     }
   ]
 }
