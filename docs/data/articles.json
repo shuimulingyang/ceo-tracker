@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-05-14T01:51:29Z",
+  "updated_at": "2026-05-14T05:36:56Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 273,
+    "Brian Armstrong": 271,
+    "CZ": 129,
     "Richard Teng": 52,
-    "CZ": 127,
     "Ben Zhou": 29,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase CEO backs CLARITY Act before Senate markup",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0tRFMtaHoxdXJodGxobGFQaEM4ZmNZTHlEOUxCU2c3dk9iV3BEWlhGdFljQ2l0VU8xcTdheEVjNFc4SUpkdmhIU2NOZi1sWGdDWFN3MFVjXzgtQUljNVpkX1VXblRvc1JYZlU1cGNrWnczOHFDc29lZXl1ZzQ?oc=5\" target=\"_blank\">Coinbase CEO backs CLARITY Act before Senate markup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tRFMtaHoxdXJodGxobGFQaEM4ZmNZTHlEOUxCU2c3dk9iV3BEWlhGdFljQ2l0VU8xcTdheEVjNFc4SUpkdmhIU2NOZi1sWGdDWFN3MFVjXzgtQUljNVpkX1VXblRvc1JYZlU1cGNrWnczOHFDc29lZXl1ZzQ?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-14T04:50:04+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO backs CLARITY Act before Senate markup crypto.news"
+    },
+    {
+      "title": "Coinbase CEO Backs CLARITY Act Ahead of Key Senate Vote",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1fVmpZRC02SlZSN1ZCRlFaTUVhYUd5WjlTQl8tb2l6cThrNGRkcTA2a0RfTHVtQnNibWNaMWZaVm5lbnM0bHRVTjFiY21zcmJWTXVHd2N1dEY2N0V0YXowX0FaWXgwTm1rRWpOVVVPUkdhZWs?oc=5\" target=\"_blank\">Coinbase CEO Backs CLARITY Act Ahead of Key Senate Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fVmpZRC02SlZSN1ZCRlFaTUVhYUd5WjlTQl8tb2l6cThrNGRkcTA2a0RfTHVtQnNibWNaMWZaVm5lbnM0bHRVTjFiY21zcmJWTXVHd2N1dEY2N0V0YXowX0FaWXgwTm1rRWpOVVVPUkdhZWs?oc=5",
+      "source": "blockchain.news",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-14T00:59:20+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Backs CLARITY Act Ahead of Key Senate Vote blockchain.news"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3B6SDRrMy10YkxFdS0zRlRoYUhReFZNMHFOTmVZQzg5Z09wWFAxaG9GRVRicjlrSmw2eWxfbE9PZWFmWDQxTWNMOXRoVU9lQlpoa1B6VXVmY0VIclhOSi1NSzRIX1hYUjI3WEtaSFh5Qi1MMzVVWGZrNk9OOFlTNXAyZTNyNUdyNUcybmJ4LUdmMlo4d2xNOFkxMjBhNHhVc1R2T2FHdWRWWlI0SF9FUEF6a1d3RWhvUERYWmVZbjd3Qlc5Y29wQkdMbDgzUnFHZTBfVm9TUkQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
@@ -32,6 +54,19 @@
         "监管 Regulation"
       ],
       "key_quote": "Armstrong said the bill is \"closer than ever\" to advancing in the US Congress after months of negotiations between the crypto industry and banks."
+    },
+    {
+      "title": "Binance Founder Changpeng Zhao (CZ) Shares His Biggest Regret About the Crypto Market",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE81S3lyUlRDcWhLZEVoUzBzYnJKWDNzRXM1ei1XTTcxUTA3cjZESWJaUlFuRTA5b0ZRU19ndUJSTkxNc1FGRUhZd3F2SURacWprTE9NZFBR?oc=5\" target=\"_blank\">Binance Founder Changpeng Zhao (CZ) Shares His Biggest Regret About the Crypto Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81S3lyUlRDcWhLZEVoUzBzYnJKWDNzRXM1ei1XTTcxUTA3cjZESWJaUlFuRTA5b0ZRU19ndUJSTkxNc1FGRUhZd3F2SURacWprTE9NZFBR?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-13T21:12:43+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Binance Founder Changpeng Zhao (CZ) Shares His Biggest Regret About the Crypto Market Cryptonews.net"
     },
     {
       "title": "Coinbase CEO Unpacks The Crypto Bill’s Biggest Promise For The US Financial System",
@@ -253,6 +288,17 @@
       "key_quote": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\" Binance"
     },
     {
+      "title": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zbFhqbktPelFTVC0tQllTTVRLVjNSQUU3UXdkendwMUVuNjk1TmdfMGhudlI4Ukx1aEJ0NjBuTVM4S0d2aUxwQ3k3bnZaUTlxN3BCU2cySXZ2TTl5VlM1QVdPQlJXUno3?oc=5\" target=\"_blank\">Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zbFhqbktPelFTVC0tQllTTVRLVjNSQUU3UXdkendwMUVuNjk1TmdfMGhudlI4Ukx1aEJ0NjBuTVM4S0d2aUxwQ3k3bnZaUTlxN3BCU2cySXZ2TTl5VlM1QVdPQlJXUno3?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-05-13T12:08:19+00:00",
+      "tags": [],
+      "key_quote": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\" Binance"
+    },
+    {
       "title": "Richard Teng: Rachel Conlan steps down from Binance after over three years",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3k2b2c4RkpNLXVFYTVIN3NvR1AyemU3MUdqUGNDTmNiWWxBdjhMZ1pjbUQ5YUhHZGp1LWJ5NjBNQzZmRTRIZlVfZmkxRnVHa1dMOXZ4bHdTbDE1VXBXaXNYQmlBYjhKWHlic29hcFgwSlR6cU9SVENrNDdKSUtaTlhkeVQ?oc=5\" target=\"_blank\">Richard Teng: Rachel Conlan steps down from Binance after over three years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3k2b2c4RkpNLXVFYTVIN3NvR1AyemU3MUdqUGNDTmNiWWxBdjhMZ1pjbUQ5YUhHZGp1LWJ5NjBNQzZmRTRIZlVfZmkxRnVHa1dMOXZ4bHdTbDE1VXBXaXNYQmlBYjhKWHlic29hcFgwSlR6cU9SVENrNDdKSUtaTlhkeVQ?oc=5",
@@ -352,6 +398,17 @@
       "published_at": "2026-05-12T11:52:59+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO to Brief Senate GOP Lawmakers Wednesday Crypto Economy"
+    },
+    {
+      "title": "El Futuro de las Cripto: Discusión en Vivo con Changpeng Zhao y Voces de la Industria 🧡",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjN1FrU2NhMDY5T2NGT0dDVndYV0VIQjR2WG4xWnJJZ0xkUHd3LWlwcXptUDdEREJTT1FFb1lWMU0wLTRocmY4bC1LUDhRWWdtUjZHZHljLVI0dFhycnVWNHRoV1lMb2RZ?oc=5\" target=\"_blank\">El Futuro de las Cripto: Discusión en Vivo con Changpeng Zhao y Voces de la Industria 🧡</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjN1FrU2NhMDY5T2NGT0dDVndYV0VIQjR2WG4xWnJJZ0xkUHd3LWlwcXptUDdEREJTT1FFb1lWMU0wLTRocmY4bC1LUDhRWWdtUjZHZHljLVI0dFhycnVWNHRoV1lMb2RZ?oc=5",
+      "source": "Binance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-12T09:50:26+00:00",
+      "tags": [],
+      "key_quote": "El Futuro de las Cripto: Discusión en Vivo con Changpeng Zhao y Voces de la Industria 🧡 Binance"
     },
     {
       "title": "Coinbase CEO to Meet Republican Senators Ahead of CLARITY Act Vote",
@@ -6127,73 +6184,6 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Says The Next Crypto Explosion May Be Driven by AI Agents, Not Traders Coinpaper"
-    },
-    {
-      "title": "Bitcoin To $1.3 Million? Coinbase CEO Brian Armstrong Urges: 'Own A Crypto Wallet'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbWx0SjdNTFlHODRBWmFLU2stdFdyb0t2RTN6MENVY0dLTVZsTVduSHlrb0Vnek1PblRkaUV0Z3dFQ0VWNG1Jd1RvMHcxbVJtQjBzam1xSnNlMXh0bGxyVGtQTExzcnJ1Ynl5ZjVyNjNaUWoydFFiM045elNnbGNIQWJ6MkRyTDN1YkZXMF9jemFUU1dKZV9Od1FTeWF4bnp1ZjEtbXRXaUxLZEtzdnU2c3hQeUUxNzdwYjdKLXNlMThFMk4xb2xEdktTYjd1a3J1bXBwVVhB?oc=5\" target=\"_blank\">Bitcoin To $1.3 Million? Coinbase CEO Brian Armstrong Urges: 'Own A Crypto Wallet'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbWx0SjdNTFlHODRBWmFLU2stdFdyb0t2RTN6MENVY0dLTVZsTVduSHlrb0Vnek1PblRkaUV0Z3dFQ0VWNG1Jd1RvMHcxbVJtQjBzam1xSnNlMXh0bGxyVGtQTExzcnJ1Ynl5ZjVyNjNaUWoydFFiM045elNnbGNIQWJ6MkRyTDN1YkZXMF9jemFUU1dKZV9Od1FTeWF4bnp1ZjEtbXRXaUxLZEtzdnU2c3hQeUUxNzdwYjdKLXNlMThFMk4xb2xEdktTYjd1a3J1bXBwVVhB?oc=5",
-      "source": "Benzinga",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-09T18:41:43+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong Urges: 'Own A Crypto Wallet' Benzinga"
-    },
-    {
-      "title": "Brian Armstrong Says Stablecoin Wallets Could Act as ‘Credit Cards’ for AI Agents",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVW52dnFhbkxoYU92c2ZVUEswdXJiM2dJZW91TEJSaDdweFk0RHlBRnN5MVZnaHRvenVUTXc5eEFYeFp4NFNTV3oyYVdJSG9SYTN5emEzc25vYUQ4OVhqVWE3THZGc1RHOTVhcGlpRWk5dGtZemY1OV9xQ2N4VVlUNlJjY1FYSFhTb21OdlZ1cG9aSGRLaXJsVWgxb3dJekd0Q1BWQ1FyZ1VfS3hodjM3QmMtQm9XWVQz?oc=5\" target=\"_blank\">Brian Armstrong Says Stablecoin Wallets Could Act as ‘Credit Cards’ for AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVW52dnFhbkxoYU92c2ZVUEswdXJiM2dJZW91TEJSaDdweFk0RHlBRnN5MVZnaHRvenVUTXc5eEFYeFp4NFNTV3oyYVdJSG9SYTN5emEzc25vYUQ4OVhqVWE3THZGc1RHOTVhcGlpRWk5dGtZemY1OV9xQ2N4VVlUNlJjY1FYSFhTb21OdlZ1cG9aSGRLaXJsVWgxb3dJekd0Q1BWQ1FyZ1VfS3hodjM3QmMtQm9XWVQz?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-09T17:49:59+00:00",
-      "tags": [
-        "AI",
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "Brian Armstrong Says Stablecoin Wallets Could Act as ‘Credit Cards’ for AI Agents CryptoRank"
-    },
-    {
-      "title": "Coinbase CEO Drops Bombshell: Crypto Could Replace Venture Capital and Let Startups Raise Millions Overnight",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE94MjhzRm9tRUNaMDRJM2JWZzhFOEZvSFN6dnd4MWp3WnNFMTFzMVZyVzdhZGtoVk1jN08wWnlTTVpRQlF2b09J?oc=5\" target=\"_blank\">Coinbase CEO Drops Bombshell: Crypto Could Replace Venture Capital and Let Startups Raise Millions Overnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94MjhzRm9tRUNaMDRJM2JWZzhFOEZvSFN6dnd4MWp3WnNFMTFzMVZyVzdhZGtoVk1jN08wWnlTTVpRQlF2b09J?oc=5",
-      "source": "MEXC",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-09T16:03:56+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Drops Bombshell: Crypto Could Replace Venture Capital and Let Startups Raise Millions Overnight MEXC"
-    },
-    {
-      "title": "Changpeng Zhao names Richard Teng as new Binance CEO",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9WY2MyMjRmUlRTRXJoOHV0SlFHTzRmMW5GOV9mTUJqdUlLMW1qcGxTTzlIZXlDUkZBMnh6ajF0TTBZbEw2LVJLVjYwb0ktTHVJUkNXejJtX3Jha3pPSWJPb2Z1OUowOVppWlpzN3J6STlpUndJT0lVcU9UOU0?oc=5\" target=\"_blank\">Changpeng Zhao names Richard Teng as new Binance CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockworks</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WY2MyMjRmUlRTRXJoOHV0SlFHTzRmMW5GOV9mTUJqdUlLMW1qcGxTTzlIZXlDUkZBMnh6ajF0TTBZbEw2LVJLVjYwb0ktTHVJUkNXejJtX3Jha3pPSWJPb2Z1OUowOVppWlpzN3J6STlpUndJT0lVcU9UOU0?oc=5",
-      "source": "Blockworks",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-03-09T14:22:40+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Changpeng Zhao names Richard Teng as new Binance CEO Blockworks"
-    },
-    {
-      "title": "Coinbase CEO Highlights UK Regulatory Risks as US Stablecoin Framework Advances and Global Adoption Surges",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeUNESGRlM0ltT3FCWklXVl9XLUlwbVY3cE16czdVTUdHVnBIdWZkVkNjNi14RGx0Zjl1VkY4ZVlRNVJ4aUNEa0lkMFVIR3F2NDJ3ZUZseDVSY0xtQm5wTllXUm9ob3dMNkZjUjRMNlFZOG5iR1MtN1FOMU5wOGJISGR1Z2FpUVB5T0NWdVk2bGM0eXlxSnNpU1VMNGxBS2tUZ1ZQWDlWZm8xTTBhZDdmREhjQXk1eUVFQkpVdjhpZTRieUFmaGxaaHNmdjNkMklvcmJLVUFUbmp2enBpQzltMTNfT0FEbkdIRjFv?oc=5\" target=\"_blank\">Coinbase CEO Highlights UK Regulatory Risks as US Stablecoin Framework Advances and Global Adoption Surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crowdfund Insider</font>",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeUNESGRlM0ltT3FCWklXVl9XLUlwbVY3cE16czdVTUdHVnBIdWZkVkNjNi14RGx0Zjl1VkY4ZVlRNVJ4aUNEa0lkMFVIR3F2NDJ3ZUZseDVSY0xtQm5wTllXUm9ob3dMNkZjUjRMNlFZOG5iR1MtN1FOMU5wOGJISGR1Z2FpUVB5T0NWdVk2bGM0eXlxSnNpU1VMNGxBS2tUZ1ZQWDlWZm8xTTBhZDdmREhjQXk1eUVFQkpVdjhpZTRieUFmaGxaaHNmdjNkMklvcmJLVUFUbmp2enBpQzltMTNfT0FEbkdIRjFv?oc=5",
-      "source": "Crowdfund Insider",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-09T13:19:01+00:00",
-      "tags": [
-        "监管 Regulation",
-        "Web3",
-        "机构 Institutional",
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "Coinbase CEO Highlights UK Regulatory Risks as US Stablecoin Framework Advances and Global Adoption Surges Crowdfund Insider"
     }
   ]
 }
