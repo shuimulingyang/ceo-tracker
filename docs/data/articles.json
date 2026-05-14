@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-05-14T11:06:18Z",
+  "updated_at": "2026-05-14T13:22:02Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 271,
-    "CZ": 129,
+    "Brian Armstrong": 272,
+    "CZ": 128,
     "Richard Teng": 52,
     "Ben Zhou": 29,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Clarity Act markup could reportedly hit next week — Coinbase CEO Brian Armstrong says it won't change contract with Circle",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOTDZtTE1oMWljeXhmVEpZSDkxaHdLRllTUXVUeVF1YXdGTFdieDExcXZVZjNPbzdSYTZjMlRxb01nYjBPSWxaS2xzNFJPWEdlam1EUDFrZzdxY2xLb1V0aEY0MVRfV3EwMWlhM05GUFFPdVhYeUVfWTd2OWtRZjA1dHRaNS01Wl90UzZscHdzSDJVTFk5ZjFiUWxfWHkzd0tGektvYnF4RlhWc3N3LUNUOUpFMjdCamh3U3RkSklfNHBETGxocVo0YU1lTVdwZl9kWnJodWlUcXV6cHF1X2cyalZ1endTRWhHUW9wVmpMWXcwNWV3Rzl1TU1TV0pKSk1S?oc=5\" target=\"_blank\">Clarity Act markup could reportedly hit next week — Coinbase CEO Brian Armstrong says it won't change contract with Circle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTDZtTE1oMWljeXhmVEpZSDkxaHdLRllTUXVUeVF1YXdGTFdieDExcXZVZjNPbzdSYTZjMlRxb01nYjBPSWxaS2xzNFJPWEdlam1EUDFrZzdxY2xLb1V0aEY0MVRfV3EwMWlhM05GUFFPdVhYeUVfWTd2OWtRZjA1dHRaNS01Wl90UzZscHdzSDJVTFk5ZjFiUWxfWHkzd0tGektvYnF4RlhWc3N3LUNUOUpFMjdCamh3U3RkSklfNHBETGxocVo0YU1lTVdwZl9kWnJodWlUcXV6cHF1X2cyalZ1endTRWhHUW9wVmpMWXcwNWV3Rzl1TU1TV0pKSk1S?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-14T08:12:10+00:00",
+      "tags": [
+        "DeFi"
+      ],
+      "key_quote": "Clarity Act markup could reportedly hit next week — Coinbase CEO Brian Armstrong says it won't change contract with Circle MSN"
+    },
     {
       "title": "Key facts: Coinbase CEO Backs CLARITY Bill; Stocktwits Traders Bullish",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOUlo5S2IxS0ttWm5keEVsSkJVNGVJTy1kSEJCOGVCZVdwM1BwUDB0OUdwQ0hidmE5MGF0Y0c0d2NTWUtBM05XYzZTTlRZaXJyaUp1UHNFQV93Mk5GTUJfS3RYLXlBSmp0a2l1VjFFcHJ4R1BJZUlVT3dZdG5FRGZ4VVZDUHVoYlg1V3Vwc2QxM1lJYlcxMVVFbThRcUJhVmxNMTBtd2xEalZVTGgxaUt5TWdWQk55aFhBNkdnaWNCVXBXUUxmUTZWSjZR?oc=5\" target=\"_blank\">Key facts: Coinbase CEO Backs CLARITY Bill; Stocktwits Traders Bullish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
@@ -6174,17 +6187,6 @@
         "Bitcoin"
       ],
       "key_quote": "Brian Armstrong Says Mining Next 1 Million Bitcoin Will Take Over 100 Years, Coinbase CEO Hails BTC As 'Decentralized, Inflation-Proof' Sahm"
-    },
-    {
-      "title": "Changpeng Zhao",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5udmtGbklwWWlFQmFjU196SmNrbk15dlEycS1ndnhwSDZCbnI2MDN3aldhTlZMVzJHVFp2eGxJQVkxd003bkF6NnlYSTdXR2gtZENKZEVWYkdZZw?oc=5\" target=\"_blank\">Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5udmtGbklwWWlFQmFjU196SmNrbk15dlEycS1ndnhwSDZCbnI2MDN3aldhTlZMVzJHVFp2eGxJQVkxd003bkF6NnlYSTdXR2gtZENKZEVWYkdZZw?oc=5",
-      "source": "Forbes",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-10T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao Forbes"
     }
   ]
 }
