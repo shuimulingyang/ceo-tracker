@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T08:22:00Z",
+  "updated_at": "2026-05-14T11:06:18Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 271,
@@ -9,6 +9,19 @@
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Key facts: Coinbase CEO Backs CLARITY Bill; Stocktwits Traders Bullish",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOUlo5S2IxS0ttWm5keEVsSkJVNGVJTy1kSEJCOGVCZVdwM1BwUDB0OUdwQ0hidmE5MGF0Y0c0d2NTWUtBM05XYzZTTlRZaXJyaUp1UHNFQV93Mk5GTUJfS3RYLXlBSmp0a2l1VjFFcHJ4R1BJZUlVT3dZdG5FRGZ4VVZDUHVoYlg1V3Vwc2QxM1lJYlcxMVVFbThRcUJhVmxNMTBtd2xEalZVTGgxaUt5TWdWQk55aFhBNkdnaWNCVXBXUUxmUTZWSjZR?oc=5\" target=\"_blank\">Key facts: Coinbase CEO Backs CLARITY Bill; Stocktwits Traders Bullish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUlo5S2IxS0ttWm5keEVsSkJVNGVJTy1kSEJCOGVCZVdwM1BwUDB0OUdwQ0hidmE5MGF0Y0c0d2NTWUtBM05XYzZTTlRZaXJyaUp1UHNFQV93Mk5GTUJfS3RYLXlBSmp0a2l1VjFFcHJ4R1BJZUlVT3dZdG5FRGZ4VVZDUHVoYlg1V3Vwc2QxM1lJYlcxMVVFbThRcUJhVmxNMTBtd2xEalZVTGgxaUt5TWdWQk55aFhBNkdnaWNCVXBXUUxmUTZWSjZR?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-14T07:55:34+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Key facts: Coinbase CEO Backs CLARITY Bill; Stocktwits Traders Bullish TradingView"
+    },
     {
       "title": "Coinbase CEO backs CLARITY Act before Senate markup",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0tRFMtaHoxdXJodGxobGFQaEM4ZmNZTHlEOUxCU2c3dk9iV3BEWlhGdFljQ2l0VU8xcTdheEVjNFc4SUpkdmhIU2NOZi1sWGdDWFN3MFVjXzgtQUljNVpkX1VXblRvc1JYZlU1cGNrWnczOHFDc29lZXl1ZzQ?oc=5\" target=\"_blank\">Coinbase CEO backs CLARITY Act before Senate markup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
@@ -6172,19 +6185,6 @@
       "published_at": "2026-03-10T07:00:00+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao Forbes"
-    },
-    {
-      "title": "Brian Armstrong",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBodFRhOVUydFl4UVU4bVhDREZady1VbExrTk5WQ1ZhQWlwblRGZS1MLWI4cWwyMktETHVOVmxJdlRsV0ljNHZ0amNXa1o5eXYzYnR3d2xMQkZ4X0E?oc=5\" target=\"_blank\">Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBodFRhOVUydFl4UVU4bVhDREZady1VbExrTk5WQ1ZhQWlwblRGZS1MLWI4cWwyMktETHVOVmxJdlRsV0ljNHZ0amNXa1o5eXYzYnR3d2xMQkZ4X0E?oc=5",
-      "source": "Forbes",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-10T07:00:00+00:00",
-      "tags": [
-        "Ethereum"
-      ],
-      "key_quote": "Brian Armstrong Forbes"
     }
   ]
 }
