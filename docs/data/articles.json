@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-14T18:26:04Z",
+  "updated_at": "2026-05-14T20:21:16Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 272,
+    "Brian Armstrong": 271,
     "CZ": 128,
     "Richard Teng": 52,
-    "Ben Zhou": 29,
+    "Ben Zhou": 30,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Calls Senate Banking Panel Approval of CLARITY Act a 'Historic Day'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sQk9MbFBFbUFpcHQzWE0wMkFheTZWNVJubzRjcGJZZTY2N3lkUFhUM3pZSk5QMV9RMUlUVGFPc0dSdU4wamF6LXpkNENITTBCS0dRXw?oc=5\" target=\"_blank\">Coinbase CEO Calls Senate Banking Panel Approval of CLARITY Act a 'Historic Day'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sQk9MbFBFbUFpcHQzWE0wMkFheTZWNVJubzRjcGJZZTY2N3lkUFhUM3pZSk5QMV9RMUlUVGFPc0dSdU4wamF6LXpkNENITTBCS0dRXw?oc=5",
+      "source": "bloomingbit",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-14T19:15:42+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Calls Senate Banking Panel Approval of CLARITY Act a 'Historic Day' bloomingbit"
+    },
     {
       "title": "Coinbase holds near 201 as Brian Armstrong backs USDC expansion and cost controls",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXIyQng1ZUN4TV9mUzVlWkJIclBnSXJXTy1UbnVvWC1iU21Oek1FUEEtZ1dQcmtrS2tmVF9qcllEZ0JaQXF4ZUFRX29CRVZwUHRoeElYc05BbjBFbDkzQ2J3RGFNZkFEUEJETGFwVUpYcFpVMFBhZnFKSHpGc1VhbEFvX0puZm9BdFkwYjBCMkRoRmNnN0E?oc=5\" target=\"_blank\">Coinbase holds near 201 as Brian Armstrong backs USDC expansion and cost controls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
@@ -2921,6 +2932,19 @@
       "published_at": "2026-04-15T07:00:00+00:00",
       "tags": [],
       "key_quote": "Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026 The Globe and Mail"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026 | Corporate",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPRmVuN2Nrc3NHN2ZvS1VBMWZfX2I3UjMzUmQ5SGlLMmVRbDlLcl9uaUlWeUJsWGp2V2VJUnk0cFJ0WjZxY2JucVZhWlFJWGNDSmtJLWxIQ3hSejRCbzVSY2xycjRLb0R4ZmdpRVBpVS16ekF6a01mMmpkdUJuMF9CRk5LWmhjRk5zSGdNdlJ3d2ZXUklZUjBra0Z6U0tpNlREbW1LQlkyNS1Dd3NTT3E0dU10Z0dkcVpKVXAzNTNNREJudWxzS3BaX2d6TUVnVFBOT3lDblRmT2V0V3NpczF6THpkLTNuVENKLXBzQjVKek82VzRfZFhNa296LU1DUGVY?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026 | Corporate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EQS News</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRmVuN2Nrc3NHN2ZvS1VBMWZfX2I3UjMzUmQ5SGlLMmVRbDlLcl9uaUlWeUJsWGp2V2VJUnk0cFJ0WjZxY2JucVZhWlFJWGNDSmtJLWxIQ3hSejRCbzVSY2xycjRLb0R4ZmdpRVBpVS16ekF6a01mMmpkdUJuMF9CRk5LWmhjRk5zSGdNdlJ3d2ZXUklZUjBra0Z6U0tpNlREbW1LQlkyNS1Dd3NTT3E0dU10Z0dkcVpKVXAzNTNNREJudWxzS3BaX2d6TUVnVFBOT3lDblRmT2V0V3NpczF6THpkLTNuVENKLXBzQjVKek82VzRfZFhNa296LU1DUGVY?oc=5",
+      "source": "EQS News",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-04-15T07:00:00+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026 | Corporate EQS News"
     },
     {
       "title": "Binance Founder Changpeng Zhao (CZ) Speaks Out for the First Time Following Bitcoin’s Rally",
@@ -6159,32 +6183,6 @@
         "AI"
       ],
       "key_quote": "Changpeng Zhao Says AI Agents Will Dominate Crypto Payments. His Next Post Named the Tool He Is Using to Build Them. FinTech Weekly"
-    },
-    {
-      "title": "Crypto's Next Billion Users May Not Be Human — Brian Armstrong and CZ Say AI Agents Will Use Crypto",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcm8zZEpiY2h0NDZtNXIyazk2bFBZWmNEbzVyWGExQXZDcjhaR092NnJQaS1DYkZicVZyejBZT1A4Sng5SnhqYWcwNXpWTDdhZUhGYUFRaEhQVlFNQmdPc0JzRHh3ZXJaNER5LURVR2N4c1YwTjlJVmtmUzZXdEYxTXN3?oc=5\" target=\"_blank\">Crypto's Next Billion Users May Not Be Human — Brian Armstrong and CZ Say AI Agents Will Use Crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcm8zZEpiY2h0NDZtNXIyazk2bFBZWmNEbzVyWGExQXZDcjhaR092NnJQaS1DYkZicVZyejBZT1A4Sng5SnhqYWcwNXpWTDdhZUhGYUFRaEhQVlFNQmdPc0JzRHh3ZXJaNER5LURVR2N4c1YwTjlJVmtmUzZXdEYxTXN3?oc=5",
-      "source": "CCN.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-10T11:16:58+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Crypto's Next Billion Users May Not Be Human — Brian Armstrong and CZ Say AI Agents Will Use Crypto CCN.com"
-    },
-    {
-      "title": "Crypto's Next Billion Users May Not Be Human — Brian Armstrong and CZ Say AI Agents Will Use Crypto",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOMU82bVFsQVktNG1mX0pLLVJiei1YZmVIWUFhb29ibjViaEZkMmFhTFpDQTFweWJ3aGZKeVMxbmNoejRoZW4xMkt0WEhsTktmZU4xTkxpLU8tZFhwQXRfalhjYVdYUndOWG1sNUpFN29fcFRwY0Z4MnJmVV9SVGRSVE93?oc=5\" target=\"_blank\">Crypto's Next Billion Users May Not Be Human — Brian Armstrong and CZ Say AI Agents Will Use Crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMU82bVFsQVktNG1mX0pLLVJiei1YZmVIWUFhb29ibjViaEZkMmFhTFpDQTFweWJ3aGZKeVMxbmNoejRoZW4xMkt0WEhsTktmZU4xTkxpLU8tZFhwQXRfalhjYVdYUndOWG1sNUpFN29fcFRwY0Z4MnJmVV9SVGRSVE93?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-10T11:12:18+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Crypto's Next Billion Users May Not Be Human — Brian Armstrong and CZ Say AI Agents Will Use Crypto Yahoo Finance"
     }
   ]
 }
