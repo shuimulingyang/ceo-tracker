@@ -1,14 +1,51 @@
 {
-  "updated_at": "2026-05-15T05:43:03Z",
+  "updated_at": "2026-05-15T08:33:26Z",
   "total": 500,
   "by_ceo": {
+    "CZ": 126,
     "Brian Armstrong": 272,
-    "CZ": 127,
-    "Richard Teng": 52,
+    "Richard Teng": 53,
     "Ben Zhou": 30,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Crypto Billionaire Changpeng Zhao Revealed In A Podcast He'd Never Sat In A Lamborghini—Then He Got A Surprise",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSm9NOEVBUllod3hXd1Mya0ttVGJyN2dDUW5yV1o4MnRXQ3N5QmNBdVI3bUNYUFh0QkhZSUh2dmE5YTF2WTVjODRqd2lhTm1JZmtCRDJVOGZ3WU9GREVuaWhvN1hYemhxOXR3eml3V2xSZDcxWUhYTC1fcFFoOUZlTVlfV3pqaXJGWFppS3N3b3F0UjVUVTRCajdGcG1xaE9vN3d6WkpMNHNTQmVvOXJJ?oc=5\" target=\"_blank\">Crypto Billionaire Changpeng Zhao Revealed In A Podcast He'd Never Sat In A Lamborghini—Then He Got A Surprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSm9NOEVBUllod3hXd1Mya0ttVGJyN2dDUW5yV1o4MnRXQ3N5QmNBdVI3bUNYUFh0QkhZSUh2dmE5YTF2WTVjODRqd2lhTm1JZmtCRDJVOGZ3WU9GREVuaWhvN1hYemhxOXR3eml3V2xSZDcxWUhYTC1fcFFoOUZlTVlfV3pqaXJGWFppS3N3b3F0UjVUVTRCajdGcG1xaE9vN3d6WkpMNHNTQmVvOXJJ?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-15T07:38:50+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Crypto Billionaire Changpeng Zhao Revealed In A Podcast He'd Never Sat In A Lamborghini—Then He Got A Surprise Benzinga"
+    },
+    {
+      "title": "Coinbase now includes millions of assets for users, Brian Armstrong notes",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnlpNnNXanBpY1NQQW9sNjhBVUVRNGhhN0J5NkFLbG5NSlBCNkc0NTlfcW5uZ01HSmZpSE5KQlNKOUVMTXY1MVNZeGJzck9EWFNyd1FEY2ZCc3BOdFVobHFGYkxJNUhxM3F2R2prc1BoYzRGaVp5VG02eUVNSHY3YnpCb3NrTE9jeThnRmNB?oc=5\" target=\"_blank\">Coinbase now includes millions of assets for users, Brian Armstrong notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnlpNnNXanBpY1NQQW9sNjhBVUVRNGhhN0J5NkFLbG5NSlBCNkc0NTlfcW5uZ01HSmZpSE5KQlNKOUVMTXY1MVNZeGJzck9EWFNyd1FEY2ZCc3BOdFVobHFGYkxJNUhxM3F2R2prc1BoYzRGaVp5VG02eUVNSHY3YnpCb3NrTE9jeThnRmNB?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-15T07:15:08+00:00",
+      "tags": [
+        "Ethereum"
+      ],
+      "key_quote": "Coinbase now includes millions of assets for users, Brian Armstrong notes Traders Union"
+    },
+    {
+      "title": "Binance aims for long-term growth, Richard Teng notes",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZng0Qk9Yd1hNYmNndTU5clJUZXBZdnl5OGpqbzlabjZhOFpscEFXMFoyTXlJaWxsY2N6R0d1YzVoc3lsQVF4dUh2MVcyYmhMNXdRdzNpc0d4ZDJtUDVTTk12VS1WNFVTamFGbDI0bE9mQVFhVExQWFBhQlNhN2pSRTZtV0ZWdTJEc1dZMEtXelE?oc=5\" target=\"_blank\">Binance aims for long-term growth, Richard Teng notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZng0Qk9Yd1hNYmNndTU5clJUZXBZdnl5OGpqbzlabjZhOFpscEFXMFoyTXlJaWxsY2N6R0d1YzVoc3lsQVF4dUh2MVcyYmhMNXdRdzNpc0d4ZDJtUDVTTk12VS1WNFVTamFGbDI0bE9mQVFhVExQWFBhQlNhN2pSRTZtV0ZWdTJEc1dZMEtXelE?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-05-15T06:19:57+00:00",
+      "tags": [],
+      "key_quote": "Binance aims for long-term growth, Richard Teng notes Traders Union"
+    },
     {
       "title": "Coinbase CEO predicts global Bitcoin legalization after US market structure passage",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPU1pCNy1sSHZ4bW1RcUpDU3FHOHBZWUQtaHFFUnN0YTMyRF9CUE9XV0dTdHh3VTVQMlM1NUVRSVV0S293MXZKTVFBVGZDbWp6WC1BdUhaMjJsVXpFU0M1dlkxUThNbWJQY09YNzFqMTl0VVFTQThSRk9GcjVDN1hBVlNDcGlvQQ?oc=5\" target=\"_blank\">Coinbase CEO predicts global Bitcoin legalization after US market structure passage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
@@ -6150,41 +6187,6 @@
         "AI"
       ],
       "key_quote": "Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial Blockonomi"
-    },
-    {
-      "title": "AI to get its own bank account? Coinbase CEO says bots may soon pay with crypto",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMUJEMDR1WU5nb3dQMkpDbTVGSk5NYUxOLW1QcVpOOGNNaENpNmFUZnlFNTNKd2Q2SWlpTmpqVTdTVG5QQVUzYjAyS3RLMFhNbFJNS211emNOR3dodUNncFF3eW1tX01oa3ZpT21PczhoQlZVUmJpQjVrdlhROWMzaHJRaEJoSDBpWVc5SnhsWndtRzYzdTNCR1N4NTZkSW40TENBQlVMRG16RW8tYUFMLTlqTC1FaUUzMG9nSjhKUmpSeWxELW52eHpEM0ItenJMcHhJOFJKZlVzU0VTQXfSAeMBQVVfeXFMTWltOF9ZNjVEc3hGYmpXVXU2TkZONXZDT1J1NXR1NTN4WnlVVG1tdnl2NzdLbkgya28wSzVEQnRfeTJqa3BuQy1YbEIybkJpd0JaM2gxRWZ3RnNPdjNrSm9teDRXd3dWcnN1M0tIT2wwLXJIZVVicUpacktIbVh3ZkxzcHllTGhMa182MUJLa2tIcUpXdGFmQUNHR1FKQkFyR0VtZE9ELTJZV0JNQ1JXM1V4ZWJIMTh0aWlDTHp4bWtZY0dZTDJtSUx1ZWlWM0ZieExjZmlZTGNJMERoZ3Y3dlVHNjQ?oc=5\" target=\"_blank\">AI to get its own bank account? Coinbase CEO says bots may soon pay with crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMUJEMDR1WU5nb3dQMkpDbTVGSk5NYUxOLW1QcVpOOGNNaENpNmFUZnlFNTNKd2Q2SWlpTmpqVTdTVG5QQVUzYjAyS3RLMFhNbFJNS211emNOR3dodUNncFF3eW1tX01oa3ZpT21PczhoQlZVUmJpQjVrdlhROWMzaHJRaEJoSDBpWVc5SnhsWndtRzYzdTNCR1N4NTZkSW40TENBQlVMRG16RW8tYUFMLTlqTC1FaUUzMG9nSjhKUmpSeWxELW52eHpEM0ItenJMcHhJOFJKZlVzU0VTQXfSAeMBQVVfeXFMTWltOF9ZNjVEc3hGYmpXVXU2TkZONXZDT1J1NXR1NTN4WnlVVG1tdnl2NzdLbkgya28wSzVEQnRfeTJqa3BuQy1YbEIybkJpd0JaM2gxRWZ3RnNPdjNrSm9teDRXd3dWcnN1M0tIT2wwLXJIZVVicUpacktIbVh3ZkxzcHllTGhMa182MUJLa2tIcUpXdGFmQUNHR1FKQkFyR0VtZE9ELTJZV0JNQ1JXM1V4ZWJIMTh0aWlDTHp4bWtZY0dZTDJtSUx1ZWlWM0ZieExjZmlZTGNJMERoZ3Y3dlVHNjQ?oc=5",
-      "source": "India Today",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-10T12:16:20+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "AI to get its own bank account? Coinbase CEO says bots may soon pay with crypto India Today"
-    },
-    {
-      "title": "US court dismisses anti-terrorism act lawsuit against Binance, founder Changpeng Zhao — Here's all we know",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWUR0aVN3MzBWVEJBemREeGctS05iZkRfOFd0c09vNWVITjh3R0MwSHFrRl9WWDJTaG9GZUNpTklNa0c2OEhPNU9rVkJpZlJVUnNHejhwSXQyTGFEcFk2RW42OTJCUXYySkFDa2hjRUZRdnNGTENEcWV5TmVOQWVxeWM1anQ0aFc5OGt3STVvNGM0NjJwQ0xBWnVQMW40T2pPVTFCRnNxbXpzdDNPNGZRV2pxenplc3ppQ2dMY3p0LWdsdm1XUkZoRjVmT3NYRnlUb3B1YUt4elFfVXpkbkRsYzRjN1dSa3NySzQzRWRFVDYzM0ky?oc=5\" target=\"_blank\">US court dismisses anti-terrorism act lawsuit against Binance, founder Changpeng Zhao — Here's all we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWUR0aVN3MzBWVEJBemREeGctS05iZkRfOFd0c09vNWVITjh3R0MwSHFrRl9WWDJTaG9GZUNpTklNa0c2OEhPNU9rVkJpZlJVUnNHejhwSXQyTGFEcFk2RW42OTJCUXYySkFDa2hjRUZRdnNGTENEcWV5TmVOQWVxeWM1anQ0aFc5OGt3STVvNGM0NjJwQ0xBWnVQMW40T2pPVTFCRnNxbXpzdDNPNGZRV2pxenplc3ppQ2dMY3p0LWdsdm1XUkZoRjVmT3NYRnlUb3B1YUt4elFfVXpkbkRsYzRjN1dSa3NySzQzRWRFVDYzM0ky?oc=5",
-      "source": "Mint",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-10T11:35:32+00:00",
-      "tags": [],
-      "key_quote": "US court dismisses anti-terrorism act lawsuit against Binance, founder Changpeng Zhao — Here's all we know Mint"
-    },
-    {
-      "title": "US court dismisses Anti-Terrorism Act lawsuit against Binance, founder Changpeng Zhao — here is all we know",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWUR0aVN3MzBWVEJBemREeGctS05iZkRfOFd0c09vNWVITjh3R0MwSHFrRl9WWDJTaG9GZUNpTklNa0c2OEhPNU9rVkJpZlJVUnNHejhwSXQyTGFEcFk2RW42OTJCUXYySkFDa2hjRUZRdnNGTENEcWV5TmVOQWVxeWM1anQ0aFc5OGt3STVvNGM0NjJwQ0xBWnVQMW40T2pPVTFCRnNxbXpzdDNPNGZRV2pxenplc3ppQ2dMY3p0LWdsdm1XUkZoRjVmT3NYRnlUb3B1YUt4elFfVXpkbkRsYzRjN1dSa3NySzQzRWRFVDYzM0ky0gH6AUFVX3lxTFBNMC1IMkZsM0dxRnR0bWFqTEVEejZSTzQ4eGhFa0tiR2EwSmFudTF6Z0RhZ2x0aDhUOURKLXR5MEpJMlg1MTdyVDlyVGhybENCa0E5QU8tdjBKNWZFNWVhMzAzMmw2ZUZ6VTlRSXJDR2F0OFVLMEpyNFBDekQ5MzhZY05PQWtTaXRVaGNidUVfaDNmVklxQ1RlN0RxREJodW8yMlhmbExDRVZiMjFScF9Oc0VGLXJEOGlWSy1VLVpralltczhxV3NOLXpyNEkxbk94M1Rja0c1bEQyZDFvRHlQTVNZbEl3RXdnS3FCY2dYQWJVMVR0Y1lmeHc?oc=5\" target=\"_blank\">US court dismisses Anti-Terrorism Act lawsuit against Binance, founder Changpeng Zhao — here is all we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWUR0aVN3MzBWVEJBemREeGctS05iZkRfOFd0c09vNWVITjh3R0MwSHFrRl9WWDJTaG9GZUNpTklNa0c2OEhPNU9rVkJpZlJVUnNHejhwSXQyTGFEcFk2RW42OTJCUXYySkFDa2hjRUZRdnNGTENEcWV5TmVOQWVxeWM1anQ0aFc5OGt3STVvNGM0NjJwQ0xBWnVQMW40T2pPVTFCRnNxbXpzdDNPNGZRV2pxenplc3ppQ2dMY3p0LWdsdm1XUkZoRjVmT3NYRnlUb3B1YUt4elFfVXpkbkRsYzRjN1dSa3NySzQzRWRFVDYzM0ky0gH6AUFVX3lxTFBNMC1IMkZsM0dxRnR0bWFqTEVEejZSTzQ4eGhFa0tiR2EwSmFudTF6Z0RhZ2x0aDhUOURKLXR5MEpJMlg1MTdyVDlyVGhybENCa0E5QU8tdjBKNWZFNWVhMzAzMmw2ZUZ6VTlRSXJDR2F0OFVLMEpyNFBDekQ5MzhZY05PQWtTaXRVaGNidUVfaDNmVklxQ1RlN0RxREJodW8yMlhmbExDRVZiMjFScF9Oc0VGLXJEOGlWSy1VLVpralltczhxV3NOLXpyNEkxbk94M1Rja0c1bEQyZDFvRHlQTVNZbEl3RXdnS3FCY2dYQWJVMVR0Y1lmeHc?oc=5",
-      "source": "Mint",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-10T11:35:32+00:00",
-      "tags": [],
-      "key_quote": "US court dismisses Anti-Terrorism Act lawsuit against Binance, founder Changpeng Zhao — here is all we know Mint"
     }
   ]
 }
