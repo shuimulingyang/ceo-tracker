@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-15T19:10:42Z",
+  "updated_at": "2026-05-15T20:46:05Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 126,
-    "Brian Armstrong": 272,
+    "CZ": 127,
+    "Brian Armstrong": 271,
     "Richard Teng": 53,
     "Ben Zhou": 30,
     "Star Xu": 19
@@ -1580,6 +1580,17 @@
       "published_at": "2026-05-04T04:52:30+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao ‘CZ’ brings freedom of money to the United Arab Emirates in first-ever book signing ZAWYA"
+    },
+    {
+      "title": "ZAWYA: Changpeng Zhao ‘CZ’ brings freedom of money to the United Arab Emirates in first-ever book signing",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQOVJnT01LMi0yMzR4YlpoVWNYa3k3M2dXd3B4TUh5MHVSY0tMZE1jcUxqUWNxQVp5Vk1INGhmZ3RucTBNWFYtWFB0aTB5bmZBbHkyZWRCSGpXYzRkb1J0bk9iblNjZXg4TkJtLWtkWkdCbWRTMjhDdVhHcHB6cG1ZdFp3ZmVEeEZiRW5WalVQanZrSTFMbk5uQnVRd2MwNlJiR1pkYUVGWnhaQlJ2ZGNyVUZPMmF0OHZrZXVrWklTYkNCZ1l0ZXdHOTZVYTZXQXFTVzZMLU9nVUJYckhfcHRHMEFyUWk3OWhIRV9FU00tVUlqenNYQ3JxMFBKR1V2aTdxaHIxNlZOVmp6QQ?oc=5\" target=\"_blank\">ZAWYA: Changpeng Zhao ‘CZ’ brings freedom of money to the United Arab Emirates in first-ever book signing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOVJnT01LMi0yMzR4YlpoVWNYa3k3M2dXd3B4TUh5MHVSY0tMZE1jcUxqUWNxQVp5Vk1INGhmZ3RucTBNWFYtWFB0aTB5bmZBbHkyZWRCSGpXYzRkb1J0bk9iblNjZXg4TkJtLWtkWkdCbWRTMjhDdVhHcHB6cG1ZdFp3ZmVEeEZiRW5WalVQanZrSTFMbk5uQnVRd2MwNlJiR1pkYUVGWnhaQlJ2ZGNyVUZPMmF0OHZrZXVrWklTYkNCZ1l0ZXdHOTZVYTZXQXFTVzZMLU9nVUJYckhfcHRHMEFyUWk3OWhIRV9FU00tVUlqenNYQ3JxMFBKR1V2aTdxaHIxNlZOVmp6QQ?oc=5",
+      "source": "TradingView",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-04T04:47:00+00:00",
+      "tags": [],
+      "key_quote": "ZAWYA: Changpeng Zhao ‘CZ’ brings freedom of money to the United Arab Emirates in first-ever book signing TradingView"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Says 'Mark It Up' After Reported Compromise On Clarity Act's Stablecoin Yields Clause",
@@ -6174,19 +6185,6 @@
       "published_at": "2026-03-11T01:58:46+00:00",
       "tags": [],
       "key_quote": "Forbes: Changpeng Zhao's wealth surpasses Bill Gates, with his net worth rising to $110 billion."
-    },
-    {
-      "title": "Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVV9Pa0VPbzdRU1VvLTN3aGFzRTcwZ3k4dlUySlAzbmVLUDBkaXNYS2tJY09TVDBySlpIZUFjcGRQM3NZQXVfOUV5dDdJLTBZbmJ6X2hxUnc5bWpfR1RZeHFKbjU5OFdtMjY2R0xGbTIwY1BWcHo0cU1RNU1taC13amlnQkRvbUJGLThJbEFJM216azdLMTFzTlFrUDRTb05NbEdjdg?oc=5\" target=\"_blank\">Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVV9Pa0VPbzdRU1VvLTN3aGFzRTcwZ3k4dlUySlAzbmVLUDBkaXNYS2tJY09TVDBySlpIZUFjcGRQM3NZQXVfOUV5dDdJLTBZbmJ6X2hxUnc5bWpfR1RZeHFKbjU5OFdtMjY2R0xGbTIwY1BWcHo0cU1RNU1taC13amlnQkRvbUJGLThJbEFJM216azdLMTFzTlFrUDRTb05NbEdjdg?oc=5",
-      "source": "Blockonomi",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-11T00:22:54+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial Blockonomi"
     }
   ]
 }
