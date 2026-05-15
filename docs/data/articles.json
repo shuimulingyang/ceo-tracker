@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-15T22:41:10Z",
+  "updated_at": "2026-05-15T23:42:08Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 272,
-    "CZ": 126,
+    "CZ": 127,
+    "Brian Armstrong": 271,
     "Richard Teng": 53,
     "Ben Zhou": 30,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao: Binance platform offers diverse features for users",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQVjByRHRxbGxjY0hNbDVIUDRGbk80ZU43Q0lhY0tjOXZ0Mk1kbjlOdTdycThFTjAxejA2MEkzSTFZMGU2RFowcTFXOVVSd0trWUZGV1VkM2VfMGo3dEhVZFJ0c3dlVkkxRVV4VzVoNlZVUm1PZUstNndGZ0FNZmFYZEMyRzFha1VaWVVzQ3ZvT1puZGdmTVE?oc=5\" target=\"_blank\">Changpeng Zhao: Binance platform offers diverse features for users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVjByRHRxbGxjY0hNbDVIUDRGbk80ZU43Q0lhY0tjOXZ0Mk1kbjlOdTdycThFTjAxejA2MEkzSTFZMGU2RFowcTFXOVVSd0trWUZGV1VkM2VfMGo3dEhVZFJ0c3dlVkkxRVV4VzVoNlZVUm1PZUstNndGZ0FNZmFYZEMyRzFha1VaWVVzQ3ZvT1puZGdmTVE?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-15T22:40:51+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao: Binance platform offers diverse features for users Traders Union"
+    },
     {
       "title": "1 Billion Users: Coinbase CEO Armstrong Makes Known Ultimate Goal for Major US Crypto Exchange",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pSjl6b0lXN2tKRzhHaVZFdElMdlBHaHhyYXowZ0pJS3JwTm1TVE9ZdTZidmNkWHgyXzZYdlZlMi1xOFkwc2Q1Q3dCdEV0UkhIY19vc0s0Yw?oc=5\" target=\"_blank\">1 Billion Users: Coinbase CEO Armstrong Makes Known Ultimate Goal for Major US Crypto Exchange</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
@@ -6171,19 +6182,6 @@
       "published_at": "2026-03-11T07:00:00+00:00",
       "tags": [],
       "key_quote": "Forbes Says Changpeng Zhao’s Net Worth Is $110B, Binance Founder Calls It “Inaccurate” TradingView"
-    },
-    {
-      "title": "Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9lQzhuRjdhNENfZzNnbVFnaWU1ZU1nMmpFeFlaMi1IeTAyd0VXbFl1OG90Sk1DUGVUelhicVdPTU1VWUVnaVhv?oc=5\" target=\"_blank\">Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9lQzhuRjdhNENfZzNnbVFnaWU1ZU1nMmpFeFlaMi1IeTAyd0VXbFl1OG90Sk1DUGVUelhicVdPTU1VWUVnaVhv?oc=5",
-      "source": "MEXC",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-11T05:11:58+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Brian Armstrong’s Bold Prediction: AI Agents Will Soon Dominate Global Financial MEXC"
     }
   ]
 }
