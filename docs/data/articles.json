@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-16T23:38:07Z",
+  "updated_at": "2026-05-17T01:46:21Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 272,
-    "CZ": 124,
+    "Brian Armstrong": 271,
+    "CZ": 125,
     "Ben Zhou": 32,
     "Richard Teng": 53,
     "Star Xu": 19
@@ -65,6 +65,17 @@
       "published_at": "2026-05-15T22:08:44+00:00",
       "tags": [],
       "key_quote": "1 Billion Users: Coinbase CEO Armstrong Makes Known Ultimate Goal for Major US Crypto Exchange Cryptonews.net"
+    },
+    {
+      "title": "Crypto billionaire Changpeng Zhao revealed in a podcast he'd never sat in a Lamborghini—then he got a surprise",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWtHX3lXRWFZZ0EtN2JSNXQwbV9BeFhabnE5dFJJYVpleWd3aVQwLU4wUmJCYzEyT0xuTDNWUzNDRGYtbUJMVkd4Vmw5VUJnZ0duNXNHWlo3dGl0d2pieS1rNzJZR2V5YU5IYkdtUi1RWWxHNFh4aEtXVm92SENBMjAydndOaXZUYkpWbW1kaUs2YUpaaE45VVhCbWJTbDBDWmR5blFRSFFIMzdsLTljN1RnWFItZ1RqZ2JfWTNqbFdvX1ZKY0l5TzdKSEtjSjR0UnF3N25CZlFRbE9oT0NlbDZJdkJiU0Zwbk9oVWwxNGQ?oc=5\" target=\"_blank\">Crypto billionaire Changpeng Zhao revealed in a podcast he'd never sat in a Lamborghini—then he got a surprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWtHX3lXRWFZZ0EtN2JSNXQwbV9BeFhabnE5dFJJYVpleWd3aVQwLU4wUmJCYzEyT0xuTDNWUzNDRGYtbUJMVkd4Vmw5VUJnZ0duNXNHWlo3dGl0d2pieS1rNzJZR2V5YU5IYkdtUi1RWWxHNFh4aEtXVm92SENBMjAydndOaXZUYkpWbW1kaUs2YUpaaE45VVhCbWJTbDBDWmR5blFRSFFIMzdsLTljN1RnWFItZ1RqZ2JfWTNqbFdvX1ZKY0l5TzdKSEtjSjR0UnF3N25CZlFRbE9oT0NlbDZJdkJiU0Zwbk9oVWwxNGQ?oc=5",
+      "source": "MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-15T09:48:11+00:00",
+      "tags": [],
+      "key_quote": "Crypto billionaire Changpeng Zhao revealed in a podcast he'd never sat in a Lamborghini—then he got a surprise MSN"
     },
     {
       "title": "Crypto Billionaire Changpeng Zhao Revealed In A Podcast He'd Never Sat In A Lamborghini—Then He Got A Surprise",
@@ -6167,19 +6178,6 @@
       "published_at": "2026-03-11T10:54:05+00:00",
       "tags": [],
       "key_quote": "Binance founder Changpeng Zhao remains richest in crypto with $110B net worth, surpassing Bill Gates VnExpress International"
-    },
-    {
-      "title": "Only 1 Million Bitcoin Left: Coinbase CEO Calls BTC ‘Decentralized, Inflation-Proof Money’",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vVVI3VENqbFluUEx5c0dibXBwaFJKcDhSYm0wd3dycXJqOXk1cFlqX21McUNuRW9Wc1h3OU1aNEp4VW8xdzc4T28wNFFiSE1xRVhVWG5lLVc?oc=5\" target=\"_blank\">Only 1 Million Bitcoin Left: Coinbase CEO Calls BTC ‘Decentralized, Inflation-Proof Money’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vVVI3VENqbFluUEx5c0dibXBwaFJKcDhSYm0wd3dycXJqOXk1cFlqX21McUNuRW9Wc1h3OU1aNEp4VW8xdzc4T28wNFFiSE1xRVhVWG5lLVc?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-11T10:26:24+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Only 1 Million Bitcoin Left: Coinbase CEO Calls BTC ‘Decentralized, Inflation-Proof Money’ Cryptonews.net"
     }
   ]
 }
