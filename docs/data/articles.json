@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-17T18:47:44Z",
+  "updated_at": "2026-05-17T19:57:21Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 272,
-    "CZ": 124,
+    "Brian Armstrong": 275,
+    "CZ": 121,
     "Ben Zhou": 32,
     "Richard Teng": 53,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Says 'American Companies Can Finally Start To Build' If CLARITY Act Advances",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGFhaHpyUVdlNGZqRGVGb2NiSW9JZlY3UWJ0QjBRQ1paQ0ZNU0c1YnRyRU0yRnc2OTZ6VnRXRVowVUpyUG90bTVmUy1YbVlKd1VabXlkcExHa1NwRTRRNzVYakMzWEZ3WlRQWldROVRjMHM2WDBpbHhfdmlJeXF5OUpvek5yN0VIRXhORGpRU21tYlFPMkVRMGUweElBMG1rbWNr?oc=5\" target=\"_blank\">Coinbase CEO Says 'American Companies Can Finally Start To Build' If CLARITY Act Advances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGFhaHpyUVdlNGZqRGVGb2NiSW9JZlY3UWJ0QjBRQ1paQ0ZNU0c1YnRyRU0yRnc2OTZ6VnRXRVowVUpyUG90bTVmUy1YbVlKd1VabXlkcExHa1NwRTRRNzVYakMzWEZ3WlRQWldROVRjMHM2WDBpbHhfdmlJeXF5OUpvek5yN0VIRXhORGpRU21tYlFPMkVRMGUweElBMG1rbWNr?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-17T18:01:27+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Says 'American Companies Can Finally Start To Build' If CLARITY Act Advances Yahoo Finance"
+    },
     {
       "title": "Coinbase CEO says US government could hold over $1T in Bitcoin reserves",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE50RlVaYVdLb09xTHl0RWNiQ2NTTVBSWnE4VEt3S19EenkweGQ1LUtFNWpidkRrT2RPal9Xd3A3Wnpza1c0QUhNY29hbTd2bmdwSUJsR0RZRHRLbkZKQXVmVFhIZ0o0M2EtbFZjYndUbjhQNV8zTHp4cA?oc=5\" target=\"_blank\">Coinbase CEO says US government could hold over $1T in Bitcoin reserves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
@@ -22,6 +33,30 @@
         "Bitcoin"
       ],
       "key_quote": "Coinbase CEO says US government could hold over $1T in Bitcoin reserves Crypto Briefing"
+    },
+    {
+      "title": "Coinbase CEO issues warning to all Americans amid mass layoffs",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQZTlrSzhmeUFXNnZ6RElWblpzVDh0TjVWdmhtczVidnhDSi1zTFpjRzM1N0NpZXJ6TEtjYm11ZGZMaWE4YjlfbGp0WWZwUnZUUTZfX0lZTlF3Ymg2NlphUTZndDJCRUdIVVBVenJVdjVET3dkQlBwRkFvTlZqUmFOdHhzNlRRQnNQWmgxOUVobmZVQjRvaHR3Wkw1aG1EUnV3QWhIbmpwRnEtRHdrVXpfOWxrU19vTHlRZHpoNGJmem14Zk9oVjg3cV8tOXh3U1hWaXFLUkh4R3N1RXFfNWxyVFM5R3E5Qmt0SXBjOXhQaXAxaXRVOWJEVlhwaGdOWkhUNGtVZ0h5S0RWZw?oc=5\" target=\"_blank\">Coinbase CEO issues warning to all Americans amid mass layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZTlrSzhmeUFXNnZ6RElWblpzVDh0TjVWdmhtczVidnhDSi1zTFpjRzM1N0NpZXJ6TEtjYm11ZGZMaWE4YjlfbGp0WWZwUnZUUTZfX0lZTlF3Ymg2NlphUTZndDJCRUdIVVBVenJVdjVET3dkQlBwRkFvTlZqUmFOdHhzNlRRQnNQWmgxOUVobmZVQjRvaHR3Wkw1aG1EUnV3QWhIbmpwRnEtRHdrVXpfOWxrU19vTHlRZHpoNGJmem14Zk9oVjg3cV8tOXh3U1hWaXFLUkh4R3N1RXFfNWxyVFM5R3E5Qmt0SXBjOXhQaXAxaXRVOWJEVlhwaGdOWkhUNGtVZ0h5S0RWZw?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-17T08:25:49+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO issues warning to all Americans amid mass layoffs MSN"
+    },
+    {
+      "title": "Clarity Act markup could reportedly hit next week — Coinbase CEO Brian Armstrong says it won't change contract with Circle",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwNBVV95cUxOQWp3QnA2Skw5SVNyVUZTREhpREJNeHg5cjBiQ25Wb05GcGJpUE9XU3FxYTBLYUZTVW94a2JVNTBSYnlLR3lwOWhOWi1LMGU2UkplUGhJUUI1WTdFV05uM2pHMG9jNEQxa3RJMS1zQkpKSDRmWGprdDVDWDJoZFVKWnFSN0xKUXVlaThocUZEdUxteWpMcjh4azJzbXl2UGZPQWZjUnZtMmc5dDlmYlZUNnZHMkZpcm5GQ1I1d1BDUklrTUE4UEQ5alhlTjdoWl9hUExQTEFnamZZVlBCcFBmS0YzbFYya0FzUmRyUzNWSDM5LWNKaklIQ1hoRjJtTGJVM2cwWUltRlc0SjRGWE91dU1xS3k1clFQUEcta2RPSXJOSndWVi1GYXlBakxGaFJNR2dPYU1tNjM2N3NJSmtQNERZaUZweTVzaDRDaHFCbEI5UWR5ckZuVUNaRExEWlhqZXEzc1NVWklvejhYdVQ4bUdVVlYwc2dYNFl0MzItNjliM3JUWWc0UDZDSU8xUHZNbVQyaFBOcw?oc=5\" target=\"_blank\">Clarity Act markup could reportedly hit next week — Coinbase CEO Brian Armstrong says it won't change contract with Circle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOQWp3QnA2Skw5SVNyVUZTREhpREJNeHg5cjBiQ25Wb05GcGJpUE9XU3FxYTBLYUZTVW94a2JVNTBSYnlLR3lwOWhOWi1LMGU2UkplUGhJUUI1WTdFV05uM2pHMG9jNEQxa3RJMS1zQkpKSDRmWGprdDVDWDJoZFVKWnFSN0xKUXVlaThocUZEdUxteWpMcjh4azJzbXl2UGZPQWZjUnZtMmc5dDlmYlZUNnZHMkZpcm5GQ1I1d1BDUklrTUE4UEQ5alhlTjdoWl9hUExQTEFnamZZVlBCcFBmS0YzbFYya0FzUmRyUzNWSDM5LWNKaklIQ1hoRjJtTGJVM2cwWUltRlc0SjRGWE91dU1xS3k1clFQUEcta2RPSXJOSndWVi1GYXlBakxGaFJNR2dPYU1tNjM2N3NJSmtQNERZaUZweTVzaDRDaHFCbEI5UWR5ckZuVUNaRExEWlhqZXEzc1NVWklvejhYdVQ4bUdVVlYwc2dYNFl0MzItNjliM3JUWWc0UDZDSU8xUHZNbVQyaFBOcw?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-17T06:24:06+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Clarity Act markup could reportedly hit next week — Coinbase CEO Brian Armstrong says it won't change contract with Circle MSN"
     },
     {
       "title": "Mark Cuban Was A Crypto Skeptic Early On And Even Ignored Coinbase CEO Brian Armstrong's Reachout, But Th",
@@ -6148,39 +6183,6 @@
       "published_at": "2026-03-11T16:26:19+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Shows Support for Trump’s Crypto Push Amid Setback From Banks CryptoRank"
-    },
-    {
-      "title": "Binance founder Changpeng Zhao is not happy with the 'rich list' that ranks him above Bill Gates, says: W",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxNSUdFRDdKeUpPVFNDeF9KMlBZcUo1bFVLc00zOWl6Z1dFT29iallVZktEMmRoaEgzcVo4YUVhWUo3ZmJrZ3FPMWVnc0dQVlBsVnBiX3VoTVFOemRWeTdlRDB0RmVLbW5vMXlKNU5JX3VSVjRsODVLU0lUMUdGQ28zVnU0a09WVlhuSEVFRzFrak9qVFZMR2VwYTcya2k5NkpVcFROY2ZHNWhqYXd4NDRjQjhIOVhoYnRPcDRhdXRlTUhfWTNvTnJTZmN4R3B6WE1wQTc1TGsyOF9zTU5CSzE0OWt1MVhZMkRQRUZaWGEtWWc1YmlmMnR2N0dkT2t4Y0RXcmo2RkhrdWlMU0xrSWR6SVVwX2txMTduY2JzYWtfUmJsY2ZMR3pELUV6X1ljU3ZjOWs5VEdrdWRBX1dtaEMyeXcyMWVKRnZI0gHOAkFVX3lxTE9kMFdIakJFSEs2Uk1KRTRoMFBNWXl5RDBFWHpodlVKVHBNM2gyRDhfN0pNcXFQS2dFalVCUnRSQmFjT1JUSEhuWHZzSDhYQXBoemxSMXpxVnQ4U1BQSzdUNGtEQUNKUC1fSDlMQ21pRGF0c3E3QVpnTHRTRjZpSHljMzlmNU9hWlFXOTNEUUprd1pxUUhBUnZ1OEFqa1NtaFpLekhJLUZtUHo5UG5kci05SHBkOUVWZEVRS3pwT1VUS2hXVVhzWHVtTnJwdVpCbHJid2FwbVRUU1FJd2h5Xzd2bGp6ZElyZDFSLTE3ZUFXdU9WVU9ra0dHVU1WNFlCazNPcjJuS2U2OWxFZFFvOGFZY1ZLRm1PWHhrSlM4NmR2ZFloXzNncVRtOXhkaENxck9JM2xyOTVvTDJLV2p3WWpGS3dCVHVmbmFpLWR5WXc?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao is not happy with the 'rich list' that ranks him above Bill Gates, says: W</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNSUdFRDdKeUpPVFNDeF9KMlBZcUo1bFVLc00zOWl6Z1dFT29iallVZktEMmRoaEgzcVo4YUVhWUo3ZmJrZ3FPMWVnc0dQVlBsVnBiX3VoTVFOemRWeTdlRDB0RmVLbW5vMXlKNU5JX3VSVjRsODVLU0lUMUdGQ28zVnU0a09WVlhuSEVFRzFrak9qVFZMR2VwYTcya2k5NkpVcFROY2ZHNWhqYXd4NDRjQjhIOVhoYnRPcDRhdXRlTUhfWTNvTnJTZmN4R3B6WE1wQTc1TGsyOF9zTU5CSzE0OWt1MVhZMkRQRUZaWGEtWWc1YmlmMnR2N0dkT2t4Y0RXcmo2RkhrdWlMU0xrSWR6SVVwX2txMTduY2JzYWtfUmJsY2ZMR3pELUV6X1ljU3ZjOWs5VEdrdWRBX1dtaEMyeXcyMWVKRnZI0gHOAkFVX3lxTE9kMFdIakJFSEs2Uk1KRTRoMFBNWXl5RDBFWHpodlVKVHBNM2gyRDhfN0pNcXFQS2dFalVCUnRSQmFjT1JUSEhuWHZzSDhYQXBoemxSMXpxVnQ4U1BQSzdUNGtEQUNKUC1fSDlMQ21pRGF0c3E3QVpnTHRTRjZpSHljMzlmNU9hWlFXOTNEUUprd1pxUUhBUnZ1OEFqa1NtaFpLekhJLUZtUHo5UG5kci05SHBkOUVWZEVRS3pwT1VUS2hXVVhzWHVtTnJwdVpCbHJid2FwbVRUU1FJd2h5Xzd2bGp6ZElyZDFSLTE3ZUFXdU9WVU9ra0dHVU1WNFlCazNPcjJuS2U2OWxFZFFvOGFZY1ZLRm1PWHhrSlM4NmR2ZFloXzNncVRtOXhkaENxck9JM2xyOTVvTDJLV2p3WWpGS3dCVHVmbmFpLWR5WXc?oc=5",
-      "source": "The Times of India",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-11T16:06:00+00:00",
-      "tags": [],
-      "key_quote": "Binance founder Changpeng Zhao is not happy with the 'rich list' that ranks him above Bill Gates, says: W The Times of India"
-    },
-    {
-      "title": "Forbes Lists Changpeng Zhao as Crypto’s Richest Billionaire, With a Networth Outpacing Bill Gates",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTFhTDdFcDlLWG83LVlyaVFMLXJJSzYxazExSFdJQ3BJeGs2WmNJa2hMQzBsRmQ1NldKM0R2RUtDdk5tNUdVZUJWSlRoVk04LTV5OXlEVmNpamVWNkNhMmZMZXl6ck11ZUU2Mmk3NWk2SGhQQUkwY20yaDdfeWRhYVZxS0hqcG5HTThMM3pjUUpxdU5FY21lMFhpUE9DbGtENXFxcWVGVkdqUU9pX1NwUk9oOGtJaU9n0gG-AUFVX3lxTE5IcUk4NzA1Wk1xc256U3kzQXpfUWdLTEUzUS1BXzc1M0s5LTJiMGtGVTFxNmNPa29MaFRhSzN2RGNhNk0tWlNkR3NPVTE5MW9DbmFmVnp5dmpHWmc4X1J5Mk5YR0t5akpfeFJyR1VzaGVqaFdaNVNDX1QwMERpRlgxYlJtcG0wajVIVC1LWkxmMTNiTWl0V202dlpJMy1XZEdBc0lwdFdGR0U5SVY4bElvOGcyWVQ3QTIzM0wyX1E?oc=5\" target=\"_blank\">Forbes Lists Changpeng Zhao as Crypto’s Richest Billionaire, With a Networth Outpacing Bill Gates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZyCrypto</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTFhTDdFcDlLWG83LVlyaVFMLXJJSzYxazExSFdJQ3BJeGs2WmNJa2hMQzBsRmQ1NldKM0R2RUtDdk5tNUdVZUJWSlRoVk04LTV5OXlEVmNpamVWNkNhMmZMZXl6ck11ZUU2Mmk3NWk2SGhQQUkwY20yaDdfeWRhYVZxS0hqcG5HTThMM3pjUUpxdU5FY21lMFhpUE9DbGtENXFxcWVGVkdqUU9pX1NwUk9oOGtJaU9n0gG-AUFVX3lxTE5IcUk4NzA1Wk1xc256U3kzQXpfUWdLTEUzUS1BXzc1M0s5LTJiMGtGVTFxNmNPa29MaFRhSzN2RGNhNk0tWlNkR3NPVTE5MW9DbmFmVnp5dmpHWmc4X1J5Mk5YR0t5akpfeFJyR1VzaGVqaFdaNVNDX1QwMERpRlgxYlJtcG0wajVIVC1LWkxmMTNiTWl0V202dlpJMy1XZEdBc0lwdFdGR0U5SVY4bElvOGcyWVQ3QTIzM0wyX1E?oc=5",
-      "source": "ZyCrypto",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-11T15:42:26+00:00",
-      "tags": [],
-      "key_quote": "Forbes Lists Changpeng Zhao as Crypto’s Richest Billionaire, With a Networth Outpacing Bill Gates ZyCrypto"
-    },
-    {
-      "title": "Binance founder Changpeng Zhao net worth surpasses Bill Gates: Forbes",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNbV9BOVNBUWRHT0xIcFc4eUZxRXdoYUdBUjE2bGNQTUxUdWFGdmcwVlY1ai1pNzFUcy0tWUgxQW1DdmU2S2hKejJtTWFyT2pHMjVvREk1cEdSc1YtS3ZEQmhSR2hLdFhCekJXRk42Zk0xbzJySEtybERzMVNGY1h0YW40YW14YnM?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao net worth surpasses Bill Gates: Forbes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbV9BOVNBUWRHT0xIcFc4eUZxRXdoYUdBUjE2bGNQTUxUdWFGdmcwVlY1ai1pNzFUcy0tWUgxQW1DdmU2S2hKejJtTWFyT2pHMjVvREk1cEdSc1YtS3ZEQmhSR2hLdFhCekJXRk42Zk0xbzJySEtybERzMVNGY1h0YW40YW14YnM?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-11T15:11:00+00:00",
-      "tags": [],
-      "key_quote": "Binance founder Changpeng Zhao net worth surpasses Bill Gates: Forbes Yahoo Finance"
     }
   ]
 }
