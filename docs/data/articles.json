@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-17T20:40:57Z",
+  "updated_at": "2026-05-17T21:41:40Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 275,
-    "CZ": 121,
+    "Brian Armstrong": 274,
+    "CZ": 122,
     "Ben Zhou": 32,
     "Richard Teng": 53,
     "Star Xu": 19
@@ -79,6 +79,17 @@
       "published_at": "2026-05-16T14:01:01+00:00",
       "tags": [],
       "key_quote": "Binance Founder Changpeng Zhao Says This Figure Is Enough 'For Almost Everyone Benzinga"
+    },
+    {
+      "title": "How Much Is Enough Money? Binance Founder Changpeng Zhao Says This Figure Is Enough 'For Almost Everyone On Earth'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkN1Z0hFU3lscXplN0ZSQ1RTU05vT05uZHBsYlEwM0xkTks1M0kwYWZfNFVTZXo4SGc2aXNtLVFrU0NMamEtbXg2SnVPTGE2WW14Tml0M0FoQ2IxdFZuYzhTeldmampTOTR3cThpd3RIQnhFT202a2dzSW16MHNKZ21LOFJ4TkttbzhKVzBRMFlWNWtVS05paWVzZkFudkU?oc=5\" target=\"_blank\">How Much Is Enough Money? Binance Founder Changpeng Zhao Says This Figure Is Enough 'For Almost Everyone On Earth'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkN1Z0hFU3lscXplN0ZSQ1RTU05vT05uZHBsYlEwM0xkTks1M0kwYWZfNFVTZXo4SGc2aXNtLVFrU0NMamEtbXg2SnVPTGE2WW14Tml0M0FoQ2IxdFZuYzhTeldmampTOTR3cThpd3RIQnhFT202a2dzSW16MHNKZ21LOFJ4TkttbzhKVzBRMFlWNWtVS05paWVzZkFudkU?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-16T14:01:01+00:00",
+      "tags": [],
+      "key_quote": "Binance Founder Changpeng Zhao Says This Figure Is Enough 'For Almost Everyone On Earth' Yahoo Finance"
     },
     {
       "title": "Bybit CEO Ben Zhou Pushes Back on AI Layoff Excuse, Outlines Vision for Full Financial Platform",
@@ -6172,17 +6183,6 @@
         "Bitcoin"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Urges: 'Own A Crypto Wallet' Yahoo Finance"
-    },
-    {
-      "title": "Coinbase CEO Shows Support for Trump’s Crypto Push Amid Setback From Banks",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZG85dmhXSktHVVpuYXE1ek5EaDc2NlIxWmxmM3Y3dHpOSVVmTXFjRjZPWl91UmJLMjFrSVpyVGE1R3c3YVIzb0J1ajFoRWF6QXBiSTZqUjZmZk1VNmUyMHlVcElLY3lGam9jbXRSVldQbHM2QlFURmg5VkNWOE1YLXhhNktzUFdZWkRfQ2NMRndCd2hUa3ZKejJoM3BtSDVEcVFZc0prOGNhYldZSHk4Uw?oc=5\" target=\"_blank\">Coinbase CEO Shows Support for Trump’s Crypto Push Amid Setback From Banks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZG85dmhXSktHVVpuYXE1ek5EaDc2NlIxWmxmM3Y3dHpOSVVmTXFjRjZPWl91UmJLMjFrSVpyVGE1R3c3YVIzb0J1ajFoRWF6QXBiSTZqUjZmZk1VNmUyMHlVcElLY3lGam9jbXRSVldQbHM2QlFURmg5VkNWOE1YLXhhNktzUFdZWkRfQ2NMRndCd2hUa3ZKejJoM3BtSDVEcVFZc0prOGNhYldZSHk4Uw?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-11T16:26:19+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Shows Support for Trump’s Crypto Push Amid Setback From Banks CryptoRank"
     }
   ]
 }
