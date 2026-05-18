@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T14:21:37Z",
+  "updated_at": "2026-05-18T17:22:17Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 273,
@@ -9,6 +9,28 @@
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Says Blockchain Forensics Helped Win 5 Criminal Convictions",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GTDVrNElLUmxxVEtDT3ZBQVV0Tl84Zkc2Nk9pa3A3NEZieGhHV2wzaXIyZmRLSG5yUDhsVkVGTjNGc0dYcW9QLTBITzJlZzFTaG45dg?oc=5\" target=\"_blank\">Coinbase CEO Says Blockchain Forensics Helped Win 5 Criminal Convictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GTDVrNElLUmxxVEtDT3ZBQVV0Tl84Zkc2Nk9pa3A3NEZieGhHV2wzaXIyZmRLSG5yUDhsVkVGTjNGc0dYcW9QLTBITzJlZzFTaG45dg?oc=5",
+      "source": "bloomingbit",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-18T16:24:03+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Says Blockchain Forensics Helped Win 5 Criminal Convictions bloomingbit"
+    },
+    {
+      "title": "Coinbase CEO issues warning to all Americans amid mass layoffs",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixwNBVV95cUxOcHFaamJNTEM5WFVuLVNqTzRfd1JHeUNleUo3R2hKa3pfbDFBX1hoRGlrUlp6V3hSU0lKRTdickJTa1N4ZDl0T0hpSTlUT3FzVlJScDFyay1iZjNWcV9rRWJFSFNZRjMyV18tNElfNnR6N01uNnpsOXBwQUVfaWhKTHVuNk1kQXcxOWJyNFo3MHF0eGlPWTB3c2F3Ul83WU4tbXR1YWpxM2hlR2FBWWpzcFNZZURGNjFfNnE5VHF2QUw0XzVKM2doS0dQajN2ZFM5VkVPRF9sT213bmQ4X1psRzF3M2RZQ3BaYmREWHVuOUZtWEtDV0VmNXhkdkVEcUxuMG1JU1h4U3VBVmNQa1NaSDNucmlIYVJuZGlCQXRoQU1rZmhNMUNiMTl6ejd2T2FVbFRybERCZi1JbmNGV0NkVW41TDZJNUYxSTQ4alA2eHN6eF9WY0kyVjJZSkotcHNuYnJhSWhSZmt3dTIyV2I3eXhYam9JdFljLV9TT0xnbTh1VXRLZWRDSjMtSEJfSXJtZmxmSGFyUnVrTW9BSTYydjBSRDQ5TXJSb1c1RHM1Q1FpQ2NvMXZOOEwyYUstMlJQVGV4UF9rNA?oc=5\" target=\"_blank\">Coinbase CEO issues warning to all Americans amid mass layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOcHFaamJNTEM5WFVuLVNqTzRfd1JHeUNleUo3R2hKa3pfbDFBX1hoRGlrUlp6V3hSU0lKRTdickJTa1N4ZDl0T0hpSTlUT3FzVlJScDFyay1iZjNWcV9rRWJFSFNZRjMyV18tNElfNnR6N01uNnpsOXBwQUVfaWhKTHVuNk1kQXcxOWJyNFo3MHF0eGlPWTB3c2F3Ul83WU4tbXR1YWpxM2hlR2FBWWpzcFNZZURGNjFfNnE5VHF2QUw0XzVKM2doS0dQajN2ZFM5VkVPRF9sT213bmQ4X1psRzF3M2RZQ3BaYmREWHVuOUZtWEtDV0VmNXhkdkVEcUxuMG1JU1h4U3VBVmNQa1NaSDNucmlIYVJuZGlCQXRoQU1rZmhNMUNiMTl6ejd2T2FVbFRybERCZi1JbmNGV0NkVW41TDZJNUYxSTQ4alA2eHN6eF9WY0kyVjJZSkotcHNuYnJhSWhSZmt3dTIyV2I3eXhYam9JdFljLV9TT0xnbTh1VXRLZWRDSjMtSEJfSXJtZmxmSGFyUnVrTW9BSTYydjBSRDQ5TXJSb1c1RHM1Q1FpQ2NvMXZOOEwyYUstMlJQVGV4UF9rNA?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-18T00:38:08+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO issues warning to all Americans amid mass layoffs MSN"
+    },
     {
       "title": "Coinbase CEO Says 'American Companies Can Finally Start To Build' If CLARITY Act Advances",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGFhaHpyUVdlNGZqRGVGb2NiSW9JZlY3UWJ0QjBRQ1paQ0ZNU0c1YnRyRU0yRnc2OTZ6VnRXRVowVUpyUG90bTVmUy1YbVlKd1VabXlkcExHa1NwRTRRNzVYakMzWEZ3WlRQWldROVRjMHM2WDBpbHhfdmlJeXF5OUpvek5yN0VIRXhORGpRU21tYlFPMkVRMGUweElBMG1rbWNr?oc=5\" target=\"_blank\">Coinbase CEO Says 'American Companies Can Finally Start To Build' If CLARITY Act Advances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -1157,6 +1179,17 @@
       "published_at": "2026-05-08T07:46:58+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao Forbes Middle East"
+    },
+    {
+      "title": "Coinbase boss Brian Armstrong fires 700 staffers in 7am email",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRm55eHNERDFzdHlYamhTRjkwUU8yR25HZnlQNExTRWRmZ0dtVDJEdWkzU1NKY2Vvdzc4ejVVNjAyMkV4MUhoaVhzUVp5NlNTaHVjNDd5MjM5ckFocHltZVNJbDZsem5TWGFuVmlyeXpTRVEtNmxHblc1U1NTRmZZQkFfTWVuZU1sbXY5ZGg2c3VTV1hHcmJlRUJKUmtsb0U3SGx3SllWM3pHUk1ENVg1b05NUnBhQWJrOEpGcl9HTF9mR1JHZWU2NmM1RXBLMGN0cVZkT3MwMW1VOVF1VGt6aUFWR0dmelJFelVINlNITdIB9AFBVV95cUxNbG9rSmtHLXpzUHFNdUZGQXFWdFlBVXlOU3FRa0l4QkljMko5NkZrY0hEamozRVhVMW84emF3MXZSV1NFMzNtdW5ZM0pfTHk4MUd0QTJMajRtVkVPaDNBRkpUYUZLVzlISl9vNnd0TUhqT1hNSkpWU0FQSXRPQ2N1RWlWWlRzNm1qNXAzVER5cGxwQnhEUGpOSzluUWZDWDJTVnlGc0tsMWlWVWRaaThuNjNFMzloVGdBLU9pSjF2MnpYR1FwT1hlNXpIN1Q4Zi1vNE5IemE1UkFTM0NBMDV3U0FQdlFBaEllZmZ1T3pxQXpqM0g3?oc=5\" target=\"_blank\">Coinbase boss Brian Armstrong fires 700 staffers in 7am email</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News.com.au</font>",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRm55eHNERDFzdHlYamhTRjkwUU8yR25HZnlQNExTRWRmZ0dtVDJEdWkzU1NKY2Vvdzc4ejVVNjAyMkV4MUhoaVhzUVp5NlNTaHVjNDd5MjM5ckFocHltZVNJbDZsem5TWGFuVmlyeXpTRVEtNmxHblc1U1NTRmZZQkFfTWVuZU1sbXY5ZGg2c3VTV1hHcmJlRUJKUmtsb0U3SGx3SllWM3pHUk1ENVg1b05NUnBhQWJrOEpGcl9HTF9mR1JHZWU2NmM1RXBLMGN0cVZkT3MwMW1VOVF1VGt6aUFWR0dmelJFelVINlNITdIB9AFBVV95cUxNbG9rSmtHLXpzUHFNdUZGQXFWdFlBVXlOU3FRa0l4QkljMko5NkZrY0hEamozRVhVMW84emF3MXZSV1NFMzNtdW5ZM0pfTHk4MUd0QTJMajRtVkVPaDNBRkpUYUZLVzlISl9vNnd0TUhqT1hNSkpWU0FQSXRPQ2N1RWlWWlRzNm1qNXAzVER5cGxwQnhEUGpOSzluUWZDWDJTVnlGc0tsMWlWVWRaaThuNjNFMzloVGdBLU9pSjF2MnpYR1FwT1hlNXpIN1Q4Zi1vNE5IemE1UkFTM0NBMDV3U0FQdlFBaEllZmZ1T3pxQXpqM0g3?oc=5",
+      "source": "News.com.au",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase boss Brian Armstrong fires 700 staffers in 7am email News.com.au"
     },
     {
       "title": "ARK Invest’s Cathie Wood in Conversation with Binance’s Changpeng Zhao: AI, Stablecoins, Quantum Threats, Crypto, and the Future of Finance",
@@ -6146,43 +6179,6 @@
         "Web3"
       ],
       "key_quote": "Here's Why The Crypto Billionaire Calls The Estimate A 'Bit Illogical' Benzinga"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong 'more bullish than ever' as company navigates latest crypto downturn",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiARBVV95cUxPSWFhZ0tQaUpvb0JJTzhhWUV5elIwUlJBZWpaX2dVQnp6NGJFalc0cmZLajc0SkItQy1OTzdBTU9hbjdmTzY0NTJYT2dyZ2hKYko0RTBfNlZGWGdnRkpwbzNOUEdScXBKZDE5U3RRbTJyTUVmQk8tR3hXVXhlZy1WYi1VREI5Tm52d09uTGlzbVFDOWxaX05GUGNhYTVfRGdEdG4tTnpjenVtQUhCWXdRSi00N2ZMdUdwUDFnMlBBNFU5Tm13bFNxaXZoTGtrNnlTcFRGdFl1MFZFOW1UUlhGel9lQVZOUEZxbUg3T0c5Tl9reTZVZW1Vb2FNNXVjNU1PUkdUeFN3QTlFREhFVTNHeGNXVmltaUtVSXo1VGNvc1llOThVd1ROUFlaY21RV1AwT2Q2NnVhZjZ3ZFNCWEhVR0pwWkh6UnZsWW9yQzNDYmlURHFHUUtvTW4wSWxURlRxNFJNRjhPZnBwTG1CZjdiSTU5aE1FTEZsaTBGcG0xNnVhV1Qxam9BNG9JSzMtRk1naExNR0pCT29LeHM4Q2lZcG4zRV84b3U1WFJGemxhSEdVejA4WU1uN3lodmJ4TDFKNTRINHpaaTVnWkNhaVhCeFNZZURaenJpeVZlS3QxblNiVHhZUXNlWEFIUFd5b181SHlCQWpkeWZOZ2ZvOGpQQmtzbmdWX1Na?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong 'more bullish than ever' as company navigates latest crypto downturn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPSWFhZ0tQaUpvb0JJTzhhWUV5elIwUlJBZWpaX2dVQnp6NGJFalc0cmZLajc0SkItQy1OTzdBTU9hbjdmTzY0NTJYT2dyZ2hKYko0RTBfNlZGWGdnRkpwbzNOUEdScXBKZDE5U3RRbTJyTUVmQk8tR3hXVXhlZy1WYi1VREI5Tm52d09uTGlzbVFDOWxaX05GUGNhYTVfRGdEdG4tTnpjenVtQUhCWXdRSi00N2ZMdUdwUDFnMlBBNFU5Tm13bFNxaXZoTGtrNnlTcFRGdFl1MFZFOW1UUlhGel9lQVZOUEZxbUg3T0c5Tl9reTZVZW1Vb2FNNXVjNU1PUkdUeFN3QTlFREhFVTNHeGNXVmltaUtVSXo1VGNvc1llOThVd1ROUFlaY21RV1AwT2Q2NnVhZjZ3ZFNCWEhVR0pwWkh6UnZsWW9yQzNDYmlURHFHUUtvTW4wSWxURlRxNFJNRjhPZnBwTG1CZjdiSTU5aE1FTEZsaTBGcG0xNnVhV1Qxam9BNG9JSzMtRk1naExNR0pCT29LeHM4Q2lZcG4zRV84b3U1WFJGemxhSEdVejA4WU1uN3lodmJ4TDFKNTRINHpaaTVnWkNhaVhCeFNZZURaenJpeVZlS3QxblNiVHhZUXNlWEFIUFd5b181SHlCQWpkeWZOZ2ZvOGpQQmtzbmdWX1Na?oc=5",
-      "source": "AOL.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-12T01:17:00+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong 'more bullish than ever' as company navigates latest crypto downturn AOL.com"
-    },
-    {
-      "title": "Why Jack Dorsey Is Calling Out Coinbase CEO Over Bitcoin Tax Breaks – And Lightning Network Proves It's Real",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRzNqMXNZelZkU0YxdzEwanlZaWxIaWctMUhwdElZY3YtWUdHZTkteWltamtHNGRSR09BRUZER3BYNXRjYmxFQmhSR2JlTldsNjJ6WVVtZ3J0QnFzaVZoMnFGWklhZUR0NG9BU1g1TWZsZmhNREtQSlFTZWxoWU51WUkwX3hVOVRHOThnWWtQWHJiVjlrV0JFNWw3cGRsNGZtRjlMaFN6cXdGbDVxU19HaThxTWYzdGctOW5VM3lXazViTGI0NTFvZDQ2WmE2Tm9oTTNCSkcwT2oyRldDd01wRA?oc=5\" target=\"_blank\">Why Jack Dorsey Is Calling Out Coinbase CEO Over Bitcoin Tax Breaks – And Lightning Network Proves It's Real</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Magazine</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRzNqMXNZelZkU0YxdzEwanlZaWxIaWctMUhwdElZY3YtWUdHZTkteWltamtHNGRSR09BRUZER3BYNXRjYmxFQmhSR2JlTldsNjJ6WVVtZ3J0QnFzaVZoMnFGWklhZUR0NG9BU1g1TWZsZmhNREtQSlFTZWxoWU51WUkwX3hVOVRHOThnWWtQWHJiVjlrV0JFNWw3cGRsNGZtRjlMaFN6cXdGbDVxU19HaThxTWYzdGctOW5VM3lXazViTGI0NTFvZDQ2WmE2Tm9oTTNCSkcwT2oyRldDd01wRA?oc=5",
-      "source": "Bitcoin Magazine",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-11T23:42:41+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Why Jack Dorsey Is Calling Out Coinbase CEO Over Bitcoin Tax Breaks – And Lightning Network Proves It's Real Bitcoin Magazine"
-    },
-    {
-      "title": "Brian Armstrong Says Crypto Enables Instant Global Payments",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE94RmRLWXZIVXNfWmFhYmQ1QTdiNS1OZTdTbG04S3pJLUluSGtBWHg3SW0yNjBvbVRzMGx6c0RNWWZ6OTZqdWlv?oc=5\" target=\"_blank\">Brian Armstrong Says Crypto Enables Instant Global Payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94RmRLWXZIVXNfWmFhYmQ1QTdiNS1OZTdTbG04S3pJLUluSGtBWHg3SW0yNjBvbVRzMGx6c0RNWWZ6OTZqdWlv?oc=5",
-      "source": "MEXC",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-11T18:01:18+00:00",
-      "tags": [],
-      "key_quote": "Brian Armstrong Says Crypto Enables Instant Global Payments MEXC"
     }
   ]
 }
