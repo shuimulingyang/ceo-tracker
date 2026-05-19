@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T08:57:47Z",
+  "updated_at": "2026-05-19T11:56:40Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 273,
@@ -10,6 +10,17 @@
   },
   "articles": [
     {
+      "title": "AI agents could outspend humans, Coinbase CEO says",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA5MTI4MTg3M3BrZXRqTmhIWGdtWmctR0o3XzVRWEhXZURFajY2MVFKNXNldU1IaVVFZDN4eG1KeWRubjRhTlNkRlQ2MGx2YmNEbTVGTVJ3SXFfb2I3T3ZuTXN1UkxNT3lBSHljOGhTWE1aT1QxWjNrdGhB?oc=5\" target=\"_blank\">AI agents could outspend humans, Coinbase CEO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5MTI4MTg3M3BrZXRqTmhIWGdtWmctR0o3XzVRWEhXZURFajY2MVFKNXNldU1IaVVFZDN4eG1KeWRubjRhTlNkRlQ2MGx2YmNEbTVGTVJ3SXFfb2I3T3ZuTXN1UkxNT3lBSHljOGhTWE1aT1QxWjNrdGhB?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-19T10:47:34+00:00",
+      "tags": [],
+      "key_quote": "AI agents could outspend humans, Coinbase CEO says crypto.news"
+    },
+    {
       "title": "Coinbase CEO Says Blockchain Forensics Helped Win 5 Criminal Convictions",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GTDVrNElLUmxxVEtDT3ZBQVV0Tl84Zkc2Nk9pa3A3NEZieGhHV2wzaXIyZmRLSG5yUDhsVkVGTjNGc0dYcW9QLTBITzJlZzFTaG45dg?oc=5\" target=\"_blank\">Coinbase CEO Says Blockchain Forensics Helped Win 5 Criminal Convictions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GTDVrNElLUmxxVEtDT3ZBQVV0Tl84Zkc2Nk9pa3A3NEZieGhHV2wzaXIyZmRLSG5yUDhsVkVGTjNGc0dYcW9QLTBITzJlZzFTaG45dg?oc=5",
@@ -19,6 +30,17 @@
       "published_at": "2026-05-18T16:24:03+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Says Blockchain Forensics Helped Win 5 Criminal Convictions bloomingbit"
+    },
+    {
+      "title": "Coinbase CEO issues warning to all Americans amid mass layoffs",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3ZpUnVkWXJTelBwLTNqUTVyWEJmTV9wczdtQ0I3ZWlhWXZkN1hROXVMSTNRUW1nZURVTEw1ZUpxRDJzUlJDazFjYjFQLVBqRjI2V1pBblRKRGlnMjFoNjdPWHB3R29JV3hDUzdrbHVaNmJ0b2IwQ3VDdVMzVUJBcWpQSUpFNzB6QU5KUnlMc3YxLXNrTDFMd0tRcUFlYVdzVGtrdVpzbmgyc0h1VVhsbU5YY3FDN1FjZHZtYXlhNW9Vblk0U2FBOVZrdlJyZXNBUFkwMUU4RXhCZw?oc=5\" target=\"_blank\">Coinbase CEO issues warning to all Americans amid mass layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3ZpUnVkWXJTelBwLTNqUTVyWEJmTV9wczdtQ0I3ZWlhWXZkN1hROXVMSTNRUW1nZURVTEw1ZUpxRDJzUlJDazFjYjFQLVBqRjI2V1pBblRKRGlnMjFoNjdPWHB3R29JV3hDUzdrbHVaNmJ0b2IwQ3VDdVMzVUJBcWpQSUpFNzB6QU5KUnlMc3YxLXNrTDFMd0tRcUFlYVdzVGtrdVpzbmgyc0h1VVhsbU5YY3FDN1FjZHZtYXlhNW9Vblk0U2FBOVZrdlJyZXNBUFkwMUU4RXhCZw?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-18T15:08:33+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO issues warning to all Americans amid mass layoffs MSN"
     },
     {
       "title": "Coinbase CEO issues warning to all Americans amid mass layoffs",
@@ -6151,32 +6173,6 @@
         "监管 Regulation"
       ],
       "key_quote": "While a judge granted a motion by Changpeng Zhao, he also ordered the plaintiffs in the case against Binance to file a second complaint or face ”total or partial dismissal.”"
-    },
-    {
-      "title": "Brian Armstrong, Coinbase Deny Bitcoin Lobbying Claim",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNTVEVlZERGx5N1hHRm9uTHgtaW82ZE02Sll5MXBaSXRDbHU1M185bFVWYTNBX0VNUTA1WE5hNVJBeFI3QTNoc21PSjR2cEp6Y0hJV2pyOTdmTktOZ3dNTFFYX2toZUQzclVvOWZEc2xmbWdlR2gyWTVWMjJMSUh0dFIwMA?oc=5\" target=\"_blank\">Brian Armstrong, Coinbase Deny Bitcoin Lobbying Claim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNTVEVlZERGx5N1hHRm9uTHgtaW82ZE02Sll5MXBaSXRDbHU1M185bFVWYTNBX0VNUTA1WE5hNVJBeFI3QTNoc21PSjR2cEp6Y0hJV2pyOTdmTktOZ3dNTFFYX2toZUQzclVvOWZEc2xmbWdlR2gyWTVWMjJMSUh0dFIwMA?oc=5",
-      "source": "CoinCentral",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-12T10:13:04+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Brian Armstrong, Coinbase Deny Bitcoin Lobbying Claim CoinCentral"
-    },
-    {
-      "title": "‘Total Lie’: Brian Armstrong and Coinbase Execs Deny Lobbying Against Bitcoin",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE43bW5Sd3B2YkhBOGRDbFhjRDcwcFVxdTFKVmV2SFhxQlUzWHpMOE5hUU9wN3BnM3ZRcFpjUVBxVEZRLWdKYm44?oc=5\" target=\"_blank\">‘Total Lie’: Brian Armstrong and Coinbase Execs Deny Lobbying Against Bitcoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43bW5Sd3B2YkhBOGRDbFhjRDcwcFVxdTFKVmV2SFhxQlUzWHpMOE5hUU9wN3BnM3ZRcFpjUVBxVEZRLWdKYm44?oc=5",
-      "source": "MEXC",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-12T09:00:16+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "‘Total Lie’: Brian Armstrong and Coinbase Execs Deny Lobbying Against Bitcoin MEXC"
     }
   ]
 }
