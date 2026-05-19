@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T01:55:37Z",
+  "updated_at": "2026-05-19T05:56:23Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 273,
@@ -19,6 +19,17 @@
       "published_at": "2026-05-18T16:24:03+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Says Blockchain Forensics Helped Win 5 Criminal Convictions bloomingbit"
+    },
+    {
+      "title": "Coinbase CEO issues warning to all Americans amid mass layoffs",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNMlpYZl9rekFualZ1dmJDd3N6R3dNaGpmU1hIbUdzWmNIUG03T0g0QXJEdHdQSjEtVXJsSzJKRm9UeUc1QkdxTmwtNWI1SDd1RGFqLWN6UkYzZmdTdi01SG9HRGVxWXJHUHVYb3A0N1huTUVzV3h0eklYV0o4cG5OMEhNUWRhcU01aGhjTElZd2ExanB3TEhQd2lCRFJtSmo3QmQ4SGx5dzhJdEFlbC1ycjdZZzNrbVRhLWRzYURwTWNSOEpXSWwxOEdxQ1J5QU96ME8wU01CMGUyaHFTeWZVNHVoN1R6RWJYVXdQQ3pOM2NPTUR1Ym1ma19xVllJRnhWOTZKenBDOA?oc=5\" target=\"_blank\">Coinbase CEO issues warning to all Americans amid mass layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMlpYZl9rekFualZ1dmJDd3N6R3dNaGpmU1hIbUdzWmNIUG03T0g0QXJEdHdQSjEtVXJsSzJKRm9UeUc1QkdxTmwtNWI1SDd1RGFqLWN6UkYzZmdTdi01SG9HRGVxWXJHUHVYb3A0N1huTUVzV3h0eklYV0o4cG5OMEhNUWRhcU01aGhjTElZd2ExanB3TEhQd2lCRFJtSmo3QmQ4SGx5dzhJdEFlbC1ycjdZZzNrbVRhLWRzYURwTWNSOEpXSWwxOEdxQ1J5QU96ME8wU01CMGUyaHFTeWZVNHVoN1R6RWJYVXdQQ3pOM2NPTUR1Ym1ma19xVllJRnhWOTZKenBDOA?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-18T14:35:35+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO issues warning to all Americans amid mass layoffs MSN"
     },
     {
       "title": "Coinbase CEO issues warning to all Americans amid mass layoffs",
@@ -6166,19 +6177,6 @@
         "Bitcoin"
       ],
       "key_quote": "‘Total Lie’: Brian Armstrong and Coinbase Execs Deny Lobbying Against Bitcoin MEXC"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Blasts False Claims About Bitcoin Tax Exemption Lobbying",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1EYl9CYnVZM2dZVkp6bWNNS0JLWGQ4VWdBb2NEdWlTeWVqcWp3UlFhVmNMMUtTalB2dFM1cWs5QjFfZWNrS1VaWUdUcjAtZXp4WERFN0kwLWU1SGNMMjVaZHFIdWFxRW9MRnFib2xieTBGc1hteVNXck9JZzc?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Blasts False Claims About Bitcoin Tax Exemption Lobbying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EYl9CYnVZM2dZVkp6bWNNS0JLWGQ4VWdBb2NEdWlTeWVqcWp3UlFhVmNMMUtTalB2dFM1cWs5QjFfZWNrS1VaWUdUcjAtZXp4WERFN0kwLWU1SGNMMjVaZHFIdWFxRW9MRnFib2xieTBGc1hteVNXck9JZzc?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-12T08:05:07+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong Blasts False Claims About Bitcoin Tax Exemption Lobbying CryptoRank"
     }
   ]
 }
