@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-20T21:47:26Z",
+  "updated_at": "2026-05-20T23:01:29Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 272,
+    "Brian Armstrong": 273,
     "CZ": 124,
-    "Richard Teng": 54,
+    "Richard Teng": 53,
     "Ben Zhou": 31,
     "Star Xu": 19
   },
@@ -21,6 +21,17 @@
         "Layer2"
       ],
       "key_quote": "92,000 tech workers have been laid off in 2026, and Coinbase CEO says \"every company\" will do the same MSN"
+    },
+    {
+      "title": "Coinbase’s App Could Add Self-Custody, CEO Brian Armstrong Reveals",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzMtMDZ3REZERklFX1VnNjRIVk91TGhJT1pVbTVLQk9zYXpDQkI1OFd2VlZnVDNoUi1WT0s0TndaU29WX2FvdDQ1VkFfQzZrbG5PUlNnTWQ5OXRKQXI1ZVhObGt3NGNSdERuN1BzSXR1d2VkWUFFb0UzR0FrQ20tZUM3MGpFUnZaLWlnd3FJbFlUMi1tV09ENGFDbjlGdGpxRTJJMlo1ZlVPVzA?oc=5\" target=\"_blank\">Coinbase’s App Could Add Self-Custody, CEO Brian Armstrong Reveals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzMtMDZ3REZERklFX1VnNjRIVk91TGhJT1pVbTVLQk9zYXpDQkI1OFd2VlZnVDNoUi1WT0s0TndaU29WX2FvdDQ1VkFfQzZrbG5PUlNnTWQ5OXRKQXI1ZVhObGt3NGNSdERuN1BzSXR1d2VkWUFFb0UzR0FrQ20tZUM3MGpFUnZaLWlnd3FJbFlUMi1tV09ENGFDbjlGdGpxRTJJMlo1ZlVPVzA?oc=5",
+      "source": "Stocktwits",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-20T14:12:10+00:00",
+      "tags": [],
+      "key_quote": "Coinbase’s App Could Add Self-Custody, CEO Brian Armstrong Reveals Stocktwits"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Foresees US Bitcoin Reserves Growing to Over $1 Trillion in Value",
@@ -6158,20 +6169,6 @@
       "published_at": "2026-03-16T14:39:23+00:00",
       "tags": [],
       "key_quote": "Richard Teng prepares for Blockchain Summit 2026 in Washington Traders Union"
-    },
-    {
-      "title": "Binance's 'Wait and See' Strategy: Richard Teng's Comments on U.S. Market Prospects",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0JOMW5tUTZHMEs2NnRPMFoxeFVlSk12LU5rdEx6UnlSWlNnOFNqNTBXQUs4b1BBbGFKam9nYUwtR2lScUo4VjVHS3d0bzNYLXhlUV9CQlYtOURuT0pLOWVlTnV2VDJqWmhibTY4ZW9XRFVxRkhoT1dQdjU5eXFGRVh4UE9hc0E3U2ZzaHVKdzdHYlNrVDRmSHdIRHF3SVB3dFhTLU9VV1ZROGFaMU1xLXVxTmFDMWZaVk5ydjhmUdIBxAFBVV95cUxPMC04Y1pPcnl5OWFsN2hlUjhtMHBTRlJSekFDSlVFWWM3U05MOUpieDQwc2tNV01yVjR6R04zdGlJTEMtdkhTU21ZRm1fTFhjSm5KSk11YWl5RGprcjJxU0VfNG5oVGl3QWhKb1BhVlJuQkZJdDhWck5rZ2dSSDQ4dDdxZzNITURBT096WmdPR2ZaM2Y3SWp4M0FiY3J3dzZrQldQZkVuSFVDYldJR2M2N1piYndLMFltdnl5X1FtQldHeW1o?oc=5\" target=\"_blank\">Binance's 'Wait and See' Strategy: Richard Teng's Comments on U.S. Market Prospects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investingLive</font>",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0JOMW5tUTZHMEs2NnRPMFoxeFVlSk12LU5rdEx6UnlSWlNnOFNqNTBXQUs4b1BBbGFKam9nYUwtR2lScUo4VjVHS3d0bzNYLXhlUV9CQlYtOURuT0pLOWVlTnV2VDJqWmhibTY4ZW9XRFVxRkhoT1dQdjU5eXFGRVh4UE9hc0E3U2ZzaHVKdzdHYlNrVDRmSHdIRHF3SVB3dFhTLU9VV1ZROGFaMU1xLXVxTmFDMWZaVk5ydjhmUdIBxAFBVV95cUxPMC04Y1pPcnl5OWFsN2hlUjhtMHBTRlJSekFDSlVFWWM3U05MOUpieDQwc2tNV01yVjR6R04zdGlJTEMtdkhTU21ZRm1fTFhjSm5KSk11YWl5RGprcjJxU0VfNG5oVGl3QWhKb1BhVlJuQkZJdDhWck5rZ2dSSDQ4dDdxZzNITURBT096WmdPR2ZaM2Y3SWp4M0FiY3J3dzZrQldQZkVuSFVDYldJR2M2N1piYndLMFltdnl5X1FtQldHeW1o?oc=5",
-      "source": "investingLive",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-03-16T06:27:51+00:00",
-      "tags": [
-        "DeFi",
-        "市场 Market"
-      ],
-      "key_quote": "Binance's 'Wait and See' Strategy: Richard Teng's Comments on U.S."
     }
   ]
 }
