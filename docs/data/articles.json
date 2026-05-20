@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-05-20T11:39:18Z",
+  "updated_at": "2026-05-20T14:26:27Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 124,
     "Brian Armstrong": 272,
+    "CZ": 124,
     "Richard Teng": 54,
     "Ben Zhou": 31,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Foresees US Bitcoin Reserves Growing to Over $1 Trillion in Value",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMFdFVUpKeXYwWWFoZFVoZnpIdTdnbXh0a3kyNFZ1aTFGOV9menlHU2xIVmZsNWpyREpBQmcyeEk5YklTTm52ZXNyNF93emEtOVRuMUY5cjZqYTFzRUFJSkF6TjVaMHAyUGVSQWNGQUlaTnVYOGlhanBNWmlBMGdELWQ2bEtWWUZ4TnBOdW1OOGxEVVo3QzJCN3QyaTFmOGhiOXphUVVmQjhyT00wZWQzc0VneHcxOFdsNWlUenBYU09YZEZqV1RFRUtWbHFyZmF6OGNGc1NCeHhqZw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Foresees US Bitcoin Reserves Growing to Over $1 Trillion in Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crowdfund Insider</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMFdFVUpKeXYwWWFoZFVoZnpIdTdnbXh0a3kyNFZ1aTFGOV9menlHU2xIVmZsNWpyREpBQmcyeEk5YklTTm52ZXNyNF93emEtOVRuMUY5cjZqYTFzRUFJSkF6TjVaMHAyUGVSQWNGQUlaTnVYOGlhanBNWmlBMGdELWQ2bEtWWUZ4TnBOdW1OOGxEVVo3QzJCN3QyaTFmOGhiOXphUVVmQjhyT00wZWQzc0VneHcxOFdsNWlUenBYU09YZEZqV1RFRUtWbHFyZmF6OGNGc1NCeHhqZw?oc=5",
+      "source": "Crowdfund Insider",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-20T12:17:17+00:00",
+      "tags": [
+        "Bitcoin",
+        "机构 Institutional"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Foresees US Bitcoin Reserves Growing to Over $1 Trillion in Value Crowdfund Insider"
+    },
     {
       "title": "Binance’s Changpeng Zhao urges caution after GitHub breach",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmY0MFNfT1l3WnBELVhmVWs2SThWd21LdWNzcUM5emNhbFhQNXg0SnBUdzBGSGFyMzZpdFBQcDMxRm9tZGtGdy1YaTRQVEhqLW9DTVQ0ckFWMjB3UnlaSTdxdS1QZE15VEdKdG9LUWRNRTRndEZYQ3dkbjZTVGotS1lQbHc?oc=5\" target=\"_blank\">Binance’s Changpeng Zhao urges caution after GitHub breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
@@ -6158,17 +6172,6 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "'Druck Is Right,' Coinbase CEO Reacts as Popular Billionaire Predicts Inevitable Stablecoin Use for Global Payments TradingView"
-    },
-    {
-      "title": "Coinbase CEO Drives Global Investment Access With Tokenization",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0ZRNzBJU0lZVl9BREM0MGMyb2RZQ1N4OV8zUmpRRVJoRTVyb0FYejRqMHdLYWxnWFVjZlFBR1QzZmF4TS1oSUtZWFI1dW9zWEQyNGw2cEgzaUw0Nmg0c01YVC00QnZiR3VFUUZQRm1RRjViZWg4VHpyVWxLS3ltLUVsUnJBM1A3cXd3enJSLW8?oc=5\" target=\"_blank\">Coinbase CEO Drives Global Investment Access With Tokenization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinfomania</font>",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0ZRNzBJU0lZVl9BREM0MGMyb2RZQ1N4OV8zUmpRRVJoRTVyb0FYejRqMHdLYWxnWFVjZlFBR1QzZmF4TS1oSUtZWFI1dW9zWEQyNGw2cEgzaUw0Nmg0c01YVC00QnZiR3VFUUZQRm1RRjViZWg4VHpyVWxLS3ltLUVsUnJBM1A3cXd3enJSLW8?oc=5",
-      "source": "Coinfomania",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-14T10:33:58+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Drives Global Investment Access With Tokenization Coinfomania"
     }
   ]
 }
