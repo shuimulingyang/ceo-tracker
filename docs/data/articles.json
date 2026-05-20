@@ -1,14 +1,39 @@
 {
-  "updated_at": "2026-05-20T05:55:02Z",
+  "updated_at": "2026-05-20T08:48:33Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 123,
-    "Brian Armstrong": 272,
+    "CZ": 125,
+    "Brian Armstrong": 271,
     "Richard Teng": 54,
-    "Ben Zhou": 32,
+    "Ben Zhou": 31,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Binance’s Changpeng Zhao urges caution after GitHub breach",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmY0MFNfT1l3WnBELVhmVWs2SThWd21LdWNzcUM5emNhbFhQNXg0SnBUdzBGSGFyMzZpdFBQcDMxRm9tZGtGdy1YaTRQVEhqLW9DTVQ0ckFWMjB3UnlaSTdxdS1QZE15VEdKdG9LUWRNRTRndEZYQ3dkbjZTVGotS1lQbHc?oc=5\" target=\"_blank\">Binance’s Changpeng Zhao urges caution after GitHub breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmY0MFNfT1l3WnBELVhmVWs2SThWd21LdWNzcUM5emNhbFhQNXg0SnBUdzBGSGFyMzZpdFBQcDMxRm9tZGtGdy1YaTRQVEhqLW9DTVQ0ckFWMjB3UnlaSTdxdS1QZE15VEdKdG9LUWRNRTRndEZYQ3dkbjZTVGotS1lQbHc?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-20T06:37:25+00:00",
+      "tags": [
+        "Web3",
+        "安全 Security"
+      ],
+      "key_quote": "Binance’s Changpeng Zhao urges caution after GitHub breach crypto.news"
+    },
+    {
+      "title": "BREAKING: GitHub Claims Customer Repos Safe as Binance's Changpeng Zhao Issues Warning",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JhdU14WHZPWUVZNkVZRklqTmk1UjZKTTVlS25ZVzV2cmIzMHdQZlZ0S3JxdFJqdlBuN3V5aTM4Zm9RQmdqdE4tWUR0amlLeEdYREZvSVFORlZ2dmdia1hGLU52UVpPWEZ3NDhMTU9XOFg4SWxodHJsWUF2WXd2R0tHa19KRHc2X1BKTktPY3lvMGNXZmthRg?oc=5\" target=\"_blank\">BREAKING: GitHub Claims Customer Repos Safe as Binance's Changpeng Zhao Issues Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinGape</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2JhdU14WHZPWUVZNkVZRklqTmk1UjZKTTVlS25ZVzV2cmIzMHdQZlZ0S3JxdFJqdlBuN3V5aTM4Zm9RQmdqdE4tWUR0amlLeEdYREZvSVFORlZ2dmdia1hGLU52UVpPWEZ3NDhMTU9XOFg4SWxodHJsWUF2WXd2R0tHa19KRHc2X1BKTktPY3lvMGNXZmthRg?oc=5",
+      "source": "CoinGape",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-20T06:06:08+00:00",
+      "tags": [],
+      "key_quote": "BREAKING: GitHub Claims Customer Repos Safe as Binance's Changpeng Zhao Issues Warning CoinGape"
+    },
     {
       "title": "Changpeng Zhao Warns Crypto Devs to Rotate API Keys After GitHub Hack",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmQmhza3NyNldPVEgwcHNkRERmU1cwYWphdHg1Nk9saDVyMVZ6TXRDeWZaVTRzejVveVRSRklvX3A4MmxsN2VJeGNvdlhmTndUOFBELURiU2V6TDFfQnA5WURkMF9Ydw?oc=5\" target=\"_blank\">Changpeng Zhao Warns Crypto Devs to Rotate API Keys After GitHub Hack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
@@ -6144,33 +6169,6 @@
       "published_at": "2026-03-14T01:30:00+00:00",
       "tags": [],
       "key_quote": "Here's Why The Crypto Billionaire Calls The Estimate A 'Bit Illogical' (UPDATED) Yahoo Finance"
-    },
-    {
-      "title": "Stolen Bitcoin Worth $16 Million Laundered Through Wasabi Mixer, Says Bybit CEO",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUml5YlllbU1fLWxYbE9ENmg5SjdWTFBhS3A5NkZDR0Y0LUp1dmd1dkpCOHlBcnowejJZWVRlLUZlMVFrVk5YajdzY0s0bmhVS3BlR1NhZ3ExU295RG4yb1VRVHVyaS1wNUwtamp4R2JMbGF5TGVmaDduRzRtREdmeUkzS1ZfVU9HLU8yX1RPV1FGeDNzc1JiZWFyS25CbmZSbkdhZm9lcWxaR2tfYlJ0QlRKeFMzazdNSk0tSGtON3NzOGM?oc=5\" target=\"_blank\">Stolen Bitcoin Worth $16 Million Laundered Through Wasabi Mixer, Says Bybit CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinMarketCap</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUml5YlllbU1fLWxYbE9ENmg5SjdWTFBhS3A5NkZDR0Y0LUp1dmd1dkpCOHlBcnowejJZWVRlLUZlMVFrVk5YajdzY0s0bmhVS3BlR1NhZ3ExU295RG4yb1VRVHVyaS1wNUwtamp4R2JMbGF5TGVmaDduRzRtREdmeUkzS1ZfVU9HLU8yX1RPV1FGeDNzc1JiZWFyS25CbmZSbkdhZm9lcWxaR2tfYlJ0QlRKeFMzazdNSk0tSGtON3NzOGM?oc=5",
-      "source": "CoinMarketCap",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-03-13T21:59:57+00:00",
-      "tags": [
-        "Bitcoin",
-        "市场 Market"
-      ],
-      "key_quote": "Stolen Bitcoin Worth $16 Million Laundered Through Wasabi Mixer, Says Bybit CEO CoinMarketCap"
-    },
-    {
-      "title": "Coinbase CEO Denies Claims of Lobbying Against Bitcoin De Minimis Tax Exemption",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT0dLbzEwOWhqdjBCbFV1WU9lUjU3Q0wwQUx2OWIwYUgtMmlhRF9BbmJfZjdpeVNhUTIwYVRqUDVTOFdndFBoMlotWWFWeE5BbUJxU1RpczRzWENRVWR2UWxxWmZfRGJUT0JPSGJjRkRycml3SV9tb3FvTFFxY08zUU1NNnJJTXpUeTg0UEFtWndEN1pYTV9HWjZoOTctUnRiQWRjT2xKaEdsSm50TFNVOWFuTmt0Z3ZS?oc=5\" target=\"_blank\">Coinbase CEO Denies Claims of Lobbying Against Bitcoin De Minimis Tax Exemption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT0dLbzEwOWhqdjBCbFV1WU9lUjU3Q0wwQUx2OWIwYUgtMmlhRF9BbmJfZjdpeVNhUTIwYVRqUDVTOFdndFBoMlotWWFWeE5BbUJxU1RpczRzWENRVWR2UWxxWmZfRGJUT0JPSGJjRkRycml3SV9tb3FvTFFxY08zUU1NNnJJTXpUeTg0UEFtWndEN1pYTV9HWjZoOTctUnRiQWRjT2xKaEdsSm50TFNVOWFuTmt0Z3ZS?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-13T17:50:34+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO Denies Claims of Lobbying Against Bitcoin De Minimis Tax Exemption CryptoRank"
     }
   ]
 }
