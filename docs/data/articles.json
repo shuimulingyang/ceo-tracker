@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-22T08:48:41Z",
+  "updated_at": "2026-05-22T11:35:30Z",
   "total": 500,
   "by_ceo": {
     "Richard Teng": 55,
+    "CZ": 123,
     "Brian Armstrong": 277,
-    "CZ": 122,
-    "Ben Zhou": 27,
+    "Ben Zhou": 26,
     "Star Xu": 19
   },
   "articles": [
@@ -34,6 +34,20 @@
         "Layer2"
       ],
       "key_quote": "Binance CEO Richard Teng responded to WSJ's report, stating that Binance has not allowed sanctioned individuals to trade WEEX"
+    },
+    {
+      "title": "Changpeng Zhao: Asian Nations Likely to Build Bitcoin Reserves Quietly",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDROdlVweVh3eUxMN1lSdk12Y0RlcGpqWlFfUVZKa1I3T3dCZWUwckdBa1dzVGFTVFJrME13ZG1QTS1QNm8xRm5jWkg0WUt5aEY1UEk3aEQydXlLMTlJX3VuSl9VZmhEeTdKRDRXQ3dlUEc1cWVrMHVLclRBMzNfNDJBbVgwVXBUQ3FwYk5VVGFJQ0MtZVE?oc=5\" target=\"_blank\">Changpeng Zhao: Asian Nations Likely to Build Bitcoin Reserves Quietly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcDROdlVweVh3eUxMN1lSdk12Y0RlcGpqWlFfUVZKa1I3T3dCZWUwckdBa1dzVGFTVFJrME13ZG1QTS1QNm8xRm5jWkg0WUt5aEY1UEk3aEQydXlLMTlJX3VuSl9VZmhEeTdKRDRXQ3dlUEc1cWVrMHVLclRBMzNfNDJBbVgwVXBUQ3FwYk5VVGFJQ0MtZVE?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-21T23:29:04+00:00",
+      "tags": [
+        "Bitcoin",
+        "AI"
+      ],
+      "key_quote": "Changpeng Zhao: Asian Nations Likely to Build Bitcoin Reserves Quietly CryptoRank"
     },
     {
       "title": "Brian Armstrong’s security costs 28 times more than Michael Saylor’s",
@@ -6159,19 +6173,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration PR Newswire UK"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQMndDcGxaV3JsOC03ekREczRoeG8tTC16TnZWaTVmQ18wTWg1X3oyQUNSdHhNajlkZVFieUpWY0pVRnNEUzlYU0dWVzlERnEyTDJnT3YwU0V3Vko0RFVBbkRUSFJ3TGJyYkJFaHJVUzlHY29FZVdrWklRcGZZRWN2c01lNHpaRmM2SWJ5aTI0U3lPSm1nWHliWVJLRXpBSEJFa0ZES2VCQ2ZUOFpsZHNNRzA5eE4xZ0wxTkFfcXA3ay1HSnRmN19KN2xnNDZIVmRPSlR2WU5nQ3BxMjVtYWlSajRHYkhlV2phM3ZsYng3bks3SzZQazlwamhfZFY4OU1kNWRJeGRHcmZDUnoyTU00c200OEFjR1ozTW9fWtIBmgJBVV95cUxQZDlsOVNQLUhQa296SkdDaGo0eG1feVpqa1lqRVg2WHBXQkYxQkhwQmpEZGtOLTJJVnhWRzNxRS1fYTFvSG1BTERkNlhIU3N0M1BmT2VKQ0ZkMHJDc0RfQUJLZzNaVmZmQ3NFdTFQanNfOWZZUzJJeTlseXItdGNWQlh2dzgxWHdpaWRBNHBZOU40d0pyRmh2eU4tMEhjRFN0MEZvUjZGMUlQcnM4T0otaEstSEJxcmJ0WGJWT1dpQklGR0Y2VE5yX19KVDdrX1lRZk5hYy1lSGZCWXhKX0dEWGlES3dWdG9SWUFHV21paGRJYnF6QlpUeGxoVVMxY3lxNjFUZXFlVGs1RFF5eVR2OU1IeHZxRHFzR1E?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bolsamania</font>",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQMndDcGxaV3JsOC03ekREczRoeG8tTC16TnZWaTVmQ18wTWg1X3oyQUNSdHhNajlkZVFieUpWY0pVRnNEUzlYU0dWVzlERnEyTDJnT3YwU0V3Vko0RFVBbkRUSFJ3TGJyYkJFaHJVUzlHY29FZVdrWklRcGZZRWN2c01lNHpaRmM2SWJ5aTI0U3lPSm1nWHliWVJLRXpBSEJFa0ZES2VCQ2ZUOFpsZHNNRzA5eE4xZ0wxTkFfcXA3ay1HSnRmN19KN2xnNDZIVmRPSlR2WU5nQ3BxMjVtYWlSajRHYkhlV2phM3ZsYng3bks3SzZQazlwamhfZFY4OU1kNWRJeGRHcmZDUnoyTU00c200OEFjR1ozTW9fWtIBmgJBVV95cUxQZDlsOVNQLUhQa296SkdDaGo0eG1feVpqa1lqRVg2WHBXQkYxQkhwQmpEZGtOLTJJVnhWRzNxRS1fYTFvSG1BTERkNlhIU3N0M1BmT2VKQ0ZkMHJDc0RfQUJLZzNaVmZmQ3NFdTFQanNfOWZZUzJJeTlseXItdGNWQlh2dzgxWHdpaWRBNHBZOU40d0pyRmh2eU4tMEhjRFN0MEZvUjZGMUlQcnM4T0otaEstSEJxcmJ0WGJWT1dpQklGR0Y2VE5yX19KVDdrX1lRZk5hYy1lSGZCWXhKX0dEWGlES3dWdG9SWUFHV21paGRJYnF6QlpUeGxoVVMxY3lxNjFUZXFlVGs1RFF5eVR2OU1IeHZxRHFzR1E?oc=5",
-      "source": "Bolsamania",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-03-17T14:00:00+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration Bolsamania"
     }
   ]
 }
