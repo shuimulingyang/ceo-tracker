@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-22T11:35:30Z",
+  "updated_at": "2026-05-22T14:07:53Z",
   "total": 500,
   "by_ceo": {
-    "Richard Teng": 55,
+    "Richard Teng": 56,
     "CZ": 123,
     "Brian Armstrong": 277,
-    "Ben Zhou": 26,
+    "Ben Zhou": 25,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Binance disputes latest WSJ report on alleged Iran-linked transactions",
+      "content": "<p>WSJ reported Iranian financier Babak Zanjani allegedly moved $850 million through Binance, which CEO Richard Teng said was mischaracterized.</p>",
+      "url": "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-05-22T14:02:44+00:00",
+      "tags": [],
+      "key_quote": "WSJ reported Iranian financier Babak Zanjani allegedly moved $850 million through Binance, which CEO Richard Teng said was mischaracterized."
+    },
     {
       "title": "Binance CEO Richard Teng responded to WSJ's report, stating that Binance has not allowed sanctioned individuals to trade",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUElaU2dISkxLUWdjeUxaY0U3THhVdnRYTXZmNmR0QzBLNVNsekg5cDdBUjZkelY3VHVzVFp6MFNONFhtQUNXX2d0LWFSR0RGUDJoQjVuYmpab2hwTEl5cFRERlhKTVB0SVlDdzFzaFd3NVVNWHpoeEpWY1UwcFJXSlVMQkxwekp3MmZPYnE0SFNBQ2s3SlFoXzNzdHhkVmhQbzhaWkg5RVNFMEdOQ0lUN3NFa21fWnVqWlRHeWRiMW1OYjN1RVJ4R19nQTZVSEVncVBxMTc0dzM0YVZRT1B6dVQ1bm4xRzNFaUMzZjNaMmdXTTVzUmtzeDFYWXpBcFJhVTVYRm5pQU9fa1k?oc=5\" target=\"_blank\">Binance CEO Richard Teng responded to WSJ's report, stating that Binance has not allowed sanctioned individuals to trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
@@ -6160,19 +6171,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration The Globe and Mail"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQTW5WMGpJT0dHMEJPemZMM3pXb2hMa1JzODdTVFd0Yl9jaXBzQmRHNzhkQk1qbWowbW15MGJrSWdJUUliZFdwZ2U5amhQNDM0bmg5SFFiR0ZOZXZ1RVNsV1ZaUDVMTVdBelpPZ2dxeGhGMTZPQklOQUZfbEM1SGRPRnVwOWNKeVdrSUVKVG03akc0ODdsZnlvZV9qeGZaTXU3NG9VdUl0ekhCaWYwSzNPMFVhVXE5TW43OU1Qc1pTZkRvZ1lmdWhKUDQzbjRhQlo3VENYYU5WZUZ1TG9xWVFhZk9sZk1QTjRZR3U5WjhScjJrVkh2Rk9QZ21nWmVyYll5WHNoYlFzS2xvZw?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire UK</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTW5WMGpJT0dHMEJPemZMM3pXb2hMa1JzODdTVFd0Yl9jaXBzQmRHNzhkQk1qbWowbW15MGJrSWdJUUliZFdwZ2U5amhQNDM0bmg5SFFiR0ZOZXZ1RVNsV1ZaUDVMTVdBelpPZ2dxeGhGMTZPQklOQUZfbEM1SGRPRnVwOWNKeVdrSUVKVG03akc0ODdsZnlvZV9qeGZaTXU3NG9VdUl0ekhCaWYwSzNPMFVhVXE5TW43OU1Qc1pTZkRvZ1lmdWhKUDQzbjRhQlo3VENYYU5WZUZ1TG9xWVFhZk9sZk1QTjRZR3U5WjhScjJrVkh2Rk9QZ21nWmVyYll5WHNoYlFzS2xvZw?oc=5",
-      "source": "PR Newswire UK",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-03-17T14:00:00+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration PR Newswire UK"
     }
   ]
 }
