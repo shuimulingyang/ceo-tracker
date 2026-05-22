@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-05-22T01:55:56Z",
+  "updated_at": "2026-05-22T05:56:33Z",
   "total": 500,
   "by_ceo": {
+    "Richard Teng": 54,
     "Brian Armstrong": 277,
-    "Richard Teng": 53,
-    "CZ": 123,
+    "CZ": 122,
     "Ben Zhou": 28,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Binance CEO Richard Teng responded to WSJ's report, stating that Binance has not allowed sanctioned individuals to trade",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNT1dhN2FqZG9WSzVwMjRmWk9rTnI3SFNOYkhUV2ZKd3dpNjNmQkhrTzhITEdYU0JCMVhzM3lFcVZJalB1aHJ0cF9mSG9PNEtCcXBiWXFPdUdBRDBHUkFVX3p0SGliZkdPM0h0ZlFNOGFKMWNIcEFDRDYxZHJ3VUo1Y3NNYV9HMURQM1VSVTB0S0h5OWxKZWc0RllHaHNnZjRnYWtaQTdiTFd2MlJzUU4wSWdMeDRBWVBQTW5OaEk3d1pyQWNkZEp3bmFtYy05UWFPU0xwY0liN2RxcWFYcy1mN2N6NWJKeHYwRUthSW1pakY5M0l2SWVlZDc0TzZMUG41VDNhUnZHcw?oc=5\" target=\"_blank\">Binance CEO Richard Teng responded to WSJ's report, stating that Binance has not allowed sanctioned individuals to trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNT1dhN2FqZG9WSzVwMjRmWk9rTnI3SFNOYkhUV2ZKd3dpNjNmQkhrTzhITEdYU0JCMVhzM3lFcVZJalB1aHJ0cF9mSG9PNEtCcXBiWXFPdUdBRDBHUkFVX3p0SGliZkdPM0h0ZlFNOGFKMWNIcEFDRDYxZHJ3VUo1Y3NNYV9HMURQM1VSVTB0S0h5OWxKZWc0RllHaHNnZjRnYWtaQTdiTFd2MlJzUU4wSWdMeDRBWVBQTW5OaEk3d1pyQWNkZEp3bmFtYy05UWFPU0xwY0liN2RxcWFYcy1mN2N6NWJKeHYwRUthSW1pakY5M0l2SWVlZDc0TzZMUG41VDNhUnZHcw?oc=5",
+      "source": "WEEX",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-05-22T05:47:37+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Binance CEO Richard Teng responded to WSJ's report, stating that Binance has not allowed sanctioned individuals to trade WEEX"
+    },
     {
       "title": "Brian Armstrong’s security costs 28 times more than Michael Saylor’s",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXRINno4Z1NvTnZDeFpTcjhMaXVIVDBkaEdjdmdNN3FDYnhsckJVWFZPZW56VXdhb1JHVnJEUXFTYXR2UGhaMm5Ra28waGh3QlI2UnZGd1ZuaFlVdEFIY3NMQm5jMkVLM3pHVEpIVTh0QTJGUkxZRjBlalVHcTVudWxyTzBpajBrN3JqWWFfNA?oc=5\" target=\"_blank\">Brian Armstrong’s security costs 28 times more than Michael Saylor’s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Protos | Informed crypto news</font>",
@@ -6159,17 +6172,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration PR Newswire"
-    },
-    {
-      "title": "Changpeng Zhao Stuns World by Surpassing Bill Gates in Historic Wealth Shift",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNMW9qNWhMQWlBamJFYUowaWJpR3AyZXBjQmRoR1l1aTFHRGZOaXJLb1VxeWtrRmZfaHhyZW41dTJsQjJXcWtsM0haa3JBT2xSVmUtV0hWWkp0R1UySlJNbEhYc1J0X29MVHR4LWVqcVNJcXlhVFZjSzdFek9TNl9zcHMweG00Q28?oc=5\" target=\"_blank\">Changpeng Zhao Stuns World by Surpassing Bill Gates in Historic Wealth Shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMW9qNWhMQWlBamJFYUowaWJpR3AyZXBjQmRoR1l1aTFHRGZOaXJLb1VxeWtrRmZfaHhyZW41dTJsQjJXcWtsM0haa3JBT2xSVmUtV0hWWkp0R1UySlJNbEhYc1J0X29MVHR4LWVqcVNJcXlhVFZjSzdFek9TNl9zcHMweG00Q28?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-17T09:09:38+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao Stuns World by Surpassing Bill Gates in Historic Wealth Shift CryptoRank"
     }
   ]
 }
