@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-23T12:51:53Z",
+  "updated_at": "2026-05-23T14:23:01Z",
   "total": 500,
   "by_ceo": {
-    "Richard Teng": 57,
-    "Ben Zhou": 24,
+    "Richard Teng": 59,
+    "Ben Zhou": 22,
     "CZ": 123,
     "Brian Armstrong": 277,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
+      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance denies new WSJ report alleging $850M in Iran-linked transactions\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS1maXhpbmctdGhlLW5ld3MtYmxvY2tjaGFpbi1wb3dlcmVkLXNvbHV0aW9ucy1mb3ItbWVkaWEtaW4tY3Jpc2lzbmV3LmpwZw==.jpg\" /></p><p>Binance CEO Richard Teng denied a new WSJ report alleging $850 million in Iran-linked transactions flowed through the exchange to the IRGC.</p>",
+      "url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-05-23T14:03:36+00:00",
+      "tags": [],
+      "key_quote": "Binance CEO Richard Teng denied a new WSJ report alleging $850 million in Iran-linked transactions flowed through the exchange to the IRGC."
+    },
     {
       "title": "Binance News: Richard Teng Flags ‘Fundamental Inaccuracies’ on Binance Compliance Program",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWVxRUYwd09GbEhQYjBmdTc5YnM0MDY5d0JxZm5WMFF5VHZ0OHBlSHplbkdUQkpJUHlSVE5aeTZ5b0Q3MERLeURwZUNoVUpjWDJNTGlpVk1WRmZPcTNhQk5ZbEdqZ25nYm1zM3hDNlBUQ2F6Vk5HUGFmckQxWGlLcFRMbF9VRkNJeVVGU2VuakNQVW16Y3Z4d1FEVUNWQnNYYnpIbXJ3OGItdmtvd2FBQjhXcUxzRkUxekM1WUxjeXQzeF94aktsVWp30gHPAUFVX3lxTE1mSXgwYXd1QncwUlZUNmg0RFZwMXlZUFo1eWpDd1o2M0g5NHVqU1NrbF9yTFY4ejJONXNYVjNKTEhGSENoRnNRSFgwc0J5dDF2NkNGd1E1QndnbjAxVzktT2Y2dXc4LUdiOEZKRm1wRzdJVkx4SS1FNUZxcTdUOEpjUjRKWFdVTnc0VzExVG1oVy1wcWYzV0NheW50dmQ1TmlBZm9xV2R6encwZkprRXdwZW56NE5Jb0l5VW9qeV9nb0NmeTc4cXlWNWR5UU9Lcw?oc=5\" target=\"_blank\">Binance News: Richard Teng Flags ‘Fundamental Inaccuracies’ on Binance Compliance Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Coin Republic</font>",
@@ -22,6 +33,19 @@
         "机构 Institutional"
       ],
       "key_quote": "Binance News: Richard Teng Flags ‘Fundamental Inaccuracies’ on Binance Compliance Program The Coin Republic"
+    },
+    {
+      "title": "Binance CEO Richard Teng responded to WSJ's report, stating that Binance has not allowed sanctioned individuals to trade",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUjZmcTg0VFR4VTk2b2pWLVl2QzRlVUVXZ1Bqa1dZT2dDNGZoaVFoaDJBeVowRWpDUzZTUVRDQUhxenRBYVlhOWlGR3I4aENfelI4cGxiNVJiQlByYjFxOGU2TlBsMnZZTTQ3d3NXdkJTV09WTnhESHVtVWt0Z00xakNzNXJLZ05TdzZBSGszRDEyQ0x4bTZHSFBNQmYxMUtyQTAzSXdZZkpfVkNRSjF4aldJLV9ZQ1hNaGtRWDdtQ1VFV2V0aWktbm4yZkE1ZFhCUnFzY1RNVU1KUWFqZmtFY3ZwdGNqU1NDTko2amI5dVFJOTJ4WnpYSWs2ZW9mUWUzZjlOczBlMk94aVk?oc=5\" target=\"_blank\">Binance CEO Richard Teng responded to WSJ's report, stating that Binance has not allowed sanctioned individuals to trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUjZmcTg0VFR4VTk2b2pWLVl2QzRlVUVXZ1Bqa1dZT2dDNGZoaVFoaDJBeVowRWpDUzZTUVRDQUhxenRBYVlhOWlGR3I4aENfelI4cGxiNVJiQlByYjFxOGU2TlBsMnZZTTQ3d3NXdkJTV09WTnhESHVtVWt0Z00xakNzNXJLZ05TdzZBSGszRDEyQ0x4bTZHSFBNQmYxMUtyQTAzSXdZZkpfVkNRSjF4aldJLV9ZQ1hNaGtRWDdtQ1VFV2V0aWktbm4yZkE1ZFhCUnFzY1RNVU1KUWFqZmtFY3ZwdGNqU1NDTko2amI5dVFJOTJ4WnpYSWs2ZW9mUWUzZjlOczBlMk94aVk?oc=5",
+      "source": "WEEX",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-05-22T19:33:13+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Binance CEO Richard Teng responded to WSJ's report, stating that Binance has not allowed sanctioned individuals to trade WEEX"
     },
     {
       "title": "Bybit CEO Ben Zhou Says Tokenization Could Transform Finance Faster Than Expected",
@@ -6145,33 +6169,6 @@
       "published_at": "2026-03-17T18:14:42+00:00",
       "tags": [],
       "key_quote": "Aster Chain Breakthrough: Changpeng Zhao’s ‘This is Huge’ Endorsement Signals Privacy Trading Shift CryptoRank"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUi1HNVZCb0UxUWNucWVMMG1xTmpFNGRJZW90Nm5QZ3llY29mVlRjZng1dFc4S0xQYVd3NG5YWnlldmRNUUlSeWlJZ0FXeWlsQ1hVTTFzWUhGVlVJSEF5bGkzYmRfMHNGS29YYjlqcEdodEZVbDhqa2Q1V2JtR2Jpc3FHRDBvdW5OR3BvRGRYQVM0UnlHejUyRUh3NmswTFQ5STlDVnpmaHR6dFpmYUo1MHRSc1F6QXNIbWJreFhQRTVKLXUzai1JVG11cnRZaXN0aWs1eW84UHhPdmJhbXVnZGp1VXdQUFpRR0JsYlYxT2ZlVkxVbHYxRzd3TQ?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Thailand Business News</font>",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUi1HNVZCb0UxUWNucWVMMG1xTmpFNGRJZW90Nm5QZ3llY29mVlRjZng1dFc4S0xQYVd3NG5YWnlldmRNUUlSeWlJZ0FXeWlsQ1hVTTFzWUhGVlVJSEF5bGkzYmRfMHNGS29YYjlqcEdodEZVbDhqa2Q1V2JtR2Jpc3FHRDBvdW5OR3BvRGRYQVM0UnlHejUyRUh3NmswTFQ5STlDVnpmaHR6dFpmYUo1MHRSc1F6QXNIbWJreFhQRTVKLXUzai1JVG11cnRZaXN0aWs1eW84UHhPdmJhbXVnZGp1VXdQUFpRR0JsYlYxT2ZlVkxVbHYxRzd3TQ?oc=5",
-      "source": "Thailand Business News",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-03-17T16:14:03+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration Thailand Business News"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxPX1ZwLTZlRFNHMlJieU5VT2Q0RHpONHVUZmt0S3JrUURELXFaVjBBNC1kMXVWdjk3SzJMd3g3R3BNSktTYlJQR05TaENUTFlRd2VlalM5Yy1BNXdvRzNXamlvUXF0aElwMzJrSGdkbG44RVpHSzNqVXdfUWxDMEMzRXFsTlVqX0doWXkyekxrYlA2RlQ1RUxyYV9fQTJMb0ZDTXJsT0FNWWV5X1JSLVFMaDlIRi0wal9vVUhhS3ZiWm1FNkFMeWdFa21mc1V2NHU2T1FRcEdnaDRwSEduYTBjSTNTUm9vS2Nhc1dQdk1EUkRoVy13Zzh6enBtb25kSTZPQV9VSjdMTHJ0M25JZnBydVQxYS1BTmJFOVhxWtIBogJBVV95cUxNRlRNbHdGWUdETXE3aU1DQWlSazQ4VjdSWWZJcW0tTkVBOWR4V3dYa0Rnb2RyaEFYaXNvdGM2N21peEt3cEs2S1NmcGJtVFhYd1ZNMjZIUGxhNEZBZUc1ZkoySGFFcll2bnhCQk5tSkNRWUhoTGZwVUtQUW9wd0ZaUjZtUm1JZFdYcDNwcUlMaEVDbTJ5Ty1tOHlER1pkNGM0MWZGRHlBQjhJTUJGcWZ5OFdlenNZb2tVdjkwcl96ckhoc1RmTjNxbkpzLVJNWVNTMmc4eXc3ZkdCYUlzTUxFWklJLWFULTQ0TnZ3dHNfdWpONkdCNGZJS1QyMVNFQjZMa05EWGVCdzhzcXJzMGxDQUFoc3BuUXVzRVFnQzZnS19fZw?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPX1ZwLTZlRFNHMlJieU5VT2Q0RHpONHVUZmt0S3JrUURELXFaVjBBNC1kMXVWdjk3SzJMd3g3R3BNSktTYlJQR05TaENUTFlRd2VlalM5Yy1BNXdvRzNXamlvUXF0aElwMzJrSGdkbG44RVpHSzNqVXdfUWxDMEMzRXFsTlVqX0doWXkyekxrYlA2RlQ1RUxyYV9fQTJMb0ZDTXJsT0FNWWV5X1JSLVFMaDlIRi0wal9vVUhhS3ZiWm1FNkFMeWdFa21mc1V2NHU2T1FRcEdnaDRwSEduYTBjSTNTUm9vS2Nhc1dQdk1EUkRoVy13Zzh6enBtb25kSTZPQV9VSjdMTHJ0M25JZnBydVQxYS1BTmJFOVhxWtIBogJBVV95cUxNRlRNbHdGWUdETXE3aU1DQWlSazQ4VjdSWWZJcW0tTkVBOWR4V3dYa0Rnb2RyaEFYaXNvdGM2N21peEt3cEs2S1NmcGJtVFhYd1ZNMjZIUGxhNEZBZUc1ZkoySGFFcll2bnhCQk5tSkNRWUhoTGZwVUtQUW9wd0ZaUjZtUm1JZFdYcDNwcUlMaEVDbTJ5Ty1tOHlER1pkNGM0MWZGRHlBQjhJTUJGcWZ5OFdlenNZb2tVdjkwcl96ckhoc1RmTjNxbkpzLVJNWVNTMmc4eXc3ZkdCYUlzTUxFWklJLWFULTQ0TnZ3dHNfdWpONkdCNGZJS1QyMVNFQjZMa05EWGVCdzhzcXJzMGxDQUFoc3BuUXVzRVFnQzZnS19fZw?oc=5",
-      "source": "The Manila Times",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-03-17T14:15:47+00:00",
-      "tags": [
-        "监管 Regulation",
-        "Layer2"
-      ],
-      "key_quote": "Bybit CEO Ben Zhou Meets Georgian Prime Minister, Reinforcing Commitment to Compliance-Led Growth and Local Collaboration The Manila Times"
     }
   ]
 }
