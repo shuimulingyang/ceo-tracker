@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-23T16:44:37Z",
+  "updated_at": "2026-05-23T17:50:21Z",
   "total": 500,
   "by_ceo": {
     "Richard Teng": 59,
-    "Ben Zhou": 22,
-    "CZ": 123,
+    "Ben Zhou": 23,
+    "CZ": 122,
     "Brian Armstrong": 277,
     "Star Xu": 19
   },
@@ -68,6 +68,20 @@
       "published_at": "2026-05-22T14:02:44+00:00",
       "tags": [],
       "key_quote": "WSJ reported Iranian financier Babak Zanjani allegedly moved $850 million through Binance, which CEO Richard Teng said was mischaracterized."
+    },
+    {
+      "title": "Stolen Bitcoin Worth $16 Million Laundered Through Wasabi Mixer, Says Bybit CEO",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUml5YlllbU1fLWxYbE9ENmg5SjdWTFBhS3A5NkZDR0Y0LUp1dmd1dkpCOHlBcnowejJZWVRlLUZlMVFrVk5YajdzY0s0bmhVS3BlR1NhZ3ExU295RG4yb1VRVHVyaS1wNUwtamp4R2JMbGF5TGVmaDduRzRtREdmeUkzS1ZfVU9HLU8yX1RPV1FGeDNzc1JiZWFyS25CbmZSbkdhZm9lcWxaR2tfYlJ0QlRKeFMzazdNSk0tSGtON3NzOGM?oc=5\" target=\"_blank\">Stolen Bitcoin Worth $16 Million Laundered Through Wasabi Mixer, Says Bybit CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinMarketCap</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUml5YlllbU1fLWxYbE9ENmg5SjdWTFBhS3A5NkZDR0Y0LUp1dmd1dkpCOHlBcnowejJZWVRlLUZlMVFrVk5YajdzY0s0bmhVS3BlR1NhZ3ExU295RG4yb1VRVHVyaS1wNUwtamp4R2JMbGF5TGVmaDduRzRtREdmeUkzS1ZfVU9HLU8yX1RPV1FGeDNzc1JiZWFyS25CbmZSbkdhZm9lcWxaR2tfYlJ0QlRKeFMzazdNSk0tSGtON3NzOGM?oc=5",
+      "source": "CoinMarketCap",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-05-22T06:27:57+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Stolen Bitcoin Worth $16 Million Laundered Through Wasabi Mixer, Says Bybit CEO CoinMarketCap"
     },
     {
       "title": "Binance CEO Richard Teng responded to WSJ's report, stating that Binance has not allowed sanctioned individuals to trade",
@@ -6158,17 +6172,6 @@
       "published_at": "2026-03-17T19:33:46+00:00",
       "tags": [],
       "key_quote": "Aster Chain Breakthrough: Changpeng Zhao’s ‘This is Huge’ Endorsement Signals Privacy Trading Shift MEXC"
-    },
-    {
-      "title": "Aster Chain Breakthrough: Changpeng Zhao’s ‘This is Huge’ Endorsement Signals Privacy Trading Shift",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnRqMXFJZWZ0WktzUjdwM01vM0doNWJqMHpuX0twOXNUckZWRXN4NVRFdGJoZUxVMjdkSUZfR2FjU2lSeVpKVXZuVzZhTTdOWFNxMkQ2c05wUHcyUVRhMkZjbWNtOU5ZNDZNd1Y3bGJvUENFVExrR0Q4b1VpLTJYUjFnZ3FiWEU?oc=5\" target=\"_blank\">Aster Chain Breakthrough: Changpeng Zhao’s ‘This is Huge’ Endorsement Signals Privacy Trading Shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnRqMXFJZWZ0WktzUjdwM01vM0doNWJqMHpuX0twOXNUckZWRXN4NVRFdGJoZUxVMjdkSUZfR2FjU2lSeVpKVXZuVzZhTTdOWFNxMkQ2c05wUHcyUVRhMkZjbWNtOU5ZNDZNd1Y3bGJvUENFVExrR0Q4b1VpLTJYUjFnZ3FiWEU?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-17T18:14:42+00:00",
-      "tags": [],
-      "key_quote": "Aster Chain Breakthrough: Changpeng Zhao’s ‘This is Huge’ Endorsement Signals Privacy Trading Shift CryptoRank"
     }
   ]
 }
