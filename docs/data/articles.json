@@ -1,14 +1,109 @@
 {
-  "updated_at": "2026-05-25T06:27:20Z",
+  "updated_at": "2026-05-25T11:01:22Z",
   "total": 500,
   "by_ceo": {
-    "Ben Zhou": 24,
     "Brian Armstrong": 280,
-    "Richard Teng": 60,
-    "CZ": 117,
+    "Ben Zhou": 27,
+    "CZ": 115,
+    "Richard Teng": 59,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Brian Armstrong: Blockchain Modernizing Financial Systems",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFVXVzNWOTNVUUJIb1NCamJ4aFFPVmVtVXVHUHZlVk1HcGVrNjZXN2N5RTZtVUZKVWg5dFFpMkhRc1lnSzl1M2xNTWZUNnhGWVdEWWhRTU04b2lwWW1MUDF4bUxfdmctdTV3ajV6V28xUFRhMm9wajY2U1Y3OExQeWg0TVN3VUhmSUxlRWt5QWhfSEZJd3c?oc=5\" target=\"_blank\">Brian Armstrong: Blockchain Modernizing Financial Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intellectia AI</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFVXVzNWOTNVUUJIb1NCamJ4aFFPVmVtVXVHUHZlVk1HcGVrNjZXN2N5RTZtVUZKVWg5dFFpMkhRc1lnSzl1M2xNTWZUNnhGWVdEWWhRTU04b2lwWW1MUDF4bUxfdmctdTV3ajV6V28xUFRhMm9wajY2U1Y3OExQeWg0TVN3VUhmSUxlRWt5QWhfSEZJd3c?oc=5",
+      "source": "Intellectia AI",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T09:06:25+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong: Blockchain Modernizing Financial Systems Intellectia AI"
+    },
+    {
+      "title": "02:10 ETBybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHb0J1YWhBRG1OTFl4YXJ2RHdTWTVmSGk1R2k2UU5GdmNOSmgzdjhfTEUxM1lXQWxSU3pEUm1zd3BZaDhjcXNROVVWZkNvQQ?oc=5\" target=\"_blank\">02:10 ETBybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Longbridge</font>",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHb0J1YWhBRG1OTFl4YXJ2RHdTWTVmSGk1R2k2UU5GdmNOSmgzdjhfTEUxM1lXQWxSU3pEUm1zd3BZaDhjcXNROVVWZkNvQQ?oc=5",
+      "source": "Longbridge",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-05-25T08:14:53+00:00",
+      "tags": [],
+      "key_quote": "02:10 ETBybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026 Longbridge"
+    },
+    {
+      "title": "Bybit CEO sees AI, stablecoins reshaping finance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNVW1jdDQxUE0weXg2dktKVjhLNVZ1QWJLVWkwOXVaVnBlXzFJRk9meE1XeXlXOWw1b0psY0ozZXJmV282X3FnRHlSSTQydk9MS0RJcTl4X25fVHhiei1hVkdaa1psME5SSTZaTXVZRXVSdFVLd3hlTmt6dlpVLUJ3aHdzUHh4dw?oc=5\" target=\"_blank\">Bybit CEO sees AI, stablecoins reshaping finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech in Asia</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVW1jdDQxUE0weXg2dktKVjhLNVZ1QWJLVWkwOXVaVnBlXzFJRk9meE1XeXlXOWw1b0psY0ozZXJmV282X3FnRHlSSTQydk9MS0RJcTl4X25fVHhiei1hVkdaa1psME5SSTZaTXVZRXVSdFVLd3hlTmt6dlpVLUJ3aHdzUHh4dw?oc=5",
+      "source": "Tech in Asia",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-05-25T07:57:00+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Bybit CEO sees AI, stablecoins reshaping finance Tech in Asia"
+    },
+    {
+      "title": "Brian Armstrong says finance must move on-chain or fall behind",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qb01jVDZkakI4ckRQbFhqbWJMbkNDUFZFaG1fQnluZVpBWk9yamhrVUxGNW5wdkhUMG9DRnRzbXdQRnZjYkdJWVFIdklSR0JxelhIZXlXcnk?oc=5\" target=\"_blank\">Brian Armstrong says finance must move on-chain or fall behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qb01jVDZkakI4ckRQbFhqbWJMbkNDUFZFaG1fQnluZVpBWk9yamhrVUxGNW5wdkhUMG9DRnRzbXdQRnZjYkdJWVFIdklSR0JxelhIZXlXcnk?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T06:53:43+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong says finance must move on-chain or fall behind Cryptonews.net"
+    },
+    {
+      "title": "Coinbase CEO Says Finance Needs Eight Major Upgrades to Go Fully On-Chain",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUFJU01Hbm1oUGR5RFk0WHQ0dFByN3ZVZ0JVbmg2a1ZxeU5mTExmNl9iLUlDSUQtZ3FGUW1mbnBrakt1V0htb0R4TzE2Vk5UVkR4bXBJcHNSUWNaRGtCNmhQZG8yNUppNi1qTnlOenpoWTdhcmlxMWE0bkhsR0ZHdG0yeTVJeEQxR1BWVHFjQjZlT1gweGFZUjVXa3g2QWdxcVg5T0RIYUJkamNUckxVbXpod9IBuAFBVV95cUxPSFQ2SFdoWTRKSzRmdV8xNW1yZ2dSVnFCRnJkLUNJZGpTWlVwY0N1aFQweTdISFNNRVBHSDNjNHJpWGpjS3BuM19LRGpNVHEzYXAzQ0doQUJsVUNoSG1nNlN3UFpQcDFKZEVJRzk0cXlENU5XTjJ4dURjQ2t1Uk1FVkxnWWljOHpUWU1ZbjJwVVk4WHI4ZVdpVU11Y0VKM0RfTnVMUkgyMlgxdUxCcWUxekE5QU9IWmt4?oc=5\" target=\"_blank\">Coinbase CEO Says Finance Needs Eight Major Upgrades to Go Fully On-Chain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUFJU01Hbm1oUGR5RFk0WHQ0dFByN3ZVZ0JVbmg2a1ZxeU5mTExmNl9iLUlDSUQtZ3FGUW1mbnBrakt1V0htb0R4TzE2Vk5UVkR4bXBJcHNSUWNaRGtCNmhQZG8yNUppNi1qTnlOenpoWTdhcmlxMWE0bkhsR0ZHdG0yeTVJeEQxR1BWVHFjQjZlT1gweGFZUjVXa3g2QWdxcVg5T0RIYUJkamNUckxVbXpod9IBuAFBVV95cUxPSFQ2SFdoWTRKSzRmdV8xNW1yZ2dSVnFCRnJkLUNJZGpTWlVwY0N1aFQweTdISFNNRVBHSDNjNHJpWGpjS3BuM19LRGpNVHEzYXAzQ0doQUJsVUNoSG1nNlN3UFpQcDFKZEVJRzk0cXlENU5XTjJ4dURjQ2t1Uk1FVkxnWWljOHpUWU1ZbjJwVVk4WHI4ZVdpVU11Y0VKM0RfTnVMUkgyMlgxdUxCcWUxekE5QU9IWmt4?oc=5",
+      "source": "Coinpedia",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T06:49:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Says Finance Needs Eight Major Upgrades to Go Fully On-Chain Coinpedia"
+    },
+    {
+      "title": "Coinbase CEO flags these 8 gaps in finance as SEC delays tokenized plans",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkZZWWhwX09HZXhSWFlyZG9MZ2kzQmZmSVIxaUxyQmZSOWxKempHdzBOR1lVdFpIeUhLYkg0UWxfa3k3RXdSekFTUWRyc0x4bk9aRGhyU3hfT19lTnhXaWZGanVfTEFucDg0dnhsRlhQZm1JZlJQRnVQVHEwems3WEtkR1FUZXA4bDg0ZThEYlI4d01XVE90SkpFWmx6eGhHRld4cjJIdzNUNmhzSkFn?oc=5\" target=\"_blank\">Coinbase CEO flags these 8 gaps in finance as SEC delays tokenized plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkZZWWhwX09HZXhSWFlyZG9MZ2kzQmZmSVIxaUxyQmZSOWxKempHdzBOR1lVdFpIeUhLYkg0UWxfa3k3RXdSekFTUWRyc0x4bk9aRGhyU3hfT19lTnhXaWZGanVfTEFucDg0dnhsRlhQZm1JZlJQRnVQVHEwems3WEtkR1FUZXA4bDg0ZThEYlI4d01XVE90SkpFWmx6eGhHRld4cjJIdzNUNmhzSkFn?oc=5",
+      "source": "Seeking Alpha",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T06:48:41+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Coinbase CEO flags these 8 gaps in finance as SEC delays tokenized plans Seeking Alpha"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxNWk9udXFFbU5LakRYMEpNdWRqUjloR2xjQXhSUjNva01PWnVjSnhVd0xSNHJ5Y19Fd0pQOWo1ODJYX0k5bFdKQWZaczR2YUxUa0kwM3ZncE1adlMzVEtneS1VX2xXMTR4TzR5dlgyWFVxdTUyaWxTY2poMjRLVEVCZGdubXM1R0JSenRIcVNaQXNMY0pfczRQaU85LV83M1FxdjN6dG9YQUVYUWhjSzFYZFM3elFMcGJZX3FCZVNkc21MMHpteEFISTZKZEtLdjRCQjJKMVZGM0ZZN0V5YlVJc2VEOWplb2xzUFVJby1aZ2pESGt1WVZnN0FlRU94dlZFM1dNbF9KY3ExNVNwWk53VFZscXRlb1lSQ2liQWotWmoxV3Z1MVd3RWJGa3dla3daa0ZwTXo2LWdsMkktM3c?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNWk9udXFFbU5LakRYMEpNdWRqUjloR2xjQXhSUjNva01PWnVjSnhVd0xSNHJ5Y19Fd0pQOWo1ODJYX0k5bFdKQWZaczR2YUxUa0kwM3ZncE1adlMzVEtneS1VX2xXMTR4TzR5dlgyWFVxdTUyaWxTY2poMjRLVEVCZGdubXM1R0JSenRIcVNaQXNMY0pfczRQaU85LV83M1FxdjN6dG9YQUVYUWhjSzFYZFM3elFMcGJZX3FCZVNkc21MMHpteEFISTZKZEtLdjRCQjJKMVZGM0ZZN0V5YlVJc2VEOWplb2xzUFVJby1aZ2pESGt1WVZnN0FlRU94dlZFM1dNbF9KY3ExNVNwWk53VFZscXRlb1lSQ2liQWotWmoxV3Z1MVd3RWJGa3dla3daa0ZwTXo2LWdsMkktM3c?oc=5",
+      "source": "The Globe and Mail",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-05-25T06:47:52+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026 The Globe and Mail"
+    },
+    {
+      "title": "Bitcoin Will 'Never Die' And There's No 'Need' To Panic Post Draws Crypto Billionaire Changpeng Zhao's At",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZW1fX1YxbzhvNjk1M0pueFF2WVlkYXFoY3JOblBoLTh2cFowSEpNNUJmbmJLRnhoQmlJa1B6TF9PMlJaM29CVHRQS3Eza0U5Mm5qSU5YVnRheS1NZVNKUHltRHJBeDloMTJiVk5HaVk4SlQ1Nk9HZWxleVFENGppbVl2R0FsTzE5Q0kxZWNWWUJUeXR0bkFHWFNNTW5oeHZLbXg4OUdiRQ?oc=5\" target=\"_blank\">Bitcoin Will 'Never Die' And There's No 'Need' To Panic Post Draws Crypto Billionaire Changpeng Zhao's At</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZW1fX1YxbzhvNjk1M0pueFF2WVlkYXFoY3JOblBoLTh2cFowSEpNNUJmbmJLRnhoQmlJa1B6TF9PMlJaM29CVHRQS3Eza0U5Mm5qSU5YVnRheS1NZVNKUHltRHJBeDloMTJiVk5HaVk4SlQ1Nk9HZWxleVFENGppbVl2R0FsTzE5Q0kxZWNWWUJUeXR0bkFHWFNNTW5oeHZLbXg4OUdiRQ?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-25T06:43:28+00:00",
+      "tags": [
+        "Bitcoin",
+        "Layer2"
+      ],
+      "key_quote": "Bitcoin Will 'Never Die' And There's No 'Need' To Panic Post Draws Crypto Billionaire Changpeng Zhao's At Benzinga"
+    },
     {
       "title": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOTVplSUFMY1dKQXdjMWNBdUtpdFAtd2duVEdHMVhHN09pWjF2MGxFWGZHTnpKaWpNMmNMbVdnSk84WlByNGpqeHhmUnpyN3FDWkJUWEltWmgzOGFVUE8xbEhuTW1pMi1aalBnOTFwZXB4NzdyX1FpQ1ZsZG1BZndQdUw0OEE0cXZfLVQtY2VaZDNnV0s5Y0Q0V1RQTzNBUjMwc0hQYlBTTmRleUk1a2tiaFl0bzk3bUVyUGdfWTJTczNfSk9JVkpqeVhuYU43eWw0b1E4Mll1eEIxSWlnOEZEdUVSM28yQUZ1VE9zdHlXTEhWdDNEV0pLOVNYellhclZNUlQtREVqN3BVZmdNZHNDa2s4M1lQUQ?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire Canada</font>",
@@ -6076,102 +6171,6 @@
       "published_at": "2026-03-20T21:52:20+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning thestreet.com"
-    },
-    {
-      "title": "BREAKING: 🇺🇸 Coinbase CEO Brian Armstrong predicts #Bitco",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBaQ0lsREJLbjBDdXMxajhiSUxvY2dSNDFOTEpvREktY0tnRFg3U1FiWkVuOVYzTFh6WC1DSXR5UXNXMm9Fc09DSHI2RWlnQk1hcndVU2wybTBVWExTMXI5bGNxbU9ic3lzRGFwVWd4UENKUQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 Coinbase CEO Brian Armstrong predicts #Bitco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaQ0lsREJLbjBDdXMxajhiSUxvY2dSNDFOTEpvREktY0tnRFg3U1FiWkVuOVYzTFh6WC1DSXR5UXNXMm9Fc09DSHI2RWlnQk1hcndVU2wybTBVWExTMXI5bGNxbU9ic3lzRGFwVWd4UENKUQ?oc=5",
-      "source": "KuCoin",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-20T21:50:20+00:00",
-      "tags": [],
-      "key_quote": "BREAKING: 🇺🇸 Coinbase CEO Brian Armstrong predicts #Bitco KuCoin"
-    },
-    {
-      "title": "Brian Armstrong pushes Coinbase expansion — price drops amid mixed technicals",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmNfcG54NXZhdmZTM2NRMjlZcFBfcXhDWWk3Z2FwRGh3YUxDaUZxTGRiMEJnY25veHRWdkVjNXVmMU15Wm04bDJpZVhZTHQ0RzFzM2RtbklUY2h3R2FpMGVhTzFJNGlBaDE5RjNIdDMwNHV3akVFa1QtelU3S252cHZMbjBWbDlNdmlCSW85OXZJV3NpS2c?oc=5\" target=\"_blank\">Brian Armstrong pushes Coinbase expansion — price drops amid mixed technicals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmNfcG54NXZhdmZTM2NRMjlZcFBfcXhDWWk3Z2FwRGh3YUxDaUZxTGRiMEJnY25veHRWdkVjNXVmMU15Wm04bDJpZVhZTHQ0RzFzM2RtbklUY2h3R2FpMGVhTzFJNGlBaDE5RjNIdDMwNHV3akVFa1QtelU3S252cHZMbjBWbDlNdmlCSW85OXZJV3NpS2c?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-20T19:05:18+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Brian Armstrong pushes Coinbase expansion — price drops amid mixed technicals Traders Union"
-    },
-    {
-      "title": "Bitcoin can support dollar strength as capital shifts during inflation, Brian Armstrong states",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXlONk5yU2dYdGtObUgyODg3d25Ua3B2d1VrVG9xb0lUcldtcjU0YmpzUEdCYS0zeWp4OWw0ejNqRHZ2VWctSlg5RTUxQ0VVT1lXWHBMLXc3dmFfV1V0YlV1b05yRjBiX1hlZW1EcGRvRDlrdWFSYUwzNk9wMmZmbjk5N1BGZjVfY1lwWWotUU1lYmdIaWgw?oc=5\" target=\"_blank\">Bitcoin can support dollar strength as capital shifts during inflation, Brian Armstrong states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXlONk5yU2dYdGtObUgyODg3d25Ua3B2d1VrVG9xb0lUcldtcjU0YmpzUEdCYS0zeWp4OWw0ejNqRHZ2VWctSlg5RTUxQ0VVT1lXWHBMLXc3dmFfV1V0YlV1b05yRjBiX1hlZW1EcGRvRDlrdWFSYUwzNk9wMmZmbjk5N1BGZjVfY1lwWWotUU1lYmdIaWgw?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-20T19:00:15+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Bitcoin can support dollar strength as capital shifts during inflation, Brian Armstrong states Traders Union"
-    },
-    {
-      "title": "Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yMmxxUENnOUo1dENGVmJJdDNqRGlrU3FHSlpHcDl3VFV3eXdRMWhQWXFvTUI2cEp1UDJWUEZyRnlva1hHb0p6T2NIdndNN09JNGN5VkVra2U?oc=5\" target=\"_blank\">Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yMmxxUENnOUo1dENGVmJJdDNqRGlrU3FHSlpHcDl3VFV3eXdRMWhQWXFvTUI2cEp1UDJWUEZyRnlva1hHb0p6T2NIdndNN09JNGN5VkVra2U?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-20T07:00:00+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong Cryptonews.net"
-    },
-    {
-      "title": "Changpeng Zhao Denies Iran-Linked Claims on Binance",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNRjBCaU1DZ296UUpwWTZFWG1jeGhsWnJ0WGdUdktnWDJ6aFoxN2I2UEFqemJiS2lxVU1QbnBLSDN3dXRxZ2J3YnlfNXI0SDhnT0d4eVJnSWQwaC0tRjJlX0pCcUt3SlNxVThSOGRtSFQwc3RBQnFiVTczT3pRY1ZtQWF3?oc=5\" target=\"_blank\">Changpeng Zhao Denies Iran-Linked Claims on Binance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRjBCaU1DZ296UUpwWTZFWG1jeGhsWnJ0WGdUdktnWDJ6aFoxN2I2UEFqemJiS2lxVU1QbnBLSDN3dXRxZ2J3YnlfNXI0SDhnT0d4eVJnSWQwaC0tRjJlX0pCcUt3SlNxVThSOGRtSFQwc3RBQnFiVTczT3pRY1ZtQWF3?oc=5",
-      "source": "CoinCentral",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-19T11:10:48+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao Denies Iran-Linked Claims on Binance CoinCentral"
-    },
-    {
-      "title": "Richard Teng: New features aim to make crypto safer and more accessible",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQSzM5UXJnaWtCM2stY0NwNXF0YzFneFc0bHVVbF9ERjRndG1hUF83bERuWjNqaDN0MG1JbDlxSXZTYmhGSlBic28zSk9uWHR6d3dicGFTY01XdlJrQWJ0SUZxRllEWHh1aXlLLUFGYjdEY1AyRWM5dmVXd0pCcXMxYw?oc=5\" target=\"_blank\">Richard Teng: New features aim to make crypto safer and more accessible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSzM5UXJnaWtCM2stY0NwNXF0YzFneFc0bHVVbF9ERjRndG1hUF83bERuWjNqaDN0MG1JbDlxSXZTYmhGSlBic28zSk9uWHR6d3dicGFTY01XdlJrQWJ0SUZxRllEWHh1aXlLLUFGYjdEY1AyRWM5dmVXd0pCcXMxYw?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-03-19T08:45:29+00:00",
-      "tags": [],
-      "key_quote": "Richard Teng: New features aim to make crypto safer and more accessible Traders Union"
-    },
-    {
-      "title": "From Jail To $113 Billion: Binance Founder Changpeng Zhao Overtakes Bill Gates In Wealth",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFZoSE1CdHVVR215cUNEdmRIS1QzWHNQV250TUc0VWM0UEM1VEpCMWo5UndGS3cyY2huZVpBV1k1NnI3UC1zWHBFei1QRGtMRHZweE9ySldPajNveEF4WUxUSm94UW9XMnRvX1Utcl83X0M2dmNsMjg0cHBWQ2kyTFpKNDdVYzNXbmE4SzN4V2gxWUg2bWU3QUhfeUZ6TDlESWxsWkxuNVN2QUJEZnB6cHVOTFZHZm5adk1IZ0ZYRlphWkhnVDdWdFJGeFVWOE1SYVBxaW9kSnNkMWNf0gHiAUFVX3lxTE16VUNfeFVyNVlYb1I3R3BfNWJiR0gzWVBMVTZVVVBTdUdQVEdCLVJuYW1UVjVEamlVMUx2bTBEV1pmVmxFUU5jQjE2T09ESHRzdF9XazJJTEd4NUx5Yk5rbExHSk9KSDRLWGVhdDRNT2d2VEZrTXlSanpMcG9XOG52WUhqdHlkZ21ZUHhrbmI3YjdubUpnemljMndPeGlQQ2lIaU1ZbXlJNlN2MUxncndEMDJMOUxMSm85V0Fjd2FHWXRtdjVrWV9HYjdEODhLdC1HeGYxNlBXUGMwRjM1ejQ0VlE?oc=5\" target=\"_blank\">From Jail To $113 Billion: Binance Founder Changpeng Zhao Overtakes Bill Gates In Wealth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News18</font>",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFZoSE1CdHVVR215cUNEdmRIS1QzWHNQV250TUc0VWM0UEM1VEpCMWo5UndGS3cyY2huZVpBV1k1NnI3UC1zWHBFei1QRGtMRHZweE9ySldPajNveEF4WUxUSm94UW9XMnRvX1Utcl83X0M2dmNsMjg0cHBWQ2kyTFpKNDdVYzNXbmE4SzN4V2gxWUg2bWU3QUhfeUZ6TDlESWxsWkxuNVN2QUJEZnB6cHVOTFZHZm5adk1IZ0ZYRlphWkhnVDdWdFJGeFVWOE1SYVBxaW9kSnNkMWNf0gHiAUFVX3lxTE16VUNfeFVyNVlYb1I3R3BfNWJiR0gzWVBMVTZVVVBTdUdQVEdCLVJuYW1UVjVEamlVMUx2bTBEV1pmVmxFUU5jQjE2T09ESHRzdF9XazJJTEd4NUx5Yk5rbExHSk9KSDRLWGVhdDRNT2d2VEZrTXlSanpMcG9XOG52WUhqdHlkZ21ZUHhrbmI3YjdubUpnemljMndPeGlQQ2lIaU1ZbXlJNlN2MUxncndEMDJMOUxMSm85V0Fjd2FHWXRtdjVrWV9HYjdEODhLdC1HeGYxNlBXUGMwRjM1ejQ0VlE?oc=5",
-      "source": "News18",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-19T06:57:25+00:00",
-      "tags": [],
-      "key_quote": "From Jail To $113 Billion: Binance Founder Changpeng Zhao Overtakes Bill Gates In Wealth News18"
-    },
-    {
-      "title": "Binance founder is now richer than Bill Gates. How much is Changpeng Zhao net worth and what fuels his wealth?",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOHA4NGV4NW5hcmNwWXp5SjRDc3llVWI3MGVpYUIxVndDYmVXY21PYkprekdBYk1VM0Q0WFg3cmtEaVRrMUUtb0QwemRlZVpnRGdwbXAzOUJJTFYzMHg2NVJFbklpX1NiazFmWWl2eEg4dzFBN00tZlFZUG9wbmw3UzFDMlh0WHkzcF93cm9KQWQ0SlpFbi1RdkNWaTExa2kwWjFPNFNLZzlWUi1LM21HN0FyLU1PclNGZFg5b0hlXzJvZjczNUFqa2pnOEIyajMtUmVReXlMbmdjeEdUUUpPMHFRVG1MVjlZXzBkSXZVNlpacWVIZGZsaWFhQkNaY03SAYQCQVVfeXFMTU1FUW5NbjAwbnp1MVlrdUlQVmVkS3lKaTJraG0tY01SWVE0ZEtNcVBvSGtlMjFuck5jRDVEMTVVUGxJaVk0bEgyVkN4Z0Jmc1NMOVR3ZWQ3TnBIZ2pTLUkzdFJqT2dLYllkZy05WHdPcDRfUmV3VElhenBiY00zSmVBZkp4azREY2RxY3RqUGlzMUNLMTVBbWgzSFJvcXdJS3NFckNXUnMyMUlqMWdURDRVQXE4Sm83QXN6Sk1JNHY0ZkozQlcxVHRfWXVoT1VlczROWlJEd2dkbGhOLUR0S1N2SDVlejRaV0RoaklDLVVTaXE2ZHdtNjVHODJTVG1VT3lyZjk?oc=5\" target=\"_blank\">Binance founder is now richer than Bill Gates. How much is Changpeng Zhao net worth and what fuels his wealth?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mint</font>",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOHA4NGV4NW5hcmNwWXp5SjRDc3llVWI3MGVpYUIxVndDYmVXY21PYkprekdBYk1VM0Q0WFg3cmtEaVRrMUUtb0QwemRlZVpnRGdwbXAzOUJJTFYzMHg2NVJFbklpX1NiazFmWWl2eEg4dzFBN00tZlFZUG9wbmw3UzFDMlh0WHkzcF93cm9KQWQ0SlpFbi1RdkNWaTExa2kwWjFPNFNLZzlWUi1LM21HN0FyLU1PclNGZFg5b0hlXzJvZjczNUFqa2pnOEIyajMtUmVReXlMbmdjeEdUUUpPMHFRVG1MVjlZXzBkSXZVNlpacWVIZGZsaWFhQkNaY03SAYQCQVVfeXFMTU1FUW5NbjAwbnp1MVlrdUlQVmVkS3lKaTJraG0tY01SWVE0ZEtNcVBvSGtlMjFuck5jRDVEMTVVUGxJaVk0bEgyVkN4Z0Jmc1NMOVR3ZWQ3TnBIZ2pTLUkzdFJqT2dLYllkZy05WHdPcDRfUmV3VElhenBiY00zSmVBZkp4azREY2RxY3RqUGlzMUNLMTVBbWgzSFJvcXdJS3NFckNXUnMyMUlqMWdURDRVQXE4Sm83QXN6Sk1JNHY0ZkozQlcxVHRfWXVoT1VlczROWlJEd2dkbGhOLUR0S1N2SDVlejRaV0RoaklDLVVTaXE2ZHdtNjVHODJTVG1VT3lyZjk?oc=5",
-      "source": "Mint",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-19T04:37:17+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "How much is Changpeng Zhao net worth and what fuels his wealth?"
     }
   ]
 }
