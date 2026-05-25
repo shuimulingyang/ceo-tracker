@@ -1,14 +1,50 @@
 {
-  "updated_at": "2026-05-25T14:26:24Z",
+  "updated_at": "2026-05-25T16:55:53Z",
   "total": 500,
   "by_ceo": {
+    "Brian Armstrong": 280,
     "Ben Zhou": 28,
-    "Brian Armstrong": 279,
-    "CZ": 115,
+    "CZ": 114,
     "Richard Teng": 59,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Brian Armstrong’s Plan to Fix Finance Or Just Crypto’s Same Old Song?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPM2JLT0tUcHo2el9xOWV0MjdiWWVOTzE4VF8xNjF0dWdrci0zVDdCREhLaWJWdEVLSUx6TElsZW1TVjVOLUxnOGhKaVdGckFjT1dvOVV3LXd1dkNRUVhOWjZMWkdZQkxrY0lQQjNJbWdPWlU1aUNzT3BFNkk2ZWt2X1BCYW5wVmlUenR3ZDN2T1JuMXlKZ1F0X0R30gGfAUFVX3lxTFBuTGZiTHZxRHVsSWtGN1FfNFRpVjlWMnJ1bWZqaVQzVTJuT19aSHAyRkZ1eE9zbGd6TTN0dnBSWGc3WWNsdlM2NzczVnJ3Rl8xTlBGOTk2NDN4QkVkbUNhY0JpcFVnRndZN2J2YVBpZlJPS0pqRHM3LWVjakRNQlI0NW5SU1Y5YWpINjNZSHVRNnFKTHVNRUFiUG1GNWw3MA?oc=5\" target=\"_blank\">Brian Armstrong’s Plan to Fix Finance Or Just Crypto’s Same Old Song?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM2JLT0tUcHo2el9xOWV0MjdiWWVOTzE4VF8xNjF0dWdrci0zVDdCREhLaWJWdEVLSUx6TElsZW1TVjVOLUxnOGhKaVdGckFjT1dvOVV3LXd1dkNRUVhOWjZMWkdZQkxrY0lQQjNJbWdPWlU1aUNzT3BFNkk2ZWt2X1BCYW5wVmlUenR3ZDN2T1JuMXlKZ1F0X0R30gGfAUFVX3lxTFBuTGZiTHZxRHVsSWtGN1FfNFRpVjlWMnJ1bWZqaVQzVTJuT19aSHAyRkZ1eE9zbGd6TTN0dnBSWGc3WWNsdlM2NzczVnJ3Rl8xTlBGOTk2NDN4QkVkbUNhY0JpcFVnRndZN2J2YVBpZlJPS0pqRHM3LWVjakRNQlI0NW5SU1Y5YWpINjNZSHVRNnFKTHVNRUFiUG1GNWw3MA?oc=5",
+      "source": "Coinpedia",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T16:18:00+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong’s Plan to Fix Finance Or Just Crypto’s Same Old Song?"
+    },
+    {
+      "title": "Coinbase CEO’s finance wishlist mirrors company’s product roadmap",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUm1CQzhHaUptVUtxLUMxN0ZqaTVqQS1CYlZVMXNNMXdHSVVnS21jaEd5RXplX080X3JCc05vYXFvZW5hMEVqMzVkTWo1SHdqbHpla3UxUlo4aHRiMWtlck54UGVYZENSVzJVVi05bzJuNjVlUmNmZ0hVcXJnbmxIVkZnbHBDOWtlMlpJaUwzSEVnczFPakFkVzhpb1pfaE96TmtrYUktWThKSzZQZXI0Uzh4V04tcFhQdG1LYW5XYWRfX0Z2QTZOcw?oc=5\" target=\"_blank\">Coinbase CEO’s finance wishlist mirrors company’s product roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUm1CQzhHaUptVUtxLUMxN0ZqaTVqQS1CYlZVMXNNMXdHSVVnS21jaEd5RXplX080X3JCc05vYXFvZW5hMEVqMzVkTWo1SHdqbHpla3UxUlo4aHRiMWtlck54UGVYZENSVzJVVi05bzJuNjVlUmNmZ0hVcXJnbmxIVkZnbHBDOWtlMlpJaUwzSEVnczFPakFkVzhpb1pfaE96TmtrYUktWThKSzZQZXI0Uzh4V04tcFhQdG1LYW5XYWRfX0Z2QTZOcw?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T14:28:12+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO’s finance wishlist mirrors company’s product roadmap TradingView"
+    },
+    {
+      "title": "Coinbase CEO’s finance wishlist mirrors company’s product roadmap",
+      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase CEO’s finance wishlist mirrors company’s product roadmap\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aG8taXMtYnJpYW4tYXJtc3Ryb25nLXByb2ZpbGUtYW5kLWJpb2dyYXBoeS0xLmpwZw==.jpg\" /></p><p>Brian Armstrong's wishlist for upgrading global finance aligns with the exchange's push into stocks, prediction markets and stablecoin payments, though some priorities remain aspirational.</p>",
+      "url": "https://cointelegraph.com/news/coinbase-ceo-finance-wishlist-mirrors-companys-product-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T14:28:12+00:00",
+      "tags": [
+        "市场 Market",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Brian Armstrong's wishlist for upgrading global finance aligns with the exchange's push into stocks, prediction markets and stablecoin payments, though some priorities remain aspirational."
+    },
     {
       "title": "Bybit CEO at Goldman Sachs: Tokenization Will Reshape Trading ‘Faster Than Expected’",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBtMW4zeEphZ09obWdISjM3SnJkX0dOSmk0LTVGVjFFTF8wYThJSXd5RWpGUTBhMFNZazAwVHloLXFaeE05VkI0eHc2aHpDZEwzWVVSbF9tYkhtXzZWdEdLMThtb3E3VWpGbF9WcFJHb0oyR0xYQWgyNExsZU1ScUU?oc=5\" target=\"_blank\">Bybit CEO at Goldman Sachs: Tokenization Will Reshape Trading ‘Faster Than Expected’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tokenist</font>",
@@ -136,6 +172,17 @@
       "published_at": "2026-05-25T06:10:00+00:00",
       "tags": [],
       "key_quote": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026 PR Newswire"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Details Key Upgrades Needed for Traditional Finance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQald4a01hbVRMa3huWmNnWGZLSDVzUGtQQ2h1NjFadHVlV2x2NTRxNGtYWkxQRzdsYUFzdFNBZzByTzUyTmZmMWUyZWh6Z2t6WHN4d2g2U3FaZS1ydE9xd1NOOTA4VGgzeUhwQVRRRmVxdE9tYjNUN0hkYS1FTVVob3B2Y1Ffdw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Details Key Upgrades Needed for Traditional Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQald4a01hbVRMa3huWmNnWGZLSDVzUGtQQ2h1NjFadHVlV2x2NTRxNGtYWkxQRzdsYUFzdFNBZzByTzUyTmZmMWUyZWh6Z2t6WHN4d2g2U3FaZS1ydE9xd1NOOTA4VGgzeUhwQVRRRmVxdE9tYjNUN0hkYS1FTVVob3B2Y1Ffdw?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T05:57:31+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Details Key Upgrades Needed for Traditional Finance CryptoRank"
     },
     {
       "title": "Coinbase CEO Says Financial System Needs Update Across 8 Areas",
@@ -6122,55 +6169,6 @@
         "Bitcoin"
       ],
       "key_quote": "BREAKING: Coinbase CEO Brian Armstrong believes Bitcoin co KuCoin"
-    },
-    {
-      "title": "Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTBBbFBqWVd1QjlINkxiXzdELTl6NUZjRTJEUFU5YlhVbktiMG05S2RXcFZvOEpqRFdITm9uM2xod1ZWMXZEWkMxUlBaZXFqYTVCWEpQeFNCNVZhdEtfNml6X19ibUxZWG5fdUUzZk95LVZzQVJFVmlmMmpaOFN0dFJVR185ZFo2WTdiQ3VMQWRNbHNjVlZySk10TTE5aFNWZk1vWDBfSmpHOE8yd3Z6dlFsU2Y3Zw?oc=5\" target=\"_blank\">Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTBBbFBqWVd1QjlINkxiXzdELTl6NUZjRTJEUFU5YlhVbktiMG05S2RXcFZvOEpqRFdITm9uM2xod1ZWMXZEWkMxUlBaZXFqYTVCWEpQeFNCNVZhdEtfNml6X19ibUxZWG5fdUUzZk95LVZzQVJFVmlmMmpaOFN0dFJVR185ZFo2WTdiQ3VMQWRNbHNjVlZySk10TTE5aFNWZk1vWDBfSmpHOE8yd3Z6dlFsU2Y3Zw?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-21T16:37:04+00:00",
-      "tags": [
-        "Bitcoin",
-        "ETF"
-      ],
-      "key_quote": "Bitcoin is a Check and Balance on Inflation, Says Coinbase CEO Brian Armstrong CryptoRank"
-    },
-    {
-      "title": "Coinbase CEO believes aging will soon become optional",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWml4eFdlQzVLMlNRd21CYnoyaHdNbENqWThUaE02Z0tULXgyR0RhYUhZel9FYTQtOVdnM05uaDA4OGNBRzNfOEdfNFNxRF9uMU9yc2w1WU9UZHcyYktrSmNfRkZvamVfMkZsZlRvMk9mRUN1REoxRllLSlhqNXZFNlJ2bUJCNjVvM3B5MVFKTjJVWnVqaV83S2d0aWdRZU5vTHcwQk5DNA?oc=5\" target=\"_blank\">Coinbase CEO believes aging will soon become optional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWml4eFdlQzVLMlNRd21CYnoyaHdNbENqWThUaE02Z0tULXgyR0RhYUhZel9FYTQtOVdnM05uaDA4OGNBRzNfOEdfNFNxRF9uMU9yc2w1WU9UZHcyYktrSmNfRkZvamVfMkZsZlRvMk9mRUN1REoxRllLSlhqNXZFNlJ2bUJCNjVvM3B5MVFKTjJVWnVqaV83S2d0aWdRZU5vTHcwQk5DNA?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-21T12:59:36+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO believes aging will soon become optional MSN"
-    },
-    {
-      "title": "Changpeng Zhao questions how X would handle KYC if it becomes a financial platform",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4wJBVV95cUxPOE5fNUxxTzJKNW9tQ1ZCdjl5RDFueWpfUUE5QmFVdUZibTc0cC1md3N3SHNiZkNiamlQZUFfR2QtQnl1cVhBOUxJVS1QZXdCSHNDOWxWdU1mYXlzemlUdE5vUlh6REpMdzhDM1ZiS3pUVldPWmp3UnJHLUdPWXVKd2xxeHpLSXl3b3YtWVdaTE9jbmhuT0gwYXJhSnZRRjE5ZmVmX1FPNXU2LW13NFlXY1ZPZk5Rck9pQXlUM0l4NGZuZ01kMkFVTzZsR2NaTXVwa1d2cVhmZ0gzQ3ozbHFUcXg3bzBHQXQ2Qlo0OHVNR2NyYWdQNnBuQVcyaTN6X2Q2eUxSbXFjY0NlZnNMeEV2QUkwdWRqdlRwUDk5SXZTZ2ZzNEZmVjE0Rm9udnlZczBfV09QVGJXMEcyZVBHcHJoTk9paUszdVJISzdiMnFWRkhIQzNoRmhZeTY5S2U2Vk41eTZV?oc=5\" target=\"_blank\">Changpeng Zhao questions how X would handle KYC if it becomes a financial platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPOE5fNUxxTzJKNW9tQ1ZCdjl5RDFueWpfUUE5QmFVdUZibTc0cC1md3N3SHNiZkNiamlQZUFfR2QtQnl1cVhBOUxJVS1QZXdCSHNDOWxWdU1mYXlzemlUdE5vUlh6REpMdzhDM1ZiS3pUVldPWmp3UnJHLUdPWXVKd2xxeHpLSXl3b3YtWVdaTE9jbmhuT0gwYXJhSnZRRjE5ZmVmX1FPNXU2LW13NFlXY1ZPZk5Rck9pQXlUM0l4NGZuZ01kMkFVTzZsR2NaTXVwa1d2cVhmZ0gzQ3ozbHFUcXg3bzBHQXQ2Qlo0OHVNR2NyYWdQNnBuQVcyaTN6X2Q2eUxSbXFjY0NlZnNMeEV2QUkwdWRqdlRwUDk5SXZTZ2ZzNEZmVjE0Rm9udnlZczBfV09QVGJXMEcyZVBHcHJoTk9paUszdVJISzdiMnFWRkhIQzNoRmhZeTY5S2U2Vk41eTZV?oc=5",
-      "source": "MSN",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-21T01:52:29+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Changpeng Zhao questions how X would handle KYC if it becomes a financial platform MSN"
-    },
-    {
-      "title": "Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVVXdU15M0FpTmk5STR5YXh3cmhxai1NSUM4TEFFZUM2S1JRN2FnN24tVFJzUXkxYVZXd1BqSHk4LVVYRUNzRFRxRE5laHhxU0pSdzNNTkFjak1HcFk5ZzhOSktIQWxwQVhOa3Y5Y3FZQ3FLOEVpRkpLeDBVLTUtblFyUQ?oc=5\" target=\"_blank\">Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVVXdU15M0FpTmk5STR5YXh3cmhxai1NSUM4TEFFZUM2S1JRN2FnN24tVFJzUXkxYVZXd1BqSHk4LVVYRUNzRFRxRE5laHhxU0pSdzNNTkFjak1HcFk5ZzhOSktIQWxwQVhOa3Y5Y3FZQ3FLOEVpRkpLeDBVLTUtblFyUQ?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-21T00:52:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning Yahoo Finance Singapore"
     }
   ]
 }
