@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-25T11:01:22Z",
+  "updated_at": "2026-05-25T14:26:24Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 280,
-    "Ben Zhou": 27,
+    "Ben Zhou": 28,
+    "Brian Armstrong": 279,
     "CZ": 115,
     "Richard Teng": 59,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Bybit CEO at Goldman Sachs: Tokenization Will Reshape Trading ‘Faster Than Expected’",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBtMW4zeEphZ09obWdISjM3SnJkX0dOSmk0LTVGVjFFTF8wYThJSXd5RWpGUTBhMFNZazAwVHloLXFaeE05VkI0eHc2aHpDZEwzWVVSbF9tYkhtXzZWdEdLMThtb3E3VWpGbF9WcFJHb0oyR0xYQWgyNExsZU1ScUU?oc=5\" target=\"_blank\">Bybit CEO at Goldman Sachs: Tokenization Will Reshape Trading ‘Faster Than Expected’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tokenist</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtMW4zeEphZ09obWdISjM3SnJkX0dOSmk0LTVGVjFFTF8wYThJSXd5RWpGUTBhMFNZazAwVHloLXFaeE05VkI0eHc2aHpDZEwzWVVSbF9tYkhtXzZWdEdLMThtb3E3VWpGbF9WcFJHb0oyR0xYQWgyNExsZU1ScUU?oc=5",
+      "source": "Tokenist",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-05-25T11:50:23+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO at Goldman Sachs: Tokenization Will Reshape Trading ‘Faster Than Expected’ Tokenist"
+    },
     {
       "title": "Brian Armstrong: Blockchain Modernizing Financial Systems",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFVXVzNWOTNVUUJIb1NCamJ4aFFPVmVtVXVHUHZlVk1HcGVrNjZXN2N5RTZtVUZKVWg5dFFpMkhRc1lnSzl1M2xNTWZUNnhGWVdEWWhRTU04b2lwWW1MUDF4bUxfdmctdTV3ajV6V28xUFRhMm9wajY2U1Y3OExQeWg0TVN3VUhmSUxlRWt5QWhfSEZJd3c?oc=5\" target=\"_blank\">Brian Armstrong: Blockchain Modernizing Financial Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intellectia AI</font>",
@@ -6160,17 +6171,6 @@
       "published_at": "2026-03-21T00:52:00+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning Yahoo Finance Singapore"
-    },
-    {
-      "title": "Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHFaUkFKVXNtcGM5NEFpLXZPQ3NmMng5czZSbUN6WmJkS3ZPMjJpbDNqOG5JYm9MRm1EN0F6eVFoOXp0WlhDQkZJQ2JYdUg2clhMVk41T2I3S3NGbDhDY2VoYVJBejd0S0dSY2NDRWVla2JtQ0ZKNTk0VnZFQTZwdlZNUTlPZVRUV0pDVTBQb0tRQ2dMQ3E3UzhDRzlHVWRiMFJnQUFhX1UxQlM2N1gxZ0pvcw?oc=5\" target=\"_blank\">Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHFaUkFKVXNtcGM5NEFpLXZPQ3NmMng5czZSbUN6WmJkS3ZPMjJpbDNqOG5JYm9MRm1EN0F6eVFoOXp0WlhDQkZJQ2JYdUg2clhMVk41T2I3S3NGbDhDY2VoYVJBejd0S0dSY2NDRWVla2JtQ0ZKNTk0VnZFQTZwdlZNUTlPZVRUV0pDVTBQb0tRQ2dMQ3E3UzhDRzlHVWRiMFJnQUFhX1UxQlM2N1gxZ0pvcw?oc=5",
-      "source": "thestreet.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-20T21:52:20+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO offers bold fix after billionaire Ray Dalio’s dollar warning thestreet.com"
     }
   ]
 }
