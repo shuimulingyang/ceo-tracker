@@ -1,18 +1,40 @@
 {
-  "updated_at": "2026-05-25T18:20:19Z",
+  "updated_at": "2026-05-25T20:16:47Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 280,
+    "Brian Armstrong": 283,
     "Ben Zhou": 28,
-    "CZ": 114,
+    "CZ": 111,
     "Richard Teng": 59,
     "Star Xu": 19
   },
   "articles": [
     {
+      "title": "Coinbase CEO Says Financial Infrastructure Requires Reform Across Eight Key Areas",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9GYkx0LURidjZzOGUzcmxISHh4Q0tkUjZ1aHVHS05vSTZHVlNRZ0lyOXh0YlFuM1lSaGs2aW9IY2hraGVtLTRyZ2JmSjEwY0phald6U3NsTXRlUG1ESUZuajhjVnFhMEhwSXBobW4yOWVlWFJSQ0Q4?oc=5\" target=\"_blank\">Coinbase CEO Says Financial Infrastructure Requires Reform Across Eight Key Areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GYkx0LURidjZzOGUzcmxISHh4Q0tkUjZ1aHVHS05vSTZHVlNRZ0lyOXh0YlFuM1lSaGs2aW9IY2hraGVtLTRyZ2JmSjEwY0phald6U3NsTXRlUG1ESUZuajhjVnFhMEhwSXBobW4yOWVlWFJSQ0Q4?oc=5",
+      "source": "FinanceFeeds",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T16:59:42+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Says Financial Infrastructure Requires Reform Across Eight Key Areas FinanceFeeds"
+    },
+    {
       "title": "Brian Armstrong’s Plan to Fix Finance Or Just Crypto’s Same Old Song?",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPM2JLT0tUcHo2el9xOWV0MjdiWWVOTzE4VF8xNjF0dWdrci0zVDdCREhLaWJWdEVLSUx6TElsZW1TVjVOLUxnOGhKaVdGckFjT1dvOVV3LXd1dkNRUVhOWjZMWkdZQkxrY0lQQjNJbWdPWlU1aUNzT3BFNkk2ZWt2X1BCYW5wVmlUenR3ZDN2T1JuMXlKZ1F0X0R30gGfAUFVX3lxTFBuTGZiTHZxRHVsSWtGN1FfNFRpVjlWMnJ1bWZqaVQzVTJuT19aSHAyRkZ1eE9zbGd6TTN0dnBSWGc3WWNsdlM2NzczVnJ3Rl8xTlBGOTk2NDN4QkVkbUNhY0JpcFVnRndZN2J2YVBpZlJPS0pqRHM3LWVjakRNQlI0NW5SU1Y5YWpINjNZSHVRNnFKTHVNRUFiUG1GNWw3MA?oc=5\" target=\"_blank\">Brian Armstrong’s Plan to Fix Finance Or Just Crypto’s Same Old Song?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpedia</font>",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM2JLT0tUcHo2el9xOWV0MjdiWWVOTzE4VF8xNjF0dWdrci0zVDdCREhLaWJWdEVLSUx6TElsZW1TVjVOLUxnOGhKaVdGckFjT1dvOVV3LXd1dkNRUVhOWjZMWkdZQkxrY0lQQjNJbWdPWlU1aUNzT3BFNkk2ZWt2X1BCYW5wVmlUenR3ZDN2T1JuMXlKZ1F0X0R30gGfAUFVX3lxTFBuTGZiTHZxRHVsSWtGN1FfNFRpVjlWMnJ1bWZqaVQzVTJuT19aSHAyRkZ1eE9zbGd6TTN0dnBSWGc3WWNsdlM2NzczVnJ3Rl8xTlBGOTk2NDN4QkVkbUNhY0JpcFVnRndZN2J2YVBpZlJPS0pqRHM3LWVjakRNQlI0NW5SU1Y5YWpINjNZSHVRNnFKTHVNRUFiUG1GNWw3MA?oc=5",
+      "source": "Coinpedia",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T16:18:00+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong’s Plan to Fix Finance Or Just Crypto’s Same Old Song?"
+    },
+    {
+      "title": "Brian Armstrong’s Plan to Fix Finance Or Just Crypto’s Same Old Song?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPM2JLT0tUcHo2el9xOWV0MjdiWWVOTzE4VF8xNjF0dWdrci0zVDdCREhLaWJWdEVLSUx6TElsZW1TVjVOLUxnOGhKaVdGckFjT1dvOVV3LXd1dkNRUVhOWjZMWkdZQkxrY0lQQjNJbWdPWlU1aUNzT3BFNkk2ZWt2X1BCYW5wVmlUenR3ZDN2T1JuMXlKZ1F0X0R3?oc=5\" target=\"_blank\">Brian Armstrong’s Plan to Fix Finance Or Just Crypto’s Same Old Song?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpedia</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM2JLT0tUcHo2el9xOWV0MjdiWWVOTzE4VF8xNjF0dWdrci0zVDdCREhLaWJWdEVLSUx6TElsZW1TVjVOLUxnOGhKaVdGckFjT1dvOVV3LXd1dkNRUVhOWjZMWkdZQkxrY0lQQjNJbWdPWlU1aUNzT3BFNkk2ZWt2X1BCYW5wVmlUenR3ZDN2T1JuMXlKZ1F0X0R3?oc=5",
       "source": "Coinpedia",
       "ceo_name": "Brian Armstrong",
       "exchange": "Coinbase",
@@ -46,6 +68,17 @@
       "key_quote": "Brian Armstrong's wishlist for upgrading global finance aligns with the exchange's push into stocks, prediction markets and stablecoin payments, though some priorities remain aspirational."
     },
     {
+      "title": "Brian Armstrong Outlines 8 Key Changes Needed in Global Finance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3I1Q01UTGZGWVg3ekw4Nk1GMDdZU1lBaUNOUG5fOHkySVlfa2RfREtjZFVCaE9LSGYzT0JmeGpLWXo5U2RuYURaZGxzdW5ZN01DT0IxUVFJak9oR2FidGdTYXdEQjJwVExzdTJIbHpYajNuMnVNZk5fMGJKY052YWo2VnRjbHV5SS1JdHhaQVk5NGQtRE1XV0o5YjhzRzBCUlpn?oc=5\" target=\"_blank\">Brian Armstrong Outlines 8 Key Changes Needed in Global Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3I1Q01UTGZGWVg3ekw4Nk1GMDdZU1lBaUNOUG5fOHkySVlfa2RfREtjZFVCaE9LSGYzT0JmeGpLWXo5U2RuYURaZGxzdW5ZN01DT0IxUVFJak9oR2FidGdTYXdEQjJwVExzdTJIbHpYajNuMnVNZk5fMGJKY052YWo2VnRjbHV5SS1JdHhaQVk5NGQtRE1XV0o5YjhzRzBCUlpn?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T13:04:41+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong Outlines 8 Key Changes Needed in Global Finance CryptoRank"
+    },
+    {
       "title": "Bybit CEO at Goldman Sachs: Tokenization Will Reshape Trading ‘Faster Than Expected’",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBtMW4zeEphZ09obWdISjM3SnJkX0dOSmk0LTVGVjFFTF8wYThJSXd5RWpGUTBhMFNZazAwVHloLXFaeE05VkI0eHc2aHpDZEwzWVVSbF9tYkhtXzZWdEdLMThtb3E3VWpGbF9WcFJHb0oyR0xYQWgyNExsZU1ScUU?oc=5\" target=\"_blank\">Bybit CEO at Goldman Sachs: Tokenization Will Reshape Trading ‘Faster Than Expected’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tokenist</font>",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtMW4zeEphZ09obWdISjM3SnJkX0dOSmk0LTVGVjFFTF8wYThJSXd5RWpGUTBhMFNZazAwVHloLXFaeE05VkI0eHc2aHpDZEwzWVVSbF9tYkhtXzZWdEdLMThtb3E3VWpGbF9WcFJHb0oyR0xYQWgyNExsZU1ScUU?oc=5",
@@ -55,6 +88,19 @@
       "published_at": "2026-05-25T11:50:23+00:00",
       "tags": [],
       "key_quote": "Bybit CEO at Goldman Sachs: Tokenization Will Reshape Trading ‘Faster Than Expected’ Tokenist"
+    },
+    {
+      "title": "Coinbase to lay off 14% of workers as CEO Brian Armstrong restructures crypto exchange for AI efficiency",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1NFc3ViNkFOOVpNWi1Wci1UY0RjYmZVeVNvVjlDeklXU19rRlZIOGQ1RlRyVmx2b19SMnI4aGxxcHFTekc2ZlN0N0JPT1Z1Yzd1V2hqUnNnQnFfbjdWV25hTkVhOFM0ZUtJalF2V2VwcWhCNllNeklhYnpQbTFBVGN3UVM?oc=5\" target=\"_blank\">Coinbase to lay off 14% of workers as CEO Brian Armstrong restructures crypto exchange for AI efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1NFc3ViNkFOOVpNWi1Wci1UY0RjYmZVeVNvVjlDeklXU19rRlZIOGQ1RlRyVmx2b19SMnI4aGxxcHFTekc2ZlN0N0JPT1Z1Yzd1V2hqUnNnQnFfbjdWV25hTkVhOFM0ZUtJalF2V2VwcWhCNllNeklhYnpQbTFBVGN3UVM?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T09:35:27+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Coinbase to lay off 14% of workers as CEO Brian Armstrong restructures crypto exchange for AI efficiency AOL.com"
     },
     {
       "title": "Brian Armstrong: Blockchain Modernizing Financial Systems",
@@ -101,6 +147,17 @@
       "published_at": "2026-05-25T06:53:43+00:00",
       "tags": [],
       "key_quote": "Brian Armstrong says finance must move on-chain or fall behind Cryptonews.net"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Details Key Upgrades Needed for Traditional Finance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtWnZKVG1DVE9hMFdjdGVZVDY3Z1psNlNicmxfWENWMmswQW1ad3lUZVYxN18tYlRlSzNxOUd1b29jNEo4c2ctdA?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Details Key Upgrades Needed for Traditional Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtWnZKVG1DVE9hMFdjdGVZVDY3Z1psNlNicmxfWENWMmswQW1ad3lUZVYxN18tYlRlSzNxOUd1b29jNEo4c2ctdA?oc=5",
+      "source": "MEXC",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T06:52:39+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Details Key Upgrades Needed for Traditional Finance MEXC"
     },
     {
       "title": "Coinbase CEO Says Finance Needs Eight Major Upgrades to Go Fully On-Chain",
@@ -6106,69 +6163,6 @@
       "published_at": "2026-03-23T02:08:48+00:00",
       "tags": [],
       "key_quote": "Brian Armstrong says decentralized financial services are globally accessible Bitget"
-    },
-    {
-      "title": "US President Trump pardons convicted Binance founder Changpeng Zhao",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMizgJBVV95cUxOdTZrX0dRSElTak1mSnZ0cWFZNmxhT2dHbDZJdTN3VWZUNFZsRWVlUk9tTnlZdFEyNnM1a3IwWTN3VllSYWJ1QVd2VlRuRHlaQ0JZY2x2YUplZGUtNVJlQWlaeHFRUXZTdkJEU19QU3YwTk5Kdzgtei1CNmlFbldBYXVEMkFHYnJyYnZ6cWVXU0ZBY0xmeTFjSXpHNjNINUtOWXBNU1o2bjBYRzNTZFFHdmhOMVBtdVdxRXF4a2xla0tYUDRYV1R6UnBHYnpvZkNDVHE5ZHlFMjNyYmQxcS1FQ01hSFJNSG5iY2NQSlRueW45YjBHeWdjeHZrOGNvSEpWU2JyVTlOTDdSREJycklwOGViNkdmZlpXdndLM1pMak5pemlKcG5uQ20wZFFjU0U3ajVLUEhCVEhHQkFhakl0RlBlbFZOUlJtYmQ2dHVR?oc=5\" target=\"_blank\">US President Trump pardons convicted Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOdTZrX0dRSElTak1mSnZ0cWFZNmxhT2dHbDZJdTN3VWZUNFZsRWVlUk9tTnlZdFEyNnM1a3IwWTN3VllSYWJ1QVd2VlRuRHlaQ0JZY2x2YUplZGUtNVJlQWlaeHFRUXZTdkJEU19QU3YwTk5Kdzgtei1CNmlFbldBYXVEMkFHYnJyYnZ6cWVXU0ZBY0xmeTFjSXpHNjNINUtOWXBNU1o2bjBYRzNTZFFHdmhOMVBtdVdxRXF4a2xla0tYUDRYV1R6UnBHYnpvZkNDVHE5ZHlFMjNyYmQxcS1FQ01hSFJNSG5iY2NQSlRueW45YjBHeWdjeHZrOGNvSEpWU2JyVTlOTDdSREJycklwOGViNkdmZlpXdndLM1pMak5pemlKcG5uQ20wZFFjU0U3ajVLUEhCVEhHQkFhakl0RlBlbFZOUlJtYmQ2dHVR?oc=5",
-      "source": "MSN",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-22T22:46:45+00:00",
-      "tags": [
-        "ETF"
-      ],
-      "key_quote": "US President Trump pardons convicted Binance founder Changpeng Zhao MSN"
-    },
-    {
-      "title": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-AJBVV95cUxQODdrb2Vkc0NyRGN2aUgzZHB6WUREYTlrbTJ5bVE5dmU4SW4zU0tISFNaWUVRWUQ2SlNaNHkybXgxMUlmcmlhazJONkpwWmdlUkctNGFsQXZYZGZzempKQXZfMW5jYmtycnljSG1oQUduZTRPMDQyTjZkZE5nTk9Cb3Y1aWwzTm9sRHNLei1tdjVCcEc5VnBkWllSc3dnb2JPTGVpUmVoN2ZRUFBCYmVDMldsbkZXTXc3NWk4alpzQWZuVVRCazhyV2RkNTNibC16UkJjWWVKbUtTQWVCRTVncFNnQVdiRWkyTXpxblVhdEg0QlJ1RHVzX24tQUZId0tvdEh0dHI1ckhtXzBQLWZnUjBXQUNFTlpsU09PUHRQZ21zb2RQTHd3VlpJYmR3aGpBeHVGV1U1M2VyNmEzNm8yVy1RZVRfWTQtd3dxN3RBaGdkRmNtVEE3Qm1zelNDblJRSmt6NFFMLVdCQVFhLTVEMXJPR1lZWmRJ?oc=5\" target=\"_blank\">Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">msn.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQODdrb2Vkc0NyRGN2aUgzZHB6WUREYTlrbTJ5bVE5dmU4SW4zU0tISFNaWUVRWUQ2SlNaNHkybXgxMUlmcmlhazJONkpwWmdlUkctNGFsQXZYZGZzempKQXZfMW5jYmtycnljSG1oQUduZTRPMDQyTjZkZE5nTk9Cb3Y1aWwzTm9sRHNLei1tdjVCcEc5VnBkWllSc3dnb2JPTGVpUmVoN2ZRUFBCYmVDMldsbkZXTXc3NWk4alpzQWZuVVRCazhyV2RkNTNibC16UkJjWWVKbUtTQWVCRTVncFNnQVdiRWkyTXpxblVhdEg0QlJ1RHVzX24tQUZId0tvdEh0dHI1ckhtXzBQLWZnUjBXQUNFTlpsU09PUHRQZ21zb2RQTHd3VlpJYmR3aGpBeHVGV1U1M2VyNmEzNm8yVy1RZVRfWTQtd3dxN3RBaGdkRmNtVEE3Qm1zelNDblJRSmt6NFFMLVdCQVFhLTVEMXJPR1lZWmRJ?oc=5",
-      "source": "msn.com",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-22T19:01:23+00:00",
-      "tags": [
-        "Web3"
-      ],
-      "key_quote": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure msn.com"
-    },
-    {
-      "title": "Changpeng Zhao: Bitcoin and Major Cryptocurrencies Are Hard Assets",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KbEdNQnFQTXlqc3hYaEU1UjFobDFnXzA5M3RycGRtMzF6LURPcGRIZW5jQU5ESzhKdHR2Q25oSHA3akcySUtPMjgtYW0ySDkyTUFwUVBDT25TZndHTmJ0OTNtN0vSAWpBVV95cUxQZml0ODR2LWtEMUxVa0t5Q1BrbEtqeXJhZFEwTGZ5Q2VjQl93MGczZDMyT3l1RkhxZTY2UTJ4ZVNEOXJjYm52VFk4c0RGQWp5UDg1U2ZkT0tvb2tQOGdPdUFZUlhPV05McEtR?oc=5\" target=\"_blank\">Changpeng Zhao: Bitcoin and Major Cryptocurrencies Are Hard Assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KbEdNQnFQTXlqc3hYaEU1UjFobDFnXzA5M3RycGRtMzF6LURPcGRIZW5jQU5ESzhKdHR2Q25oSHA3akcySUtPMjgtYW0ySDkyTUFwUVBDT25TZndHTmJ0OTNtN0vSAWpBVV95cUxQZml0ODR2LWtEMUxVa0t5Q1BrbEtqeXJhZFEwTGZ5Q2VjQl93MGczZDMyT3l1RkhxZTY2UTJ4ZVNEOXJjYm52VFk4c0RGQWp5UDg1U2ZkT0tvb2tQOGdPdUFZUlhPV05McEtR?oc=5",
-      "source": "Bitget",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-22T13:52:10+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Changpeng Zhao: Bitcoin and Major Cryptocurrencies Are Hard Assets Bitget"
-    },
-    {
-      "title": "Brian Armstrong says decentralized financial services are globally accessible",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fdGpTN21mR2hRclF1Z3RCQ1RVc0RYUnZMN1k4dW5TUmpWUHd2ZndIQkJjRVA3SThBOXlQNUo0XzJjdWVMNXpPMDJPQU1VdEFsZF9IZGxlSTIwSzdLY2fSAWNBVV95cUxOc1BqUjdHS0tKTmVMY25jQWlpR1hNNEoyNVg3Q08tcmhQT3YwRnhHa3JmSTVXOGliazA5UzVwSmNELWFXT2tSc05BOWpqZVhZZEVIMlVIMUdzUDQwQVNCTHRuRkU?oc=5\" target=\"_blank\">Brian Armstrong says decentralized financial services are globally accessible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fdGpTN21mR2hRclF1Z3RCQ1RVc0RYUnZMN1k4dW5TUmpWUHd2ZndIQkJjRVA3SThBOXlQNUo0XzJjdWVMNXpPMDJPQU1VdEFsZF9IZGxlSTIwSzdLY2fSAWNBVV95cUxOc1BqUjdHS0tKTmVMY25jQWlpR1hNNEoyNVg3Q08tcmhQT3YwRnhHa3JmSTVXOGliazA5UzVwSmNELWFXT2tSc05BOWpqZVhZZEVIMlVIMUdzUDQwQVNCTHRuRkU?oc=5",
-      "source": "Bitget",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-22T11:03:36+00:00",
-      "tags": [],
-      "key_quote": "Brian Armstrong says decentralized financial services are globally accessible Bitget"
-    },
-    {
-      "title": "BREAKING: Coinbase CEO Brian Armstrong believes Bitcoin co",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9COXNpYUMwSHZuc3NvTktiQnZBaWMybmZPSXRSMnNaYWpNaS1USGhLZThfRHpIbTBIbXlfMEd3MlJ4c2VxYk9EcEc2Zm1POVB3eGpyMjRRc0QtamVHU1otS1F0WG9fQUlXdFNrcEhRMmxvdw?oc=5\" target=\"_blank\">BREAKING: Coinbase CEO Brian Armstrong believes Bitcoin co</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9COXNpYUMwSHZuc3NvTktiQnZBaWMybmZPSXRSMnNaYWpNaS1USGhLZThfRHpIbTBIbXlfMEd3MlJ4c2VxYk9EcEc2Zm1POVB3eGpyMjRRc0QtamVHU1otS1F0WG9fQUlXdFNrcEhRMmxvdw?oc=5",
-      "source": "KuCoin",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-21T19:59:57+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "BREAKING: Coinbase CEO Brian Armstrong believes Bitcoin co KuCoin"
     }
   ]
 }
