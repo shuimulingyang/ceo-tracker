@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-26T00:00:48Z",
+  "updated_at": "2026-05-26T04:54:16Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 283,
+    "Brian Armstrong": 284,
     "Ben Zhou": 28,
-    "CZ": 111,
+    "CZ": 110,
     "Richard Teng": 59,
     "Star Xu": 19
   },
@@ -21,6 +21,17 @@
         "机构 Institutional"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Says Tokenization of RWAs May Streamline Real Estate, Stocks Trading Crowdfund Insider"
+    },
+    {
+      "title": "Coinbase CEO Reveals 8 Changes That Could Change Global Finance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3BhckN3MVFOWGhoU0pEWDVwb3ZtY21hR1h5Q1lxQkFSZHdTdkFTY25PcWN6dk9vU18yZERnRG9DZG1BODFjSXZrc2ExRWJreW9uM1F6SDVqTHk0TFEtbGRrRnY1NjBUbHJNR0tFSWpBX3Z3OTJRbW5ENkRBMExGMXVpc0FzWkk1blJ1a3MwMVpSLVZJdFpKcU5BZ1V5Q0Vzc05CNmF1ZmxQMG_SAbABQVVfeXFMT1V6aDRrdVZRMUFWX1psLXE4ZjBZTm94N0Q2N19kbkVIQzJoaUg1dFo2ZGloNE1JVUg5YWgwTnFvTElfZ1JkUGl4QlVETVVTNFk5ZFdDYXhaeEFkWkFQcTFRQVl1TXFfRl9SMWl0Zi1hS08wajVFMVRrZTRHenI0OUxBcy1BMzdKOXRqbUlVc0F3eVRiS0RlV1k3TGg2WDJ3Y0ZaRDBtT3pFMks2Mm56bEY?oc=5\" target=\"_blank\">Coinbase CEO Reveals 8 Changes That Could Change Global Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Coin Republic</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3BhckN3MVFOWGhoU0pEWDVwb3ZtY21hR1h5Q1lxQkFSZHdTdkFTY25PcWN6dk9vU18yZERnRG9DZG1BODFjSXZrc2ExRWJreW9uM1F6SDVqTHk0TFEtbGRrRnY1NjBUbHJNR0tFSWpBX3Z3OTJRbW5ENkRBMExGMXVpc0FzWkk1blJ1a3MwMVpSLVZJdFpKcU5BZ1V5Q0Vzc05CNmF1ZmxQMG_SAbABQVVfeXFMT1V6aDRrdVZRMUFWX1psLXE4ZjBZTm94N0Q2N19kbkVIQzJoaUg1dFo2ZGloNE1JVUg5YWgwTnFvTElfZ1JkUGl4QlVETVVTNFk5ZFdDYXhaeEFkWkFQcTFRQVl1TXFfRl9SMWl0Zi1hS08wajVFMVRrZTRHenI0OUxBcy1BMzdKOXRqbUlVc0F3eVRiS0RlV1k3TGg2WDJ3Y0ZaRDBtT3pFMks2Mm56bEY?oc=5",
+      "source": "The Coin Republic",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T19:00:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Reveals 8 Changes That Could Change Global Finance The Coin Republic"
     },
     {
       "title": "Coinbase CEO Says Financial Infrastructure Requires Reform Across Eight Key Areas",
@@ -6152,19 +6163,6 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative CryptoRank"
-    },
-    {
-      "title": "Changpeng Zhao: Bitcoin is a hard asset",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qcEdPYlEwVWFpSXYweEx4OFBhNnBhSzZhY2x2UzQydHliSjJydGNWWEtsQ1dIRHRmMFRLa3kwT3VZQ2lYLVpSOE1GUjI?oc=5\" target=\"_blank\">Changpeng Zhao: Bitcoin is a hard asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">코인니스</font>",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qcEdPYlEwVWFpSXYweEx4OFBhNnBhSzZhY2x2UzQydHliSjJydGNWWEtsQ1dIRHRmMFRLa3kwT3VZQ2lYLVpSOE1GUjI?oc=5",
-      "source": "코인니스",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-23T05:05:05+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Changpeng Zhao: Bitcoin is a hard asset 코인니스"
     }
   ]
 }
