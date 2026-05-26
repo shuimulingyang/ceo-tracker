@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-26T04:54:16Z",
+  "updated_at": "2026-05-26T08:24:08Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 284,
+    "Brian Armstrong": 285,
     "Ben Zhou": 28,
-    "CZ": 110,
+    "CZ": 109,
     "Richard Teng": 59,
     "Star Xu": 19
   },
@@ -21,6 +21,19 @@
         "机构 Institutional"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Says Tokenization of RWAs May Streamline Real Estate, Stocks Trading Crowdfund Insider"
+    },
+    {
+      "title": "Coinbase CEO Reveals What Still Needs to Change Before Finance Truly Evolves",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGswdnh4dE5tY1k5M3VLaTN0c0k0QWVNaHd0S0kxSlEzaEdKTmcySlNvbmktZkV2cDYxMURhbE5UN0tnRlBSX2JULURvSGxSNEQ5Um9IS0llMW42Sl9zOHN5aFliNDM2b05BREtqQUFRS201dFFJUEVHaUg0VUpwTFBfdlFEWGk3RTFIRlNHLTgyQXhsQ0FvTm00b0RPR0FrQ1d6YTFQbEF1a1FxdlNrTldKeDA?oc=5\" target=\"_blank\">Coinbase CEO Reveals What Still Needs to Change Before Finance Truly Evolves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGswdnh4dE5tY1k5M3VLaTN0c0k0QWVNaHd0S0kxSlEzaEdKTmcySlNvbmktZkV2cDYxMURhbE5UN0tnRlBSX2JULURvSGxSNEQ5Um9IS0llMW42Sl9zOHN5aFliNDM2b05BREtqQUFRS201dFFJUEVHaUg0VUpwTFBfdlFEWGk3RTFIRlNHLTgyQXhsQ0FvTm00b0RPR0FrQ1d6YTFQbEF1a1FxdlNrTldKeDA?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T20:43:42+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO Reveals What Still Needs to Change Before Finance Truly Evolves CryptoRank"
     },
     {
       "title": "Coinbase CEO Reveals 8 Changes That Could Change Global Finance",
@@ -6150,19 +6163,6 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative mexc.co"
-    },
-    {
-      "title": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBrblo4ZEozUFAwYXhheHlpbUhhNEJyRDQtQVFlR3dTaDNlQTI4NllVS0ZpV3FNekpDQkF2SE9XRThEYUVhZGJTaFhTbzRFalNBV1hkMHBOYjkyaFlSVkN5U2V1a0hrZ1N1aEtOQUVsRnAzczlIWEdSbXdZNA?oc=5\" target=\"_blank\">Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrblo4ZEozUFAwYXhheHlpbUhhNEJyRDQtQVFlR3dTaDNlQTI4NllVS0ZpV3FNekpDQkF2SE9XRThEYUVhZGJTaFhTbzRFalNBV1hkMHBOYjkyaFlSVkN5U2V1a0hrZ1N1aEtOQUVsRnAzczlIWEdSbXdZNA?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-23T05:51:57+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Bitcoin is a Hard Asset: Changpeng Zhao’s Crucial Declaration Reshapes Crypto Narrative CryptoRank"
     }
   ]
 }
