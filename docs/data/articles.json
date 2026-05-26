@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-26T19:49:51Z",
+  "updated_at": "2026-05-26T21:24:15Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 287,
-    "CZ": 107,
+    "CZ": 106,
     "Ben Zhou": 28,
-    "Richard Teng": 59,
+    "Richard Teng": 60,
     "Star Xu": 19
   },
   "articles": [
@@ -494,6 +494,17 @@
       "published_at": "2026-05-22T14:02:44+00:00",
       "tags": [],
       "key_quote": "WSJ reported Iranian financier Babak Zanjani allegedly moved $850 million through Binance, which CEO Richard Teng said was mischaracterized."
+    },
+    {
+      "title": "Binance Under Fire: CEO Richard Teng Rejects WSJ Claims on Sanctions",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUWGhWQnVvQWNjRnR3OVp3NEk5bTgwYV9lUEVVMTZqOE40aUc5TUhpNnVKNWRNTEJuTUdMRTZzb2Vvd2piZy1TTDJqLVlVSG1UTW52RnU2NThKQmdqakVaaWJvdmhvcWRR?oc=5\" target=\"_blank\">Binance Under Fire: CEO Richard Teng Rejects WSJ Claims on Sanctions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUWGhWQnVvQWNjRnR3OVp3NEk5bTgwYV9lUEVVMTZqOE40aUc5TUhpNnVKNWRNTEJuTUdMRTZzb2Vvd2piZy1TTDJqLVlVSG1UTW52RnU2NThKQmdqakVaaWJvdmhvcWRR?oc=5",
+      "source": "Binance",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-05-22T07:40:51+00:00",
+      "tags": [],
+      "key_quote": "Binance Under Fire: CEO Richard Teng Rejects WSJ Claims on Sanctions Binance"
     },
     {
       "title": "Stolen Bitcoin Worth $16 Million Laundered Through Wasabi Mixer, Says Bybit CEO",
@@ -6151,19 +6162,6 @@
         "机构 Institutional"
       ],
       "key_quote": "Coinbase CEO and BlackRock CEO Align on Tokenization Potential for BTC, ETH, SOL blockchain.news"
-    },
-    {
-      "title": "Changpeng Zhao Defends Bitcoin as Hard Asset on X",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1leWtQd3lGT1J3Yy01RkZCcnJaZjNGdUEwSmdYYTIxc2dIdGQzdjBxcFZEMTVhUWFLRWxyR3p2WGRUUUExT2MxLTFTejJtZG5YZFhLb0ZlWVNrTGluMjRmX0dFeUNFdVAwMVUwYTFCMVdwQzJlaWF1Z1RBNXdiNDg?oc=5\" target=\"_blank\">Changpeng Zhao Defends Bitcoin as Hard Asset on X</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1leWtQd3lGT1J3Yy01RkZCcnJaZjNGdUEwSmdYYTIxc2dIdGQzdjBxcFZEMTVhUWFLRWxyR3p2WGRUUUExT2MxLTFTejJtZG5YZFhLb0ZlWVNrTGluMjRmX0dFeUNFdVAwMVUwYTFCMVdwQzJlaWF1Z1RBNXdiNDg?oc=5",
-      "source": "CoinCentral",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-23T16:19:09+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Changpeng Zhao Defends Bitcoin as Hard Asset on X CoinCentral"
     }
   ]
 }
