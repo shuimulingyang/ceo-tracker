@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-27T21:41:00Z",
+  "updated_at": "2026-05-27T23:06:08Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 108,
-    "Brian Armstrong": 285,
+    "CZ": 107,
+    "Brian Armstrong": 286,
     "Ben Zhou": 28,
     "Richard Teng": 60,
     "Star Xu": 19
@@ -273,6 +273,17 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Bybit CEO sees AI, stablecoins reshaping finance Tech in Asia"
+    },
+    {
+      "title": "Brian Armstrong says finance must move on-chain or fall behind",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE00WjVZQlVKckxHT2FKWTkyYVIySUc4SmkwSW9nUE5JY2tiUFlSaExYQ0RVLUJFYUtEdXRBS2FZYXVSUGFNdXNLWUhxWUlTSmhjbkVWWW1ZdzhJMEs3a09rTE5ESHpTd2d2bk1LazZ1dFl5a2tFaHI0REhKOA?oc=5\" target=\"_blank\">Brian Armstrong says finance must move on-chain or fall behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00WjVZQlVKckxHT2FKWTkyYVIySUc4SmkwSW9nUE5JY2tiUFlSaExYQ0RVLUJFYUtEdXRBS2FZYXVSUGFNdXNLWUhxWUlTSmhjbkVWWW1ZdzhJMEs3a09rTE5ESHpTd2d2bk1LazZ1dFl5a2tFaHI0REhKOA?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong says finance must move on-chain or fall behind Cryptonews.net"
     },
     {
       "title": "Brian Armstrong says finance must move on-chain or fall behind",
@@ -6146,19 +6157,6 @@
         "安全 Security"
       ],
       "key_quote": "Changpeng Zhao: Anyone offering Binance listing help is likely a scammer Traders Union"
-    },
-    {
-      "title": "Changpeng Zhao (CZ): Binance Founder, Legal Case & Crypto Impact 2026",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qc0JSWk9xaEU2QWRhSmg5bE5ZTjl4YlNZUmZiMXd2RW5pUnJiS2N4c0FNMlNoblZTVXkyQVBwalNnRmxaYlpmdHd0NmhzZTBKWS1TYmxJVU3SAV5BVV95cUxPTkpyVEhfV0JTRlpwLWN0aEt1clkyT1IwdGVRTWp1WHNIQ3A1ZktIakd2ZWJBLU8zRkpGYkkwRlZoQmRtdkY2bG5GM3JfT0hPa1IyWlRpTFpwVFF6UVRn?oc=5\" target=\"_blank\">Changpeng Zhao (CZ): Binance Founder, Legal Case & Crypto Impact 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qc0JSWk9xaEU2QWRhSmg5bE5ZTjl4YlNZUmZiMXd2RW5pUnJiS2N4c0FNMlNoblZTVXkyQVBwalNnRmxaYlpmdHd0NmhzZTBKWS1TYmxJVU3SAV5BVV95cUxPTkpyVEhfV0JTRlpwLWN0aEt1clkyT1IwdGVRTWp1WHNIQ3A1ZktIakd2ZWJBLU8zRkpGYkkwRlZoQmRtdkY2bG5GM3JfT0hPa1IyWlRpTFpwVFF6UVRn?oc=5",
-      "source": "Bitget",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-25T02:08:55+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Changpeng Zhao (CZ): Binance Founder, Legal Case & Crypto Impact 2026 Bitget"
     }
   ]
 }
