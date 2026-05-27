@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-27T03:44:28Z",
+  "updated_at": "2026-05-27T07:53:19Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 286,
-    "CZ": 107,
+    "CZ": 108,
+    "Brian Armstrong": 285,
     "Ben Zhou": 28,
     "Richard Teng": 60,
     "Star Xu": 19
   },
   "articles": [
+    {
+      "title": "Trump pardons convicted Binance founder Changpeng Zhao, White House official says",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNFN2NXV5M3pta3JJTG1ubW1jdmhJN0U0a1RpSWpaZDVORFhiTVpscUxXdUhEUVYyMC04Y05RcWgzRGhXYUdwd2s2TDZlWXZvVGRrS3VYR3hncWJMTWc0OFhjN1l5NUR3elYtMWJOZXlfdFpJczBhRjdsM2JDQno4US1jTjhVdTRGeEcxUFdZWE1vN21CeGFtcENWYmprUDRDcEFNMHBFYWpBSnFEbms1ZG1McDVSdVh4blRiczZJQzZucjM2QU5LeDBQdTR4dElMTFNKYUJuZ1c?oc=5\" target=\"_blank\">Trump pardons convicted Binance founder Changpeng Zhao, White House official says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNFN2NXV5M3pta3JJTG1ubW1jdmhJN0U0a1RpSWpaZDVORFhiTVpscUxXdUhEUVYyMC04Y05RcWgzRGhXYUdwd2s2TDZlWXZvVGRrS3VYR3hncWJMTWc0OFhjN1l5NUR3elYtMWJOZXlfdFpJczBhRjdsM2JDQno4US1jTjhVdTRGeEcxUFdZWE1vN21CeGFtcENWYmprUDRDcEFNMHBFYWpBSnFEbms1ZG1McDVSdVh4blRiczZJQzZucjM2QU5LeDBQdTR4dElMTFNKYUJuZ1c?oc=5",
+      "source": "MSN",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-26T21:32:24+00:00",
+      "tags": [],
+      "key_quote": "Trump pardons convicted Binance founder Changpeng Zhao, White House official says MSN"
+    },
     {
       "title": "Coinbase CEO Advocates RWA Tokenization Amid SEC Delays",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxORkJqTDgwQVY5WFBBYWdlaTJsVFhCY2FIUWtJeHJFQzQyc3ViSWMwQ1lCaUM5V25aVjBoemdlcERxdWQ1c3A2d19uZ3l0WmlIR2twdnQySFpNT01sZGl6QW9qeEhhX2dlWGNhWHNZV2M3bUpnMEpsZjdfM1BVdjMxT1UyenNZamgxZ2VwNDE5LUJSSTQ?oc=5\" target=\"_blank\">Coinbase CEO Advocates RWA Tokenization Amid SEC Delays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
@@ -48,6 +59,20 @@
         "Layer2"
       ],
       "key_quote": "Coinbase CEO Flags Huge Finance Shift As SEC Delays Blockchain Plans TradingView"
+    },
+    {
+      "title": "Coinbase CEO Flags Huge Finance Shift As SEC Delays Blockchain Plans",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaldaTmd4MXY4aWhFMW9vcFFhZERMUkl3eTFzaTNpV1BSa09LcW1OOGdfdEE1MXBQc0FWendCODFpVzBFX1Q4NHN5bEd5ckVPUDhNQmQ0anM3QTFEckowVGlLQmVCTkpXOWp2Y2E2eHl4VG0zV21NLTJPYk5ScldqdnMtVnlITXgtRTJwWmh1c3R0aGdwN2I2T185dGg?oc=5\" target=\"_blank\">Coinbase CEO Flags Huge Finance Shift As SEC Delays Blockchain Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaldaTmd4MXY4aWhFMW9vcFFhZERMUkl3eTFzaTNpV1BSa09LcW1OOGdfdEE1MXBQc0FWendCODFpVzBFX1Q4NHN5bEd5ckVPUDhNQmQ0anM3QTFEckowVGlLQmVCTkpXOWp2Y2E2eHl4VG0zV21NLTJPYk5ScldqdnMtVnlITXgtRTJwWmh1c3R0aGdwN2I2T185dGg?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-26T13:29:08+00:00",
+      "tags": [
+        "监管 Regulation",
+        "ETF"
+      ],
+      "key_quote": "Coinbase CEO Flags Huge Finance Shift As SEC Delays Blockchain Plans Yahoo Finance"
     },
     {
       "title": "Brian Armstrong Lists 8 Ways Finance Still Needs 'An Update' And Crypto Is At The Center",
@@ -6134,30 +6159,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Changpeng Zhao (CZ): Binance Founder, Legal Case & Crypto Impact 2026 Bitget"
-    },
-    {
-      "title": "Brian Armstrong Has Not Commented on the New CLARITY Act Text. His Previous Positions Tell the Story.",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUp5WlhZb0psaVhjeWF3aGdHWkRJNndNOEJRMDNiZ0JiUGdkRWNURHpVaG1IcFFjclQxNU8za0pHaG5JYnlOTTVYNHpSeUFqOXZBTnI2b1U0TEpRUjlwZzNxTDlCeEYycUFHYVV3WVI5MmFmX2ZHeHFxUWl2OHB1SlNQbjhoVjJKa2RKSm90Ui1UN3E1OFFBcQ?oc=5\" target=\"_blank\">Brian Armstrong Has Not Commented on the New CLARITY Act Text. His Previous Positions Tell the Story.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinTech Weekly</font>",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUp5WlhZb0psaVhjeWF3aGdHWkRJNndNOEJRMDNiZ0JiUGdkRWNURHpVaG1IcFFjclQxNU8za0pHaG5JYnlOTTVYNHpSeUFqOXZBTnI2b1U0TEpRUjlwZzNxTDlCeEYycUFHYVV3WVI5MmFmX2ZHeHFxUWl2OHB1SlNQbjhoVjJKa2RKSm90Ui1UN3E1OFFBcQ?oc=5",
-      "source": "FinTech Weekly",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-24T16:18:00+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Brian Armstrong Has Not Commented on the New CLARITY Act Text."
-    },
-    {
-      "title": "Coinbase CEO Reveals Why Silk Road Brownies Became an Early Crypto Test",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUZGWGt1UHRDek9nbzVWWmtRTVJpWkhvOHZIaFRfVzNHX2FITGNrUVloSDRVQkVEaFgxMzA1Y1RQX2tlTHZDTW9CRTFrZ2ZrS0RpUkR6WnMwQVhPalhJT0JhZThGMlJoUWlZSm84bmhnN0FLSW1hRjJhSUF0YzlUZElaclU5M1FwNWZtNF95aHRrQUU4b1Q4LUljRW91Sk14cDUzQnpGbnVQMFlfTHRjOWdBWXlNd9IBuwFBVV95cUxQOFZfeEJjSW5ocG9UWEp1QVlOaHVWclBjeWV6WGxoMHZtdnFQd04zc1lPSW9rdVlkNlFDcHVTcjRCOGdEeGVwaE5DSDc3akdNXzVQcWp4aENGZ1B6WWFFdThYY25vNzdZRFI4bzhCNEhJSjh3NlBEeXlIMmdWdGw3TkZTZ2QzRjNqaXhLa1lHM1hVWDctTFpLMklpbm9jV2xPMDdsR1FER0hTMUVvOXctek1xdjZGaWJTeE5r?oc=5\" target=\"_blank\">Coinbase CEO Reveals Why Silk Road Brownies Became an Early Crypto Test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Coin Republic</font>",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUZGWGt1UHRDek9nbzVWWmtRTVJpWkhvOHZIaFRfVzNHX2FITGNrUVloSDRVQkVEaFgxMzA1Y1RQX2tlTHZDTW9CRTFrZ2ZrS0RpUkR6WnMwQVhPalhJT0JhZThGMlJoUWlZSm84bmhnN0FLSW1hRjJhSUF0YzlUZElaclU5M1FwNWZtNF95aHRrQUU4b1Q4LUljRW91Sk14cDUzQnpGbnVQMFlfTHRjOWdBWXlNd9IBuwFBVV95cUxQOFZfeEJjSW5ocG9UWEp1QVlOaHVWclBjeWV6WGxoMHZtdnFQd04zc1lPSW9rdVlkNlFDcHVTcjRCOGdEeGVwaE5DSDc3akdNXzVQcWp4aENGZ1B6WWFFdThYY25vNzdZRFI4bzhCNEhJSjh3NlBEeXlIMmdWdGw3TkZTZ2QzRjNqaXhLa1lHM1hVWDctTFpLMklpbm9jV2xPMDdsR1FER0hTMUVvOXctek1xdjZGaWJTeE5r?oc=5",
-      "source": "The Coin Republic",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-24T13:02:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Reveals Why Silk Road Brownies Became an Early Crypto Test The Coin Republic"
     }
   ]
 }
