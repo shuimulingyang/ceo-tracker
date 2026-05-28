@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-28T12:57:58Z",
+  "updated_at": "2026-05-28T16:49:59Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 288,
-    "Star Xu": 21,
-    "CZ": 104,
+    "Star Xu": 22,
+    "CZ": 103,
     "Ben Zhou": 28,
     "Richard Teng": 59
   },
@@ -52,6 +52,19 @@
       "ceo_name": "Star Xu",
       "exchange": "OKX",
       "published_at": "2026-05-28T04:52:30+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "OKX CEO Says AI Raises The Bar For Talent Instead Of Replacing It Crypto Adventure"
+    },
+    {
+      "title": "OKX CEO Says AI Raises The Bar For Talent Instead Of Replacing It",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNX296S2t5eTlmMnB3WUg4UGVQVV9VRE1jVFJVQnhQdWRxa3dGYWJ4R2E1QzhlWTZON0phVE84YWxwelJLeGQtSVRvdDNVOC12REtKSm9FQ3JmVG0yQkpsRDV3eFBWcUdBaUNSSmZ4QkkxTmFXTjR6ZWY3dTlUTm9JQWJUaHFaRTBNRERSZDZNMDYtbGV6VzgyLQ?oc=5\" target=\"_blank\">OKX CEO Says AI Raises The Bar For Talent Instead Of Replacing It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Adventure</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX296S2t5eTlmMnB3WUg4UGVQVV9VRE1jVFJVQnhQdWRxa3dGYWJ4R2E1QzhlWTZON0phVE84YWxwelJLeGQtSVRvdDNVOC12REtKSm9FQ3JmVG0yQkpsRDV3eFBWcUdBaUNSSmZ4QkkxTmFXTjR6ZWY3dTlUTm9JQWJUaHFaRTBNRERSZDZNMDYtbGV6VzgyLQ?oc=5",
+      "source": "Crypto Adventure",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-05-28T04:44:51+00:00",
       "tags": [
         "AI"
       ],
@@ -6141,19 +6154,6 @@
         "安全 Security"
       ],
       "key_quote": "Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams mexc.co"
-    },
-    {
-      "title": "Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrQ3ZOT1Nnd3RFWUhmVXlMMEowbE52Nkp4eXBSRXdIWDFWNEg5ODE4R1BOa1dVY0lqYjVpVVFwZ0xnZFI5Ukw0?oc=5\" target=\"_blank\">Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrQ3ZOT1Nnd3RFWUhmVXlMMEowbE52Nkp4eXBSRXdIWDFWNEg5ODE4R1BOa1dVY0lqYjVpVVFwZ0xnZFI5Ukw0?oc=5",
-      "source": "MEXC",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-25T07:59:05+00:00",
-      "tags": [
-        "安全 Security"
-      ],
-      "key_quote": "Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams MEXC"
     }
   ]
 }
