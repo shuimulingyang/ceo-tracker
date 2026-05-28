@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-28T16:49:59Z",
+  "updated_at": "2026-05-28T19:31:14Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 288,
+    "Brian Armstrong": 289,
     "Star Xu": 22,
-    "CZ": 103,
+    "CZ": 102,
     "Ben Zhou": 28,
     "Richard Teng": 59
   },
@@ -429,6 +429,17 @@
         "Layer2"
       ],
       "key_quote": "Bitcoin Will 'Never Die' And There's No 'Need' To Panic Post Draws Crypto Billionaire Changpeng Zhao's At Benzinga"
+    },
+    {
+      "title": "Brian Armstrong says finance must move on-chain or fall behind",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPclprRVhlLVRnTlNNUDZtLU5wR2RSYzhwa0tRM2JNUmpYS0UtRE5feUUyeDEtZVRkeU0xTHV2b19PYXRpR2dGUEsxV1NWYkhta0VURDR2STF4S2w3Zlllb2E2OEx6LXU4VnhubDlMN1lBbFVJQlQ4MFpoV0Fma3YzTEN0aXVLSUl6dE5v?oc=5\" target=\"_blank\">Brian Armstrong says finance must move on-chain or fall behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPclprRVhlLVRnTlNNUDZtLU5wR2RSYzhwa0tRM2JNUmpYS0UtRE5feUUyeDEtZVRkeU0xTHV2b19PYXRpR2dGUEsxV1NWYkhta0VURDR2STF4S2w3Zlllb2E2OEx6LXU4VnhubDlMN1lBbFVJQlQ4MFpoV0Fma3YzTEN0aXVLSUl6dE5v?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-25T06:33:00+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong says finance must move on-chain or fall behind crypto.news"
     },
     {
       "title": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026",
@@ -6141,19 +6152,6 @@
         "市场 Market"
       ],
       "key_quote": "Brian Armstrong Drops Bullish Signal on Banks and Crypto Shift Live Bitcoin News"
-    },
-    {
-      "title": "Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE53QnA1ZGJhT0dYbzBKZjFwd1lQc2xsUDFlbWJZN2tHbnZtRTRuUHJvRTRCUHZsQmhwbFdBRDRVNnFxUEljTkE?oc=5\" target=\"_blank\">Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mexc.co</font>",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE53QnA1ZGJhT0dYbzBKZjFwd1lQc2xsUDFlbWJZN2tHbnZtRTRuUHJvRTRCUHZsQmhwbFdBRDRVNnFxUEljTkE?oc=5",
-      "source": "mexc.co",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-25T09:13:52+00:00",
-      "tags": [
-        "安全 Security"
-      ],
-      "key_quote": "Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams mexc.co"
     }
   ]
 }
