@@ -1,14 +1,53 @@
 {
-  "updated_at": "2026-05-28T01:30:52Z",
+  "updated_at": "2026-05-28T05:57:17Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 107,
-    "Brian Armstrong": 286,
+    "Star Xu": 21,
+    "Brian Armstrong": 287,
+    "CZ": 105,
     "Ben Zhou": 28,
-    "Richard Teng": 60,
-    "Star Xu": 19
+    "Richard Teng": 59
   },
   "articles": [
+    {
+      "title": "OKX CEO: AI Raises Talent Standards Instead of Replacing Workers",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjBZNGFJay1YREZSTUNybkNXZV9wQnN1SEs0MnFmN0UwTDc4U2NWTlQxc3VqWEl6RHQ5cmhnT2xSckNMaUE4cnhUb0hlV2JQZWNjeVNmQ0tKeGdYSVlLNnNaamI3eXg5Ylhpcy15cEVTcm90MDlFRnhwd0xHRHBRN2ZzUldfbU1EbGlnYlB6NFpUNVZPUTdQMC14YzJUcE0?oc=5\" target=\"_blank\">OKX CEO: AI Raises Talent Standards Instead of Replacing Workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intellectia AI</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjBZNGFJay1YREZSTUNybkNXZV9wQnN1SEs0MnFmN0UwTDc4U2NWTlQxc3VqWEl6RHQ5cmhnT2xSckNMaUE4cnhUb0hlV2JQZWNjeVNmQ0tKeGdYSVlLNnNaamI3eXg5Ylhpcy15cEVTcm90MDlFRnhwd0xHRHBRN2ZzUldfbU1EbGlnYlB6NFpUNVZPUTdQMC14YzJUcE0?oc=5",
+      "source": "Intellectia AI",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-05-28T05:11:20+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "OKX CEO: AI Raises Talent Standards Instead of Replacing Workers Intellectia AI"
+    },
+    {
+      "title": "OKX CEO Says AI Raises The Bar For Talent Instead Of Replacing It",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1U1NVVLTXM2eWptRzVDN0lvc2Fva1NETWJvSGkzNjVIdW9RUDB6X29aV3Vha2hKOWE3NHpLZnZPcE05X0gyOWZ4VU1BOHFLU3RJLWZQN3RjVVhjWnk2T1A1NTZjY1lnelFIcHhjWkRJaTF0eXJvSERmVlVzYWF0WWZsU2x3NjBZVkZvWHd0ZUdkaXVOdXFqZkJB?oc=5\" target=\"_blank\">OKX CEO Says AI Raises The Bar For Talent Instead Of Replacing It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Adventure</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1U1NVVLTXM2eWptRzVDN0lvc2Fva1NETWJvSGkzNjVIdW9RUDB6X29aV3Vha2hKOWE3NHpLZnZPcE05X0gyOWZ4VU1BOHFLU3RJLWZQN3RjVVhjWnk2T1A1NTZjY1lnelFIcHhjWkRJaTF0eXJvSERmVlVzYWF0WWZsU2x3NjBZVkZvWHd0ZUdkaXVOdXFqZkJB?oc=5",
+      "source": "Crypto Adventure",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-05-28T04:52:30+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "OKX CEO Says AI Raises The Bar For Talent Instead Of Replacing It Crypto Adventure"
+    },
+    {
+      "title": "Brian Armstrong Lists 8 Ways Finance Still Needs 'An Update' And Crypto Is At The Center",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGgxM2k4eXhoTml2bGhSbUN5dlh4Z3Q0RjZrT0cwWklycHNNaWFCRGwxQUNMY2FLRWdyN2hiWFFHVW5sY3c4SkxzWldZaWFCMV91c2V1MjNyV2lnSmY5dWp4V3hhUkpsbmo1Ti01aFU5dV9yNjRYZHhnSG9XRnZCSTJUdjZKYmQzeTVYVUY0V2pwUzJOQXFKVw?oc=5\" target=\"_blank\">Brian Armstrong Lists 8 Ways Finance Still Needs 'An Update' And Crypto Is At The Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGgxM2k4eXhoTml2bGhSbUN5dlh4Z3Q0RjZrT0cwWklycHNNaWFCRGwxQUNMY2FLRWdyN2hiWFFHVW5sY3c4SkxzWldZaWFCMV91c2V1MjNyV2lnSmY5dWp4V3hhUkpsbmo1Ti01aFU5dV9yNjRYZHhnSG9XRnZCSTJUdjZKYmQzeTVYVUY0V2pwUzJOQXFKVw?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-27T18:01:06+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Brian Armstrong Lists 8 Ways Finance Still Needs 'An Update' And Crypto Is At The Center Yahoo Finance"
+    },
     {
       "title": "Trump pardons convicted Binance founder Changpeng Zhao, White House official says",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNFN2NXV5M3pta3JJTG1ubW1jdmhJN0U0a1RpSWpaZDVORFhiTVpscUxXdUhEUVYyMC04Y05RcWgzRGhXYUdwd2s2TDZlWXZvVGRrS3VYR3hncWJMTWc0OFhjN1l5NUR3elYtMWJOZXlfdFpJczBhRjdsM2JDQno4US1jTjhVdTRGeEcxUFdZWE1vN21CeGFtcENWYmprUDRDcEFNMHBFYWpBSnFEbms1ZG1McDVSdVh4blRiczZJQzZucjM2QU5LeDBQdTR4dElMTFNKYUJuZ1c?oc=5\" target=\"_blank\">Trump pardons convicted Binance founder Changpeng Zhao, White House official says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
@@ -6119,44 +6158,6 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin Doesn't Face 'Existential' Risk From Quantum Computers, Says Brian Armstrong: 'With Good Work, We Can Make Sure That Lands In A Good Place' Benzinga"
-    },
-    {
-      "title": "Binance plans broader asset offerings for 310M+ users, Richard Teng emphasizes",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1ppTG03TVFJQnAzUVI4UWdieW9DNnZRLUl0bVI0TUxPUktuTHRSYnB4b3JMT01WNjdKWGcxYWcwRjVnU1pxRjZnMWhiYjAtM1NuWDJuZE80LVkyVlROamlIcEFnRG9aTGpxU1c2cGNLNHdrUUFBNURXQ1otTHlOOWlqWlhOVEZ6U3pwNFF4M18?oc=5\" target=\"_blank\">Binance plans broader asset offerings for 310M+ users, Richard Teng emphasizes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1ppTG03TVFJQnAzUVI4UWdieW9DNnZRLUl0bVI0TUxPUktuTHRSYnB4b3JMT01WNjdKWGcxYWcwRjVnU1pxRjZnMWhiYjAtM1NuWDJuZE80LVkyVlROamlIcEFnRG9aTGpxU1c2cGNLNHdrUUFBNURXQ1otTHlOOWlqWlhOVEZ6U3pwNFF4M18?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-03-25T05:15:16+00:00",
-      "tags": [],
-      "key_quote": "Binance plans broader asset offerings for 310M+ users, Richard Teng emphasizes Traders Union"
-    },
-    {
-      "title": "Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVm1hczItWi1EY0thbUZpekZBMDRNQlpYbS1KVTVzZWc2MEZBNWVaRUtsS2pvQnpjSHRvUTJlYWxmVlVlNV85N2VRcnA2aWRnNFRGN0l0Sk1rd1NtZV92VHFmSU5fVGdmeVdmdnRHU2Q2WGpJU3gzbWNiNkFiQnNFcGJuNEVQZHlha0E?oc=5\" target=\"_blank\">Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVm1hczItWi1EY0thbUZpekZBMDRNQlpYbS1KVTVzZWc2MEZBNWVaRUtsS2pvQnpjSHRvUTJlYWxmVlVlNV85N2VRcnA2aWRnNFRGN0l0Sk1rd1NtZV92VHFmSU5fVGdmeVdmdnRHU2Q2WGpJU3gzbWNiNkFiQnNFcGJuNEVQZHlha0E?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-25T05:04:03+00:00",
-      "tags": [
-        "安全 Security"
-      ],
-      "key_quote": "Changpeng Zhao Issues Critical Warning: 99.999% of Binance Listing Offers Are Dangerous Scams CryptoRank"
-    },
-    {
-      "title": "Changpeng Zhao: Anyone offering Binance listing help is likely a scammer",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPR21Uam1SNE9ROEdtbm85akJ0c1dWMXZsNFAzSXI2U212OGY0bHBiVGlDd3hMZmlpUEM5QTROVWQ0dEJVeTNITndEZ19haEVwVFFaQ1FzQlRzRG5vS3lPMjNhdFdEelZ4dnA2SzgtZ0JZM2VtWmEyNjEyWU1GTXo2b0xnRlB0ZTA5aDltV0hqVQ?oc=5\" target=\"_blank\">Changpeng Zhao: Anyone offering Binance listing help is likely a scammer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR21Uam1SNE9ROEdtbm85akJ0c1dWMXZsNFAzSXI2U212OGY0bHBiVGlDd3hMZmlpUEM5QTROVWQ0dEJVeTNITndEZ19haEVwVFFaQ1FzQlRzRG5vS3lPMjNhdFdEelZ4dnA2SzgtZ0JZM2VtWmEyNjEyWU1GTXo2b0xnRlB0ZTA5aDltV0hqVQ?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-25T04:30:07+00:00",
-      "tags": [
-        "DeFi",
-        "安全 Security"
-      ],
-      "key_quote": "Changpeng Zhao: Anyone offering Binance listing help is likely a scammer Traders Union"
     }
   ]
 }
