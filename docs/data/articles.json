@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-29T10:35:56Z",
+  "updated_at": "2026-05-29T13:51:23Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 103,
-    "Brian Armstrong": 288,
+    "CZ": 104,
+    "Brian Armstrong": 287,
     "Star Xu": 22,
     "Ben Zhou": 28,
     "Richard Teng": 59
@@ -21,6 +21,19 @@
         "AI"
       ],
       "key_quote": "Why Changpeng Zhao Said Most AI Firms Will Go Bust Cryptonews.net"
+    },
+    {
+      "title": "Why Changpeng Zhao Said Most AI Firms Will Go Bust",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8xRGZ4ZmFXVVNVSGJxMlZ4U0MtMUU2V3EyLWN6MVdvYlZWamhGVEhjXzBHR1h2Qlp5WFpzVDFOVGR0YmJtRXZVbGl4MjF5TTNQc2puSmtEMzh0NEdqckFvRFNnTlQ2c1ZyWjh5N2t4NHU?oc=5\" target=\"_blank\">Why Changpeng Zhao Said Most AI Firms Will Go Bust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xRGZ4ZmFXVVNVSGJxMlZ4U0MtMUU2V3EyLWN6MVdvYlZWamhGVEhjXzBHR1h2Qlp5WFpzVDFOVGR0YmJtRXZVbGl4MjF5TTNQc2puSmtEMzh0NEdqckFvRFNnTlQ2c1ZyWjh5N2t4NHU?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-29T08:56:00+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Why Changpeng Zhao Said Most AI Firms Will Go Bust BeInCrypto"
     },
     {
       "title": "Brian Armstrong Says You Can Now Route Your Paycheck Directly To Coinbase For Automatic Crypto Investment",
@@ -6138,19 +6151,6 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "MAJOR BANKS ARE ADOPTING STABLECOINS ⚡️ Brian Armstrong (Coi KuCoin"
-    },
-    {
-      "title": "'Bitcoin Will Help Preserve Dollar Dominance,' Coinbase CEO Brian Armstrong Says As U.S. Debt Reaches Record $39T",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFZieFJ2Y1ZfQ3Jrc2ZmQk5aZ2oxcFBLSTRJOWhfMkhxMEtzQ3V0ZGtCMWk3NWkxVkpQOFFIbGJrLW45NUF0SGEwZ20tdnYzQnRlMlVpcDYwLXAwdktiVW5ycFk3aHhHdEE3NU9oR3c4X3VMbVQ3TDlDVm41WDU4UDdyVzJGSFVVT0tkNlo4QTYyQUZWRTh1aUdiRTk3QThLaWwzNE93?oc=5\" target=\"_blank\">'Bitcoin Will Help Preserve Dollar Dominance,' Coinbase CEO Brian Armstrong Says As U.S. Debt Reaches Record $39T</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFZieFJ2Y1ZfQ3Jrc2ZmQk5aZ2oxcFBLSTRJOWhfMkhxMEtzQ3V0ZGtCMWk3NWkxVkpQOFFIbGJrLW45NUF0SGEwZ20tdnYzQnRlMlVpcDYwLXAwdktiVW5ycFk3aHhHdEE3NU9oR3c4X3VMbVQ3TDlDVm41WDU4UDdyVzJGSFVVT0tkNlo4QTYyQUZWRTh1aUdiRTk3QThLaWwzNE93?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-25T18:34:08+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "'Bitcoin Will Help Preserve Dollar Dominance,' Coinbase CEO Brian Armstrong Says As U.S."
     }
   ]
 }
