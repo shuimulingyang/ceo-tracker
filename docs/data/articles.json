@@ -1,14 +1,71 @@
 {
-  "updated_at": "2026-05-29T17:23:29Z",
+  "updated_at": "2026-05-29T20:02:35Z",
   "total": 500,
   "by_ceo": {
+    "Brian Armstrong": 287,
     "CZ": 105,
-    "Brian Armstrong": 286,
     "Star Xu": 22,
     "Ben Zhou": 28,
-    "Richard Teng": 59
+    "Richard Teng": 58
   },
   "articles": [
+    {
+      "title": "‘He’s full of s--t’: JPMorgan’s Dimon rips Coinbase CEO, escalates fight over crypto bill",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjVNcTdHYm9IcTBnc2VhOFlrcU55bDlzS1NkN0N6RFJSMC1COWg5Qk9wNlBrMldRV2Q4OUFiWGFWSFZ5Nlo2TkxXbVNscTlkOG9fb2o5LXg3clNqdHdPclJmNlJFRy0yZXdYWXNReUMydFNrc1ZqUzRNcG55LUVfeTlBT0hFOC1nTVFVeGlMeG1UQlBWVnFNWVZ2YWQ?oc=5\" target=\"_blank\">‘He’s full of s--t’: JPMorgan’s Dimon rips Coinbase CEO, escalates fight over crypto bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcjVNcTdHYm9IcTBnc2VhOFlrcU55bDlzS1NkN0N6RFJSMC1COWg5Qk9wNlBrMldRV2Q4OUFiWGFWSFZ5Nlo2TkxXbVNscTlkOG9fb2o5LXg3clNqdHdPclJmNlJFRy0yZXdYWXNReUMydFNrc1ZqUzRNcG55LUVfeTlBT0hFOC1nTVFVeGlMeG1UQlBWVnFNWVZ2YWQ?oc=5",
+      "source": "Politico",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-29T19:02:46+00:00",
+      "tags": [],
+      "key_quote": "‘He’s full of s--t’: JPMorgan’s Dimon rips Coinbase CEO, escalates fight over crypto bill Politico"
+    },
+    {
+      "title": "Jamie Dimon Attacks Coinbase CEO Over Clarity Act Lobbying Push",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNbzNmdVdybWpKdG9YTDBxbEJoekZHbkRBcFhSMkx6V1JNT09kWUkzUXJuLTRsUFhZT01GUWpmb285VTZwYlNzZmtwblJrUVZVQmhHS0kzTUVxVTZKbXVQZTZ2TXNyZXlmcDBqS0lUaEN3dTZ4V016NGxfNlFGaVYwZ3FGSUxtMDdvQ0c0ckVFb0xiVU0?oc=5\" target=\"_blank\">Jamie Dimon Attacks Coinbase CEO Over Clarity Act Lobbying Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbzNmdVdybWpKdG9YTDBxbEJoekZHbkRBcFhSMkx6V1JNT09kWUkzUXJuLTRsUFhZT01GUWpmb285VTZwYlNzZmtwblJrUVZVQmhHS0kzTUVxVTZKbXVQZTZ2TXNyZXlmcDBqS0lUaEN3dTZ4V016NGxfNlFGaVYwZ3FGSUxtMDdvQ0c0ckVFb0xiVU0?oc=5",
+      "source": "FinanceFeeds",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-29T18:54:00+00:00",
+      "tags": [],
+      "key_quote": "Jamie Dimon Attacks Coinbase CEO Over Clarity Act Lobbying Push FinanceFeeds"
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon blasts Coinbase's Brian Armstrong, plans to fight Clarity Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORl9WSWN6NkIxVU00em1QUEx0YXliOGlGdlFvUVRXQmFJamhJWF83djdxLVNRajhmRURhQWF0YmYydzdua2RscUhfd1FKVHN5Y3prV2NyNHZHbVVjSDhlQ19wOEVZQjdRVEd3NnhjaExETVluOEtnQ3doZnZNN0JURFVKUDNKTDVEckVoUDZhSDQtQmRIblE3Z2UweXdzZnFzOHJoSlVTOGlMQ0tOZllCcF84VGFZdVJD?oc=5\" target=\"_blank\">JPMorgan CEO Jamie Dimon blasts Coinbase's Brian Armstrong, plans to fight Clarity Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORl9WSWN6NkIxVU00em1QUEx0YXliOGlGdlFvUVRXQmFJamhJWF83djdxLVNRajhmRURhQWF0YmYydzdua2RscUhfd1FKVHN5Y3prV2NyNHZHbVVjSDhlQ19wOEVZQjdRVEd3NnhjaExETVluOEtnQ3doZnZNN0JURFVKUDNKTDVEckVoUDZhSDQtQmRIblE3Z2UweXdzZnFzOHJoSlVTOGlMQ0tOZllCcF84VGFZdVJD?oc=5",
+      "source": "The Block",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-29T17:52:02+00:00",
+      "tags": [],
+      "key_quote": "JPMorgan CEO Jamie Dimon blasts Coinbase's Brian Armstrong, plans to fight Clarity Act The Block"
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon blasts Coinbase's Brian Armstrong, plans to fight Clarity Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGVaYkc1UHoxcWJROEtIaXRNOFJUeE9raUZRYzFoOUl2bW8wZnY2bzBVdW9sR0FLdkF5OExWWXNtSUV5RlNaSmhlVFVCS3FUU3hCZzRjcU1FZUVCUWdWc24xVnBuZ0x4SEZTeVlQUjlwamIwSXAtbHI5Y1paMDU0eFUzeWhZTHNDcEhMTk51RUs3aURXTmRtaGFra2QyNThMRlRRdEtSa25uWXNlbnBNZmNTcDRXdEhOeXJaenlR?oc=5\" target=\"_blank\">JPMorgan CEO Jamie Dimon blasts Coinbase's Brian Armstrong, plans to fight Clarity Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGVaYkc1UHoxcWJROEtIaXRNOFJUeE9raUZRYzFoOUl2bW8wZnY2bzBVdW9sR0FLdkF5OExWWXNtSUV5RlNaSmhlVFVCS3FUU3hCZzRjcU1FZUVCUWdWc24xVnBuZ0x4SEZTeVlQUjlwamIwSXAtbHI5Y1paMDU0eFUzeWhZTHNDcEhMTk51RUs3aURXTmRtaGFra2QyNThMRlRRdEtSa25uWXNlbnBNZmNTcDRXdEhOeXJaenlR?oc=5",
+      "source": "The Block",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-29T17:52:02+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "JPMorgan CEO Jamie Dimon blasts Coinbase's Brian Armstrong, plans to fight Clarity Act The Block"
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon blasts Coinbase’s Brian Armstrong, plans to fight Clarity Act",
+      "content": "<p>Dimon said Coinbase's Armstrong is spending hundreds of millions of dollars trying to get Clarity Act passed.</p>",
+      "url": "https://www.theblock.co/post/403049/jpmorgan-ceo-jamie-dimon-blasts-coinbases-brian-armstrong-plans-fight-clarity-act?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-29T17:52:02+00:00",
+      "tags": [],
+      "key_quote": "Dimon said Coinbase's Armstrong is spending hundreds of millions of dollars trying to get Clarity Act passed."
+    },
     {
       "title": "Changpeng Zhao Says Many AI Companies Won’t Survive",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPclRLZm5RV0trclVyV0VlVFROdzA3ZDNYb1dPS1NEdmJ0dEcyOXhFRnhhUGZyZE0wWXFmQWlCMF9BRFAwRFZjNERUdHc0Ri1BSkp0OVY5UHZ6czNTZ193SmhCM05MRXd0aWhNWnFheGluaDZQQkZLN3JiRE5UdnRKLXhiZXNCX2o3S2xmY2JfS0NCZEt50gGaAUFVX3lxTE5HUnp2M3gtNXZNTDRrTEs1S2kyR1Z5U2dXQmdJc2p3dFZWc24ydzFleFBZaTR1bjFZdW01VkMtS1ZoSlUwZVNBWkJTenJrQUNVY1ZmZnRJeVdQamJFSW1HalkyWi13TjJPVHA3aU1SZkwwcDMxTzNydUpOU3hCcmVvMUpIWDRfemFZdlUxVUdOQ3BJU3I1b1VRN1E?oc=5\" target=\"_blank\">Changpeng Zhao Says Many AI Companies Won’t Survive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpedia</font>",
@@ -6089,68 +6146,6 @@
         "机构 Institutional"
       ],
       "key_quote": "Bybit CEO: Two-thirds of Lazarus-hacked funds remain traceable MSN"
-    },
-    {
-      "title": "Who Is Satoshi Nakamoto?—Coinbase CEO Reveals He Now Thinks He Knows The Answer To The Massive Bitcoin Mystery",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdHlGRUxiOXJnXzVGWldQeWdBbGNUc3pEOXdTeERodkZaeUJxd2ZHdTh3Z0gtY1pUdkZHNEUtRzFWLS14QnVVbl9aNVV0b2ZJLXN0U1Z1YkJVZDJXa1BvOTBFYkdPcklIcUJkRFJwZ1RzZnR5REZFT0xWMmI2ekRfRGc3ellZUXIwUFY3WUJSSUwzV2NxN2ltVUNiQ2I1d09FRHhTemdVV01tSjNpc0dlTld2bDJDQXZoMlFPemxrVWRnaks0RFJ6ZDVBeVEyYXY4YUxLWW9YQm1HVllGTG9TMVVVWlN1NGNRTmJ2SU9ROXYwRHlNaG5HRA?oc=5\" target=\"_blank\">Who Is Satoshi Nakamoto?—Coinbase CEO Reveals He Now Thinks He Knows The Answer To The Massive Bitcoin Mystery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdHlGRUxiOXJnXzVGWldQeWdBbGNUc3pEOXdTeERodkZaeUJxd2ZHdTh3Z0gtY1pUdkZHNEUtRzFWLS14QnVVbl9aNVV0b2ZJLXN0U1Z1YkJVZDJXa1BvOTBFYkdPcklIcUJkRFJwZ1RzZnR5REZFT0xWMmI2ekRfRGc3ellZUXIwUFY3WUJSSUwzV2NxN2ltVUNiQ2I1d09FRHhTemdVV01tSjNpc0dlTld2bDJDQXZoMlFPemxrVWRnaks0RFJ6ZDVBeVEyYXY4YUxLWW9YQm1HVllGTG9TMVVVWlN1NGNRTmJ2SU9ROXYwRHlNaG5HRA?oc=5",
-      "source": "Forbes",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-26T11:05:26+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Who Is Satoshi Nakamoto?—Coinbase CEO Reveals He Now Thinks He Knows The Answer To The Massive Bitcoin Mystery Forbes"
-    },
-    {
-      "title": "Coinbase CEO Claims Breakthrough in Hunt for Satoshi Nakamoto",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkFzc2htSHFyQlltTjIyeHlpYUp0bDlTbmVnbl9SczRnMFZMQTFGMy13NjdGV1IxNTF2YlNxaG1PbGx0M09Xc2ZrLXZBVkFyakYtbE1sTHF3b3drSkJPYVV3cWExY0kxNWdWWTNEcGRSOVhzMXdHUXZnczlNbjZhZ1JNRUwyTEpsMnFiZXV1OWhrX2hoazJSVGVKOA?oc=5\" target=\"_blank\">Coinbase CEO Claims Breakthrough in Hunt for Satoshi Nakamoto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">streamlinefeed.co.ke</font>",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMkFzc2htSHFyQlltTjIyeHlpYUp0bDlTbmVnbl9SczRnMFZMQTFGMy13NjdGV1IxNTF2YlNxaG1PbGx0M09Xc2ZrLXZBVkFyakYtbE1sTHF3b3drSkJPYVV3cWExY0kxNWdWWTNEcGRSOVhzMXdHUXZnczlNbjZhZ1JNRUwyTEpsMnFiZXV1OWhrX2hoazJSVGVKOA?oc=5",
-      "source": "streamlinefeed.co.ke",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-26T11:05:26+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO Claims Breakthrough in Hunt for Satoshi Nakamoto streamlinefeed.co.ke"
-    },
-    {
-      "title": "Richard Teng: Crypto community collaborates to build inclusive financial system",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnRlMHZJVVl6Q3h6dkxVMkRoMXY4a2UyeXVFMWQwd0NJQzhYV2JJOFdPYnF3SHpKNmZFZ1ByeERINlEyTHhhdVk5Uk1uZlpnazBMU254UkJGQnhUa0hmYXN6WGcxeVRFTnZyejczQ0NmazQxaTA1Q0g4TlB0ejBPOFpxR2o5S3VFMVZZUGo1QWFGdw?oc=5\" target=\"_blank\">Richard Teng: Crypto community collaborates to build inclusive financial system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnRlMHZJVVl6Q3h6dkxVMkRoMXY4a2UyeXVFMWQwd0NJQzhYV2JJOFdPYnF3SHpKNmZFZ1ByeERINlEyTHhhdVk5Uk1uZlpnazBMU254UkJGQnhUa0hmYXN6WGcxeVRFTnZyejczQ0NmazQxaTA1Q0g4TlB0ejBPOFpxR2o5S3VFMVZZUGo1QWFGdw?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-03-26T08:30:15+00:00",
-      "tags": [],
-      "key_quote": "Richard Teng: Crypto community collaborates to build inclusive financial system Traders Union"
-    },
-    {
-      "title": "Brian Armstrong Obituary and Online Memorial (2015)",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGZmQ1BlbWpZYmlaa1c4TEROTy01cUNhNjFEN3RHcDJUTlE5X2ZnSzNrZVhySjRRa2xHSHU1dU04eGFiQThaZ0dQYnROMjFZckhfUEhqa0lCSW9PdWY4NjJzMXZSUHhQVDFtb2lKT3FVcFpSS29hREZFM1VaVWhpMGo2OU1mWUh3WTN1Z3dMU1ZBNHM?oc=5\" target=\"_blank\">Brian Armstrong Obituary and Online Memorial (2015)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy | Obituary Search</font>",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGZmQ1BlbWpZYmlaa1c4TEROTy01cUNhNjFEN3RHcDJUTlE5X2ZnSzNrZVhySjRRa2xHSHU1dU04eGFiQThaZ0dQYnROMjFZckhfUEhqa0lCSW9PdWY4NjJzMXZSUHhQVDFtb2lKT3FVcFpSS29hREZFM1VaVWhpMGo2OU1mWUh3WTN1Z3dMU1ZBNHM?oc=5",
-      "source": "Legacy | Obituary Search",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-26T06:15:14+00:00",
-      "tags": [],
-      "key_quote": "Brian Armstrong Obituary and Online Memorial (2015) Legacy | Obituary Search"
-    },
-    {
-      "title": "Brian Armstrong to Sell 2% of His Coinbase Stock to Fund Scientific Research",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHRrcnpWWVBZOEVGODNrZ0tiT1lwWFF0SDlOUDFoaHkxakVkVGFjNW50a2c5NGNfQWwyaUIyQUVzSFBEcXZ0QUxMUjVkbS1IVWQyZFA0Mi1XTkdqNnMybmFtRThjLXpldU1QaF9oRWFaTEJELWhzYXRPX2JaNVBSUklib0pYYVZWSmZ2czNlX1dPaE1BRFEwdk1KbkhxUXdXdnpXMHhKSFA0eXREOTZMNGpJOEtacENv?oc=5\" target=\"_blank\">Brian Armstrong to Sell 2% of His Coinbase Stock to Fund Scientific Research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinMarketCap</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHRrcnpWWVBZOEVGODNrZ0tiT1lwWFF0SDlOUDFoaHkxakVkVGFjNW50a2c5NGNfQWwyaUIyQUVzSFBEcXZ0QUxMUjVkbS1IVWQyZFA0Mi1XTkdqNnMybmFtRThjLXpldU1QaF9oRWFaTEJELWhzYXRPX2JaNVBSUklib0pYYVZWSmZ2czNlX1dPaE1BRFEwdk1KbkhxUXdXdnpXMHhKSFA0eXREOTZMNGpJOEtacENv?oc=5",
-      "source": "CoinMarketCap",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-26T02:18:21+00:00",
-      "tags": [
-        "市场 Market",
-        "机构 Institutional"
-      ],
-      "key_quote": "Brian Armstrong to Sell 2% of His Coinbase Stock to Fund Scientific Research CoinMarketCap"
     }
   ]
 }
