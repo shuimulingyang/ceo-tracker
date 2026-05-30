@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-30T19:59:52Z",
+  "updated_at": "2026-05-30T20:57:02Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 298,
-    "CZ": 96,
+    "Brian Armstrong": 299,
+    "CZ": 95,
     "Star Xu": 22,
     "Ben Zhou": 27,
     "Richard Teng": 57
@@ -269,6 +269,17 @@
       "published_at": "2026-05-29T17:52:02+00:00",
       "tags": [],
       "key_quote": "Dimon said Coinbase's Armstrong is spending hundreds of millions of dollars trying to get Clarity Act passed."
+    },
+    {
+      "title": "Brian Armstrong Says You Can Now Route Your Paycheck Directly To Coinbase For Automatic Crypto Investments: Here's How It Works",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ1dOT3ZETjkwRG9JU2s3bEFSbE81UHIyVVV1RzIwUUFrZmN2ZTlxTm5PN205dFREX0Z6d2ZOOHZfVG0tazJIdnRCWHJnVGRwQWdBOUV0b2t5LWVtMjl1ZFBrQ0tfZGMwYVYzdUtVZl94Z3djVjlLTWJXS2ljdzBUbFhSMWZPWkt0ZGI4VEZLSXNxdE82SlpfZnI4MA?oc=5\" target=\"_blank\">Brian Armstrong Says You Can Now Route Your Paycheck Directly To Coinbase For Automatic Crypto Investments: Here's How It Works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ1dOT3ZETjkwRG9JU2s3bEFSbE81UHIyVVV1RzIwUUFrZmN2ZTlxTm5PN205dFREX0Z6d2ZOOHZfVG0tazJIdnRCWHJnVGRwQWdBOUV0b2t5LWVtMjl1ZFBrQ0tfZGMwYVYzdUtVZl94Z3djVjlLTWJXS2ljdzBUbFhSMWZPWkt0ZGI4VEZLSXNxdE82SlpfZnI4MA?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-29T13:31:04+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong Says You Can Now Route Your Paycheck Directly To Coinbase For Automatic Crypto Investments: Here's How It Works Yahoo Finance"
     },
     {
       "title": "Changpeng Zhao Says Many AI Companies Won’t Survive",
@@ -6131,17 +6142,6 @@
         "Bitcoin"
       ],
       "key_quote": "After Elon Musk and CZ, Coinbase CEO Brian Armstrong Also Makes a Statement!"
-    },
-    {
-      "title": "Changpeng Zhao dismisses 'quantum computing fears'… \"No need to be scared\"",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LRTJicDZuTzVOcWtyYTJRYmVEUVljSmNWVl9Ua2ZaN1UyRXdNNmZBendrU0xqQ2VnejNVenNkMENZNlJpdUVhZWZ6dWRiQ1pidmllSA?oc=5\" target=\"_blank\">Changpeng Zhao dismisses 'quantum computing fears'… \"No need to be scared\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LRTJicDZuTzVOcWtyYTJRYmVEUVljSmNWVl9Ua2ZaN1UyRXdNNmZBendrU0xqQ2VnejNVenNkMENZNlJpdUVhZWZ6dWRiQ1pidmllSA?oc=5",
-      "source": "bloomingbit",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-01T08:35:36+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao dismisses 'quantum computing fears'… \"No need to be scared\" bloomingbit"
     }
   ]
 }
