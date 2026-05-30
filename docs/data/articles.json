@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T22:43:34Z",
+  "updated_at": "2026-05-30T23:48:34Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 299,
@@ -9,6 +9,19 @@
     "Richard Teng": 57
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Vs Jamie Dimon, Mark Cuban Ditches Bitcoin And Crypto Card Payments Surge: This Week In C",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQNmVOQVZpeXhnNXZqU2NzcTgxR3hxR0lHR3M0ekU3SlVZV3dUN1o1cVNhWUduMWY0SE9sSkxkZGRzbFRPMlAwaGhJLWlIa0tUSFpSS2ltUlNFRy1GZzBiMWtDX1IzLXgxQ3RSN2ctSmswNDFlOFd5XzRhR3ZBeURFNldMZWtmZ2NrZGVZeWxfT2pReEZiZFItUDM2bTdCc0lzOXBta19TQkkzMHBYSFpnVHdYbjYwNGcwZ3prSEg5NXk5TmRia3p4MlNOQzFFZW5YajFPcTU5R2x1Z1gzbzFPWkdTcTM4MFNpTjBYMXJaZS13ekllS1R5SzFTTU1UZXhoZnNCclZMT25uUQ?oc=5\" target=\"_blank\">Brian Armstrong Vs Jamie Dimon, Mark Cuban Ditches Bitcoin And Crypto Card Payments Surge: This Week In C</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNmVOQVZpeXhnNXZqU2NzcTgxR3hxR0lHR3M0ekU3SlVZV3dUN1o1cVNhWUduMWY0SE9sSkxkZGRzbFRPMlAwaGhJLWlIa0tUSFpSS2ltUlNFRy1GZzBiMWtDX1IzLXgxQ3RSN2ctSmswNDFlOFd5XzRhR3ZBeURFNldMZWtmZ2NrZGVZeWxfT2pReEZiZFItUDM2bTdCc0lzOXBta19TQkkzMHBYSFpnVHdYbjYwNGcwZ3prSEg5NXk5TmRia3p4MlNOQzFFZW5YajFPcTU5R2x1Z1gzbzFPWkdTcTM4MFNpTjBYMXJaZS13ekllS1R5SzFTTU1UZXhoZnNCclZMT25uUQ?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-30T23:30:38+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Brian Armstrong Vs Jamie Dimon, Mark Cuban Ditches Bitcoin And Crypto Card Payments Surge: This Week In C Benzinga"
+    },
     {
       "title": "Jamie Dimon Slams Brian Armstrong Amid Clarity Act Debate",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOQm5SbXVld3Bra1k3RWtEcjNHVDVOcl9zclpwRDN5LWdycDFBVlpoN2VTOXEyOUJTckZSLUQ5S0VBbTFLNTI1b25tdEpjMFhVRDIyeWI2YmZiWi1TZ3AzVW80WlhvekVKeS1ZSnpibVVVUTB2ZzVYVW04ZXl4UWc3Ng?oc=5\" target=\"_blank\">Jamie Dimon Slams Brian Armstrong Amid Clarity Act Debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinfomania</font>",
@@ -6129,19 +6142,6 @@
         "Ethereum"
       ],
       "key_quote": "Coinbase CEO Declares Post-Quantum Resistance His Personal Goal TradingView"
-    },
-    {
-      "title": "Quantum Debate in Bitcoin Grows! After Elon Musk and CZ, Coinbase CEO Brian Armstrong Also Makes a Statement!",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oNjRUZG00SURwWERnNDNMUnBtM0xkRWJOWXk2NzBodzd4MmJxYlhTLWtiMklnV09aQW5JTUVaZ3p0RDRzNXV3STVBdUR6VVB4UXJXZ2V3U2Q?oc=5\" target=\"_blank\">Quantum Debate in Bitcoin Grows! After Elon Musk and CZ, Coinbase CEO Brian Armstrong Also Makes a Statement!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oNjRUZG00SURwWERnNDNMUnBtM0xkRWJOWXk2NzBodzd4MmJxYlhTLWtiMklnV09aQW5JTUVaZ3p0RDRzNXV3STVBdUR6VVB4UXJXZ2V3U2Q?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-01T19:18:55+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "After Elon Musk and CZ, Coinbase CEO Brian Armstrong Also Makes a Statement!"
     }
   ]
 }
