@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-05-30T18:54:19Z",
+  "updated_at": "2026-05-30T19:59:52Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 297,
-    "CZ": 97,
+    "Brian Armstrong": 298,
+    "CZ": 96,
     "Star Xu": 22,
     "Ben Zhou": 27,
     "Richard Teng": 57
   },
   "articles": [
+    {
+      "title": "Jamie Dimon Slams Brian Armstrong Amid Clarity Act Debate",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOQm5SbXVld3Bra1k3RWtEcjNHVDVOcl9zclpwRDN5LWdycDFBVlpoN2VTOXEyOUJTckZSLUQ5S0VBbTFLNTI1b25tdEpjMFhVRDIyeWI2YmZiWi1TZ3AzVW80WlhvekVKeS1ZSnpibVVVUTB2ZzVYVW04ZXl4UWc3Ng?oc=5\" target=\"_blank\">Jamie Dimon Slams Brian Armstrong Amid Clarity Act Debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinfomania</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQm5SbXVld3Bra1k3RWtEcjNHVDVOcl9zclpwRDN5LWdycDFBVlpoN2VTOXEyOUJTckZSLUQ5S0VBbTFLNTI1b25tdEpjMFhVRDIyeWI2YmZiWi1TZ3AzVW80WlhvekVKeS1ZSnpibVVVUTB2ZzVYVW04ZXl4UWc3Ng?oc=5",
+      "source": "Coinfomania",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-30T18:58:47+00:00",
+      "tags": [],
+      "key_quote": "Jamie Dimon Slams Brian Armstrong Amid Clarity Act Debate Coinfomania"
+    },
     {
       "title": "JPMorgan CEO Criticizes Coinbase CEO Amid CLARITY Act Debate",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQV3lNeEw0R0ZmMGpWNWpLcVBvNGhkYU9DSWc5UkdoWWhyUTczaGo1b0ZFdTJ4Uy1uMldvaFo2X1YycVozYW9qdktvSDQtb2UxUlUxMnJ5VzVxaldxWE5SQ3BJaWFBdVJxcGNHeFRxNEJvVWpseFdKSFU4dFRZVnM4YjF6dENTMGE4bXIwVTdIY2k2TkxtdHRNamFB?oc=5\" target=\"_blank\">JPMorgan CEO Criticizes Coinbase CEO Amid CLARITY Act Debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intellectia AI</font>",
@@ -6131,17 +6142,6 @@
       "published_at": "2026-04-01T08:35:36+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao dismisses 'quantum computing fears'… \"No need to be scared\" bloomingbit"
-    },
-    {
-      "title": "Changpeng Zhao (CZ)",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZVHFrX3RtTFY5Tk1kSVRWcHIxRjE3cDlRbzRyY1IwTzFMaW9PYUpvVkM1UjcxOVAxUVVGNmpIQ2FOVldCT21CdWNWNGFsbnpta2tGZE1ldFF3am1lcDNKWVVORQ?oc=5\" target=\"_blank\">Changpeng Zhao (CZ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZVHFrX3RtTFY5Tk1kSVRWcHIxRjE3cDlRbzRyY1IwTzFMaW9PYUpvVkM1UjcxOVAxUVVGNmpIQ2FOVldCT21CdWNWNGFsbnpta2tGZE1ldFF3am1lcDNKWVVORQ?oc=5",
-      "source": "CCN.com",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-03-31T20:58:28+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao (CZ) CCN.com"
     }
   ]
 }
