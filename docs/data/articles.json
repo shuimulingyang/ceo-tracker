@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T09:07:00Z",
+  "updated_at": "2026-05-30T11:08:23Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 292,
@@ -9,6 +9,19 @@
     "Richard Teng": 57
   },
   "articles": [
+    {
+      "title": "Brian Armstrong rebukes Dimon's stablecoin attack",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVlFOUdILW5RX0NPR09vZkJZWjd5Z3BCUXo4cHBQeWQ5cS1GUHUxMGJoZ1dzMlYwaTE2VUEtR1BOQjVtQnpXYnc1X3ozUHlzd1ZhZWVrU3A5bVlFUk1PU1cxaHRfU01oTW1EXzY3WVRtTllaRGgtem9LX2FIN1h4aw?oc=5\" target=\"_blank\">Brian Armstrong rebukes Dimon's stablecoin attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVlFOUdILW5RX0NPR09vZkJZWjd5Z3BCUXo4cHBQeWQ5cS1GUHUxMGJoZ1dzMlYwaTE2VUEtR1BOQjVtQnpXYnc1X3ozUHlzd1ZhZWVrU3A5bVlFUk1PU1cxaHRfU01oTW1EXzY3WVRtTllaRGgtem9LX2FIN1h4aw?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-30T11:00:00+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Brian Armstrong rebukes Dimon's stablecoin attack crypto.news"
+    },
     {
       "title": "Brian Armstrong Claps Back At Jamie Dimon After JPMorgan CEO's Stablecoin Criticism",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTnFmWUM3amg0WEFTeFVIdDlRajdYeHptX2VBOVpDR0VVc3ktX2xLeUhHOWRBU0RONVpQWWJNMndrTFdfajNGS2dGZXRmZHJuWFgxdDF2ckdMMURscnNUdTFONHV4cHZyUFcwMlJnWWxrX1VxMG16SFhuUnJoZ2FfbU1kVEtia2U5a0YwYWRSZ3N5dkRUeHotaVVWWWNXNmNWWDNoVXZrdS13OG9qQzZpRktGcm9ZTmE1cW5jZWNnSWs5RXdtb2RaZg?oc=5\" target=\"_blank\">Brian Armstrong Claps Back At Jamie Dimon After JPMorgan CEO's Stablecoin Criticism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -6127,20 +6140,6 @@
       "published_at": "2026-03-31T16:06:36+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao Says Crypto Can Survive Quantum Computing mexc.co"
-    },
-    {
-      "title": "Bitcoin doesn't face 'existential' risk from quantum computers, says Brian Armstrong: 'With good work, we can make sure that lands in a good place'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNSXJZUTdzM0hJd1ZXUFNiMHJ4eGZweHc1ZkFQdDlrLWhQdlFsM0RFcEtNX0NFdjhWREUzMmM3anRpOHg3dHRsUVRCTkdESDFQYXJMaDFfWDlIX2tlWUd0bXo5dmQ3b3ljOU5jNXpYX2ZxUTZfd0cxNlZkTFJCZDFRcU52WmpIVnk1QmVqakNsYWtTT0pybFBnZXg0OXg3V1lvWWl2SUM0dVhyZW5fZ3VScDdxQ1RLRU56c1k0M1RuSFoyb3BDUV9DSkFjWVIwakdHcGxpU1kzcjc4cW1VRUl3UFBOY0o4OUp6N1JSUjFjSk1Tei1oOGM1VHd5ZDk1RlhIeFlEdU5SZXNYQmxEOHpKdUEySHNrejA?oc=5\" target=\"_blank\">Bitcoin doesn't face 'existential' risk from quantum computers, says Brian Armstrong: 'With good work, we can make sure that lands in a good place'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSXJZUTdzM0hJd1ZXUFNiMHJ4eGZweHc1ZkFQdDlrLWhQdlFsM0RFcEtNX0NFdjhWREUzMmM3anRpOHg3dHRsUVRCTkdESDFQYXJMaDFfWDlIX2tlWUd0bXo5dmQ3b3ljOU5jNXpYX2ZxUTZfd0cxNlZkTFJCZDFRcU52WmpIVnk1QmVqakNsYWtTT0pybFBnZXg0OXg3V1lvWWl2SUM0dVhyZW5fZ3VScDdxQ1RLRU56c1k0M1RuSFoyb3BDUV9DSkFjWVIwakdHcGxpU1kzcjc4cW1VRUl3UFBOY0o4OUp6N1JSUjFjSk1Tei1oOGM1VHd5ZDk1RlhIeFlEdU5SZXNYQmxEOHpKdUEySHNrejA?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-03-31T01:11:16+00:00",
-      "tags": [
-        "Bitcoin",
-        "Layer2"
-      ],
-      "key_quote": "Bitcoin doesn't face 'existential' risk from quantum computers, says Brian Armstrong: 'With good work, we can make sure that lands in a good place' MSN"
     }
   ]
 }
