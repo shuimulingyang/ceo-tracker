@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-31T16:52:01Z",
+  "updated_at": "2026-05-31T17:51:13Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 298,
-    "CZ": 95,
+    "Brian Armstrong": 297,
+    "CZ": 96,
     "Star Xu": 22,
     "Ben Zhou": 28,
     "Richard Teng": 57
@@ -343,6 +343,19 @@
         "AI"
       ],
       "key_quote": "Why Changpeng Zhao Said Most AI Firms Will Go Bust Cryptonews.net"
+    },
+    {
+      "title": "Why Changpeng Zhao Said Most AI Firms Will Go Bust",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWXBjOUdBQ21DV0pCeXV1Z2ZGR1FGaDBmcE1IZXBWcnRwaDlQX2dBczZjVHh2YjhjdFpWQ1dZWWVrZGp3dVhzallvNHNVQlNhZkZTSFR3QVFrMll1WlVBTGp5N3M1VUpFQkQ5LUxDeEdJSS1jSW5lQ2p3d0VCaUctai0yUW5EYXVfM2FRanpPY0ZDNnpkNDFidzlCTnVuZw?oc=5\" target=\"_blank\">Why Changpeng Zhao Said Most AI Firms Will Go Bust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXBjOUdBQ21DV0pCeXV1Z2ZGR1FGaDBmcE1IZXBWcnRwaDlQX2dBczZjVHh2YjhjdFpWQ1dZWWVrZGp3dVhzallvNHNVQlNhZkZTSFR3QVFrMll1WlVBTGp5N3M1VUpFQkQ5LUxDeEdJSS1jSW5lQ2p3d0VCaUctai0yUW5EYXVfM2FRanpPY0ZDNnpkNDFidzlCTnVuZw?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-05-29T08:56:36+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Why Changpeng Zhao Said Most AI Firms Will Go Bust Yahoo Finance"
     },
     {
       "title": "Why Changpeng Zhao Said Most AI Firms Will Go Bust",
@@ -6130,17 +6143,6 @@
       "published_at": "2026-04-03T06:49:00+00:00",
       "tags": [],
       "key_quote": "Binance vs Solana: Changpeng Zhao Explains the Memecoin Strategy Split TradingView"
-    },
-    {
-      "title": "Coinbase Receives Conditional Nod To Operate As National Trust Company—CEO Brian Armstrong Says 'We're No",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQUdSZGFMZU96Y3lCanJFQzFFUW4wc1dYNE1qdEs2SFdPN1NjRzlXTmo3VFJZNDJfVk81ZFl5QWFlbFVBcTdZUElwV1duaFBMRURpQWNLRk1TTG5weENLRk1HbmtmbG1HUU9TQ2FCTThkNVcxaW9PNGZ0T1dWay1OVkNfMG9GM1Y5M1pLME5Bd0Q3R2RDWHVZbXZsdm41UjJGM0hPUmJ4Y1dXdWxiM2xtQzdtZEV4QnJDaFRRTHFqODNzMG5DVGNaSWlXbWwwcFBJ?oc=5\" target=\"_blank\">Coinbase Receives Conditional Nod To Operate As National Trust Company—CEO Brian Armstrong Says 'We're No</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">benzinga.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQUdSZGFMZU96Y3lCanJFQzFFUW4wc1dYNE1qdEs2SFdPN1NjRzlXTmo3VFJZNDJfVk81ZFl5QWFlbFVBcTdZUElwV1duaFBMRURpQWNLRk1TTG5weENLRk1HbmtmbG1HUU9TQ2FCTThkNVcxaW9PNGZ0T1dWay1OVkNfMG9GM1Y5M1pLME5Bd0Q3R2RDWHVZbXZsdm41UjJGM0hPUmJ4Y1dXdWxiM2xtQzdtZEV4QnJDaFRRTHFqODNzMG5DVGNaSWlXbWwwcFBJ?oc=5",
-      "source": "benzinga.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-03T02:54:19+00:00",
-      "tags": [],
-      "key_quote": "Coinbase Receives Conditional Nod To Operate As National Trust Company—CEO Brian Armstrong Says 'We're No benzinga.com"
     }
   ]
 }
