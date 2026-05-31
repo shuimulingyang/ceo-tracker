@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-30T23:48:34Z",
+  "updated_at": "2026-05-31T02:00:25Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 299,
+    "Brian Armstrong": 298,
     "CZ": 95,
     "Star Xu": 22,
-    "Ben Zhou": 27,
+    "Ben Zhou": 28,
     "Richard Teng": 57
   },
   "articles": [
@@ -21,6 +21,17 @@
         "Bitcoin"
       ],
       "key_quote": "Brian Armstrong Vs Jamie Dimon, Mark Cuban Ditches Bitcoin And Crypto Card Payments Surge: This Week In C Benzinga"
+    },
+    {
+      "title": "JPMorgan’s Dimon Rips Coinbase CEO Over Crypto Lobbying Push",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1UySTdIdzd3b1VoSy1uREVKM1ZfRE1iRUpZdlpkdnVKdzc1Mk5PNkN6a09VcXRiVzctMl85czN4Si1aNFNNQl9qQVFhZTJpbHZyeVNXalBQTGJyMmYzQm81UENNV0Y0WGNZYlJobkxta0tiU3B1VEJyUW5WZlFtUVJoOTIySVZjQ1BJYUtKanJYemJlNWZ5ck9rMFJxQQ?oc=5\" target=\"_blank\">JPMorgan’s Dimon Rips Coinbase CEO Over Crypto Lobbying Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ1UySTdIdzd3b1VoSy1uREVKM1ZfRE1iRUpZdlpkdnVKdzc1Mk5PNkN6a09VcXRiVzctMl85czN4Si1aNFNNQl9qQVFhZTJpbHZyeVNXalBQTGJyMmYzQm81UENNV0Y0WGNZYlJobkxta0tiU3B1VEJyUW5WZlFtUVJoOTIySVZjQ1BJYUtKanJYemJlNWZ5ck9rMFJxQQ?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-30T20:48:59+00:00",
+      "tags": [],
+      "key_quote": "JPMorgan’s Dimon Rips Coinbase CEO Over Crypto Lobbying Push CryptoRank"
     },
     {
       "title": "Jamie Dimon Slams Brian Armstrong Amid Clarity Act Debate",
@@ -764,6 +775,19 @@
       "published_at": "2026-05-25T06:33:00+00:00",
       "tags": [],
       "key_quote": "Brian Armstrong says finance must move on-chain or fall behind crypto.news"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxOSnU1VXU2aTFhbGd6TjNPRzdMOHdlQzBBQWlDanpPZXhiY0paR2hBdjAwYmtOWDRfdl9KZDhmVy1XTHVFeXRYNE9CTjd6djJfcXZiel9sMk03ekVFVWE5ekpLR3pRQ1JTcUsxNXlWUEZ1ZXdibWtCeTFwTlUwak81M0FGUm9XYThBVS1yNHpkZU1ERkFmQkRUWms0YzFvQ0NvNTRuUEJ3cWIxX3g0bHE4cmEybUdtR1J4N0hVc0g5LTFvUFBReWNQbTJQWGN0RmFnaTZwZ2VlbFpwNFlXVWRVQmtwcFkzYWlfUjhqbHRwY010OF9MZFRTczI4eHdwUHdIRWx3aTFQeHhNRWlLLW1NeWZVMGd5cFRDSzdNY2JDZVZObk9FS0NGRW9RcjRUSUxEbEVfZXJLTURSYlVRTXVYSQ?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOSnU1VXU2aTFhbGd6TjNPRzdMOHdlQzBBQWlDanpPZXhiY0paR2hBdjAwYmtOWDRfdl9KZDhmVy1XTHVFeXRYNE9CTjd6djJfcXZiel9sMk03ekVFVWE5ekpLR3pRQ1JTcUsxNXlWUEZ1ZXdibWtCeTFwTlUwak81M0FGUm9XYThBVS1yNHpkZU1ERkFmQkRUWms0YzFvQ0NvNTRuUEJ3cWIxX3g0bHE4cmEybUdtR1J4N0hVc0g5LTFvUFBReWNQbTJQWGN0RmFnaTZwZ2VlbFpwNFlXVWRVQmtwcFkzYWlfUjhqbHRwY010OF9MZFRTczI4eHdwUHdIRWx3aTFQeHhNRWlLLW1NeWZVMGd5cFRDSzdNY2JDZVZObk9FS0NGRW9RcjRUSUxEbEVfZXJLTURSYlVRTXVYSQ?oc=5",
+      "source": "The Globe and Mail",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-05-25T06:10:03+00:00",
+      "tags": [
+        "ETF"
+      ],
+      "key_quote": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026 The Globe and Mail"
     },
     {
       "title": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026",
@@ -6118,30 +6142,6 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase CEO Pushes Bitcoin Quantum Resistance as Price Stays Weak CryptoRank"
-    },
-    {
-      "title": "Coinbase CEO: Subscriptions Can Curb Reliance on Trading Fees",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQb01rWVFZS0dSOHZNQkNpSDFhbVZBSkpBQzBUaEdROWhyN25PSjV0M2ozeWo4REstUDdkZWhodUVqR1o3ZDZka0ljYzFuQU9JRTMyQS1maGcyWENlRDRSZ3dYZTE3QmZicWVtVmlOTk94ZkZrelVaWlF2cXVoOTJkN25oMDVNTDlXbDRNdkw0MnZUOTJIc2ZJ?oc=5\" target=\"_blank\">Coinbase CEO: Subscriptions Can Curb Reliance on Trading Fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockworks</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb01rWVFZS0dSOHZNQkNpSDFhbVZBSkpBQzBUaEdROWhyN25PSjV0M2ozeWo4REstUDdkZWhodUVqR1o3ZDZka0ljYzFuQU9JRTMyQS1maGcyWENlRDRSZ3dYZTE3QmZicWVtVmlOTk94ZkZrelVaWlF2cXVoOTJkN25oMDVNTDlXbDRNdkw0MnZUOTJIc2ZJ?oc=5",
-      "source": "Blockworks",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-02T21:52:12+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO: Subscriptions Can Curb Reliance on Trading Fees Blockworks"
-    },
-    {
-      "title": "Coinbase CEO Declares Post-Quantum Resistance His Personal Goal",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEVzcTVMNGNUV2k3b2FNV2t0RlZxXzAzakdRdDR2Y0JBbEJjSGRQMHRNVlNIQVJ1RUVjellnc3pYVng0dHh5ZVB3eWUySEd6dG4wM0RudWw4REpCc05xcUF6d1o0SlB3ejFDbkZJNU85VlhqMGtuQkhMRjYydk42ZlRwUTVOeTh1VTU5OGJRYmpRdHZoVTZ2Qll4dFdhNTNfaXBUUmlKRmFNeHJhWVkwa24wY2V3N0R6cHpYTUhn?oc=5\" target=\"_blank\">Coinbase CEO Declares Post-Quantum Resistance His Personal Goal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEVzcTVMNGNUV2k3b2FNV2t0RlZxXzAzakdRdDR2Y0JBbEJjSGRQMHRNVlNIQVJ1RUVjellnc3pYVng0dHh5ZVB3eWUySEd6dG4wM0RudWw4REpCc05xcUF6d1o0SlB3ejFDbkZJNU85VlhqMGtuQkhMRjYydk42ZlRwUTVOeTh1VTU5OGJRYmpRdHZoVTZ2Qll4dFdhNTNfaXBUUmlKRmFNeHJhWVkwa24wY2V3N0R6cHpYTUhn?oc=5",
-      "source": "TradingView",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-02T10:46:00+00:00",
-      "tags": [
-        "Ethereum"
-      ],
-      "key_quote": "Coinbase CEO Declares Post-Quantum Resistance His Personal Goal TradingView"
     }
   ]
 }
