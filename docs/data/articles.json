@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T14:43:18Z",
+  "updated_at": "2026-06-01T19:48:26Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 299,
@@ -9,6 +9,41 @@
     "Richard Teng": 57
   },
   "articles": [
+    {
+      "title": "Jamie Dimon calls Coinbase CEO 'full of s--t,' vows to fight crypto-friendly bill in Congress",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2FHLTBMeHNBOUpZU3ZvSXJqVzZ4RzFGRHc4ekVYOFNrdElfYURkRHY4R00wZUQ0QjVCeFdFbmVHSGJjRTI2Ym5QQ3pQMnZGa214aGgwX21MWFRSQ3d5NTRWU2tnRWtoUjVGUDJtdXA3N05LZ09jVlpLVWNNYkpMdkg0UUJqUF9fbzBSMENnczBQTV9MWTFVQ1JobkI1dVJEbE9oYXdaQkdFUF8zTE41RGJJVlQ0azDSAbwBQVVfeXFMTmFoUWFMVE1vanVDeERoUnVlSnR0NHpsT3pDcVZNeFJJZFFUVDNnX3lsWWs2SjZZMUlLOXViVGhSVHR1a3lOTEI4TGdZT0hZdkpna3RLMW8yZGpEa1lYeXZ4WXlHZGp1RTg2UmFwTUU2S0cxLWR3SVlhS0ZKbnVwYmJjbDFPUURsQlFvYkl1LUVmb3lNRmJRajd0aDdNNmlZQXRKc2xzamJaOXhSRG1qMlFOcmg5bWFMNW56WVA?oc=5\" target=\"_blank\">Jamie Dimon calls Coinbase CEO 'full of s--t,' vows to fight crypto-friendly bill in Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2FHLTBMeHNBOUpZU3ZvSXJqVzZ4RzFGRHc4ekVYOFNrdElfYURkRHY4R00wZUQ0QjVCeFdFbmVHSGJjRTI2Ym5QQ3pQMnZGa214aGgwX21MWFRSQ3d5NTRWU2tnRWtoUjVGUDJtdXA3N05LZ09jVlpLVWNNYkpMdkg0UUJqUF9fbzBSMENnczBQTV9MWTFVQ1JobkI1dVJEbE9oYXdaQkdFUF8zTE41RGJJVlQ0azDSAbwBQVVfeXFMTmFoUWFMVE1vanVDeERoUnVlSnR0NHpsT3pDcVZNeFJJZFFUVDNnX3lsWWs2SjZZMUlLOXViVGhSVHR1a3lOTEI4TGdZT0hZdkpna3RLMW8yZGpEa1lYeXZ4WXlHZGp1RTg2UmFwTUU2S0cxLWR3SVlhS0ZKbnVwYmJjbDFPUURsQlFvYkl1LUVmb3lNRmJRajd0aDdNNmlZQXRKc2xzamJaOXhSRG1qMlFOcmg5bWFMNW56WVA?oc=5",
+      "source": "Fox Business",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-01T17:16:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Jamie Dimon calls Coinbase CEO 'full of s--t,' vows to fight crypto-friendly bill in Congress Fox Business"
+    },
+    {
+      "title": "Dimon lashes out at Coinbase CEO as 'spouting nonsense,' vows to oppose U.S. cryptocurrency bill",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQODBza3RkMmJvVG9adGFPMHV5c0h2ZnR0Y0tBTkNXQ2oxc2M1X1VXRFgxd1M5RGs0bnJudTZfQVcxWmdWVFZiaXdSX3Z4dmZxX2dueU5zLVQxeERBYUVtODVHcGIzSE1qV2JhZ0EyN2lWRW9XY2NaQmhFVmdoV0lyTWVINUdLN1FtQ1AybnViVjg2VFNjQU9kb0RkY19SVUR5cFE?oc=5\" target=\"_blank\">Dimon lashes out at Coinbase CEO as 'spouting nonsense,' vows to oppose U.S. cryptocurrency bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODBza3RkMmJvVG9adGFPMHV5c0h2ZnR0Y0tBTkNXQ2oxc2M1X1VXRFgxd1M5RGs0bnJudTZfQVcxWmdWVFZiaXdSX3Z4dmZxX2dueU5zLVQxeERBYUVtODVHcGIzSE1qV2JhZ0EyN2lWRW9XY2NaQmhFVmdoV0lyTWVINUdLN1FtQ1AybnViVjg2VFNjQU9kb0RkY19SVUR5cFE?oc=5",
+      "source": "Moomoo",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-01T14:23:01+00:00",
+      "tags": [],
+      "key_quote": "Dimon lashes out at Coinbase CEO as 'spouting nonsense,' vows to oppose U.S."
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon rags on Coinbase CEO Brian Armstrong's crypto lobbying push: 'He's full of shit'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5fVWUxZjdRLU5XQmhDeWpkUEU0NlhCU04yeVNqQ0pSeHVuMERZMEtycFR5T0dCMEdWekJOSEtDWlM2akFrVk9iSlFwWXFoQWhFdHhadEZINjJrdzFkVVc3NG1yUlpsbWE0LWFQZEs1MDVzelJJS0tiQjNWRFZiUQ?oc=5\" target=\"_blank\">JPMorgan CEO Jamie Dimon rags on Coinbase CEO Brian Armstrong's crypto lobbying push: 'He's full of shit'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fVWUxZjdRLU5XQmhDeWpkUEU0NlhCU04yeVNqQ0pSeHVuMERZMEtycFR5T0dCMEdWekJOSEtDWlM2akFrVk9iSlFwWXFoQWhFdHhadEZINjJrdzFkVVc3NG1yUlpsbWE0LWFQZEs1MDVzelJJS0tiQjNWRFZiUQ?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-01T12:58:22+00:00",
+      "tags": [],
+      "key_quote": "JPMorgan CEO Jamie Dimon rags on Coinbase CEO Brian Armstrong's crypto lobbying push: 'He's full of shit' AOL.com"
+    },
     {
       "title": "Stablecoin rewards: JP Morgan’s Dimon says Coinbase CEO is full of s!!t",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUFQaXZMazIzUDFFeFh4alcwX2RUNFh6Mm9hak0tTWRWOVd2UTVxeW1GcUFuR2dsODg4WWpGS0k2NUtvb21RdHExd0R0Qi01N0ltWDlFcEhvZU1MSjhJTE41X3RUd09qZzJWUU9TSHlwNHMwWkdEcmtyWUdJVFF4OGE3VmVVMi1SVktmUl84Y2xKeGZ4bVhmTG5jS3BFMVZa?oc=5\" target=\"_blank\">Stablecoin rewards: JP Morgan’s Dimon says Coinbase CEO is full of s!!t</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ledgerinsights.com</font>",
@@ -111,6 +146,17 @@
       "key_quote": "'No One Is Going To Bow Down': JPMorgan CEO Vows To Fight CLARITY Act, Slams Coinbase’s Brian Armstrong Yahoo Finance ‘He’s full of s--t’: JPMorgan’s Dimon rips Coinbase CEO, escalates fight over crypto bill Politico Dimon Slams Coinbase’s Armstrong "
     },
     {
+      "title": "'No One Is Going To Bow Down': JPMorgan CEO Vows To Fight CLARITY Act, Slams Coinbase’s Brian Armstrong",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbXZkU3Bsd1IzdVFMbUh5XzNVNFpwMHpNQmdqWnJqeWttUWFGOHRXenVTM3Z0aEhDaHRyc3czcUtpdTI0bWx2LWdGcE42b3JQRFV1NlNtSnA0b0paTThWQ1VISXptamRwLU9sMnd6ei1QYnkwYzVZSGR3Y3dKQ3N4bEIzMzlqVGctZmRrNWE4SExXSndQLWVNcUllekdxNHMxclVibDA4dnVOMlZJNzcwT2ROYkpSSE5YeklyNFhsWGE3RFM5NDZxOURqOE9KT01RVlRhMGgweUZLVlVGZy1OTV9Qcjd3X3RwaG1zVzhCLWttWkJYMlE?oc=5\" target=\"_blank\">'No One Is Going To Bow Down': JPMorgan CEO Vows To Fight CLARITY Act, Slams Coinbase’s Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbXZkU3Bsd1IzdVFMbUh5XzNVNFpwMHpNQmdqWnJqeWttUWFGOHRXenVTM3Z0aEhDaHRyc3czcUtpdTI0bWx2LWdGcE42b3JQRFV1NlNtSnA0b0paTThWQ1VISXptamRwLU9sMnd6ei1QYnkwYzVZSGR3Y3dKQ3N4bEIzMzlqVGctZmRrNWE4SExXSndQLWVNcUllekdxNHMxclVibDA4dnVOMlZJNzcwT2ROYkpSSE5YeklyNFhsWGE3RFM5NDZxOURqOE9KT01RVlRhMGgweUZLVlVGZy1OTV9Qcjd3X3RwaG1zVzhCLWttWkJYMlE?oc=5",
+      "source": "TradingView",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-30T11:14:12+00:00",
+      "tags": [],
+      "key_quote": "'No One Is Going To Bow Down': JPMorgan CEO Vows To Fight CLARITY Act, Slams Coinbase’s Brian Armstrong TradingView"
+    },
+    {
       "title": "Brian Armstrong rebukes Dimon's stablecoin attack",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVlFOUdILW5RX0NPR09vZkJZWjd5Z3BCUXo4cHBQeWQ5cS1GUHUxMGJoZ1dzMlYwaTE2VUEtR1BOQjVtQnpXYnc1X3ozUHlzd1ZhZWVrU3A5bVlFUk1PU1cxaHRfU01oTW1EXzY3WVRtTllaRGgtem9LX2FIN1h4aw?oc=5\" target=\"_blank\">Brian Armstrong rebukes Dimon's stablecoin attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVlFOUdILW5RX0NPR09vZkJZWjd5Z3BCUXo4cHBQeWQ5cS1GUHUxMGJoZ1dzMlYwaTE2VUEtR1BOQjVtQnpXYnc1X3ozUHlzd1ZhZWVrU3A5bVlFUk1PU1cxaHRfU01oTW1EXzY3WVRtTllaRGgtem9LX2FIN1h4aw?oc=5",
@@ -194,6 +240,17 @@
         "市场 Market"
       ],
       "key_quote": "Dimon vowed to fight the passage of the crypto market structure bill until the bitter end."
+    },
+    {
+      "title": "'He’s Full of Shit': JP Morgan's Jamie Dimon Takes Aim at Coinbase CEO Over Clarity Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzRTQnV1Wnh3UnAwSE5SV0JFanVxN2JkamIzeVRHcjhMRjFFN3d0eTNseFhnQW9WVW9ZOFRDV1IxYzJ1WDFiUWtOQ25SZnlJaHUtMUdqSEUteFNGd010bE9TQmtMbmF0MHpYX1ZBN0N6TkVkSm9PU2J0Q0pkckxiNV9RQ0N6UjJpUUdaejZzM3VyLXA2Y3c?oc=5\" target=\"_blank\">'He’s Full of Shit': JP Morgan's Jamie Dimon Takes Aim at Coinbase CEO Over Clarity Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzRTQnV1Wnh3UnAwSE5SV0JFanVxN2JkamIzeVRHcjhMRjFFN3d0eTNseFhnQW9WVW9ZOFRDV1IxYzJ1WDFiUWtOQ25SZnlJaHUtMUdqSEUteFNGd010bE9TQmtMbmF0MHpYX1ZBN0N6TkVkSm9PU2J0Q0pkckxiNV9RQ0N6UjJpUUdaejZzM3VyLXA2Y3c?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-05-29T21:24:28+00:00",
+      "tags": [],
+      "key_quote": "'He’s Full of Shit': JP Morgan's Jamie Dimon Takes Aim at Coinbase CEO Over Clarity Act Yahoo Finance"
     },
     {
       "title": "JPMorgan CEO Jamie Dimon rags on Coinbase CEO Brian Armstrong's crypto lobbying push: 'He's full of shit'",
@@ -6086,69 +6143,6 @@
         "市场 Market"
       ],
       "key_quote": "Changpeng Zhao-backed YZi Labs makes additional investment in prediction market startup Predict.fun 디지털투데이"
-    },
-    {
-      "title": "Cryptocurrency Exchange Lawsuits: Coinbase CEO Reveals Critical Legal Risks in Token Listings",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3BCU19qU2sxMGZvT1dPWFlDOFEwZW9UaEpTYThQcF9NM1dCd29KNkxocDdNRm9yNkZ3M1EzS1VRZTZFY2JwTlRFRXg2cHNka055VVRPT2FPRDIyVXd1NHM4Vm1HNmZrWThZSzJfcGtpZkI1SW4tVVllYnFCaFY0OEhZclYwVWNiNUlN?oc=5\" target=\"_blank\">Cryptocurrency Exchange Lawsuits: Coinbase CEO Reveals Critical Legal Risks in Token Listings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cryptorank.io</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3BCU19qU2sxMGZvT1dPWFlDOFEwZW9UaEpTYThQcF9NM1dCd29KNkxocDdNRm9yNkZ3M1EzS1VRZTZFY2JwTlRFRXg2cHNka055VVRPT2FPRDIyVXd1NHM4Vm1HNmZrWThZSzJfcGtpZkI1SW4tVVllYnFCaFY0OEhZclYwVWNiNUlN?oc=5",
-      "source": "cryptorank.io",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-03T20:36:05+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Cryptocurrency Exchange Lawsuits: Coinbase CEO Reveals Critical Legal Risks in Token Listings cryptorank.io"
-    },
-    {
-      "title": "Every AI Agent Deserves a Crypto Wallet: Coinbase CEO",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9xM0NSVFE2eHpNMGdNZmZUSVJwaV9DVGZIWHlPMnJqNFBhLUVZOTBndGc3NXhjS1FIcWVyTjdGbDNZaF9MTi1WbWRsSVpvTG1TbzllMHh0VUZaLTFXRnlXblBULXF4YkFtOGRuUm1YdjlOYThOU2xfSTRFaDRXTmPSAYQBQVVfeXFMUHh5eTJzQmgyU2p3QzF3UWZib2JqM3FYTjg3NlJCcEZtQzd1ZXhtTnFzNEI5TzJFZkdjTlg4YjVieTdUZ19NRkptTzVzZF93eFZNaGRoWnNGNW80Vzd5SFUwSUxqbjBQTkVHWDRjNGp4dDh5TVlFZWRiNWNlSjlFdXgwLW1O?oc=5\" target=\"_blank\">Every AI Agent Deserves a Crypto Wallet: Coinbase CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZyCrypto</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xM0NSVFE2eHpNMGdNZmZUSVJwaV9DVGZIWHlPMnJqNFBhLUVZOTBndGc3NXhjS1FIcWVyTjdGbDNZaF9MTi1WbWRsSVpvTG1TbzllMHh0VUZaLTFXRnlXblBULXF4YkFtOGRuUm1YdjlOYThOU2xfSTRFaDRXTmPSAYQBQVVfeXFMUHh5eTJzQmgyU2p3QzF3UWZib2JqM3FYTjg3NlJCcEZtQzd1ZXhtTnFzNEI5TzJFZkdjTlg4YjVieTdUZ19NRkptTzVzZF93eFZNaGRoWnNGNW80Vzd5SFUwSUxqbjBQTkVHWDRjNGp4dDh5TVlFZWRiNWNlSjlFdXgwLW1O?oc=5",
-      "source": "ZyCrypto",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-03T20:02:04+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Every AI Agent Deserves a Crypto Wallet: Coinbase CEO ZyCrypto"
-    },
-    {
-      "title": "Coinbase CEO 'Hearing Rumors' That Staking Could Be Banned in U.S.",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHpqUDYxc3VqT3V3SWJQbkdPeV9PZDRiU3dZRUlpUFhwTGxhVUJ3SzJQQUo5d2VYUExkTzFDSnhTazR2NUxvR3BmSjN1amhrMHliMC03UTZVT29vYXpVMlZIUEZCRFg2RWoxR3hnbjNnMWxyU0Z1VFpTV2xiREJxMTRqeDhXOUhUN0JBS1dzbnE3Sm56VzlEU1lxLVBNNkUzNl9mRUg1SDZidmVJ?oc=5\" target=\"_blank\">Coinbase CEO 'Hearing Rumors' That Staking Could Be Banned in U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinMarketCap</font>",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHpqUDYxc3VqT3V3SWJQbkdPeV9PZDRiU3dZRUlpUFhwTGxhVUJ3SzJQQUo5d2VYUExkTzFDSnhTazR2NUxvR3BmSjN1amhrMHliMC03UTZVT29vYXpVMlZIUEZCRFg2RWoxR3hnbjNnMWxyU0Z1VFpTV2xiREJxMTRqeDhXOUhUN0JBS1dzbnE3Sm56VzlEU1lxLVBNNkUzNl9mRUg1SDZidmVJ?oc=5",
-      "source": "CoinMarketCap",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-03T09:33:32+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase CEO 'Hearing Rumors' That Staking Could Be Banned in U.S."
-    },
-    {
-      "title": "Coinbase CEO Addresses ‘Quantum Threat’ to Cryptocurrencies",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGtUdmJYODFXNUhxcmNFdkxpOUFDdnRVUDJsVGptczE5NUpoOW5TdGlxSmhjcmNaeVpwZ3drYzRBT0FncDNPUDB0Y2Qwbjl6MWxoZjlDamVVTTJaWVh4MlJ6VkdFdzN0TFZSZEY5cWxDYzVtY19tNmQtUlZXWkI2blZDRHJWZlAyRXlGODNqUWhsMkhmZTRaczJSQlNyNHNB?oc=5\" target=\"_blank\">Coinbase CEO Addresses ‘Quantum Threat’ to Cryptocurrencies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thequantuminsider.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGtUdmJYODFXNUhxcmNFdkxpOUFDdnRVUDJsVGptczE5NUpoOW5TdGlxSmhjcmNaeVpwZ3drYzRBT0FncDNPUDB0Y2Qwbjl6MWxoZjlDamVVTTJaWVh4MlJ6VkdFdzN0TFZSZEY5cWxDYzVtY19tNmQtUlZXWkI2blZDRHJWZlAyRXlGODNqUWhsMkhmZTRaczJSQlNyNHNB?oc=5",
-      "source": "thequantuminsider.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-03T09:03:46+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Addresses ‘Quantum Threat’ to Cryptocurrencies thequantuminsider.com"
-    },
-    {
-      "title": "Brian Armstrong Pledges Personal Oversight for Bitcoin Quantum Resistance",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXZjZC1ZUEpyOC1sdGVEWHBNNjFzaExSUkhQM3F1MlNqYWo2Rl9lN0lZck9od01rZEttemlQRjVPQTlrRWVkYXRxUUI3Vk9rZ3ZLcU1UemRVOHhYU3JsMVpxa3MyUWoyM0RDMlJ6T2FCb2w5bGFSRFpXOWxiSC1jQXpmZjJvYll4bFR6aTJXWkN6ODdrdjNuRHlTSmJXei1y?oc=5\" target=\"_blank\">Brian Armstrong Pledges Personal Oversight for Bitcoin Quantum Resistance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXZjZC1ZUEpyOC1sdGVEWHBNNjFzaExSUkhQM3F1MlNqYWo2Rl9lN0lZck9od01rZEttemlQRjVPQTlrRWVkYXRxUUI3Vk9rZ3ZLcU1UemRVOHhYU3JsMVpxa3MyUWoyM0RDMlJ6T2FCb2w5bGFSRFpXOWxiSC1jQXpmZjJvYll4bFR6aTJXWkN6ODdrdjNuRHlTSmJXei1y?oc=5",
-      "source": "FinanceFeeds",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-03T07:43:46+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Brian Armstrong Pledges Personal Oversight for Bitcoin Quantum Resistance FinanceFeeds"
     }
   ]
 }
