@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T09:55:19Z",
+  "updated_at": "2026-06-02T13:45:06Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 300,
@@ -9,6 +9,17 @@
     "Richard Teng": 57
   },
   "articles": [
+    {
+      "title": "Jamie Dimon Blasts Brian Armstrong: JP Morgan Vs. Coinbase",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBuM0poLWZZM0x5Uk84eWVvdTZhVWJqa0xkVFBsa1pRNU5pRG1mRFhmX1JqdmhDUlJNeF9GOEZmOERISlBlclVmODVjSVNtdXZadkFGRndSQ0x6dUVsNTZyakhBckdGeXU3SVVzTlMtT3d3dlZxMkpkYw?oc=5\" target=\"_blank\">Jamie Dimon Blasts Brian Armstrong: JP Morgan Vs. Coinbase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tokenist</font>",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuM0poLWZZM0x5Uk84eWVvdTZhVWJqa0xkVFBsa1pRNU5pRG1mRFhmX1JqdmhDUlJNeF9GOEZmOERISlBlclVmODVjSVNtdXZadkFGRndSQ0x6dUVsNTZyakhBckdGeXU3SVVzTlMtT3d3dlZxMkpkYw?oc=5",
+      "source": "Tokenist",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-02T13:26:06+00:00",
+      "tags": [],
+      "key_quote": "Jamie Dimon Blasts Brian Armstrong: JP Morgan Vs. Coinbase Tokenist"
+    },
     {
       "title": "Jamie Dimon calls Coinbase CEO 'full of s--t,' vows to fight crypto-friendly bill in Congress",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2FHLTBMeHNBOUpZU3ZvSXJqVzZ4RzFGRHc4ekVYOFNrdElfYURkRHY4R00wZUQ0QjVCeFdFbmVHSGJjRTI2Ym5QQ3pQMnZGa214aGgwX21MWFRSQ3d5NTRWU2tnRWtoUjVGUDJtdXA3N05LZ09jVlpLVWNNYkpMdkg0UUJqUF9fbzBSMENnczBQTV9MWTFVQ1JobkI1dVJEbE9oYXdaQkdFUF8zTE41RGJJVlQ0azDSAbwBQVVfeXFMTmFoUWFMVE1vanVDeERoUnVlSnR0NHpsT3pDcVZNeFJJZFFUVDNnX3lsWWs2SjZZMUlLOXViVGhSVHR1a3lOTEI4TGdZT0hZdkpna3RLMW8yZGpEa1lYeXZ4WXlHZGp1RTg2UmFwTUU2S0cxLWR3SVlhS0ZKbnVwYmJjbDFPUURsQlFvYkl1LUVmb3lNRmJRajd0aDdNNmlZQXRKc2xzamJaOXhSRG1qMlFOcmg5bWFMNW56WVA?oc=5\" target=\"_blank\">Jamie Dimon calls Coinbase CEO 'full of s--t,' vows to fight crypto-friendly bill in Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
@@ -6127,20 +6138,6 @@
         "Bitcoin"
       ],
       "key_quote": "Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats Yahoo Finance"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Pledges Direct Involvement in Bitcoin's Quantum Defense Strategy",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVcyWTAxeThoZ3NYcFZ5dVFkX0JTcHVSUG5mQUFBdVpkMk1hVkRWS3FxRmh3eHlkeDVfTlo4WTFnS3RlZ05SWTY3d1JSMklGQmdRUUFYR0d6M2V5bUxQWk0tTU11U2Q4aWdSTWZfNjB1UkRsWVNSWDdSQm96eFVxbDQzOUpLbk94dUxNeWRlTFE3SnJMVGNyd3NKSUI4clF6aFhYLXZtVjFRYm00UmtBVjVpSElseGc?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Pledges Direct Involvement in Bitcoin's Quantum Defense Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVcyWTAxeThoZ3NYcFZ5dVFkX0JTcHVSUG5mQUFBdVpkMk1hVkRWS3FxRmh3eHlkeDVfTlo4WTFnS3RlZ05SWTY3d1JSMklGQmdRUUFYR0d6M2V5bUxQWk0tTU11U2Q4aWdSTWZfNjB1UkRsWVNSWDdSQm96eFVxbDQzOUpLbk94dUxNeWRlTFE3SnJMVGNyd3NKSUI4clF6aFhYLXZtVjFRYm00UmtBVjVpSElseGc?oc=5",
-      "source": "Blockonomi",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-04T08:30:08+00:00",
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong Pledges Direct Involvement in Bitcoin's Quantum Defense Strategy Blockonomi"
     }
   ]
 }
