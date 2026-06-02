@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T17:56:55Z",
+  "updated_at": "2026-06-02T20:35:27Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 300,
@@ -10,6 +10,17 @@
   },
   "articles": [
     {
+      "title": "Cyera's $12b valuation, Brian Armstrong's new, NewLimit, and H&F's $1.8b Hyve buy",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRXJVeGNEWmNiYzdJSEx6b2lyTTVfVUlROGo2MUp4Y3BhYXlVLVZfRGhjVDJPSEdnQlpBUG1lNjFGS3Q5YjN2Mnl1eFg0RkNTdHhreXVXd21wSTZKem5uOHJGY0diTDVMcnRuaUN5Z0lwTjhmR3pxSmU5b0stdGc?oc=5\" target=\"_blank\">Cyera's $12b valuation, Brian Armstrong's new, NewLimit, and H&amp;F's $1.8b Hyve buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRXJVeGNEWmNiYzdJSEx6b2lyTTVfVUlROGo2MUp4Y3BhYXlVLVZfRGhjVDJPSEdnQlpBUG1lNjFGS3Q5YjN2Mnl1eFg0RkNTdHhreXVXd21wSTZKem5uOHJGY0diTDVMcnRuaUN5Z0lwTjhmR3pxSmU5b0stdGc?oc=5",
+      "source": "Axios",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-02T19:40:42+00:00",
+      "tags": [],
+      "key_quote": "Cyera's $12b valuation, Brian Armstrong's new, NewLimit, and H&F's $1.8b Hyve buy Axios"
+    },
+    {
       "title": "Jamie Dimon Blasts Brian Armstrong: JP Morgan Vs. Coinbase",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBuM0poLWZZM0x5Uk84eWVvdTZhVWJqa0xkVFBsa1pRNU5pRG1mRFhmX1JqdmhDUlJNeF9GOEZmOERISlBlclVmODVjSVNtdXZadkFGRndSQ0x6dUVsNTZyakhBckdGeXU3SVVzTlMtT3d3dlZxMkpkYw?oc=5\" target=\"_blank\">Jamie Dimon Blasts Brian Armstrong: JP Morgan Vs. Coinbase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tokenist</font>",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuM0poLWZZM0x5Uk84eWVvdTZhVWJqa0xkVFBsa1pRNU5pRG1mRFhmX1JqdmhDUlJNeF9GOEZmOERISlBlclVmODVjSVNtdXZadkFGRndSQ0x6dUVsNTZyakhBckdGeXU3SVVzTlMtT3d3dlZxMkpkYw?oc=5",
@@ -19,6 +30,19 @@
       "published_at": "2026-06-02T13:26:06+00:00",
       "tags": [],
       "key_quote": "Jamie Dimon Blasts Brian Armstrong: JP Morgan Vs. Coinbase Tokenist"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Says 'Free Market Of Ideas Is The Best Regulator'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxORjFnM1h6WnU4SndqTE9SQ0JvdlAybDc1NmdrUjFVLTVkR096SkM3dE4yLUtBRzBJYTNFNlFiWXVjSEl3VVVFand1NExEQnFwNjdqQVRIcGdia1BLcUNsSFJJdDBrRUZ6LVl6SEtjRFBRcTNPVnN0angweWFRZVFFWjlaa0dBOHlOdG9nUzVyemtjSE16TEF6MmJpaHczZ2lJdVFHaW9Hc0dFV3lXeDI2RlRxT0tOY1NCVHRldWZEQm0zUE4yT2lz?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says 'Free Market Of Ideas Is The Best Regulator'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORjFnM1h6WnU4SndqTE9SQ0JvdlAybDc1NmdrUjFVLTVkR096SkM3dE4yLUtBRzBJYTNFNlFiWXVjSEl3VVVFand1NExEQnFwNjdqQVRIcGdia1BLcUNsSFJJdDBrRUZ6LVl6SEtjRFBRcTNPVnN0angweWFRZVFFWjlaa0dBOHlOdG9nUzVyemtjSE16TEF6MmJpaHczZ2lJdVFHaW9Hc0dFV3lXeDI2RlRxT0tOY1NCVHRldWZEQm0zUE4yT2lz?oc=5",
+      "source": "Sahm",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-01T18:12:25+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says 'Free Market Of Ideas Is The Best Regulator' Sahm"
     },
     {
       "title": "Jamie Dimon calls Coinbase CEO 'full of s--t,' vows to fight crypto-friendly bill in Congress",
@@ -6112,32 +6136,6 @@
       "published_at": "2026-04-04T10:07:38+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Signals Base App Push Toward 1B Crypto Users Coinfomania"
-    },
-    {
-      "title": "Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMHp5SXU1T2VXTnFsLVJsYzgwdUJ3WlkyWHU0MzEtRk80TTVHREU3ZWFBV0hFWVZkX0c4cGtQeC1DMkVwOGpSbkg2TmNKTVBUOW5UOExOM3BnemdsUnp3czVLanVVNnh0YkdEd0JSUFNLYWJxUnFpcXBaV1Jkc0JvR1VfWUtjai12bnpSdQ?oc=5\" target=\"_blank\">Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMHp5SXU1T2VXTnFsLVJsYzgwdUJ3WlkyWHU0MzEtRk80TTVHREU3ZWFBV0hFWVZkX0c4cGtQeC1DMkVwOGpSbkg2TmNKTVBUOW5UOExOM3BnemdsUnp3czVLanVVNnh0YkdEd0JSUFNLYWJxUnFpcXBaV1Jkc0JvR1VfWUtjai12bnpSdQ?oc=5",
-      "source": "Cryptonews",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-04T09:26:00+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats Cryptonews"
-    },
-    {
-      "title": "Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmUtal9seVB1ckMzdk91QWVwY2drVFJyWG4tMkVXOW1DZVFTUDFaU3dKcTZYMXZLN2xxZ1BpNUF2Z3hldmc0QkFEVkFQSHpwOEtkcFRyeHpCV2dYTUl4ZDlMazJXVGp1R013VWlkekt2YndwdUFFbmdfc2piVXE1Y29UcERWVlQyTVpZbl9jcmRlWEdoT1FZZ0VZek1lVVRwQWtzbHZGUTZiZEU?oc=5\" target=\"_blank\">Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmUtal9seVB1ckMzdk91QWVwY2drVFJyWG4tMkVXOW1DZVFTUDFaU3dKcTZYMXZLN2xxZ1BpNUF2Z3hldmc0QkFEVkFQSHpwOEtkcFRyeHpCV2dYTUl4ZDlMazJXVGp1R013VWlkekt2YndwdUFFbmdfc2piVXE1Y29UcERWVlQyTVpZbl9jcmRlWEdoT1FZZ0VZek1lVVRwQWtzbHZGUTZiZEU?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-04T09:26:00+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Brian Armstrong Pledges Personal Oversight to Future-Proof Bitcoin Against Quantum Threats Yahoo Finance"
     }
   ]
 }
