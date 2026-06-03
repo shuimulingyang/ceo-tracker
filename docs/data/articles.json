@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T05:52:18Z",
+  "updated_at": "2026-06-03T10:26:35Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 300,
@@ -9,6 +9,17 @@
     "Richard Teng": 57
   },
   "articles": [
+    {
+      "title": "Brian Armstrong’s NewLimit Raises $435M for Human Trials",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUl9RMnNjSkIxamVXZkdmZWtheEUwUzB0dW1KU25jR24ySzNXQTJMbUl4eHRzNHZtRFplMkZPdWtla05MczdTWnBfVkZyTnUtQTlJSGNmNjZxVGRBZGdGUmx4aVdfcHhoN3ZyRE1RRzhxSUlFYkJnZlVCakdnX1hsZA?oc=5\" target=\"_blank\">Brian Armstrong’s NewLimit Raises $435M for Human Trials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUl9RMnNjSkIxamVXZkdmZWtheEUwUzB0dW1KU25jR24ySzNXQTJMbUl4eHRzNHZtRFplMkZPdWtla05MczdTWnBfVkZyTnUtQTlJSGNmNjZxVGRBZGdGUmx4aVdfcHhoN3ZyRE1RRzhxSUlFYkJnZlVCakdnX1hsZA?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-03T08:24:54+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong’s NewLimit Raises $435M for Human Trials crypto.news"
+    },
     {
       "title": "Cyera's $12b valuation, Brian Armstrong's new, NewLimit, and H&F's $1.8b Hyve buy",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRXJVeGNEWmNiYzdJSEx6b2lyTTVfVUlROGo2MUp4Y3BhYXlVLVZfRGhjVDJPSEdnQlpBUG1lNjFGS3Q5YjN2Mnl1eFg0RkNTdHhreXVXd21wSTZKem5uOHJGY0diTDVMcnRuaUN5Z0lwTjhmR3pxSmU5b0stdGc?oc=5\" target=\"_blank\">Cyera's $12b valuation, Brian Armstrong's new, NewLimit, and H&amp;F's $1.8b Hyve buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
@@ -6125,17 +6136,6 @@
         "市场 Market"
       ],
       "key_quote": "‘You Have Until 2029’—Urgent Musk Bitcoin Warning Spurs Coinbase CEO Flip As Price Crash Fears Swirl Forbes"
-    },
-    {
-      "title": "Coinbase CEO Signals Base App Push Toward 1B Crypto Users",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNzhfdVFqRmVhOExaUkFoNmVuUEZHZFJLcnBRUk9rcjY2Y3h6RVpYdnZuSjVpeGtGcnVmN0dZYUxlWnBSUXBDdmN3a0EycTY2NUc4al92WjlPT1hETy1kNVZvUm1sZnMyaWpHNnFDQkVWTnhhVlp1akRFd19vSG10Ry1CdlJtOTUycEE?oc=5\" target=\"_blank\">Coinbase CEO Signals Base App Push Toward 1B Crypto Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinfomania</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNzhfdVFqRmVhOExaUkFoNmVuUEZHZFJLcnBRUk9rcjY2Y3h6RVpYdnZuSjVpeGtGcnVmN0dZYUxlWnBSUXBDdmN3a0EycTY2NUc4al92WjlPT1hETy1kNVZvUm1sZnMyaWpHNnFDQkVWTnhhVlp1akRFd19vSG10Ry1CdlJtOTUycEE?oc=5",
-      "source": "Coinfomania",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-04T10:07:38+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Signals Base App Push Toward 1B Crypto Users Coinfomania"
     }
   ]
 }
