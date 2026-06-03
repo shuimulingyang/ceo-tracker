@@ -1,14 +1,47 @@
 {
-  "updated_at": "2026-06-03T15:22:46Z",
+  "updated_at": "2026-06-03T19:38:40Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 300,
-    "CZ": 93,
+    "Brian Armstrong": 299,
+    "CZ": 94,
     "Star Xu": 22,
     "Ben Zhou": 28,
     "Richard Teng": 57
   },
   "articles": [
+    {
+      "title": "Brian Armstrong’s $435M Gamble Goes Beyond Crypto",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5CMVYxSVQ0QUVvUWxjS1RyU2haY2pfLXFvbzJuT3lxVFlVZFg4dm1zc25FTjNCUUVtOXU3bWMyNkQwMlRsQnN6R3NOYmJRcTJ1OFJSZnE5WE9QS19JVFZ4Ny1EWFRmeXljdTl3UkJiVGtwZUFnWmxDQV9ybGNxQQ?oc=5\" target=\"_blank\">Brian Armstrong’s $435M Gamble Goes Beyond Crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CMVYxSVQ0QUVvUWxjS1RyU2haY2pfLXFvbzJuT3lxVFlVZFg4dm1zc25FTjNCUUVtOXU3bWMyNkQwMlRsQnN6R3NOYmJRcTJ1OFJSZnE5WE9QS19JVFZ4Ny1EWFRmeXljdTl3UkJiVGtwZUFnWmxDQV9ybGNxQQ?oc=5",
+      "source": "FinanceFeeds",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-03T18:43:31+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong’s $435M Gamble Goes Beyond Crypto FinanceFeeds"
+    },
+    {
+      "title": "Changpeng Zhao has some scores to settle in 'Freedom of Money'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPUEJrZm5BaVQyWWZwNmRjNDU0QkRxM3d6eDBPbGs3czNqOVprY25pNHhKWnhkaG5MOVhTa21yQVJSeUplT0E5WGdSZG51MUE4RWxKd1JBNmYxcF9GYnNyTzB2VTh5TE9Wd29iaEV0c0Y0cUxhbU54cVFyODNIYmhpWlZOLUg1SFk?oc=5\" target=\"_blank\">Changpeng Zhao has some scores to settle in 'Freedom of Money'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUEJrZm5BaVQyWWZwNmRjNDU0QkRxM3d6eDBPbGs3czNqOVprY25pNHhKWnhkaG5MOVhTa21yQVJSeUplT0E5WGdSZG51MUE4RWxKd1JBNmYxcF9GYnNyTzB2VTh5TE9Wd29iaEV0c0Y0cUxhbU54cVFyODNIYmhpWlZOLUg1SFk?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-03T15:19:57+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao has some scores to settle in 'Freedom of Money' AOL.com"
+    },
+    {
+      "title": "Coinbase CEO's antiaging company raises $435 million to reprogram your cells",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOLW42ckR4RUpKczdRb2tRdmhscmxmVHRPME9wQllQZnZpM1ljOTJiMXJ3UjI5YkpHbnFDMHFBS21WRjFJU25HSk0ybDhDdmhrRl9kVGVBR0EyUTNaLTBpN0tNU1hJRXZueVAwSE9KVktsVThDVHdfTUFuTDZUdXI2V21JX1VDbVFsdWlPNXdzeUNTVEpWWU9rR2cwQWVJWGtWSXo1R0VLakR1WFkwZVF2dg?oc=5\" target=\"_blank\">Coinbase CEO's antiaging company raises $435 million to reprogram your cells</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLW42ckR4RUpKczdRb2tRdmhscmxmVHRPME9wQllQZnZpM1ljOTJiMXJ3UjI5YkpHbnFDMHFBS21WRjFJU25HSk0ybDhDdmhrRl9kVGVBR0EyUTNaLTBpN0tNU1hJRXZueVAwSE9KVktsVThDVHdfTUFuTDZUdXI2V21JX1VDbVFsdWlPNXdzeUNTVEpWWU9rR2cwQWVJWGtWSXo1R0VLakR1WFkwZVF2dg?oc=5",
+      "source": "The Business Journals",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-03T12:56:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO's antiaging company raises $435 million to reprogram your cells The Business Journals"
+    },
     {
       "title": "Coinbase CEO-Backed NewLimit Claims Aging Reversal Breakthrough, Raises $435 Million For Human Trials",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGIxSXJlNEpIYy10bllTSklKWTlqN0hVdzF2ekNFWnMzUjBKbFF2LWtSUEdwZzAwb3NLQ1BTNktxN3B5NVdVdl9SWWJxajJQc1VOaU9iNHdVZy1JZUVOMmkzTnB1SHpCY0hwX25XUll0VXlSVklZaHRDQ0pQZC1wb1hES1ZZeVBVREdVWDBndEVwN1hQRjI1QjRWNzZfZkxqYk43dHhYamZyWUI2R0hWVnY3UlEycDFFNFE3Qw?oc=5\" target=\"_blank\">Coinbase CEO-Backed NewLimit Claims Aging Reversal Breakthrough, Raises $435 Million For Human Trials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -6098,41 +6131,6 @@
       "published_at": "2026-04-04T21:49:02+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong Calls for \"Shenzhen-Style\" Special Economic Zones in the US Blockonomi"
-    },
-    {
-      "title": "Coinbase CEO Teases All-in-One Base App for Mass Crypto Adoption",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPazd3cUM2bERxS1BEaHd4SzNiWDFvLWhwTGVFM1NpTXUzWWdaTnJIaTczVmt0MVVWdnlweHJVQnhsYjRrVlRsYnlaaW5ld0NsMnNVMmFxVmtnLVZYSjJZcXJfYUhnWEdVb2pJU21CS1FxSWdRNmM1dE1nUU1FNlhBNF9uRkRDdUFCS05lQ3VuMVNaZmhRYmp2T3hCbDUydw?oc=5\" target=\"_blank\">Coinbase CEO Teases All-in-One Base App for Mass Crypto Adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Live Bitcoin News</font>",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazd3cUM2bERxS1BEaHd4SzNiWDFvLWhwTGVFM1NpTXUzWWdaTnJIaTczVmt0MVVWdnlweHJVQnhsYjRrVlRsYnlaaW5ld0NsMnNVMmFxVmtnLVZYSjJZcXJfYUhnWEdVb2pJU21CS1FxSWdRNmM1dE1nUU1FNlhBNF9uRkRDdUFCS05lQ3VuMVNaZmhRYmp2T3hCbDUydw?oc=5",
-      "source": "Live Bitcoin News",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-04T18:49:45+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO Teases All-in-One Base App for Mass Crypto Adoption Live Bitcoin News"
-    },
-    {
-      "title": "'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmxzSXEyY0tkVzI2SFI3ZlBpcllWQnVYSnMtOGlkTzdORVc0bVVhS1d2aVBtNG5nWkNfejk2OFk5dEJXcHlJaTM2NW5VOW5qc2ptdEVTMi1XZnBEMXN3cTQ3MndNTDBsazhIUnQ1RVFscURjRGRmRmRqejRhRVhYNnR1QmI2M3pnczNDWDJuWVRJYkJtdjczRTl6dTNTNW1nVlM4eXFIUFdldG5wNEh2WDkwRHJoWUhSYllCNFJDZUM?oc=5\" target=\"_blank\">'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmxzSXEyY0tkVzI2SFI3ZlBpcllWQnVYSnMtOGlkTzdORVc0bVVhS1d2aVBtNG5nWkNfejk2OFk5dEJXcHlJaTM2NW5VOW5qc2ptdEVTMi1XZnBEMXN3cTQ3MndNTDBsazhIUnQ1RVFscURjRGRmRmRqejRhRVhYNnR1QmI2M3pnczNDWDJuWVRJYkJtdjczRTl6dTNTNW1nVlM4eXFIUFdldG5wNEh2WDkwRHJoWUhSYllCNFJDZUM?oc=5",
-      "source": "TradingView",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-04T13:59:00+00:00",
-      "tags": [],
-      "key_quote": "'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People TradingView"
-    },
-    {
-      "title": "Coinbase CEO Signals Base App Push Toward 1B Crypto Users",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IQzdNNmtqUVZUam9XOFp6SkF3YTl4Mm1HVkEtLTVsRFJ2bWN0bjRiYjYxRGlHT1JzVWZ6V1BfRDNmTDkxWnhLWUhPN2hUeFF4dWt4dDNlVQ?oc=5\" target=\"_blank\">Coinbase CEO Signals Base App Push Toward 1B Crypto Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IQzdNNmtqUVZUam9XOFp6SkF3YTl4Mm1HVkEtLTVsRFJ2bWN0bjRiYjYxRGlHT1JzVWZ6V1BfRDNmTDkxWnhLWUhPN2hUeFF4dWt4dDNlVQ?oc=5",
-      "source": "cryptonews.net",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-04T13:28:39+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Signals Base App Push Toward 1B Crypto Users cryptonews.net"
     }
   ]
 }
