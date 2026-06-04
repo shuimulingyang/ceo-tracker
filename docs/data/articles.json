@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T09:38:05Z",
+  "updated_at": "2026-06-04T12:34:28Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 299,
@@ -9,6 +9,17 @@
     "Richard Teng": 57
   },
   "articles": [
+    {
+      "title": "Coinbase CEO ‘sad’ to hear Jamie Dimon’s personal attacks over crypto lobbying",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUFaaVltMTZlRlpjSG0wRWlGY0xyVmIzMmRDQkJnM0ExWkRtM3JBR3dEQzg4SmFBWEpSV1loeG5FNUNCS3FQZEMwUlBwelNwckVGNktyUHpDaDNXdlNzTEMwcXFWV2s4UXV4MnNEYWNSbkFiRGhuR21GTXpuMk0wR3FzdmJtRUY0MnZV?oc=5\" target=\"_blank\">Coinbase CEO ‘sad’ to hear Jamie Dimon’s personal attacks over crypto lobbying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUFaaVltMTZlRlpjSG0wRWlGY0xyVmIzMmRDQkJnM0ExWkRtM3JBR3dEQzg4SmFBWEpSV1loeG5FNUNCS3FQZEMwUlBwelNwckVGNktyUHpDaDNXdlNzTEMwcXFWV2s4UXV4MnNEYWNSbkFiRGhuR21GTXpuMk0wR3FzdmJtRUY0MnZV?oc=5",
+      "source": "Politico",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-04T08:55:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO ‘sad’ to hear Jamie Dimon’s personal attacks over crypto lobbying Politico"
+    },
     {
       "title": "Brian Armstrong’s $435M Gamble Goes Beyond Crypto",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5CMVYxSVQ0QUVvUWxjS1RyU2haY2pfLXFvbzJuT3lxVFlVZFg4dm1zc25FTjNCUUVtOXU3bWMyNkQwMlRsQnN6R3NOYmJRcTJ1OFJSZnE5WE9QS19JVFZ4Ny1EWFRmeXljdTl3UkJiVGtwZUFnWmxDQV9ybGNxQQ?oc=5\" target=\"_blank\">Brian Armstrong’s $435M Gamble Goes Beyond Crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
@@ -6120,17 +6131,6 @@
       "published_at": "2026-04-04T22:38:41+00:00",
       "tags": [],
       "key_quote": "'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People Cryptonews.net"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Calls for \"Shenzhen-Style\" Special Economic Zones in the US",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOMmdwY2t4cWhFRlVBRTRSU2stLVBQM1IwUWxQclBPTFBNeHpqZ1kxQXR4STRqWDQ0Yk9wY3pHRFVwNjNTTm11eW5RcnRBMmlpcUVZMnNGX0xxWVNQTFR4RVJLX1gxWnlORDY4UjlPM0FyRkVwU0w0N2hrNzVhTWdBaUIwam1iN1h1WHRIMVozTWU5NlpiNndrUUtHMWJtb2ZuQ180Y2JkYVFRczBIeXFB?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Calls for \"Shenzhen-Style\" Special Economic Zones in the US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMmdwY2t4cWhFRlVBRTRSU2stLVBQM1IwUWxQclBPTFBNeHpqZ1kxQXR4STRqWDQ0Yk9wY3pHRFVwNjNTTm11eW5RcnRBMmlpcUVZMnNGX0xxWVNQTFR4RVJLX1gxWnlORDY4UjlPM0FyRkVwU0w0N2hrNzVhTWdBaUIwam1iN1h1WHRIMVozTWU5NlpiNndrUUtHMWJtb2ZuQ180Y2JkYVFRczBIeXFB?oc=5",
-      "source": "Blockonomi",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-04T21:49:02+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong Calls for \"Shenzhen-Style\" Special Economic Zones in the US Blockonomi"
     }
   ]
 }
