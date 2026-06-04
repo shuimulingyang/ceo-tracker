@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T16:14:16Z",
+  "updated_at": "2026-06-04T19:09:51Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 299,
@@ -9,6 +9,17 @@
     "Richard Teng": 57
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Calls Jamie Dimon Criticism 'Sad' As Fight Over Crypto Bill Intensifies",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0s2QWprVHp0RHo5ay1pTEdYZnh5MzlwRnZzS1ZhZlBhd0IzcU5kNzRWOER4SzJQbGtHVmRBdk9zbmtSUW1oRmRaclFXZ0VyQUJBXy1tMHVHYkxtVWZidHpnWGNJdzczOHBwNzlpdTlwZkdHMThxLTN5d2daRWhQaWVIWnVHNzY3V2RadXJiaHJpLTRYZTZ5Z0J6UUxmejJLejhXUTU5Zk5OTUdGTE5SVUVnQ1MwSHd3ZEg4T1M0OG9qYXF4S3c?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Calls Jamie Dimon Criticism 'Sad' As Fight Over Crypto Bill Intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0s2QWprVHp0RHo5ay1pTEdYZnh5MzlwRnZzS1ZhZlBhd0IzcU5kNzRWOER4SzJQbGtHVmRBdk9zbmtSUW1oRmRaclFXZ0VyQUJBXy1tMHVHYkxtVWZidHpnWGNJdzczOHBwNzlpdTlwZkdHMThxLTN5d2daRWhQaWVIWnVHNzY3V2RadXJiaHJpLTRYZTZ5Z0J6UUxmejJLejhXUTU5Zk5OTUdGTE5SVUVnQ1MwSHd3ZEg4T1M0OG9qYXF4S3c?oc=5",
+      "source": "International Business Times",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-04T18:34:42+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Calls Jamie Dimon Criticism 'Sad' As Fight Over Crypto Bill Intensifies International Business Times"
+    },
     {
       "title": "Coinbase CEO ‘sad’ to hear Jamie Dimon’s personal attacks over crypto lobbying",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUFaaVltMTZlRlpjSG0wRWlGY0xyVmIzMmRDQkJnM0ExWkRtM3JBR3dEQzg4SmFBWEpSV1loeG5FNUNCS3FQZEMwUlBwelNwckVGNktyUHpDaDNXdlNzTEMwcXFWV2s4UXV4MnNEYWNSbkFiRGhuR21GTXpuMk0wR3FzdmJtRUY0MnZV?oc=5\" target=\"_blank\">Coinbase CEO ‘sad’ to hear Jamie Dimon’s personal attacks over crypto lobbying</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
@@ -6120,17 +6131,6 @@
       "published_at": "2026-04-06T11:29:54+00:00",
       "tags": [],
       "key_quote": "Coinbase receives conditional nod to operate as national trust company—CEO Brian Armstrong says 'we're not becoming a bank' MSN"
-    },
-    {
-      "title": "'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0dF9VY2ZZNElacWk4VF8zNEExR0JzNGdhVlVHLUc0VEl4UXdyMUh1X2JoUnY3M2tiUDRHN0thX2NiWnNYVWd5emFtWDNuM2I3Z1I5MWhYa2hoUW56?oc=5\" target=\"_blank\">'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0dF9VY2ZZNElacWk4VF8zNEExR0JzNGdhVlVHLUc0VEl4UXdyMUh1X2JoUnY3M2tiUDRHN0thX2NiWnNYVWd5emFtWDNuM2I3Z1I5MWhYa2hoUW56?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-04T22:38:41+00:00",
-      "tags": [],
-      "key_quote": "'Working on It': Coinbase CEO Eyes Crypto in Hands of Billion People Cryptonews.net"
     }
   ]
 }
