@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T05:06:06Z",
+  "updated_at": "2026-06-05T08:58:50Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 299,
@@ -9,6 +9,19 @@
     "Richard Teng": 57
   },
   "articles": [
+    {
+      "title": "Brian Armstrong on Dimon, Trump, and crypto’s future",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTl2UG1lU05TNTFkSGRoRnhVeXhsME9FRmEtN1psdE1ackMybVNxcjAwYWhtY2dYV3o2TVhSUDRyMlVQSHVtVnB1bmRTRXdPS0FMbnNIQ3BfVk5QY2RuOW1ZUVQ0RUMzTGFfTTloN1hQbTktOWhQWERLZXFDUjBFdmJYQlNNMkhGR3h6WXVaVF9QRXRha0RNSUlGMVZzendF?oc=5\" target=\"_blank\">Brian Armstrong on Dimon, Trump, and crypto’s future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTl2UG1lU05TNTFkSGRoRnhVeXhsME9FRmEtN1psdE1ackMybVNxcjAwYWhtY2dYV3o2TVhSUDRyMlVQSHVtVnB1bmRTRXdPS0FMbnNIQ3BfVk5QY2RuOW1ZUVQ0RUMzTGFfTTloN1hQbTktOWhQWERLZXFDUjBFdmJYQlNNMkhGR3h6WXVaVF9QRXRha0RNSUlGMVZzendF?oc=5",
+      "source": "Politico",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-05T03:59:00+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "Brian Armstrong on Dimon, Trump, and crypto’s future Politico"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Calls Jamie Dimon Criticism 'Sad' As Fight Over Crypto Bill Intensifies",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0s2QWprVHp0RHo5ay1pTEdYZnh5MzlwRnZzS1ZhZlBhd0IzcU5kNzRWOER4SzJQbGtHVmRBdk9zbmtSUW1oRmRaclFXZ0VyQUJBXy1tMHVHYkxtVWZidHpnWGNJdzczOHBwNzlpdTlwZkdHMThxLTN5d2daRWhQaWVIWnVHNzY3V2RadXJiaHJpLTRYZTZ5Z0J6UUxmejJLejhXUTU5Zk5OTUdGTE5SVUVnQ1MwSHd3ZEg4T1M0OG9qYXF4S3c?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Calls Jamie Dimon Criticism 'Sad' As Fight Over Crypto Bill Intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times</font>",
@@ -6120,17 +6133,6 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Coinbase CEO Reveals Crucial Priorities: Stablecoin Payments Lead Ambitious Crypto Vision Bitcoin World"
-    },
-    {
-      "title": "Coinbase receives conditional nod to operate as national trust company—CEO Brian Armstrong says 'we're not becoming a bank'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxQN1N1VkVaUHlmQXRjZnYtUDQ3SVFKZDBjMHgtX19QQ0Z6dFA4NEdkdnItUUZYeDI1SG1IczRjY09MME1MOUxXUWJrYzBZWGVWVzNJekNTRlR1N1kzZVJWcHRhVjJXM2xwYUpfbTZ3c2ZSd1hjYVdtNDl0NjBVZ1JpUk9xMGRhLU8zZjIyUEcyaHM0TC1kek5VeDdGZUxuRXBvb3NGdkFHSDViSWkwa2ROajdEdEprdGZmNHgtQjExX3Jzc2JNSTZtMDJlZEpQRkpZektpemtTWE5wWnVONF9SQXhOdVhQak1LdEV4MkZ1MV9lYjhYWDcyTDh5WElCR0l5cnc3X3lIZFJSRXU4TFRwdElOQ2NHVzg5dlQxVk1pQ2kxQXZzeXR0QXpYd2M0UDB0dGdSTjZhVmhldUNwWUVpQXJRaDBZekZPcE43bjdRUHdNWHhtNjJoakZIUUducEJ1dHcwSTRxZUtiU2xwNTdBMENQUjZqYTlySEJFWkpUZ2dpdU94OUFiT09CbS1GSjZKYkpsVnhmNkpiNXgxWHZDcFhESVJPOGF0Y3RDRllTOC1PcHVSRWJV?oc=5\" target=\"_blank\">Coinbase receives conditional nod to operate as national trust company—CEO Brian Armstrong says 'we're not becoming a bank'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQN1N1VkVaUHlmQXRjZnYtUDQ3SVFKZDBjMHgtX19QQ0Z6dFA4NEdkdnItUUZYeDI1SG1IczRjY09MME1MOUxXUWJrYzBZWGVWVzNJekNTRlR1N1kzZVJWcHRhVjJXM2xwYUpfbTZ3c2ZSd1hjYVdtNDl0NjBVZ1JpUk9xMGRhLU8zZjIyUEcyaHM0TC1kek5VeDdGZUxuRXBvb3NGdkFHSDViSWkwa2ROajdEdEprdGZmNHgtQjExX3Jzc2JNSTZtMDJlZEpQRkpZektpemtTWE5wWnVONF9SQXhOdVhQak1LdEV4MkZ1MV9lYjhYWDcyTDh5WElCR0l5cnc3X3lIZFJSRXU4TFRwdElOQ2NHVzg5dlQxVk1pQ2kxQXZzeXR0QXpYd2M0UDB0dGdSTjZhVmhldUNwWUVpQXJRaDBZekZPcE43bjdRUHdNWHhtNjJoakZIUUducEJ1dHcwSTRxZUtiU2xwNTdBMENQUjZqYTlySEJFWkpUZ2dpdU94OUFiT09CbS1GSjZKYkpsVnhmNkpiNXgxWHZDcFhESVJPOGF0Y3RDRllTOC1PcHVSRWJV?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-06T11:29:54+00:00",
-      "tags": [],
-      "key_quote": "Coinbase receives conditional nod to operate as national trust company—CEO Brian Armstrong says 'we're not becoming a bank' MSN"
     }
   ]
 }
