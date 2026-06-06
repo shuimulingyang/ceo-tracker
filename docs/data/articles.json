@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-06-06T19:00:08Z",
+  "updated_at": "2026-06-06T20:08:45Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 299,
+    "Brian Armstrong": 300,
     "CZ": 94,
     "Star Xu": 22,
     "Ben Zhou": 28,
-    "Richard Teng": 57
+    "Richard Teng": 56
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Defends Bitcoin as the Price Crashes",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEwxb2dRYjV5eWllUWl0YVR3TTNWTWtsYWliblJVU1Vtbl91RzF2alZBM1ZZTDFPMEFLczBKZVZQMktJVlZ4R3REU1JsVHIxMmR5WXRDR0hjTFZJa2NuajFEYkRSWFZIV0VURzhjbGF2VEVicFJMMU9aUS1WcXhwVUdBZlNYTXdubWtCc1V5N2FzbUpUdy1RUW9oRVBPa0R6Nl81d2NnVlYtSjNxQzlTdnFsYlMxaXVFNndES1djdl9UdUJMV2c?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Defends Bitcoin as the Price Crashes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEwxb2dRYjV5eWllUWl0YVR3TTNWTWtsYWliblJVU1Vtbl91RzF2alZBM1ZZTDFPMEFLczBKZVZQMktJVlZ4R3REU1JsVHIxMmR5WXRDR0hjTFZJa2NuajFEYkRSWFZIV0VURzhjbGF2VEVicFJMMU9aUS1WcXhwVUdBZlNYTXdubWtCc1V5N2FzbUpUdy1RUW9oRVBPa0R6Nl81d2NnVlYtSjNxQzlTdnFsYlMxaXVFNndES1djdl9UdUJMV2c?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-06T19:11:15+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Defends Bitcoin as the Price Crashes Benzinga"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong says crypto profits for elected officials are ‘complicated’",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPTW1oLVAtNVh1Q2pvZVZsYlVUeVd4eUt6OWpWSW5jQV9NZTNhQkZPU0ltMmUwNFprQU14ZUJ1NEJPVHlOUDN5cWRSOElsdmVBSTd0VGZtQTFuY2JXUlpxZktsYy1VSlQxaDR2N0FvVmNnUHByQ1BrOGJXSXppeF81T2tyU3NQZw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong says crypto profits for elected officials are ‘complicated’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
@@ -6103,20 +6117,6 @@
         "市场 Market"
       ],
       "key_quote": "Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market MEXC Exchange"
-    },
-    {
-      "title": "Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE43WkhteFFYdXZLVHctZmxhTkNuVUxyMWhwLUE1R3RRTl91bjVqYlg1N0g5NF92eGV6RGJOamtxaGthaG0za3F2YQ?oc=5\" target=\"_blank\">Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43WkhteFFYdXZLVHctZmxhTkNuVUxyMWhwLUE1R3RRTl91bjVqYlg1N0g5NF92eGV6RGJOamtxaGthaG0za3F2YQ?oc=5",
-      "source": "MEXC",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-07T20:59:44+00:00",
-      "tags": [
-        "Bitcoin",
-        "市场 Market"
-      ],
-      "key_quote": "Binance CEO Richard Teng Highlights Bullish Shift in Bitcoin Market MEXC"
     }
   ]
 }
