@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-06-07T06:54:24Z",
+  "updated_at": "2026-06-07T09:53:14Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 302,
-    "CZ": 94,
+    "Brian Armstrong": 303,
+    "CZ": 93,
     "Star Xu": 22,
     "Ben Zhou": 29,
     "Richard Teng": 53
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong says banks got 'a lot of what they asked for' in CLARITY Act compromise",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivANBVV95cUxNa1hERWdpenBLbVhaeWpsYzhyS0w5QWt0aXlScnB2WDZrbFdwY1F4OXpOOXNVRlllRnN1YnN0MHhCR2s3Vnk2cnl5TDV6LVR6X1FZSGswOVhoYU9UU25qTzNPREFLSWVEdFpKbzdPSTlhVk96cjJOVUdVVmpTM1RCaTloY1JYU0NXalN5Nk9tbmUteWRKN3JoWDFycnBfc0RUSjlDRWZYN1E0Umg4ZDBWeGJ2aWoyZXZJQm40bDU3WU1fRDRWNWRJb0sxWGhILXFZVTlQZEtNLWh4UHhGNFBUV0lPSFc4SEtVUmRNSGpkSFRGZzdYZVhmOFh0YUNVaHdnVnB0dV9XbU9rTG9LQWs1OUJHUkhNVXU0RDlzUlFkSjA2c2wwZzctMXdGMFVXRVV2ZkFSdkZIZ3owc2xMYldLbHFvU2Flb2U5TDNfMkktX1RrSEs3WnItODJVN3NnNFBqdnIzQ01WT0RfLXFiU3hxVjhaek1wNkMwQzd6cS1pckhYVWFHV0JvTTd1anlNVzJUajcyR1l3NVFfZXVrdmpaa2xveWVvOVZHWG9VTmZjVTZkR0VHRTNWck5IM3U?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong says banks got 'a lot of what they asked for' in CLARITY Act compromise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNa1hERWdpenBLbVhaeWpsYzhyS0w5QWt0aXlScnB2WDZrbFdwY1F4OXpOOXNVRlllRnN1YnN0MHhCR2s3Vnk2cnl5TDV6LVR6X1FZSGswOVhoYU9UU25qTzNPREFLSWVEdFpKbzdPSTlhVk96cjJOVUdVVmpTM1RCaTloY1JYU0NXalN5Nk9tbmUteWRKN3JoWDFycnBfc0RUSjlDRWZYN1E0Umg4ZDBWeGJ2aWoyZXZJQm40bDU3WU1fRDRWNWRJb0sxWGhILXFZVTlQZEtNLWh4UHhGNFBUV0lPSFc4SEtVUmRNSGpkSFRGZzdYZVhmOFh0YUNVaHdnVnB0dV9XbU9rTG9LQWs1OUJHUkhNVXU0RDlzUlFkSjA2c2wwZzctMXdGMFVXRVV2ZkFSdkZIZ3owc2xMYldLbHFvU2Flb2U5TDNfMkktX1RrSEs3WnItODJVN3NnNFBqdnIzQ01WT0RfLXFiU3hxVjhaek1wNkMwQzd6cS1pckhYVWFHV0JvTTd1anlNVzJUajcyR1l3NVFfZXVrdmpaa2xveWVvOVZHWG9VTmZjVTZkR0VHRTNWck5IM3U?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-07T06:34:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong says banks got 'a lot of what they asked for' in CLARITY Act compromise MSN"
+    },
     {
       "title": "JAMIE DIMON CALLS BRIAN ARMSTRONG A \"PIECE OF SH*T\" ON FOX NEWS! (0mAVSfoLyf)",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB5cU1QWFJUd0FzU3FRU1IzbmlLU0NoQUZpYnY1STRPbUpCaHVldS1CM1B1dlpYdWdJZFBidEl3WjRvV2otdUFDZ0xlSEcyWEdGVDFaSkpKVW9zeWdKeWRKLUJxa1AwT1Z6OFA5QkNrZkZHZDZvZFE?oc=5\" target=\"_blank\">JAMIE DIMON CALLS BRIAN ARMSTRONG A \"PIECE OF SH*T\" ON FOX NEWS! (0mAVSfoLyf)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fathom Journal</font>",
@@ -6097,19 +6108,6 @@
       "published_at": "2026-04-08T09:34:10+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao releases memoir about his career, downfall, and prison term Traders Union"
-    },
-    {
-      "title": "Changpeng Zhao’s Memoir Reveals Binance’s Rise, Legal Battles and FTX’s Downfall",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWnA1S1FUeWxLOTllcXdpMXlzZlpJZlQxUkl6MnFEX2lqZzBvQnBqamdCd2VDRVhRLWRzQUo5NXZhcGtfVmFQU0tJOVZKbnJyeDNQbGpFR1JYY0stR3JaY0lWSWoxRkg2MVlleEVhSlVSdk00bWFMaVBzQUNmeEtiNGQ0NG9teTI5ZlRoYi1hMzF2SHpydnlHRno0Qmszand0bGc?oc=5\" target=\"_blank\">Changpeng Zhao’s Memoir Reveals Binance’s Rise, Legal Battles and FTX’s Downfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWnA1S1FUeWxLOTllcXdpMXlzZlpJZlQxUkl6MnFEX2lqZzBvQnBqamdCd2VDRVhRLWRzQUo5NXZhcGtfVmFQU0tJOVZKbnJyeDNQbGpFR1JYY0stR3JaY0lWSWoxRkg2MVlleEVhSlVSdk00bWFMaVBzQUNmeEtiNGQ0NG9teTI5ZlRoYi1hMzF2SHpydnlHRno0Qmszand0bGc?oc=5",
-      "source": "Blockonomi",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-08T07:24:12+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Changpeng Zhao’s Memoir Reveals Binance’s Rise, Legal Battles and FTX’s Downfall Blockonomi"
     }
   ]
 }
