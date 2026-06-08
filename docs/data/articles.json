@@ -1,14 +1,52 @@
 {
-  "updated_at": "2026-06-08T05:20:56Z",
+  "updated_at": "2026-06-08T10:10:12Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 303,
-    "CZ": 93,
+    "Brian Armstrong": 306,
+    "CZ": 90,
     "Star Xu": 22,
     "Ben Zhou": 29,
     "Richard Teng": 53
   },
   "articles": [
+    {
+      "title": "What Will Be AI’s Biggest Bottleneck? Coinbase CEO Gives His Take",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8yQ0wxdTN1YTcwRk5iclhTeVVUZTJ6dlo2cDJ0aFRua0hHU3I2cVJlNHYtUlhZTkc5Vk94ZVRSLXlhN2J3SlBtcWpxMnNHT3B5bXRGTkxDZ3dxTE9RQjNmd2JneHRMZlp0T1dBdXYzTjFnQVBhaTRqanB3TQ?oc=5\" target=\"_blank\">What Will Be AI’s Biggest Bottleneck? Coinbase CEO Gives His Take</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yQ0wxdTN1YTcwRk5iclhTeVVUZTJ6dlo2cDJ0aFRua0hHU3I2cVJlNHYtUlhZTkc5Vk94ZVRSLXlhN2J3SlBtcWpxMnNHT3B5bXRGTkxDZ3dxTE9RQjNmd2JneHRMZlp0T1dBdXYzTjFnQVBhaTRqanB3TQ?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-08T09:54:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "What Will Be AI’s Biggest Bottleneck? Coinbase CEO Gives His Take BeInCrypto"
+    },
+    {
+      "title": "Brian Armstrong Says AI Costs Are Crashing—But One Constraint Could Hold The Industry Back",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS1BCb1VzLTJKY0RCbzhmUHVoY01qNjJ0MnpxZWdXV0k5UFV5Nm5BdWVoSjBHT2ZIckpyTnRFRVlGQkY3Q2ZTYll6RnBzblY1a2kwY1NicTZSUUFpSURIeV9FcWZDWTZycklkYWdPcVdVT2p3UE5LZ1FwWG0tYWxVOFU4d042dGZaRVFmQ3QzOXRjcVJRd29kbzZWdWM0eVhvRWRheFNxQmF5dlU5Sk9ZNkMzRFdaSkhuS0MtSG1OOXB3OGZCb0NfeHNFSDRtQ3lSeWUxaUdRTlMwRmc?oc=5\" target=\"_blank\">Brian Armstrong Says AI Costs Are Crashing—But One Constraint Could Hold The Industry Back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS1BCb1VzLTJKY0RCbzhmUHVoY01qNjJ0MnpxZWdXV0k5UFV5Nm5BdWVoSjBHT2ZIckpyTnRFRVlGQkY3Q2ZTYll6RnBzblY1a2kwY1NicTZSUUFpSURIeV9FcWZDWTZycklkYWdPcVdVT2p3UE5LZ1FwWG0tYWxVOFU4d042dGZaRVFmQ3QzOXRjcVJRd29kbzZWdWM0eVhvRWRheFNxQmF5dlU5Sk9ZNkMzRFdaSkhuS0MtSG1OOXB3OGZCb0NfeHNFSDRtQ3lSeWUxaUdRTlMwRmc?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-08T07:47:15+00:00",
+      "tags": [
+        "市场 Market",
+        "AI"
+      ],
+      "key_quote": "Brian Armstrong Says AI Costs Are Crashing—But One Constraint Could Hold The Industry Back Benzinga"
+    },
+    {
+      "title": "Jamie Dimon lashes out at Coinbase CEO over Clarity Act",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZY2xLb1E1Rjh1RTB5U3prRHhKLVRUSjZMQ1d6TFpKSUVfZkhTNmhQY0U4Qzl6V1ZSSWQxVW55T3ZrZXQ4eFJQeDhFT1dMNF9oZkNZOVhxbGgtYUVlVlJBLVFUR2pmMG8?oc=5\" target=\"_blank\">Jamie Dimon lashes out at Coinbase CEO over Clarity Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZY2xLb1E1Rjh1RTB5U3prRHhKLVRUSjZMQ1d6TFpKSUVfZkhTNmhQY0U4Qzl6V1ZSSWQxVW55T3ZrZXQ4eFJQeDhFT1dMNF9oZkNZOVhxbGgtYUVlVlJBLVFUR2pmMG8?oc=5",
+      "source": "mezha.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-07T16:31:40+00:00",
+      "tags": [],
+      "key_quote": "Jamie Dimon lashes out at Coinbase CEO over Clarity Act mezha.net"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong says banks got 'a lot of what they asked for' in CLARITY Act compromise",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMivANBVV95cUxNa1hERWdpenBLbVhaeWpsYzhyS0w5QWt0aXlScnB2WDZrbFdwY1F4OXpOOXNVRlllRnN1YnN0MHhCR2s3Vnk2cnl5TDV6LVR6X1FZSGswOVhoYU9UU25qTzNPREFLSWVEdFpKbzdPSTlhVk96cjJOVUdVVmpTM1RCaTloY1JYU0NXalN5Nk9tbmUteWRKN3JoWDFycnBfc0RUSjlDRWZYN1E0Umg4ZDBWeGJ2aWoyZXZJQm40bDU3WU1fRDRWNWRJb0sxWGhILXFZVTlQZEtNLWh4UHhGNFBUV0lPSFc4SEtVUmRNSGpkSFRGZzdYZVhmOFh0YUNVaHdnVnB0dV9XbU9rTG9LQWs1OUJHUkhNVXU0RDlzUlFkSjA2c2wwZzctMXdGMFVXRVV2ZkFSdkZIZ3owc2xMYldLbHFvU2Flb2U5TDNfMkktX1RrSEs3WnItODJVN3NnNFBqdnIzQ01WT0RfLXFiU3hxVjhaek1wNkMwQzd6cS1pckhYVWFHV0JvTTd1anlNVzJUajcyR1l3NVFfZXVrdmpaa2xveWVvOVZHWG9VTmZjVTZkR0VHRTNWck5IM3U?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong says banks got 'a lot of what they asked for' in CLARITY Act compromise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
@@ -6075,39 +6113,6 @@
         "AI"
       ],
       "key_quote": "Richard Teng says AI agent usage of ERC-8004 has surged to 162,000 Bitget"
-    },
-    {
-      "title": "News Explorer — Here's the 'Fatal Mistake' Made During the FTX Collapse, Says Binance Founder Changpeng Zhao",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQXp4UlVIcjNMM0NqMmFhMmI4S1ZUelJHZWttd0xTeElMLWlWQW5TNVktTHNBcWZnWjNpTmh0SlRJYllHVk1RTTBkN1JucmNXc1pDRjI2ZWlMdXMxengyRHl4VllGNW1CWDRCT3M3NmQ4UjdMVGJGYVlPVWFxc1hZWU0zR3ZncThFaE4teFNGbHctUlRWa0hzWERVWElmdXZjbFQ3UTRtU0hUa0RZT0hyLVQ1dzJsOExlUHV0eE9Dby10NlNDcXpWSFdmUlBtUm52cTU0dEZaTEo1Zw?oc=5\" target=\"_blank\">News Explorer — Here's the 'Fatal Mistake' Made During the FTX Collapse, Says Binance Founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQXp4UlVIcjNMM0NqMmFhMmI4S1ZUelJHZWttd0xTeElMLWlWQW5TNVktTHNBcWZnWjNpTmh0SlRJYllHVk1RTTBkN1JucmNXc1pDRjI2ZWlMdXMxengyRHl4VllGNW1CWDRCT3M3NmQ4UjdMVGJGYVlPVWFxc1hZWU0zR3ZncThFaE4teFNGbHctUlRWa0hzWERVWElmdXZjbFQ3UTRtU0hUa0RZT0hyLVQ1dzJsOExlUHV0eE9Dby10NlNDcXpWSFdmUlBtUm52cTU0dEZaTEo1Zw?oc=5",
-      "source": "Decrypt",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-08T14:14:12+00:00",
-      "tags": [],
-      "key_quote": "News Explorer — Here's the 'Fatal Mistake' Made During the FTX Collapse, Says Binance Founder Changpeng Zhao Decrypt"
-    },
-    {
-      "title": "Changpeng Zhao Talks About Sam Bankman-Fried’s Billion-Dollar Ask",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1RxN3RvQjJjNDNmcGdkeFdwM2pGM0RaMlFGcy1ZMGxIX1hLU3lva3VGeHBnM0FEX1h4SHR1bldZbG9DSm04YmdfY1RsZURNYXpzYzEyUHQtSEJ3UG9Rb2RWWndkYVRKamJfYktObGZBMkJaZlNZV2w5MWgwLWVDdlBJVUpoZ21WUlJNaExGZ3R1OVE?oc=5\" target=\"_blank\">Changpeng Zhao Talks About Sam Bankman-Fried’s Billion-Dollar Ask</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1RxN3RvQjJjNDNmcGdkeFdwM2pGM0RaMlFGcy1ZMGxIX1hLU3lva3VGeHBnM0FEX1h4SHR1bldZbG9DSm04YmdfY1RsZURNYXpzYzEyUHQtSEJ3UG9Rb2RWWndkYVRKamJfYktObGZBMkJaZlNZV2w5MWgwLWVDdlBJVUpoZ21WUlJNaExGZ3R1OVE?oc=5",
-      "source": "CoinCentral",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-08T13:46:47+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao Talks About Sam Bankman-Fried’s Billion-Dollar Ask CoinCentral"
-    },
-    {
-      "title": "Changpeng Zhao releases memoir about his career, downfall, and prison term",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnZnZk1WRHF6N0RUM1NmbFVsSDZOTTNBbXZxS0FFa3pwSVp3Q1YxTjVsYkRDalJadzhiWE1hQzJXdkdEWEpVaEE5XzI1b0VsNzJVV25GNWd2eTBKT2VaN1ZyOTAxQTBxLXJPcGZJX2p6Nlg3aVN3Wl9zNVd4dzJnM1VxTFZIYndLdzVabkZsSzAzWlhxaTJuRjR3?oc=5\" target=\"_blank\">Changpeng Zhao releases memoir about his career, downfall, and prison term</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnZnZk1WRHF6N0RUM1NmbFVsSDZOTTNBbXZxS0FFa3pwSVp3Q1YxTjVsYkRDalJadzhiWE1hQzJXdkdEWEpVaEE5XzI1b0VsNzJVV25GNWd2eTBKT2VaN1ZyOTAxQTBxLXJPcGZJX2p6Nlg3aVN3Wl9zNVd4dzJnM1VxTFZIYndLdzVabkZsSzAzWlhxaTJuRjR3?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-08T09:34:10+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao releases memoir about his career, downfall, and prison term Traders Union"
     }
   ]
 }
