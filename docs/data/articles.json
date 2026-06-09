@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-06-09T12:04:32Z",
+  "updated_at": "2026-06-09T15:47:04Z",
   "total": 500,
   "by_ceo": {
-    "Star Xu": 22,
+    "Star Xu": 23,
+    "Brian Armstrong": 307,
     "CZ": 90,
-    "Brian Armstrong": 308,
     "Ben Zhou": 29,
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "OKX CEO: Blockchain Wallets to Replace Banking Functions",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM2JmbnQ3dER3cWYxOHdnTFRfREVVcWx2dllzbE4tUzBfd09zZEZ5Y3c4UFhKTC1UOS1oMkRBTlllYzZBYThUMnNXZlZ5LU0wTElTMWxqMjNucnFGSlJIVy0yUUJPRjlkb2o3S2Y0UmgwaEI5bDZwQmplVGdSeXBRX2ljYy1MZWVk?oc=5\" target=\"_blank\">OKX CEO: Blockchain Wallets to Replace Banking Functions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM2JmbnQ3dER3cWYxOHdnTFRfREVVcWx2dllzbE4tUzBfd09zZEZ5Y3c4UFhKTC1UOS1oMkRBTlllYzZBYThUMnNXZlZ5LU0wTElTMWxqMjNucnFGSlJIVy0yUUJPRjlkb2o3S2Y0UmgwaEI5bDZwQmplVGdSeXBRX2ljYy1MZWVk?oc=5",
+      "source": "조선일보",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-06-09T15:37:37+00:00",
+      "tags": [],
+      "key_quote": "OKX CEO: Blockchain Wallets to Replace Banking Functions 조선일보"
+    },
     {
       "title": "OKX CEO Predicts Blockchain Will Replace Traditional Banking",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1BwN054cUt2Ungza3psMm1ocjhwaUF0cXR1b3NLY3dJSVdOU21KWFpGT25WZmV5UzZhZDVfZnVEV0l5UEdqVWh0eGtKRjVPREpFdnNRbDB2SS15NlUtMk5ZR2Q3cXRncXFKYVU2NGNVX0RCZXpaYUE4RTZZVTh0QWQyZkVRRkNZ?oc=5\" target=\"_blank\">OKX CEO Predicts Blockchain Will Replace Traditional Banking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
@@ -30,6 +41,19 @@
       "published_at": "2026-06-09T06:58:36+00:00",
       "tags": [],
       "key_quote": "OKX CEO predicts blockchain will replace bank accounts MSN"
+    },
+    {
+      "title": "AI pricing revolution, soaring computing costs! Coinbase CEO: 80% of AI workloads will be handled by models that are 99% cheaper within 12–18 months.",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGhzLXQ5X240bTNNczhqTzItSUcyYzdEMmxnODg1Q1hTZWlDMUVfOHJqY1ZlWjlSaUlNZHJJemZjVWkyWkJ1Qi1NdnA1T1dkaTF3REZRZEdUZUVSdmZSZVU5MWZoRE0zandIYXJsczNwTVBMWnRvRDZ6WDZPTmVtbzNsV3I4ckdSMWxTN204SUdIb2RDLVFSQUtpNmxVTlg1bW9NcV9hTV9SQQ?oc=5\" target=\"_blank\">AI pricing revolution, soaring computing costs! Coinbase CEO: 80% of AI workloads will be handled by models that are 99% cheaper within 12–18 months.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGhzLXQ5X240bTNNczhqTzItSUcyYzdEMmxnODg1Q1hTZWlDMUVfOHJqY1ZlWjlSaUlNZHJJemZjVWkyWkJ1Qi1NdnA1T1dkaTF3REZRZEdUZUVSdmZSZVU5MWZoRE0zandIYXJsczNwTVBMWnRvRDZ6WDZPTmVtbzNsV3I4ckdSMWxTN204SUdIb2RDLVFSQUtpNmxVTlg1bW9NcV9hTV9SQQ?oc=5",
+      "source": "Moomoo",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-09T03:11:10+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO: 80% of AI workloads will be handled by models that are 99% cheaper within 12–18 months."
     },
     {
       "title": "Changpeng Zhao AI (BinanceAI) Predicts Surprising Ethereum Price For 2026",
@@ -6085,34 +6109,6 @@
         "Bitcoin"
       ],
       "key_quote": "Crypto Drama: OKX CEO Says CZ’s Sold My House to Buy Bitcoin’ Story and Divorce Claims Are Big Lies Coinpedia Fintech News"
-    },
-    {
-      "title": "Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UUGZTV0ZtMGw3OTNCTjZTVXJBTVhaV1dEN0xsR2lYclEzTi1KU1kzc1lKMGdveE5UZzNGbjRqZVVtT3U3Yi1VT2k4STJnTnpnb0taeDdFRlA?oc=5\" target=\"_blank\">Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UUGZTV0ZtMGw3OTNCTjZTVXJBTVhaV1dEN0xsR2lYclEzTi1KU1kzc1lKMGdveE5UZzNGbjRqZVVtT3U3Yi1VT2k4STJnTnpnb0taeDdFRlA?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-09T12:35:38+00:00",
-      "tags": [
-        "Bitcoin",
-        "ETF"
-      ],
-      "key_quote": "Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch Cryptonews.net"
-    },
-    {
-      "title": "Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMlQ1bWNtS09EZnU0d0NzWFFUR3ZEMG1pNDZkbDVKSzNuU2Y2ZWlVbTRqWnlhUVFvSXRyZ01CS2cwZ24zUDhxWVJpRlI0Y0hOZUZLM3NpckdncjZZTElxSmZadFhNUkVabjBYQ21pLUUwbFRoTHRLNGk3U2ZYZlpEUlBFcGE3NmM4VUY5M05sMnhGckVJYUxFTV90aThURlhXby1RTmNZa21oeVlxc1JUZEdzdnJfLXphUHBucFExYi1udGFGcFBVSXplU1g0SDlROVk5bXA1SzVlcG9MUFVqTExiRDR2bWc5?oc=5\" target=\"_blank\">Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMlQ1bWNtS09EZnU0d0NzWFFUR3ZEMG1pNDZkbDVKSzNuU2Y2ZWlVbTRqWnlhUVFvSXRyZ01CS2cwZ24zUDhxWVJpRlI0Y0hOZUZLM3NpckdncjZZTElxSmZadFhNUkVabjBYQ21pLUUwbFRoTHRLNGk3U2ZYZlpEUlBFcGE3NmM4VUY5M05sMnhGckVJYUxFTV90aThURlhXby1RTmNZa21oeVlxc1JUZEdzdnJfLXphUHBucFExYi1udGFGcFBVSXplU1g0SDlROVk5bXA1SzVlcG9MUFVqTExiRDR2bWc5?oc=5",
-      "source": "TradingView",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-09T10:35:00+00:00",
-      "tags": [
-        "Bitcoin",
-        "ETF"
-      ],
-      "key_quote": "Coinbase CEO Armstrong Breaks Down Significance of Morgan Stanley's Historic Bitcoin ETF Launch TradingView"
     }
   ]
 }
