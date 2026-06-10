@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-10T17:47:15Z",
+  "updated_at": "2026-06-10T20:03:16Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 89,
-    "Brian Armstrong": 312,
+    "CZ": 88,
+    "Brian Armstrong": 313,
     "Star Xu": 18,
     "Ben Zhou": 30,
     "Richard Teng": 51
@@ -56,6 +56,20 @@
       "published_at": "2026-06-09T15:37:37+00:00",
       "tags": [],
       "key_quote": "OKX CEO: Blockchain Wallets to Replace Banking Functions 조선일보"
+    },
+    {
+      "title": "Brian Armstrong Says AI Costs Are Crashing—But One Constraint Could Hold The Industry Back",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ3Y4ZTRIRG1EbWJ6cmZ3ZVlnSElfNTIzV2ZzYzcxVEdYclc0dlJtUTRGNDg3RlZ4Zm91UkdmekNfUDBmUzBydFR0WEtMRWhfQVZWa2t3by15V21vUlV5U0VvRGwwb0F3eG84dUtyaW5pbGticXVGNE5yZGVQRVZ5WG45cVN3RnROcGJmanRXZEt1UjNBX25VZ1RXNlc2ak0?oc=5\" target=\"_blank\">Brian Armstrong Says AI Costs Are Crashing—But One Constraint Could Hold The Industry Back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ3Y4ZTRIRG1EbWJ6cmZ3ZVlnSElfNTIzV2ZzYzcxVEdYclc0dlJtUTRGNDg3RlZ4Zm91UkdmekNfUDBmUzBydFR0WEtMRWhfQVZWa2t3by15V21vUlV5U0VvRGwwb0F3eG84dUtyaW5pbGticXVGNE5yZGVQRVZ5WG45cVN3RnROcGJmanRXZEt1UjNBX25VZ1RXNlc2ak0?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-09T14:31:08+00:00",
+      "tags": [
+        "市场 Market",
+        "AI"
+      ],
+      "key_quote": "Brian Armstrong Says AI Costs Are Crashing—But One Constraint Could Hold The Industry Back Yahoo Finance"
     },
     {
       "title": "Coinbase CEO outlines token cost management by routing prompts",
@@ -6094,19 +6108,6 @@
       "published_at": "2026-04-09T21:02:01+00:00",
       "tags": [],
       "key_quote": "OKX CEO Criticizes CZ Over Claims in Freedom of Money MEXC Exchange"
-    },
-    {
-      "title": "Binance’s Changpeng Zhao claims U.S. crypto rivals ‘paid millions’ to block his pardon",
-      "content": "<p>The Binance founder also says friends told him firms funded \"smear articles\" because they opposed Binance doing business in the U.S.</p>",
-      "url": "https://www.theblock.co/post/396926/binance-changpeng-zhao-claims-crypto-rivals-paid-millions-block-pardon?utm_source=rss&utm_medium=rss",
-      "source": "The Block",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-09T19:54:38+00:00",
-      "tags": [
-        "机构 Institutional"
-      ],
-      "key_quote": "The Binance founder also says friends told him firms funded \"smear articles\" because they opposed Binance doing business in the U.S."
     }
   ]
 }
