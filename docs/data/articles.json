@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-06-11T20:04:41Z",
+  "updated_at": "2026-06-11T22:43:58Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 318,
+    "Brian Armstrong": 319,
     "CZ": 85,
-    "Star Xu": 15,
+    "Star Xu": 14,
     "Ben Zhou": 31,
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Coinbase CEO: Global crypto perps will connect U.S. and international markets",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlNsbFNZYWFfWXNBVGZfTmtpT2Q0dkZtQTQyRU40ZlVvbkRKMjY5WGlsZzRqRnc4UEtwSGdvd2hHTDdGNlFaZVNpTlhkbVlCMFBmYmNKa2c4emVXbHozU25wbVlBS1laYlYxMXZnbDg3NGZWckU5X01CNU81OVk2N2Z3bVBLZUVCZFR3a1NyOEJPOG04eWxfOFdvRERRWmfSAaQBQVVfeXFMTThJZENnbndnNnI4aXRnaG1SLURodUp5a2RxWnVTNHlxeFBxWHRNRG9FU2lYQnVvSWdfQTRTdVhPc1RBVk1lTVJGYWIyek1VeWNhTEs1SEpGc095b3V4YXFjRFBzUUJ3Z05LWnJ6cTEzVm9MdlRrWVRDNE9pdDUyM0NVbEEyTTVsSW9yWHhUbkJmUGxWVzJ5WjZadVZPRS1tS0hZQTk?oc=5\" target=\"_blank\">Coinbase CEO: Global crypto perps will connect U.S. and international markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AMBCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlNsbFNZYWFfWXNBVGZfTmtpT2Q0dkZtQTQyRU40ZlVvbkRKMjY5WGlsZzRqRnc4UEtwSGdvd2hHTDdGNlFaZVNpTlhkbVlCMFBmYmNKa2c4emVXbHozU25wbVlBS1laYlYxMXZnbDg3NGZWckU5X01CNU81OVk2N2Z3bVBLZUVCZFR3a1NyOEJPOG04eWxfOFdvRERRWmfSAaQBQVVfeXFMTThJZENnbndnNnI4aXRnaG1SLURodUp5a2RxWnVTNHlxeFBxWHRNRG9FU2lYQnVvSWdfQTRTdVhPc1RBVk1lTVJGYWIyek1VeWNhTEs1SEpGc095b3V4YXFjRFBzUUJ3Z05LWnJ6cTEzVm9MdlRrWVRDNE9pdDUyM0NVbEEyTTVsSW9yWHhUbkJmUGxWVzJ5WjZadVZPRS1tS0hZQTk?oc=5",
+      "source": "AMBCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-11T20:00:17+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO: Global crypto perps will connect U.S. and international markets AMBCrypto"
+    },
     {
       "title": "Coinbase CEO Armstrong Talks About Perpetual Approval: What Comes Next?",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE15V0lKRDRVcy1uX1RQMWF3Y01pcGd5bEdtWTBCLVpQa21UWmFFSmNfTDJHS3Frc1Z3c1YwZVpWMDFwOW5iTGREbm1VNnI0WEtTbFdLWDJxaGxzU3ZKWkd0VHdRLWI0T3hkdF95X3NOMA?oc=5\" target=\"_blank\">Coinbase CEO Armstrong Talks About Perpetual Approval: What Comes Next?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
@@ -6102,17 +6115,6 @@
       "published_at": "2026-04-10T02:08:53+00:00",
       "tags": [],
       "key_quote": "OKX founder rejects Changpeng Zhao's $1B bet on divorce status 코인니스"
-    },
-    {
-      "title": "OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAydGx5dFJDQjR3SE1oc1VDNS1mQVBuS2Rlb1BYTkNoVWlMU1R2WUktTTFFY2xWc1BuWGZRZy1hVC1tdGluWUM1aWdqbFJQYVJkSjJQT3prTkRSOTdiNWJEU2xxbnNSSjEwanVnYm94Q1U?oc=5\" target=\"_blank\">OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptopolitan</font>",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAydGx5dFJDQjR3SE1oc1VDNS1mQVBuS2Rlb1BYTkNoVWlMU1R2WUktTTFFY2xWc1BuWGZRZy1hVC1tdGluWUM1aWdqbFJQYVJkSjJQT3prTkRSOTdiNWJEU2xxbnNSSjEwanVnYm94Q1U?oc=5",
-      "source": "Cryptopolitan",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-04-10T01:24:00+00:00",
-      "tags": [],
-      "key_quote": "OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute Cryptopolitan"
     }
   ]
 }
