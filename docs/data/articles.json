@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-06-11T17:30:04Z",
+  "updated_at": "2026-06-11T20:04:41Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 86,
-    "Brian Armstrong": 317,
+    "Brian Armstrong": 318,
+    "CZ": 85,
     "Star Xu": 15,
     "Ben Zhou": 31,
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Armstrong Talks About Perpetual Approval: What Comes Next?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE15V0lKRDRVcy1uX1RQMWF3Y01pcGd5bEdtWTBCLVpQa21UWmFFSmNfTDJHS3Frc1Z3c1YwZVpWMDFwOW5iTGREbm1VNnI0WEtTbFdLWDJxaGxzU3ZKWkd0VHdRLWI0T3hkdF95X3NOMA?oc=5\" target=\"_blank\">Coinbase CEO Armstrong Talks About Perpetual Approval: What Comes Next?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15V0lKRDRVcy1uX1RQMWF3Y01pcGd5bEdtWTBCLVpQa21UWmFFSmNfTDJHS3Frc1Z3c1YwZVpWMDFwOW5iTGREbm1VNnI0WEtTbFdLWDJxaGxzU3ZKWkd0VHdRLWI0T3hkdF95X3NOMA?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-11T19:36:00+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "Coinbase CEO Armstrong Talks About Perpetual Approval: What Comes Next?"
+    },
     {
       "title": "Crypto Billionaire Changpeng Zhao Says Bitcoin Won't Be 'Dead' For Long As Google Searches For The Term Hit Record High",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3NFWHRoQnVKbGl0LUlmLU9CNXk5TXB4bU1PbTFUZXpndmJ2bFpmRldKY2JFVFRwQW5YTk0xajZVQ2VncVZ5ZndBV2pYNktYTWpGbmdkSUZVUm1KVmw3a0FoY3Eyb2pyZUJrN2M5YzBka2REZlUwZDMtZGkwUWVMcWRoVEptbnlkNnI1YVdwV1NDRHlXRjZqRXlDYUpMRDE3YThyTXBn?oc=5\" target=\"_blank\">Crypto Billionaire Changpeng Zhao Says Bitcoin Won't Be 'Dead' For Long As Google Searches For The Term Hit Record High</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -6100,17 +6113,6 @@
       "published_at": "2026-04-10T01:24:00+00:00",
       "tags": [],
       "key_quote": "OKX CEO challenges CZ’s narrative rekindling the OKCoin era dispute Cryptopolitan"
-    },
-    {
-      "title": "Changpeng Zhao Declares That U.S. Cryptocurrency Exchanges Have \"Spent Millions of USD\" To Prevent His Pardon",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zU09tSnBaLTdzTXFxLWN4Y2dTQUZNR1NMM1BkUnl0OWxnVFMwazY3ZGJqUmFqdm94a3NOM0t2VTF6U0dveXk1WkUtcmhMbjhxdGJaWGQzS0Itb29ubkhjMkR5SDA?oc=5\" target=\"_blank\">Changpeng Zhao Declares That U.S. Cryptocurrency Exchanges Have \"Spent Millions of USD\" To Prevent His Pardon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zU09tSnBaLTdzTXFxLWN4Y2dTQUZNR1NMM1BkUnl0OWxnVFMwazY3ZGJqUmFqdm94a3NOM0t2VTF6U0dveXk1WkUtcmhMbjhxdGJaWGQzS0Itb29ubkhjMkR5SDA?oc=5",
-      "source": "Binance",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-10T01:17:15+00:00",
-      "tags": [],
-      "key_quote": "Cryptocurrency Exchanges Have \"Spent Millions of USD\" To Prevent His Pardon Binance"
     }
   ]
 }
