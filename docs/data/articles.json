@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-06-11T05:17:15Z",
+  "updated_at": "2026-06-11T09:57:54Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 88,
-    "Brian Armstrong": 313,
-    "Star Xu": 18,
-    "Ben Zhou": 30,
+    "Brian Armstrong": 314,
+    "CZ": 87,
+    "Star Xu": 17,
+    "Ben Zhou": 31,
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Says Coinbase Is First CFTC-Approved Global Perps Platform",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWdmdmQxQ3RrNDJfd1p1bjBpWXNkbWpLU3o3WXA0Mk1pTG54ZUtkWHdJUjlvWUVLM3I3aHY2QzNLNThRTm9CbHVNdWU0enA0RjdBMVdXdUk2SUp1M1pua2gtSmdPT21ma3ZpT2h1ZFpkeXJhNWdBNERuTnJrYkFRZXVhQVJLaTVWSDJCRkYtektHSVZLQ2VFdmEwajNXVzF6?oc=5\" target=\"_blank\">Brian Armstrong Says Coinbase Is First CFTC-Approved Global Perps Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinfomania</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWdmdmQxQ3RrNDJfd1p1bjBpWXNkbWpLU3o3WXA0Mk1pTG54ZUtkWHdJUjlvWUVLM3I3aHY2QzNLNThRTm9CbHVNdWU0enA0RjdBMVdXdUk2SUp1M1pua2gtSmdPT21ma3ZpT2h1ZFpkeXJhNWdBNERuTnJrYkFRZXVhQVJLaTVWSDJCRkYtektHSVZLQ2VFdmEwajNXVzF6?oc=5",
+      "source": "Coinfomania",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-11T07:21:25+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Brian Armstrong Says Coinbase Is First CFTC-Approved Global Perps Platform Coinfomania"
+    },
     {
       "title": "Changpeng Zhao Says Bitcoin Won't Be 'Dead' For Long",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPb0J2SVppLXM3VEdtdVo4SW1rc1MtcU94ZGtYQ2FqWFJnZTdVWVF5eFVwQllJaUQ0ajdYVEhFanlJd0J2N2R1bVVSUVZSbHR1dzQ3bjJjellqOHZ0MnZNNy1WSkhsWTl1WjRSSEprRjVnemJnTUJPQ2lzZkFjd2E1QVdhX1V3b1ltNGFLUHNYUGJtdkhKLVBnY056cTJ0Y2dmOFFVVFR0T1Y0NWw4anUwYUxmaGlmRjh3NHA1bnpHaHdOWDdXcmRWUHR1bEY1LUFkWkhnQUVIOXdxTEJkV2htUUtFelZoVTcxQXpUS2RUaXhBVV8zZDlRd04wTEhXN1czREtSMUw0MVo5dw?oc=5\" target=\"_blank\">Changpeng Zhao Says Bitcoin Won't Be 'Dead' For Long</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -1335,6 +1348,19 @@
       "published_at": "2026-05-25T07:00:00+00:00",
       "tags": [],
       "key_quote": "Brian Armstrong says finance must move on-chain or fall behind Cryptonews.net"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxPRFdWTW9fVnFpa2EyeXl4Q0FxQWpwSkpRODJvcWpyWmVCUHQ2OC1PZVZNeEdlc2l5MEFfMWxoME9zRGc4UTlDWHJvV3FTMjVfRzFGQS1qX2hyXzJONkdRT2RraWFUb1RCMHVJTEZzLXIyUW51VTBnUnZQYXp1cXNxTUZBaXdHY1UtRXVycENDaXlRaGpyYTZDRkZfd2xHSnkxaGhtdTRNd3p4eXI3QWplM0ZoTFhLZ3NYa2xwa2ZnLUJHUkhRQWxtdnE5NTFXbXpJSVBNQWxDU1llMkJGbVJLcHZzMjFQejJ5MEhnU3VIT1gxbXhyS21aZm1BOXVQMm01VEYzTHVzdDVlMW9DdEFhVXN3RXU5R1FDNXhsQnZHVmhRUjZycElRVjF0c0Njc3o2TmQ5ZkR5NGN5VUhocldj?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPRFdWTW9fVnFpa2EyeXl4Q0FxQWpwSkpRODJvcWpyWmVCUHQ2OC1PZVZNeEdlc2l5MEFfMWxoME9zRGc4UTlDWHJvV3FTMjVfRzFGQS1qX2hyXzJONkdRT2RraWFUb1RCMHVJTEZzLXIyUW51VTBnUnZQYXp1cXNxTUZBaXdHY1UtRXVycENDaXlRaGpyYTZDRkZfd2xHSnkxaGhtdTRNd3p4eXI3QWplM0ZoTFhLZ3NYa2xwa2ZnLUJHUkhRQWxtdnE5NTFXbXpJSVBNQWxDU1llMkJGbVJLcHZzMjFQejJ5MEhnU3VIT1gxbXhyS21aZm1BOXVQMm01VEYzTHVzdDVlMW9DdEFhVXN3RXU5R1FDNXhsQnZHVmhRUjZycElRVjF0c0Njc3o2TmQ5ZkR5NGN5VUhocldj?oc=5",
+      "source": "The Globe and Mail",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-05-25T07:00:00+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026 The Globe and Mail"
     },
     {
       "title": "Brian Armstrong says finance must move on-chain or fall behind",
@@ -6086,28 +6112,6 @@
       "published_at": "2026-04-09T21:33:54+00:00",
       "tags": [],
       "key_quote": "OKX CEO Criticizes CZ Over Claims in Freedom of Money mexc.co"
-    },
-    {
-      "title": "Changpeng Zhao says rivals spent millions to stop Trump pardon",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxORmtHNUpTOVJ1dnJIWU56cGlFYTdHUFQydE0yaWhtczRCajh1d2NQY0NEdmNyMUswdkZYX19Vd3pnRjNGR0lhNjR5VnJzTWZOcUxISjRZLWFBUUZDd2kxRGxSSmlUbXU2c2k1ZFJ3eFVIaVFia0p3cDJ2Y2FlRGpTTlVvd3hzZmd1REU2OGJXZw?oc=5\" target=\"_blank\">Changpeng Zhao says rivals spent millions to stop Trump pardon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmtHNUpTOVJ1dnJIWU56cGlFYTdHUFQydE0yaWhtczRCajh1d2NQY0NEdmNyMUswdkZYX19Vd3pnRjNGR0lhNjR5VnJzTWZOcUxISjRZLWFBUUZDd2kxRGxSSmlUbXU2c2k1ZFJ3eFVIaVFia0p3cDJ2Y2FlRGpTTlVvd3hzZmd1REU2OGJXZw?oc=5",
-      "source": "Blockonomi",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-09T21:14:53+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao says rivals spent millions to stop Trump pardon Blockonomi"
-    },
-    {
-      "title": "OKX CEO Criticizes CZ Over Claims in Freedom of Money",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NYVBXMTFzSUVXcy1NYy1qWGdyME5nMC1ETDM1cDVYcTVpUTlNckRaOXNYcGRFNTJ6QVBTalcwY3lUWU96Q3hRcEtaV0FwUGs?oc=5\" target=\"_blank\">OKX CEO Criticizes CZ Over Claims in Freedom of Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC Exchange</font>",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NYVBXMTFzSUVXcy1NYy1qWGdyME5nMC1ETDM1cDVYcTVpUTlNckRaOXNYcGRFNTJ6QVBTalcwY3lUWU96Q3hRcEtaV0FwUGs?oc=5",
-      "source": "MEXC Exchange",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-04-09T21:02:01+00:00",
-      "tags": [],
-      "key_quote": "OKX CEO Criticizes CZ Over Claims in Freedom of Money MEXC Exchange"
     }
   ]
 }
