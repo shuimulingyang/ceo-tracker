@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-11T22:43:58Z",
+  "updated_at": "2026-06-12T00:11:34Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 319,
-    "CZ": 85,
+    "Brian Armstrong": 320,
+    "CZ": 84,
     "Star Xu": 14,
     "Ben Zhou": 31,
     "Richard Teng": 51
@@ -13,6 +13,19 @@
       "title": "Coinbase CEO: Global crypto perps will connect U.S. and international markets",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlNsbFNZYWFfWXNBVGZfTmtpT2Q0dkZtQTQyRU40ZlVvbkRKMjY5WGlsZzRqRnc4UEtwSGdvd2hHTDdGNlFaZVNpTlhkbVlCMFBmYmNKa2c4emVXbHozU25wbVlBS1laYlYxMXZnbDg3NGZWckU5X01CNU81OVk2N2Z3bVBLZUVCZFR3a1NyOEJPOG04eWxfOFdvRERRWmfSAaQBQVVfeXFMTThJZENnbndnNnI4aXRnaG1SLURodUp5a2RxWnVTNHlxeFBxWHRNRG9FU2lYQnVvSWdfQTRTdVhPc1RBVk1lTVJGYWIyek1VeWNhTEs1SEpGc095b3V4YXFjRFBzUUJ3Z05LWnJ6cTEzVm9MdlRrWVRDNE9pdDUyM0NVbEEyTTVsSW9yWHhUbkJmUGxWVzJ5WjZadVZPRS1tS0hZQTk?oc=5\" target=\"_blank\">Coinbase CEO: Global crypto perps will connect U.S. and international markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AMBCrypto</font>",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlNsbFNZYWFfWXNBVGZfTmtpT2Q0dkZtQTQyRU40ZlVvbkRKMjY5WGlsZzRqRnc4UEtwSGdvd2hHTDdGNlFaZVNpTlhkbVlCMFBmYmNKa2c4emVXbHozU25wbVlBS1laYlYxMXZnbDg3NGZWckU5X01CNU81OVk2N2Z3bVBLZUVCZFR3a1NyOEJPOG04eWxfOFdvRERRWmfSAaQBQVVfeXFMTThJZENnbndnNnI4aXRnaG1SLURodUp5a2RxWnVTNHlxeFBxWHRNRG9FU2lYQnVvSWdfQTRTdVhPc1RBVk1lTVJGYWIyek1VeWNhTEs1SEpGc095b3V4YXFjRFBzUUJ3Z05LWnJ6cTEzVm9MdlRrWVRDNE9pdDUyM0NVbEEyTTVsSW9yWHhUbkJmUGxWVzJ5WjZadVZPRS1tS0hZQTk?oc=5",
+      "source": "AMBCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-11T20:00:17+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO: Global crypto perps will connect U.S. and international markets AMBCrypto"
+    },
+    {
+      "title": "Coinbase CEO: Global crypto perps will connect U.S. and international markets",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlNsbFNZYWFfWXNBVGZfTmtpT2Q0dkZtQTQyRU40ZlVvbkRKMjY5WGlsZzRqRnc4UEtwSGdvd2hHTDdGNlFaZVNpTlhkbVlCMFBmYmNKa2c4emVXbHozU25wbVlBS1laYlYxMXZnbDg3NGZWckU5X01CNU81OVk2N2Z3bVBLZUVCZFR3a1NyOEJPOG04eWxfOFdvRERRWmfSAdsBQVVfeXFMTWNMazVNdnRqVEs4NFpmQlg1cWRhQmJhSXJPejFLNFJqNHpEVUM4STBSMS01Ui1jOUdtRGI4cHZ2T0RHMjlCZnlzWUpfNmh6UG1HZ0xzV1dpNkZ2cmhFTGRHSW9JbHNCaFJVR2JGb0V2SDZRbUJNUHQyTmVyVGR5RHYyMDdKWm1QUnZhaVpZMmhJX1dJSm9xM0VjMVR4cXNZQnJpWDUwU3lPVUJTZE5RVmtVSlJEblNWVDlLRUdQSmFKVGo5UkRILUREZExhOHVqdE5SNXltMkJuQjVV?oc=5\" target=\"_blank\">Coinbase CEO: Global crypto perps will connect U.S. and international markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AMBCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlNsbFNZYWFfWXNBVGZfTmtpT2Q0dkZtQTQyRU40ZlVvbkRKMjY5WGlsZzRqRnc4UEtwSGdvd2hHTDdGNlFaZVNpTlhkbVlCMFBmYmNKa2c4emVXbHozU25wbVlBS1laYlYxMXZnbDg3NGZWckU5X01CNU81OVk2N2Z3bVBLZUVCZFR3a1NyOEJPOG04eWxfOFdvRERRWmfSAdsBQVVfeXFMTWNMazVNdnRqVEs4NFpmQlg1cWRhQmJhSXJPejFLNFJqNHpEVUM4STBSMS01Ui1jOUdtRGI4cHZ2T0RHMjlCZnlzWUpfNmh6UG1HZ0xzV1dpNkZ2cmhFTGRHSW9JbHNCaFJVR2JGb0V2SDZRbUJNUHQyTmVyVGR5RHYyMDdKWm1QUnZhaVpZMmhJX1dJSm9xM0VjMVR4cXNZQnJpWDUwU3lPVUJTZE5RVmtVSlJEblNWVDlLRUdQSmFKVGo5UkRILUREZExhOHVqdE5SNXltMkJuQjVV?oc=5",
       "source": "AMBCrypto",
       "ceo_name": "Brian Armstrong",
       "exchange": "Coinbase",
@@ -6104,17 +6117,6 @@
         "Layer2"
       ],
       "key_quote": "OKX Founder Rejects Changpeng Zhao’s Shocking $1B Divorce Bet Over Compliance Concerns CryptoRank"
-    },
-    {
-      "title": "OKX founder rejects Changpeng Zhao's $1B bet on divorce status",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SQ2xsM1ZrT2Q2a2U0UkhfSGJ4bGpLWC1TZWNwcDY5YW1GUWMyZXNhX2pFZ1NYaFF6bFJzekF4Ymhya3BHcEplTzVFWGw?oc=5\" target=\"_blank\">OKX founder rejects Changpeng Zhao's $1B bet on divorce status</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">코인니스</font>",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SQ2xsM1ZrT2Q2a2U0UkhfSGJ4bGpLWC1TZWNwcDY5YW1GUWMyZXNhX2pFZ1NYaFF6bFJzekF4Ymhya3BHcEplTzVFWGw?oc=5",
-      "source": "코인니스",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-10T02:08:53+00:00",
-      "tags": [],
-      "key_quote": "OKX founder rejects Changpeng Zhao's $1B bet on divorce status 코인니스"
     }
   ]
 }
