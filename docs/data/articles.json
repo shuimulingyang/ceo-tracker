@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-12T16:07:43Z",
+  "updated_at": "2026-06-12T18:55:04Z",
   "total": 500,
   "by_ceo": {
     "CZ": 83,
-    "Brian Armstrong": 321,
-    "Star Xu": 14,
+    "Brian Armstrong": 323,
+    "Star Xu": 12,
     "Ben Zhou": 31,
     "Richard Teng": 51
   },
@@ -21,6 +21,32 @@
         "安全 Security"
       ],
       "key_quote": "Binance’s Changpeng Zhao contrasts fraud cases with SBF’s pardon application Crypto Briefing"
+    },
+    {
+      "title": "Coinbase CEO: Platform processes nearly $1 trillion in stablecoin transactions annually",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZUxFc2R0R3V0R21mcko2QXZPdjJDM2R3MkRqZExyb0hEU1ktTGdVcC1salppRkpHNlVtUDh2NXY2enRCbV9iaVlkSTVHUVhOWDR1akw0b0hXUDlvUVBfXzZTSzg4TkdrbnB5ME5GQXZ3YzlNQkkyWm1oXy13MHE2TzRfbG04S2NIbjhZYkRnWGlPUWFNWHlxNEVGSHFzQVR3a2F0WEVVUlF2cVVoTnBkdllJakhRenlUNDkwU0l4TWU5TVV4SGw2Uk5WMHRJTVNtVTdfYldmanpVaDFkQlhfbV9feTV1dGs?oc=5\" target=\"_blank\">Coinbase CEO: Platform processes nearly $1 trillion in stablecoin transactions annually</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZUxFc2R0R3V0R21mcko2QXZPdjJDM2R3MkRqZExyb0hEU1ktTGdVcC1salppRkpHNlVtUDh2NXY2enRCbV9iaVlkSTVHUVhOWDR1akw0b0hXUDlvUVBfXzZTSzg4TkdrbnB5ME5GQXZ3YzlNQkkyWm1oXy13MHE2TzRfbG04S2NIbjhZYkRnWGlPUWFNWHlxNEVGSHFzQVR3a2F0WEVVUlF2cVVoTnBkdllJakhRenlUNDkwU0l4TWU5TVV4SGw2Uk5WMHRJTVNtVTdfYldmanpVaDFkQlhfbV9feTV1dGs?oc=5",
+      "source": "富途牛牛",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-12T08:51:00+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO: Platform processes nearly $1 trillion in stablecoin transactions annually 富途牛牛"
+    },
+    {
+      "title": "Coinbase CEO: The platform processes nearly $1 trillion in stablecoin payments annually and holds $20 billion in USDC",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQTjBWZzZQZThFU3o4c1hjRHJtVDZxTWtPZlRxWnJhdXMwZnV5ZGVkU1pKU2t5dDhLS1Eta3RDcEdScjViNlpCMUlqY29JR0VyaF8tSEdnNk82TmNFM0dvMmNHT1E4NFVrQm42UHpuNU5MVXBLM3pBQ09JdlRKOG1QeEpfUmNPY1NGU3JCSUYzR19PbEU3Tl9oY2hkb09GVllVa2dIUHJ0TUhaVnRrRVJ3N0plbVFkbFNzZ0pXMEFial9ra3d1VzMteW5mdlYwSDR5RDNLRUNHalROR0ptb2pyaTM1SEJxR1pmWVBjdkxKSWFQWjFKQ1MzTi1VWjN0RHI2cHc?oc=5\" target=\"_blank\">Coinbase CEO: The platform processes nearly $1 trillion in stablecoin payments annually and holds $20 billion in USDC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTjBWZzZQZThFU3o4c1hjRHJtVDZxTWtPZlRxWnJhdXMwZnV5ZGVkU1pKU2t5dDhLS1Eta3RDcEdScjViNlpCMUlqY29JR0VyaF8tSEdnNk82TmNFM0dvMmNHT1E4NFVrQm42UHpuNU5MVXBLM3pBQ09JdlRKOG1QeEpfUmNPY1NGU3JCSUYzR19PbEU3Tl9oY2hkb09GVllVa2dIUHJ0TUhaVnRrRVJ3N0plbVFkbFNzZ0pXMEFial9ra3d1VzMteW5mdlYwSDR5RDNLRUNHalROR0ptb2pyaTM1SEJxR1pmWVBjdkxKSWFQWjFKQ1MzTi1VWjN0RHI2cHc?oc=5",
+      "source": "WEEX",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-12T03:45:59+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO: The platform processes nearly $1 trillion in stablecoin payments annually and holds $20 billion in USDC WEEX"
     },
     {
       "title": "Coinbase CEO: Global crypto perps will connect U.S. and international markets",
@@ -6092,28 +6118,6 @@
         "Web3"
       ],
       "key_quote": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute MEXC"
-    },
-    {
-      "title": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EUnZJcEpWa182NUYyUndNcXEtbWY1c0JDcHlxa2c5Mm8tb3AxTlJBRDZZU3VWdGZvVHY0bElTa1kwc2d4TW9DOHFOYXRweFU?oc=5\" target=\"_blank\">OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC Exchange</font>",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EUnZJcEpWa182NUYyUndNcXEtbWY1c0JDcHlxa2c5Mm8tb3AxTlJBRDZZU3VWdGZvVHY0bElTa1kwc2d4TW9DOHFOYXRweFU?oc=5",
-      "source": "MEXC Exchange",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-04-10T03:55:02+00:00",
-      "tags": [],
-      "key_quote": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute MEXC Exchange"
-    },
-    {
-      "title": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xT3cyc1J4Q25uS2lOY0JJTzU5amZna1NGb1A3YmJkRGlhOVBrZEQ2WUJNclZwTlk4ZHR6WkRRWUZza1pBZzBsTzhFODNNWHBrdkhMcUdn?oc=5\" target=\"_blank\">OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xT3cyc1J4Q25uS2lOY0JJTzU5amZna1NGb1A3YmJkRGlhOVBrZEQ2WUJNclZwTlk4ZHR6WkRRWUZza1pBZzBsTzhFODNNWHBrdkhMcUdn?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-04-10T03:09:14+00:00",
-      "tags": [],
-      "key_quote": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute Cryptonews.net"
     }
   ]
 }
