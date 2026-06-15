@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T18:58:25Z",
+  "updated_at": "2026-06-15T21:40:24Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 331,
@@ -36,6 +36,19 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin’s 4-Year Cycle Hits a Question Mark at Mid-2026, Brian Armstrong Has an Answer Yahoo Finance"
+    },
+    {
+      "title": "Bitcoin’s 4-Year Cycle Hits a Question Mark at Mid-2026, Brian Armstrong Has an Answer",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9nRmVBZzZkT3RXdWU4aWNGa29tVXN1ZFhNSXJZZGt3emg5eldFcVB4TnhrVk5Edk5YUGlseFpscXZnaDVCRm5vX2gxc1JBZkV0ajV6cE1jS2MwaER5N2FIQ1pmbTBYMVNHMTBVSmxqRzNRaGM1alVN?oc=5\" target=\"_blank\">Bitcoin’s 4-Year Cycle Hits a Question Mark at Mid-2026, Brian Armstrong Has an Answer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nRmVBZzZkT3RXdWU4aWNGa29tVXN1ZFhNSXJZZGt3emg5eldFcVB4TnhrVk5Edk5YUGlseFpscXZnaDVCRm5vX2gxc1JBZkV0ajV6cE1jS2MwaER5N2FIQ1pmbTBYMVNHMTBVSmxqRzNRaGM1alVN?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T13:52:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Bitcoin’s 4-Year Cycle Hits a Question Mark at Mid-2026, Brian Armstrong Has an Answer BeInCrypto"
     },
     {
       "title": "Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000",
@@ -6137,17 +6150,6 @@
         "DeFi"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Backs Treasury Secretary Scott Bessent's CLARITY Act Push thedefiant.io"
-    },
-    {
-      "title": "Coinbase CEO Backs Clarity Act Push as Crypto Rules Progress",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeFZsU0xBbFVwa3NEOFMtY2M2STllWWJVbXUxLWJ3QnBXSnBWYXdMamVKTnNTcWtlZ0ZXbU50TmlmMjBjd3lwdVVOVjhDUG9zbERpY2NVd2hhMGlnU2xBZTFPMlZIbXFOdklTcXJQa0Jjd3ZIUTJZSzhqYnhaNkF6VUp2bmI3NUJlT0k4cU5GWTVnZw?oc=5\" target=\"_blank\">Coinbase CEO Backs Clarity Act Push as Crypto Rules Progress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinpaper</font>",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeFZsU0xBbFVwa3NEOFMtY2M2STllWWJVbXUxLWJ3QnBXSnBWYXdMamVKTnNTcWtlZ0ZXbU50TmlmMjBjd3lwdVVOVjhDUG9zbERpY2NVd2hhMGlnU2xBZTFPMlZIbXFOdklTcXJQa0Jjd3ZIUTJZSzhqYnhaNkF6VUp2bmI3NUJlT0k4cU5GWTVnZw?oc=5",
-      "source": "Coinpaper",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-10T15:46:12+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Backs Clarity Act Push as Crypto Rules Progress Coinpaper"
     }
   ]
 }
