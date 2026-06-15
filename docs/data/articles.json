@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-06-15T02:57:07Z",
+  "updated_at": "2026-06-15T08:51:05Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 324,
-    "CZ": 83,
+    "Brian Armstrong": 327,
+    "CZ": 80,
     "Star Xu": 11,
     "Ben Zhou": 31,
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUzB5YmtKc3ZIclV0RkFReDB3QmQ1Mll2bHlnXzVaZWh6U1RSRDg5YTZaVl8yRmFQajJnZzFJZVp6Nm52NERNeDQ4QVhheHM0YUZfZksxeXhKUzdlTXktQ2hCajhEOUQtTVpJMWtlQlozT2lxS3FMOVk4cmVfbnlZUGpvNHFHVzFTWDZrNlE2U2M5MERRblkyT250ZnFiZE5OR1VoWUQzS0xRZXhwOHg4R3pzQjZvdFJjeVlNR3pENnBzb2xmRXQyM0xXeUMxbzVBb3JfT3VscXdXdw?oc=5\" target=\"_blank\">Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUzB5YmtKc3ZIclV0RkFReDB3QmQ1Mll2bHlnXzVaZWh6U1RSRDg5YTZaVl8yRmFQajJnZzFJZVp6Nm52NERNeDQ4QVhheHM0YUZfZksxeXhKUzdlTXktQ2hCajhEOUQtTVpJMWtlQlozT2lxS3FMOVk4cmVfbnlZUGpvNHFHVzFTWDZrNlE2U2M5MERRblkyT250ZnFiZE5OR1VoWUQzS0xRZXhwOHg4R3pzQjZvdFJjeVlNR3pENnBzb2xmRXQyM0xXeUMxbzVBb3JfT3VscXdXdw?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T05:45:45+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market",
+        "Layer2"
+      ],
+      "key_quote": "Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230 Benzinga"
+    },
+    {
+      "title": "Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNYXdHNlQyYUhPOHhvVEFFeUhFT255bWZvbkxKcy1kVm5XalMydHNDc2tvUEdTMHc1WE5wc2Q0VTg0WmtSNUI5eTFObFZ5ZG8yald3QWZ4RE5RdGtDRmpYdjVXMWpZNkx3aDYyZXN4c3laMFZaNXVVOGJERFFjTVJNaGFERFJqcGtpbUgtQ1V3?oc=5\" target=\"_blank\">Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYXdHNlQyYUhPOHhvVEFFeUhFT255bWZvbkxKcy1kVm5XalMydHNDc2tvUEdTMHc1WE5wc2Q0VTg0WmtSNUI5eTFObFZ5ZG8yald3QWZ4RE5RdGtDRmpYdjVXMWpZNkx3aDYyZXN4c3laMFZaNXVVOGJERFFjTVJNaGFERFJqcGtpbUgtQ1V3?oc=5",
+      "source": "Yahoo Finance UK",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T05:45:00+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market",
+        "ETF"
+      ],
+      "key_quote": "Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230 Yahoo Finance UK"
+    },
+    {
+      "title": "'Never as Bad as It Seems': Coinbase CEO Remains Bullish on Bitcoin",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDU5N1NTMGUtY2w1dHBtQldlUGFmZnhhNW1ydW52NlM3QlRsb3BhVmpUQ1FVV0hHYUNZNElDcHhENkJkMTBlR0hySldwaDhzeVBTaE0zYjRsRUM3SUtfMHI0OGhaeHpLNWZLUVdNaW96YXpZNm4zU3NPc1dkLWtXZW9VOUpkRXPSAYwBQVVfeXFMUGo5Xy04VktXeEgwRTVweHdlYjBLMjFWb1VITU9NWVBFT0tEVVlwUEhjejhHZXppZ0FVendNck9vQy1FWDNkT0xzeUZ6YlVIeVlDSGRKdnZHNFI4NDhlX25udzBaaGRNYW0wZjY3WFVkNExmcXZYQXI0VHA5MnBrWXhYb0pnUXJRWW5vS3E?oc=5\" target=\"_blank\">'Never as Bad as It Seems': Coinbase CEO Remains Bullish on Bitcoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.Today</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDU5N1NTMGUtY2w1dHBtQldlUGFmZnhhNW1ydW52NlM3QlRsb3BhVmpUQ1FVV0hHYUNZNElDcHhENkJkMTBlR0hySldwaDhzeVBTaE0zYjRsRUM3SUtfMHI0OGhaeHpLNWZLUVdNaW96YXpZNm4zU3NPc1dkLWtXZW9VOUpkRXPSAYwBQVVfeXFMUGo5Xy04VktXeEgwRTVweHdlYjBLMjFWb1VITU9NWVBFT0tEVVlwUEhjejhHZXppZ0FVendNck9vQy1FWDNkT0xzeUZ6YlVIeVlDSGRKdnZHNFI4NDhlX25udzBaaGRNYW0wZjY3WFVkNExmcXZYQXI0VHA5MnBrWXhYb0pnUXJRWW5vS3E?oc=5",
+      "source": "U.Today",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T05:32:17+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "'Never as Bad as It Seems': Coinbase CEO Remains Bullish on Bitcoin U.Today"
+    },
     {
       "title": "Coinbase CEO remains optimistic about Bitcoin and still holds a long-term bullish position",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUGRxY1ZPaFAwYVFlYWtsYzJYQmp2NWNmVFMzWjlTMUxQTGRNLThLTk5tS0NjNTFxM3lvTzluOXBjTFJGbGk4cnoydjJsU2s3bjBUb1M5VjZmM21vZEJwc1ZCTzBhaWhYdHdHOTVPR3U1WXd5amx3a1pwSFJtNklDdDBWYWF1YXdpT1M3cG5rcjhINWRMMGhSZ0hrc0g4eXZwX01QN0d6azhzZUtUTHEzX0pWbFJ0Q21LV29iQ2hpNjZOZ0VkYUpRalFzNXZwbURTSHpEUS1QNW1vVHBueXVPSGN3?oc=5\" target=\"_blank\">Coinbase CEO remains optimistic about Bitcoin and still holds a long-term bullish position</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
@@ -6085,41 +6129,6 @@
       "published_at": "2026-04-10T08:56:04+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Urges Quick Passage of Clarity Act bloomingbit"
-    },
-    {
-      "title": "Why Changpeng Zhao believes we will stop talking about \"crypto\" within five years",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNbmhaQXlVVlR6RFV1WkdfUVpiM2JfOWs4ZVRVTVVfVm8yZGNFMG9oYVpZWjFuUEtnV1RvcWdYQks4SjQ4Ukp5NXJUZHhwbHBrQ01sYmVjMm5Wa2dJeEdoaVlCQlpEc1c0cmkwUVcxYm1CRmxvd3I5dHdMdk9LVnl5YVQ2Yl9aWklzb3VMMWVFM2JBUC10MUdvelFXZ3ZaR29YNlE?oc=5\" target=\"_blank\">Why Changpeng Zhao believes we will stop talking about \"crypto\" within five years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbmhaQXlVVlR6RFV1WkdfUVpiM2JfOWs4ZVRVTVVfVm8yZGNFMG9oYVpZWjFuUEtnV1RvcWdYQks4SjQ4Ukp5NXJUZHhwbHBrQ01sYmVjMm5Wa2dJeEdoaVlCQlpEc1c0cmkwUVcxYm1CRmxvd3I5dHdMdk9LVnl5YVQ2Yl9aWklzb3VMMWVFM2JBUC10MUdvelFXZ3ZaR29YNlE?oc=5",
-      "source": "crypto.news",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-10T08:21:20+00:00",
-      "tags": [],
-      "key_quote": "Why Changpeng Zhao believes we will stop talking about \"crypto\" within five years crypto.news"
-    },
-    {
-      "title": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOY19IajQ5MXpoMmZZY2otWjlVSWNfTmlRVW1FZjh1dU9BZzA1VEdjblc3VTI2cS1rNlJraUI4RUE2ZlBfRHNVMFUxV1N6UlJWZHJ2cWhCQ0tVaF9fZVVGZEtJaG5tU1pqSTh5SzhDbGt5SHJ6dzFGd0JaTG1HaG9Pc2pnY0ZWZkl1VmlLeA?oc=5\" target=\"_blank\">Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY19IajQ5MXpoMmZZY2otWjlVSWNfTmlRVW1FZjh1dU9BZzA1VEdjblc3VTI2cS1rNlJraUI4RUE2ZlBfRHNVMFUxV1N6UlJWZHJ2cWhCQ0tVaF9fZVVGZEtJaG5tU1pqSTh5SzhDbGt5SHJ6dzFGd0JaTG1HaG9Pc2pnY0ZWZkl1VmlLeA?oc=5",
-      "source": "CCN.com",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-10T08:01:52+00:00",
-      "tags": [
-        "Web3"
-      ],
-      "key_quote": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface CCN.com"
-    },
-    {
-      "title": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlZTQlZ1R2dpQmt5dkFsSmE1S3llcUp0TlZVb21mLW1hd3ViMElKa2ptUFVMbXJDSm5aUnJFQmhaTEtaQXd2bmVGWkNUb0VtU2w0RHhkTHdaSkN6RXNlZzhGc0pLTXFMQlZOSUVHYnpoQ1Vzb29tOXlSdktja2Y4NUpyZGdybW5rVU1rSTI0UDNDY0Z1?oc=5\" target=\"_blank\">Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlZTQlZ1R2dpQmt5dkFsSmE1S3llcUp0TlZVb21mLW1hd3ViMElKa2ptUFVMbXJDSm5aUnJFQmhaTEtaQXd2bmVGWkNUb0VtU2w0RHhkTHdaSkN6RXNlZzhGc0pLTXFMQlZOSUVHYnpoQ1Vzb29tOXlSdktja2Y4NUpyZGdybW5rVU1rSTI0UDNDY0Z1?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-10T07:54:36+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface Yahoo Finance"
     }
   ]
 }
