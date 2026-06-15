@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T23:57:11Z",
+  "updated_at": "2026-06-15T02:57:07Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 324,
@@ -9,6 +9,34 @@
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Coinbase CEO remains optimistic about Bitcoin and still holds a long-term bullish position",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUGRxY1ZPaFAwYVFlYWtsYzJYQmp2NWNmVFMzWjlTMUxQTGRNLThLTk5tS0NjNTFxM3lvTzluOXBjTFJGbGk4cnoydjJsU2s3bjBUb1M5VjZmM21vZEJwc1ZCTzBhaWhYdHdHOTVPR3U1WXd5amx3a1pwSFJtNklDdDBWYWF1YXdpT1M3cG5rcjhINWRMMGhSZ0hrc0g4eXZwX01QN0d6azhzZUtUTHEzX0pWbFJ0Q21LV29iQ2hpNjZOZ0VkYUpRalFzNXZwbURTSHpEUS1QNW1vVHBueXVPSGN3?oc=5\" target=\"_blank\">Coinbase CEO remains optimistic about Bitcoin and still holds a long-term bullish position</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUGRxY1ZPaFAwYVFlYWtsYzJYQmp2NWNmVFMzWjlTMUxQTGRNLThLTk5tS0NjNTFxM3lvTzluOXBjTFJGbGk4cnoydjJsU2s3bjBUb1M5VjZmM21vZEJwc1ZCTzBhaWhYdHdHOTVPR3U1WXd5amx3a1pwSFJtNklDdDBWYWF1YXdpT1M3cG5rcjhINWRMMGhSZ0hrc0g4eXZwX01QN0d6azhzZUtUTHEzX0pWbFJ0Q21LV29iQ2hpNjZOZ0VkYUpRalFzNXZwbURTSHpEUS1QNW1vVHBueXVPSGN3?oc=5",
+      "source": "WEEX",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T01:30:30+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO remains optimistic about Bitcoin and still holds a long-term bullish position WEEX"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Says He’s a Long-Term Bitcoin Holder, Calls $60K the Market Bottom",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9tOF9sUVNBdlBRaHBGSDFGSmJlS3EzMHlvQUxuZUxRaFZ1OUxONzkzWjdRT1QzLTN6WE9OWEJRUlVmcVdHazdLR0VRTU5YUnpoVDhOZkhRWVA2Z3RXTjVwMm1maUkzd21kSnJtLXctRnFvREZH?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says He’s a Long-Term Bitcoin Holder, Calls $60K the Market Bottom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin World</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tOF9sUVNBdlBRaHBGSDFGSmJlS3EzMHlvQUxuZUxRaFZ1OUxONzkzWjdRT1QzLTN6WE9OWEJRUlVmcVdHazdLR0VRTU5YUnpoVDhOZkhRWVA2Z3RXTjVwMm1maUkzd21kSnJtLXctRnFvREZH?oc=5",
+      "source": "Bitcoin World",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T00:55:10+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says He’s a Long-Term Bitcoin Holder, Calls $60K the Market Bottom Bitcoin World"
+    },
     {
       "title": "Coinbase CEO Sparks Debate on XRP Cross Border Payments Shift",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0phZkVKbV9DWmRuVGNZVjJqN0Z1NTVkSXl6cTNEWEY3Z3NIVWp5eDF1YzNUcDJCbFZEdnVlUWVkS2FMNVBDZEZwM1BocnFabzZXekc0blZ1Vzd2VTZhVmo2aWFIS2tucGR5aE9yU1k1OVYxZnowYThTLVc3b2I2TDRqZjJTZ2JYVGY5S1M5RQ?oc=5\" target=\"_blank\">Coinbase CEO Sparks Debate on XRP Cross Border Payments Shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinfomania</font>",
@@ -6092,30 +6120,6 @@
       "published_at": "2026-04-10T07:54:36+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao (CZ) vs Star Xu Explodes Again—$1 Billion Bet and Old Allegations Resurface Yahoo Finance"
-    },
-    {
-      "title": "Clarity Act gains bipartisan momentum as Coinbase CEO backs regulatory framework",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9nQ19haXVGOG50TmtsNHdDd2VTUjZnUHloWFV1M1prOUJSaTdXN05HZjdYNGxrMllOQWpkTERVdGs5ajB1OTJSQlYxYzlVdFctVW0xWnV0YlhldTJvLXkwaW1iY2FGT0FLNUpTNGhqcnFwYVk?oc=5\" target=\"_blank\">Clarity Act gains bipartisan momentum as Coinbase CEO backs regulatory framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cryptonomist</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nQ19haXVGOG50TmtsNHdDd2VTUjZnUHloWFV1M1prOUJSaTdXN05HZjdYNGxrMllOQWpkTERVdGs5ajB1OTJSQlYxYzlVdFctVW0xWnV0YlhldTJvLXkwaW1iY2FGT0FLNUpTNGhqcnFwYVk?oc=5",
-      "source": "The Cryptonomist",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-10T07:01:32+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Clarity Act gains bipartisan momentum as Coinbase CEO backs regulatory framework The Cryptonomist"
-    },
-    {
-      "title": "Coinbase CEO backs U.S. Treasury’s bid to pass CLARITY Act",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhdXB4Rl9PTmtqcEVTbXRFUmszVTBkRC1Ka0pNc3NPaDNobGR3MmZmcEtEdFM4Y3NkT3JfdEtLZzRrN1dCMmx3dw?oc=5\" target=\"_blank\">Coinbase CEO backs U.S. Treasury’s bid to pass CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhdXB4Rl9PTmtqcEVTbXRFUmszVTBkRC1Ka0pNc3NPaDNobGR3MmZmcEtEdFM4Y3NkT3JfdEtLZzRrN1dCMmx3dw?oc=5",
-      "source": "MEXC",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-10T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO backs U.S. Treasury’s bid to pass CLARITY Act MEXC"
     }
   ]
 }
