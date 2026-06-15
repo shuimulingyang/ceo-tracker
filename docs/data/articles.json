@@ -1,14 +1,96 @@
 {
-  "updated_at": "2026-06-15T08:51:05Z",
+  "updated_at": "2026-06-15T14:51:51Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 327,
-    "CZ": 80,
-    "Star Xu": 11,
+    "Brian Armstrong": 331,
+    "CZ": 77,
+    "Star Xu": 10,
     "Ben Zhou": 31,
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Bitcoin’s 4-Year Cycle Hits a Question Mark at Mid-2026, Brian Armstrong Has an Answer",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPdjRXbnhHdkNNRC1VU3o1QU9wT3BZVUpwazB1SVlqc0s4Z1NMTHh4N1c3alZSWlp2M2wwZVA5V3ZEN0lmeGNXMGZILXMwbkdvVGY5VHdEa3dvTlZLZTlOWFFPazJIS3k2UkhhTVAwck54WURONE01Z0lkR2ZWbWRJQlRpcmZQZlJOWGFYZFl0SEJWQVlP?oc=5\" target=\"_blank\">Bitcoin’s 4-Year Cycle Hits a Question Mark at Mid-2026, Brian Armstrong Has an Answer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdjRXbnhHdkNNRC1VU3o1QU9wT3BZVUpwazB1SVlqc0s4Z1NMTHh4N1c3alZSWlp2M2wwZVA5V3ZEN0lmeGNXMGZILXMwbkdvVGY5VHdEa3dvTlZLZTlOWFFPazJIS3k2UkhhTVAwck54WURONE01Z0lkR2ZWbWRJQlRpcmZQZlJOWGFYZFl0SEJWQVlP?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T13:52:28+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Bitcoin’s 4-Year Cycle Hits a Question Mark at Mid-2026, Brian Armstrong Has an Answer Yahoo Finance"
+    },
+    {
+      "title": "Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hTUt1YzVzUTJuNWtIOU9ibXNPOWNXa2EyOTdTSkk1STJGb0E3Z0wxYzNMVVBJVEhsclJSa0V0OGFMbFJEbHBVMDlqXzdNZ3NJMWlFUlZKVi0?oc=5\" target=\"_blank\">Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hTUt1YzVzUTJuNWtIOU9ibXNPOWNXa2EyOTdTSkk1STJGb0E3Z0wxYzNMVVBJVEhsclJSa0V0OGFMbFJEbHBVMDlqXzdNZ3NJMWlFUlZKVi0?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T13:51:16+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000 Cryptonews.net"
+    },
+    {
+      "title": "Bitcoin Price Will Be 'Much Higher By 2030,' Says Coinbase CEO Brian Armstrong — How High Can It Go?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkh5OGV4bU9wQkJZQ25SRXFaSnJrWi1PZzlrT0VTT3ZWdWZhLWpyVHQxLVZxNFBFMHJQeU43SXlJdjNuSjJ2c2VLT3RKOFU0SGd1WEdObmk4eTE5LWRZcXBPMWpTMFpwbWYtcWVxLWc1Z1FBdkNCdVlLMFZwcllEVHAzeUFMbnhfS1ZZLS16VUU?oc=5\" target=\"_blank\">Bitcoin Price Will Be 'Much Higher By 2030,' Says Coinbase CEO Brian Armstrong — How High Can It Go?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYkh5OGV4bU9wQkJZQ25SRXFaSnJrWi1PZzlrT0VTT3ZWdWZhLWpyVHQxLVZxNFBFMHJQeU43SXlJdjNuSjJ2c2VLT3RKOFU0SGd1WEdObmk4eTE5LWRZcXBPMWpTMFpwbWYtcWVxLWc1Z1FBdkNCdVlLMFZwcllEVHAzeUFMbnhfS1ZZLS16VUU?oc=5",
+      "source": "CCN.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T12:13:44+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market",
+        "AI"
+      ],
+      "key_quote": "Bitcoin Price Will Be 'Much Higher By 2030,' Says Coinbase CEO Brian Armstrong — How High Can It Go?"
+    },
+    {
+      "title": "Bitcoin Price Will Be 'Much Higher By 2030,' Says Coinbase CEO Brian Armstrong — How High Can It Go?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlAzSTMtMDA2Zkx0SUY1MGZtYThKUHBsbVpfUVBiaHhBWkVuOTdNRG1xWTBoYWNhWVV0ckRNVUI0TFV4REdMcnZjQUhCcjFUYXBDenZuZ3lmSWFZV1RxV2R2RnoyVllNS05ya2w3VDk4Q0ZIb2FJS3FLVk9BXzFZS3VFOEdlYlpnNTJacFB1ajZDR2RBc1RtbHJ3cw?oc=5\" target=\"_blank\">Bitcoin Price Will Be 'Much Higher By 2030,' Says Coinbase CEO Brian Armstrong — How High Can It Go?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlAzSTMtMDA2Zkx0SUY1MGZtYThKUHBsbVpfUVBiaHhBWkVuOTdNRG1xWTBoYWNhWVV0ckRNVUI0TFV4REdMcnZjQUhCcjFUYXBDenZuZ3lmSWFZV1RxV2R2RnoyVllNS05ya2w3VDk4Q0ZIb2FJS3FLVk9BXzFZS3VFOEdlYlpnNTJacFB1ajZDR2RBc1RtbHJ3cw?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T12:12:15+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Bitcoin Price Will Be 'Much Higher By 2030,' Says Coinbase CEO Brian Armstrong — How High Can It Go?"
+    },
+    {
+      "title": "Coinbase CEO’s Bitcoin call lands as crypto turns green",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzBpQUlhVjNsd1NubEpCV3NPOTVwdzlNaXBpcXAzYkpBa1VxNmV6WWhnZDYwaHdqUjlSbTk2XzcyQ2FOM2gtNDI2eldZQWtjeWNXYzFYSEMyd0VXd2pFTnhRR1o5WTFtZmF5UWlzbUd0cU1YSm1LdTdIOUtZNzN0cQ?oc=5\" target=\"_blank\">Coinbase CEO’s Bitcoin call lands as crypto turns green</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzBpQUlhVjNsd1NubEpCV3NPOTVwdzlNaXBpcXAzYkpBa1VxNmV6WWhnZDYwaHdqUjlSbTk2XzcyQ2FOM2gtNDI2eldZQWtjeWNXYzFYSEMyd0VXd2pFTnhRR1o5WTFtZmF5UWlzbUd0cU1YSm1LdTdIOUtZNzN0cQ?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T10:40:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO’s Bitcoin call lands as crypto turns green crypto.news"
+    },
+    {
+      "title": "Bitcoin Bottom In? Coinbase CEO Armstrong Turns Bullish Ahead Of BOJ Decision",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmpFUWR5LVdlcjhpWXJ6YVdxc1NHZDBZQWlkWkdCd3o3eUZzNzczMEplREU5QjhBZjAxMkZ0V0d6Q1BPcFoybXc2ZDB3ZGFMbXdCUTBQXzQ4VGZlYWptMHVSZGR3ZFkzT3FVR0M3dE5Ia2xGY3FOZWJVWEpMSjFJb1QxWnJET19YdEhrY0VPYTQzVXVucjJJYnVuZXk4Q2lzQ3lMdTZ2WjB2SHk4d2xWVzFZSVBWbDM1MUFERlIxTDhDRzY2SF9j?oc=5\" target=\"_blank\">Bitcoin Bottom In? Coinbase CEO Armstrong Turns Bullish Ahead Of BOJ Decision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmpFUWR5LVdlcjhpWXJ6YVdxc1NHZDBZQWlkWkdCd3o3eUZzNzczMEplREU5QjhBZjAxMkZ0V0d6Q1BPcFoybXc2ZDB3ZGFMbXdCUTBQXzQ4VGZlYWptMHVSZGR3ZFkzT3FVR0M3dE5Ia2xGY3FOZWJVWEpMSjFJb1QxWnJET19YdEhrY0VPYTQzVXVucjJJYnVuZXk4Q2lzQ3lMdTZ2WjB2SHk4d2xWVzFZSVBWbDM1MUFERlIxTDhDRzY2SF9j?oc=5",
+      "source": "Stocktwits",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T09:39:27+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Armstrong Turns Bullish Ahead Of BOJ Decision Stocktwits"
+    },
     {
       "title": "Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUzB5YmtKc3ZIclV0RkFReDB3QmQ1Mll2bHlnXzVaZWh6U1RSRDg5YTZaVl8yRmFQajJnZzFJZVp6Nm52NERNeDQ4QVhheHM0YUZfZksxeXhKUzdlTXktQ2hCajhEOUQtTVpJMWtlQlozT2lxS3FMOVk4cmVfbnlZUGpvNHFHVzFTWDZrNlE2U2M5MERRblkyT250ZnFiZE5OR1VoWUQzS0xRZXhwOHg4R3pzQjZvdFJjeVlNR3pENnBzb2xmRXQyM0xXeUMxbzVBb3JfT3VscXdXdw?oc=5\" target=\"_blank\">Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -38,6 +120,20 @@
         "ETF"
       ],
       "key_quote": "Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230 Yahoo Finance UK"
+    },
+    {
+      "title": "Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNRENLU3hMTUZiam5Pa1kzUWRhcDZuSzMtV2czZFBCZE5qc1pyOW1fdlZZcnhmallDZURONjRJYlVxZUdEdFhZd1BPMl9WTFJINEFnZjNRYlhWbWFxNkRMR3RldXJuOGhYVTFvMkliLVFQdTZiNW9EMG11T0sweWhacDZSNTJyczJTUkdnVGg0bm1uVWdKVHhUSnZDc2ExcjU3TDkw?oc=5\" target=\"_blank\">Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRENLU3hMTUZiam5Pa1kzUWRhcDZuSzMtV2czZFBCZE5qc1pyOW1fdlZZcnhmallDZURONjRJYlVxZUdEdFhZd1BPMl9WTFJINEFnZjNRYlhWbWFxNkRMR3RldXJuOGhYVTFvMkliLVFQdTZiNW9EMG11T0sweWhacDZSNTJyczJTUkdnVGg0bm1uVWdKVHhUSnZDc2ExcjU3TDkw?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T05:45:00+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230 Yahoo Finance"
     },
     {
       "title": "'Never as Bad as It Seems': Coinbase CEO Remains Bullish on Bitcoin",
@@ -6048,87 +6144,6 @@
         "Ethereum"
       ],
       "key_quote": "Coinbase CEO Calls For Passage Of U.S. Clarity Act Yahoo Finance"
-    },
-    {
-      "title": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzVS1jdDZMNzU1anpRSlVOZncxdDhHMEJudmRiSks4U0hCc2VHWUlETkdNRE9rSFpKaG9fOUcwbzVGdUVObDlWbENqamt1Z0RnQ3NUX1pQMA?oc=5\" target=\"_blank\">OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzVS1jdDZMNzU1anpRSlVOZncxdDhHMEJudmRiSks4U0hCc2VHWUlETkdNRE9rSFpKaG9fOUcwbzVGdUVObDlWbENqamt1Z0RnQ3NUX1pQMA?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-04-10T13:01:12+00:00",
-      "tags": [],
-      "key_quote": "OKX CEO challenges CZ's narrative rekindling the OKCoin era dispute Cryptonews.net"
-    },
-    {
-      "title": "CZ Binance vs Star OKX: The $1 Billion Bet Crypto Twitter",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5GZVQ3WnV5Wmp4dGhNcXVjNEU1RGdoWHRicW9oOGpvYmJFWVV2Nm5Tb1BaUTZnV1RzbDRDa2pVM3ZUaEZIVmNUS2xZNFJUMmVTOFNjOG5XSk1WUjB0UXp3N2FBVWo1QW9xV2lZMWJxTXNCZXdReGlkVHhZbF9PajQ?oc=5\" target=\"_blank\">CZ Binance vs Star OKX: The $1 Billion Bet Crypto Twitter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GZVQ3WnV5Wmp4dGhNcXVjNEU1RGdoWHRicW9oOGpvYmJFWVV2Nm5Tb1BaUTZnV1RzbDRDa2pVM3ZUaEZIVmNUS2xZNFJUMmVTOFNjOG5XSk1WUjB0UXp3N2FBVWo1QW9xV2lZMWJxTXNCZXdReGlkVHhZbF9PajQ?oc=5",
-      "source": "Cryptonews",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-10T12:49:30+00:00",
-      "tags": [],
-      "key_quote": "CZ Binance vs Star OKX: The $1 Billion Bet Crypto Twitter Cryptonews"
-    },
-    {
-      "title": "'It's time to pass the Clarity Act': Coinbase CEO Brian Armstrong backs Bessent's crypto bill push",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmtWLXJ4aVVFSjlLUThpWkhVUkZlMzJPS2htaExnZzBIRmd6dkRfWVctTTlCUHBNX2UwOFB2S0c0MGlDRFJWRmlOQzNCZnhrRU1zNThGSFlQT0dmZWtQZ0I0a3lHQVF5YzZYbW5XTUlZU2t5ZzJVYlQ4QVU0WE1iWnFn?oc=5\" target=\"_blank\">'It's time to pass the Clarity Act': Coinbase CEO Brian Armstrong backs Bessent's crypto bill push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Block</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmtWLXJ4aVVFSjlLUThpWkhVUkZlMzJPS2htaExnZzBIRmd6dkRfWVctTTlCUHBNX2UwOFB2S0c0MGlDRFJWRmlOQzNCZnhrRU1zNThGSFlQT0dmZWtQZ0I0a3lHQVF5YzZYbW5XTUlZU2t5ZzJVYlQ4QVU0WE1iWnFn?oc=5",
-      "source": "The Block",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-10T11:45:21+00:00",
-      "tags": [],
-      "key_quote": "'It's time to pass the Clarity Act': Coinbase CEO Brian Armstrong backs Bessent's crypto bill push The Block"
-    },
-    {
-      "title": "‘It’s time to pass the Clarity Act’: Coinbase CEO Brian Armstrong backs Bessent’s crypto bill push",
-      "content": "<p>Coinbase CEO Brian Armstrong backed passing the Clarity Act after the firm previously withheld support for earlier versions of the bill.</p>",
-      "url": "https://www.theblock.co/post/396992/coinbase-ceo-brian-armstrong-clarity-act?utm_source=rss&utm_medium=rss",
-      "source": "The Block",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-10T11:45:21+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong backed passing the Clarity Act after the firm previously withheld support for earlier versions of the bill."
-    },
-    {
-      "title": "OKX CEO Criticizes Changpeng Zhao’s Book, Accuses Him of Lying — CZ Responds With $1B Bet Offer",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObll6X3VsVTdnazRFM211MzhobVRpWEVpS3ZkUHRLUzVKV3B2b0Q3T1VvMVZRLVQxd05GOW5qaVpLaUhBb2VhVURnSGxxQnlHU19ocTY5QmdwWng1QkxWbWd0X1Q3bENuTGtLbkJib3ZZYmZ1c3hDaGhZYmxrSmRfRUR5amM4X05BZVVyMEF1VV84MUd4LVJvazF1RDliWjRNdVB1VDRTUFp1bV9BWjBRWHlxQlBvcWs?oc=5\" target=\"_blank\">OKX CEO Criticizes Changpeng Zhao’s Book, Accuses Him of Lying — CZ Responds With $1B Bet Offer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">incrypted</font>",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObll6X3VsVTdnazRFM211MzhobVRpWEVpS3ZkUHRLUzVKV3B2b0Q3T1VvMVZRLVQxd05GOW5qaVpLaUhBb2VhVURnSGxxQnlHU19ocTY5QmdwWng1QkxWbWd0X1Q3bENuTGtLbkJib3ZZYmZ1c3hDaGhZYmxrSmRfRUR5amM4X05BZVVyMEF1VV84MUd4LVJvazF1RDliWjRNdVB1VDRTUFp1bV9BWjBRWHlxQlBvcWs?oc=5",
-      "source": "incrypted",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-10T09:40:25+00:00",
-      "tags": [
-        "DeFi"
-      ],
-      "key_quote": "OKX CEO Criticizes Changpeng Zhao’s Book, Accuses Him of Lying — CZ Responds With $1B Bet Offer incrypted"
-    },
-    {
-      "title": "Changpeng Zhao: Cryptocurrencies will become as common as internet",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNk52LThaZU82d1hkeHZETFZRTnJGWWwzZVo3VXJPamV5dm03bHQxajdaamhWcnV4aUNSX1F5bTFKazdrcWhaQ29vWU1xQW4wUDk1Q25NOHUyRzYzbHFRMDJ2ZENoNHBXME1iZHNRdVpqQXpmR3ZwSEozYWNVUmxrSFEyTkxURERub3o4Q1dnNUxXMGd4c2h0eVl3cw?oc=5\" target=\"_blank\">Changpeng Zhao: Cryptocurrencies will become as common as internet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNk52LThaZU82d1hkeHZETFZRTnJGWWwzZVo3VXJPamV5dm03bHQxajdaamhWcnV4aUNSX1F5bTFKazdrcWhaQ29vWU1xQW4wUDk1Q25NOHUyRzYzbHFRMDJ2ZENoNHBXME1iZHNRdVpqQXpmR3ZwSEozYWNVUmxrSFEyTkxURERub3o4Q1dnNUxXMGd4c2h0eVl3cw?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-10T09:24:30+00:00",
-      "tags": [
-        "ETF"
-      ],
-      "key_quote": "Changpeng Zhao: Cryptocurrencies will become as common as internet Traders Union"
-    },
-    {
-      "title": "Coinbase CEO Urges Quick Passage of Clarity Act",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yb0FELWhkS0lVcUJmbFgxOGJ0VkV3MkxkdHVJTmdNclZZV2E2d05oOU1UeTJqblVxMkFFX2NmbklZOGJCU3ZYaFFhVmdvdjFPRjhrMQ?oc=5\" target=\"_blank\">Coinbase CEO Urges Quick Passage of Clarity Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yb0FELWhkS0lVcUJmbFgxOGJ0VkV3MkxkdHVJTmdNclZZV2E2d05oOU1UeTJqblVxMkFFX2NmbklZOGJCU3ZYaFFhVmdvdjFPRjhrMQ?oc=5",
-      "source": "bloomingbit",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-10T08:56:04+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Urges Quick Passage of Clarity Act bloomingbit"
     }
   ]
 }
