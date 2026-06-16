@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-06-16T18:23:25Z",
+  "updated_at": "2026-06-16T21:37:03Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 331,
+    "Brian Armstrong": 332,
     "CZ": 77,
-    "Star Xu": 10,
+    "Star Xu": 9,
     "Ben Zhou": 31,
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Mark Cuban has a one-word response to Coinbase CEO",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjN3TjdtUzlRS2FYLWlVUGp1cHo5dGVJVjBITEsxc0NReWk2Tk1PR3I1OXNWTHIxU0xnLUE4N1VnSzJkc3FBWXB6UEVMOXVvZWRoaU1Tb1pNVjZ6T2hMci0tVHlya0JXcEdKOVlWWFktNE5kY3hpekp5c1hvemswd0pwVWVHeUowdW0xNEROZ1Rkc0MyQXc?oc=5\" target=\"_blank\">Mark Cuban has a one-word response to Coinbase CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjN3TjdtUzlRS2FYLWlVUGp1cHo5dGVJVjBITEsxc0NReWk2Tk1PR3I1OXNWTHIxU0xnLUE4N1VnSzJkc3FBWXB6UEVMOXVvZWRoaU1Tb1pNVjZ6T2hMci0tVHlya0JXcEdKOVlWWFktNE5kY3hpekp5c1hvemswd0pwVWVHeUowdW0xNEROZ1Rkc0MyQXc?oc=5",
+      "source": "thestreet.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-16T18:58:01+00:00",
+      "tags": [],
+      "key_quote": "Mark Cuban has a one-word response to Coinbase CEO thestreet.com"
+    },
     {
       "title": "Coinbase CEO Armstrong Calls Accredited-Investor Rules a 'Regressive Tax'",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNckdBbVpuZHk5V3JqTk9JWkx0Z0t2VWd2RVViaW5VTUlHUjBtVzZRN09SZENIUGpKd3lLakprLTZtbzlCWmRTUFpqc0QxeG9sVVZfNUpxLTcySXl3VlBONmVySDExRzhZd2pycTAwckVQekF2UkVONDZBYUNaXzd3MHM4VlI0aFZ0TkR4UUUzdlJaakhZSWc?oc=5\" target=\"_blank\">Coinbase CEO Armstrong Calls Accredited-Investor Rules a 'Regressive Tax'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thedefiant.io</font>",
@@ -34,6 +45,30 @@
         "Layer2"
       ],
       "key_quote": "Coinbase CEO on tokenized stock launch: Opens U.S. equity access to global investors CNBC"
+    },
+    {
+      "title": "Coinbase CEO Says Bitcoin Has Likely Bottomed",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQLVVVajFScmhUV01ZdUlKVmV5VWxJUVU1YWhpb3RVS24tM0hBTlhQRFk4ajZUUFAwMVJUTHNzdWF6aW84cENMUkVFVmRQTGFCVUpPZmh2ekJFMWZKZXlpcjFpcFhPcnRMTUZ3QUJSMzVvYU5nRkptTXFhazFiTHVaNjhkUndBNlZXczhZT19Gc9IBekFVX3lxTE9kYjdBN3U1ZHNqeWFhVm5WRC1aT3dUM2xESXcyaTFKT1I4R0lXQzVqOEQtd2tKR0NQYS1NbEpDOUJwQ2RIZDdxZ1g5ZGhKY3N6VEJ2VEk1dTdlNU9PdFdwQ1JEX1hTTDljQlQ0ZEJCdm9uSGI1d2lXT3Rn?oc=5\" target=\"_blank\">Coinbase CEO Says Bitcoin Has Likely Bottomed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baystreet.ca</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLVVVajFScmhUV01ZdUlKVmV5VWxJUVU1YWhpb3RVS24tM0hBTlhQRFk4ajZUUFAwMVJUTHNzdWF6aW84cENMUkVFVmRQTGFCVUpPZmh2ekJFMWZKZXlpcjFpcFhPcnRMTUZ3QUJSMzVvYU5nRkptTXFhazFiTHVaNjhkUndBNlZXczhZT19Gc9IBekFVX3lxTE9kYjdBN3U1ZHNqeWFhVm5WRC1aT3dUM2xESXcyaTFKT1I4R0lXQzVqOEQtd2tKR0NQYS1NbEpDOUJwQ2RIZDdxZ1g5ZGhKY3N6VEJ2VEk1dTdlNU9PdFdwQ1JEX1hTTDljQlQ0ZEJCdm9uSGI1d2lXT3Rn?oc=5",
+      "source": "Baystreet.ca",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-16T14:08:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Says Bitcoin Has Likely Bottomed Baystreet.ca"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong criticizes US investor laws as regressive tax",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWZsWUVWZ25tbVlGcmo5SUxBRE1WS0dnRHp4b0pQMlBNcldWWkN5THgzWVo2cGRxb3dkMDBCOWRsWFdQRk1lQVBVbThCbzhBVGozQXBMdGJld3k0RUZpWXRfWUE0OWFKSXVYRzhpMW90YWZWQm9iQllnSEMyR2VEVWsyQ2RhUGVmdGxocjN5dl9xdUE?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong criticizes US investor laws as regressive tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWZsWUVWZ25tbVlGcmo5SUxBRE1WS0dnRHp4b0pQMlBNcldWWkN5THgzWVo2cGRxb3dkMDBCOWRsWFdQRk1lQVBVbThCbzhBVGozQXBMdGJld3k0RUZpWXRfWUE0OWFKSXVYRzhpMW90YWZWQm9iQllnSEMyR2VEVWsyQ2RhUGVmdGxocjN5dl9xdUE?oc=5",
+      "source": "Crypto Briefing",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-16T12:36:36+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong criticizes US investor laws as regressive tax Crypto Briefing"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Calls Accredited Investor Rules a ‘Regressive Tax’",
@@ -6111,41 +6146,6 @@
       "published_at": "2026-04-11T13:14:16+00:00",
       "tags": [],
       "key_quote": "Brian Armstrong Killed The Clarity Act In January — But Now He's Changed His Mind Sahm"
-    },
-    {
-      "title": "Controversy surrounding the book \"Freedom of Money\" between OKX CEO and CZ",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQW9pQ0tXaHV4WThGTTVqX2RuTzN2WDc5ek5LMmdFd1N0S2tVbDB3OVBGYWtYT2VYSnNyMTVrc0R6elZLU05uX2t6VDhaa3NBT1JFaWtlYnl3a0thb1J2THlDa0dEd0F4UUpuYXhfNmVYTXkzRnJwZnROVncwSGlGcEctN0l3Q2xIQ0NhaA?oc=5\" target=\"_blank\">Controversy surrounding the book \"Freedom of Money\" between OKX CEO and CZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UA.NEWS</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQW9pQ0tXaHV4WThGTTVqX2RuTzN2WDc5ek5LMmdFd1N0S2tVbDB3OVBGYWtYT2VYSnNyMTVrc0R6elZLU05uX2t6VDhaa3NBT1JFaWtlYnl3a0thb1J2THlDa0dEd0F4UUpuYXhfNmVYTXkzRnJwZnROVncwSGlGcEctN0l3Q2xIQ0NhaA?oc=5",
-      "source": "UA.NEWS",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-04-11T09:59:48+00:00",
-      "tags": [],
-      "key_quote": "Controversy surrounding the book \"Freedom of Money\" between OKX CEO and CZ UA.NEWS"
-    },
-    {
-      "title": "Coinbase CEO backs CLARITY Act after months of delays in Senate",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQejNJLWZtTlZXcS1tbDlLZXJ2cnpnZ0hxSlN1NzNHM0twc0dLRDNlTE52QXZWWmRVRWpJSjFiZTFqWkcyS0VWZ3JFaFltY3N6VkhOZUpMSENpcG1KcGw4TmZ5VWVOWlZsbHcxeUpacGpjX0dCUDNqTW81UlRINHUtY3MwaGRfSGdPLWhHbA?oc=5\" target=\"_blank\">Coinbase CEO backs CLARITY Act after months of delays in Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQejNJLWZtTlZXcS1tbDlLZXJ2cnpnZ0hxSlN1NzNHM0twc0dLRDNlTE52QXZWWmRVRWpJSjFiZTFqWkcyS0VWZ3JFaFltY3N6VkhOZUpMSENpcG1KcGw4TmZ5VWVOWlZsbHcxeUpacGpjX0dCUDNqTW81UlRINHUtY3MwaGRfSGdPLWhHbA?oc=5",
-      "source": "crypto.news",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-11T07:24:49+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO backs CLARITY Act after months of delays in Senate crypto.news"
-    },
-    {
-      "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOSHN1LU9kN0VWZG1HMGhYZEJZNjE4STlOY19WNG5CRnRMbkFwcnlZeTBnZXRFR3RpNS1qWVhyTDFxUXlaQTZWdTZUWVdIdV9hb05JdXlR?oc=5\" target=\"_blank\">Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOSHN1LU9kN0VWZG1HMGhYZEJZNjE4STlOY19WNG5CRnRMbkFwcnlZeTBnZXRFR3RpNS1qWVhyTDFxUXlaQTZWdTZUWVdIdV9hb05JdXlR?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-10T20:29:00+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act Cryptonews.net"
     }
   ]
 }
