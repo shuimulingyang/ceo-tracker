@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T08:35:58Z",
+  "updated_at": "2026-06-16T13:20:10Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 331,
@@ -9,6 +9,28 @@
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Calls Accredited Investor Rules a ‘Regressive Tax’",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2l3ZmozMXd1NDFIU1Fad01uSVRFbXNfcTlwUDFNSEk5S2J3LVAzTUY2N3kzLTdVNkhrWlBYMWxPWktEQ2ZReTBkVU9lOWp5aXlGbmRlUWp6Q0hQMFFPbmRYUlB0UFhIenBsSGY2Z2ZKR3FTSEE2VzBwaWxBZWNZMWJKMjgwVEtJNkx1OHFoVzQ3MEVhc3FfM0FWWU1qQ3Fm?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Calls Accredited Investor Rules a ‘Regressive Tax’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2l3ZmozMXd1NDFIU1Fad01uSVRFbXNfcTlwUDFNSEk5S2J3LVAzTUY2N3kzLTdVNkhrWlBYMWxPWktEQ2ZReTBkVU9lOWp5aXlGbmRlUWp6Q0hQMFFPbmRYUlB0UFhIenBsSGY2Z2ZKR3FTSEE2VzBwaWxBZWNZMWJKMjgwVEtJNkx1OHFoVzQ3MEVhc3FfM0FWWU1qQ3Fm?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-16T11:29:12+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Calls Accredited Investor Rules a ‘Regressive Tax’ Yahoo Finance"
+    },
+    {
+      "title": "Coinbase CEO Calls Accredited Investor Rules a Regressive Tax",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GbjMtMjV4OXp6ZmZzLVFycURjYXZJa3dNYXRyTDlNTWRKUEhXQjJydHhBWmVIaDZOa2JkcW81ejAxLWFFX3ZvQVJUdTVOZF9MTjBORkdn?oc=5\" target=\"_blank\">Coinbase CEO Calls Accredited Investor Rules a Regressive Tax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GbjMtMjV4OXp6ZmZzLVFycURjYXZJa3dNYXRyTDlNTWRKUEhXQjJydHhBWmVIaDZOa2JkcW81ejAxLWFFX3ZvQVJUdTVOZF9MTjBORkdn?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-16T11:07:08+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Calls Accredited Investor Rules a Regressive Tax Cryptonews.net"
+    },
     {
       "title": "Mark Cuban Says 'Just Sell Em Memecoins' To Brian Armstrong After Coinbase CEO Demands Reforms Of Investor Laws That Favor 'Rich' Investors",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQdVdvbDh0Y2lnNlh3N0cxVGJzdHI5RDZKWFUzYzVDRnRlVVJKX1h4M05zX0lCcW5jYkp1Q1UyNlRwcTlBNWhwbjVtWEJDdk5uRll2ZVJsdFB0QzNKOXZEWFBlUzJfVExGSnBwX3dneEktUWRIc3h2MkFhLUg3SnZJMTlaM24wVEYtM2ZsZFd6MVhJZzhk?oc=5\" target=\"_blank\">Mark Cuban Says 'Just Sell Em Memecoins' To Brian Armstrong After Coinbase CEO Demands Reforms Of Investor Laws That Favor 'Rich' Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -6122,33 +6144,6 @@
       "published_at": "2026-04-10T19:12:58+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong Calls for Passage of Clarity Act Modern Consensus."
-    },
-    {
-      "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
-      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4NTEtYzBlOS03NDM5LTk2YzAtODYzMzk4YWJhNmMzLmpwZw==.jpg\" /></p><p>The public statement came about three months after the CEO said Coinbase could not support the crypto bill “as written“ before a crucial committee vote.</p>",
-      "url": "https://cointelegraph.com/news/coinbase-ceo-treasury-secretary-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-10T18:11:16+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "The public statement came about three months after the CEO said Coinbase could not support the crypto bill “as written“ before a crucial committee vote."
-    },
-    {
-      "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNMWktdW55NUpmTGM3SWI3N3pEMDJ4T3hPMmVOUjkyQWdtaFlubHF0b1BYamYxTU1sNkxCa2ZJY2txRHp5bjFfaW83X1Z6Uzh5cmZ2MXB1UHJVT0U3VmNobnBnYTdOVXZHVEs2dE83RGR3aGJvQm9pbGhqQUV6Q05xbllRVjcwMDRBQU81Rm9TU3lSU1Zva054R2pQY3Z3TkdnTHNmTzl2NDdYSGJhOGNFR09FMzlsNC1CSUg3YVV3NWpIVmFFTUltYlJkSQ?oc=5\" target=\"_blank\">Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMWktdW55NUpmTGM3SWI3N3pEMDJ4T3hPMmVOUjkyQWdtaFlubHF0b1BYamYxTU1sNkxCa2ZJY2txRHp5bjFfaW83X1Z6Uzh5cmZ2MXB1UHJVT0U3VmNobnBnYTdOVXZHVEs2dE83RGR3aGJvQm9pbGhqQUV6Q05xbllRVjcwMDRBQU81Rm9TU3lSU1Zva054R2pQY3Z3TkdnTHNmTzl2NDdYSGJhOGNFR09FMzlsNC1CSUg3YVV3NWpIVmFFTUltYlJkSQ?oc=5",
-      "source": "TradingView",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-10T18:11:16+00:00",
-      "tags": [
-        "监管 Regulation",
-        "Layer2"
-      ],
-      "key_quote": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act TradingView"
     }
   ]
 }
