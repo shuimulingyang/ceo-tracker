@@ -1,14 +1,51 @@
 {
-  "updated_at": "2026-06-17T02:12:48Z",
+  "updated_at": "2026-06-17T08:17:52Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 332,
-    "CZ": 77,
+    "Brian Armstrong": 331,
+    "CZ": 78,
     "Star Xu": 9,
     "Ben Zhou": 31,
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Says Coinbase's New AI Investment Advisor Will 'Prompt You With Ideas You Hadn't Thought",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPODNlbVdGLUtheEQxbExELW55TDU0MEdNelkzUmtENHF1Y0NCSEdJOVRILTQ1cE95anZOWERJd0lfZlFLUGJ4X2ZvLUhZSVd0R1hqdW9MQ1l4Y085dGFoa0plTFJnQ0dVRmhfOG1TaXMtMXdNcUhGcEJLMkxFZy11d0NNdEhnQUZyX0NNZXpoYS1VTDNfWWhPaEVBdGhieGg3ZE42WWRRaWlUemhfMnhtLXNiZUg2TGJnUTdjMkdJVVJCVmF4UTU0eTlpYmd3TDlDYnBvTy11dzFvNzNnRl9nNC0yakw5b1VDbDY4TXluTQ?oc=5\" target=\"_blank\">Brian Armstrong Says Coinbase's New AI Investment Advisor Will 'Prompt You With Ideas You Hadn't Thought</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPODNlbVdGLUtheEQxbExELW55TDU0MEdNelkzUmtENHF1Y0NCSEdJOVRILTQ1cE95anZOWERJd0lfZlFLUGJ4X2ZvLUhZSVd0R1hqdW9MQ1l4Y085dGFoa0plTFJnQ0dVRmhfOG1TaXMtMXdNcUhGcEJLMkxFZy11d0NNdEhnQUZyX0NNZXpoYS1VTDNfWWhPaEVBdGhieGg3ZE42WWRRaWlUemhfMnhtLXNiZUg2TGJnUTdjMkdJVVJCVmF4UTU0eTlpYmd3TDlDYnBvTy11dzFvNzNnRl9nNC0yakw5b1VDbDY4TXluTQ?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-17T06:33:21+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Brian Armstrong Says Coinbase's New AI Investment Advisor Will 'Prompt You With Ideas You Hadn't Thought Benzinga"
+    },
+    {
+      "title": "Changpeng Zhao — Crypto Profile, Projects & Funding Rounds",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tWmJlZUJkY2lISjZWOE4wMmVTYk13YkRZTVBnOUZXQzVfVGxidlF3cmhDX0ZBYlhPWm9remVhNmp2cXNHSFB2VkM4d0pKX3dVdmRGUTJBNA?oc=5\" target=\"_blank\">Changpeng Zhao — Crypto Profile, Projects & Funding Rounds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tWmJlZUJkY2lISjZWOE4wMmVTYk13YkRZTVBnOUZXQzVfVGxidlF3cmhDX0ZBYlhPWm9remVhNmp2cXNHSFB2VkM4d0pKX3dVdmRGUTJBNA?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-16T23:14:25+00:00",
+      "tags": [
+        "机构 Institutional"
+      ],
+      "key_quote": "Changpeng Zhao — Crypto Profile, Projects & Funding Rounds CryptoRank"
+    },
+    {
+      "title": "Mark Cuban has a one-word response to Coinbase CEO",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXYteUlfOE1PN2NmU1dmNHhxTGpMNVV0YWcwWERpR0RndzhLclNjVXdNOUlqYlNKaGJhUkR1enppODRTakdOc2s0eVZTVUl3Mk13a3QtM3MybElhS3ZXWVpFU1ZIajk4Z0ZnZGM1c21hSHhYSGxjYWhNdHdFdlhNY3RYVQ?oc=5\" target=\"_blank\">Mark Cuban has a one-word response to Coinbase CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roundtable.io</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXYteUlfOE1PN2NmU1dmNHhxTGpMNVV0YWcwWERpR0RndzhLclNjVXdNOUlqYlNKaGJhUkR1enppODRTakdOc2s0eVZTVUl3Mk13a3QtM3MybElhS3ZXWVpFU1ZIajk4Z0ZnZGM1c21hSHhYSGxjYWhNdHdFdlhNY3RYVQ?oc=5",
+      "source": "roundtable.io",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-16T22:26:48+00:00",
+      "tags": [],
+      "key_quote": "Mark Cuban has a one-word response to Coinbase CEO roundtable.io"
+    },
     {
       "title": "Mark Cuban has a one-word response to Coinbase CEO",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjN3TjdtUzlRS2FYLWlVUGp1cHo5dGVJVjBITEsxc0NReWk2Tk1PR3I1OXNWTHIxU0xnLUE4N1VnSzJkc3FBWXB6UEVMOXVvZWRoaU1Tb1pNVjZ6T2hMci0tVHlya0JXcEdKOVlWWFktNE5kY3hpekp5c1hvemswd0pwVWVHeUowdW0xNEROZ1Rkc0MyQXc?oc=5\" target=\"_blank\">Mark Cuban has a one-word response to Coinbase CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
@@ -6111,41 +6148,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Crypto Regulation Heats Up As Coinbase CEO Supports CLARITY Act CryptoRank"
-    },
-    {
-      "title": "Crypto Regulation Heats Up As Coinbase CEO Supports CLARITY Act",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXRUZ0gtamtQVk81SWdKOTdLYmpQUG9EeWUxZXROUzZYWjBiR2ViTjlGYVdhbjdiZi1MTkxqZVhyN2hocl9xMC1ubE1vclM0Sl82ZHJZQmtza3VSLXFhbXN0T1lueFViWmtuelpUTzl0aUtMZHVfZDNLZG9Ud25HdjFiMFhMMlRiSDNIN3YyYmMybi1kMm9MdEoxRjhMUkRlMEdMMUc2X2l0YTQzdWxtRjBibS12OGVDMTh5X21R?oc=5\" target=\"_blank\">Crypto Regulation Heats Up As Coinbase CEO Supports CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXRUZ0gtamtQVk81SWdKOTdLYmpQUG9EeWUxZXROUzZYWjBiR2ViTjlGYVdhbjdiZi1MTkxqZVhyN2hocl9xMC1ubE1vclM0Sl82ZHJZQmtza3VSLXFhbXN0T1lueFViWmtuelpUTzl0aUtMZHVfZDNLZG9Ud25HdjFiMFhMMlRiSDNIN3YyYmMybi1kMm9MdEoxRjhMUkRlMEdMMUc2X2l0YTQzdWxtRjBibS12OGVDMTh5X21R?oc=5",
-      "source": "TradingView",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-11T16:30:26+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Crypto Regulation Heats Up As Coinbase CEO Supports CLARITY Act TradingView"
-    },
-    {
-      "title": "Brian Armstrong",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcEN3dGVDc2p2MWlOYzlCN1JSZ3c3eERGd21iRnp1SUNhdkJFTnRIM2xCR1NDVVFQMzVxMzlqQVBXeHRLSDR4cGo1Qlg5RGt3T0pEMGZBcjFRLVZOV0NOYkozRUNlSWU0WlM0Z3NHUWZrNGZNRFp4S01MVDhiX3VXWUpFUFFIVVNQV3NrZl9aejVWS01ZSlYxNmpqVGNqcW5wck9jZU00TkZ0YmJSWHdtc1pzZWo1dlZsTFB3U1VMMTNVMmpzaERXZ1Rnb2JtZm5RcGFkQnJKelp2YXhfcHJKVDA4b3N4Z3dIOG5rQ3RnNHAxdw?oc=5\" target=\"_blank\">Brian Armstrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy obituary</font>",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcEN3dGVDc2p2MWlOYzlCN1JSZ3c3eERGd21iRnp1SUNhdkJFTnRIM2xCR1NDVVFQMzVxMzlqQVBXeHRLSDR4cGo1Qlg5RGt3T0pEMGZBcjFRLVZOV0NOYkozRUNlSWU0WlM0Z3NHUWZrNGZNRFp4S01MVDhiX3VXWUpFUFFIVVNQV3NrZl9aejVWS01ZSlYxNmpqVGNqcW5wck9jZU00TkZ0YmJSWHdtc1pzZWo1dlZsTFB3U1VMMTNVMmpzaERXZ1Rnb2JtZm5RcGFkQnJKelp2YXhfcHJKVDA4b3N4Z3dIOG5rQ3RnNHAxdw?oc=5",
-      "source": "Legacy obituary",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-11T14:42:28+00:00",
-      "tags": [],
-      "key_quote": "Brian Armstrong Legacy obituary"
-    },
-    {
-      "title": "Brian Armstrong Killed The Clarity Act In January — But Now He's Changed His Mind",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjFsdVJDSXNFX1VIZC1rMDdPSGZ4U3VtbXJIRXozamhIcHhEMVVORVpfR3AyTXNVaHFxSFNFSXhVT3BuZjVULWUxZi10QmJCaHhCOGxLV0kzTHhseXpGNXpVVWtHU0dRSnMyOXBNSEdYZGo2a2JTQnZuNTAtOVdOTjdBd1NDby1ORFEtVjZ3cGtPd3poQ1hqVWVGanVtN0piaFp1aTBka2lJZ3YtM1dHbXFwN3BPUDdMSjI1STFvYmxNZW55cjBiQXJR?oc=5\" target=\"_blank\">Brian Armstrong Killed The Clarity Act In January — But Now He's Changed His Mind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjFsdVJDSXNFX1VIZC1rMDdPSGZ4U3VtbXJIRXozamhIcHhEMVVORVpfR3AyTXNVaHFxSFNFSXhVT3BuZjVULWUxZi10QmJCaHhCOGxLV0kzTHhseXpGNXpVVWtHU0dRSnMyOXBNSEdYZGo2a2JTQnZuNTAtOVdOTjdBd1NDby1ORFEtVjZ3cGtPd3poQ1hqVWVGanVtN0piaFp1aTBka2lJZ3YtM1dHbXFwN3BPUDdMSjI1STFvYmxNZW55cjBiQXJR?oc=5",
-      "source": "Sahm",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-11T13:14:16+00:00",
-      "tags": [],
-      "key_quote": "Brian Armstrong Killed The Clarity Act In January — But Now He's Changed His Mind Sahm"
     }
   ]
 }
