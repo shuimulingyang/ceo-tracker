@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-06-17T08:17:52Z",
+  "updated_at": "2026-06-17T12:42:36Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 331,
-    "CZ": 78,
+    "Brian Armstrong": 332,
+    "CZ": 77,
     "Star Xu": 9,
     "Ben Zhou": 31,
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Coinbase CEO’s Bullish Bitcoin Prediction Faces On-Chain Pushback",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmRBWG5JZmFKZjBEa3pZczQ3RXczVjZVOUJMOVlvQWQtUGVtU2Rhc1J1bjhzOFQtWERqVnVoblRJem9MeHhHeF82N2QwdUpDbmdsNmFpb1VBQURVaTdWQ0hNVU12ck15UkRqZmlod0dYSV8wVlpPUWg2SzVtOTdKeS13ZDZ3OF9vS3lxMkpEamxkbm1xXzdpUzN3dW1Ed3VHUmExNWtRZw?oc=5\" target=\"_blank\">Coinbase CEO’s Bullish Bitcoin Prediction Faces On-Chain Pushback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmRBWG5JZmFKZjBEa3pZczQ3RXczVjZVOUJMOVlvQWQtUGVtU2Rhc1J1bjhzOFQtWERqVnVoblRJem9MeHhHeF82N2QwdUpDbmdsNmFpb1VBQURVaTdWQ0hNVU12ck15UkRqZmlod0dYSV8wVlpPUWg2SzVtOTdKeS13ZDZ3OF9vS3lxMkpEamxkbm1xXzdpUzN3dW1Ed3VHUmExNWtRZw?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-17T11:09:12+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO’s Bullish Bitcoin Prediction Faces On-Chain Pushback Yahoo Finance"
+    },
     {
       "title": "Brian Armstrong Says Coinbase's New AI Investment Advisor Will 'Prompt You With Ideas You Hadn't Thought",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPODNlbVdGLUtheEQxbExELW55TDU0MEdNelkzUmtENHF1Y0NCSEdJOVRILTQ1cE95anZOWERJd0lfZlFLUGJ4X2ZvLUhZSVd0R1hqdW9MQ1l4Y085dGFoa0plTFJnQ0dVRmhfOG1TaXMtMXdNcUhGcEJLMkxFZy11d0NNdEhnQUZyX0NNZXpoYS1VTDNfWWhPaEVBdGhieGg3ZE42WWRRaWlUemhfMnhtLXNiZUg2TGJnUTdjMkdJVVJCVmF4UTU0eTlpYmd3TDlDYnBvTy11dzFvNzNnRl9nNC0yakw5b1VDbDY4TXluTQ?oc=5\" target=\"_blank\">Brian Armstrong Says Coinbase's New AI Investment Advisor Will 'Prompt You With Ideas You Hadn't Thought</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -117,6 +131,17 @@
       "published_at": "2026-06-16T11:29:12+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong Calls Accredited Investor Rules a ‘Regressive Tax’ Yahoo Finance"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Calls Accredited Investor Rules a ‘Regressive Tax’",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5IcUtaUUZYNG0zZUNrVkZHbGxsM2w3MFUyUEt2RFVFNzJBTENfd0JyUGhwMERIVlhXTkFXQXVvWFJSUVIzSUdpblRjWGVoUF9RLXV5SzlJVlVpQmZtM2h6VS1sdERsV0s1UElvaExyRDVkel9hVmVzTXk1SkdrZw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Calls Accredited Investor Rules a ‘Regressive Tax’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IcUtaUUZYNG0zZUNrVkZHbGxsM2w3MFUyUEt2RFVFNzJBTENfd0JyUGhwMERIVlhXTkFXQXVvWFJSUVIzSUdpblRjWGVoUF9RLXV5SzlJVlVpQmZtM2h6VS1sdERsV0s1UElvaExyRDVkel9hVmVzTXk1SkdrZw?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-16T11:29:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Calls Accredited Investor Rules a ‘Regressive Tax’ BeInCrypto"
     },
     {
       "title": "Coinbase CEO Calls Accredited Investor Rules a Regressive Tax",
@@ -6124,30 +6149,6 @@
       "published_at": "2026-04-12T05:03:08+00:00",
       "tags": [],
       "key_quote": "OKX CEO Criticizes CZ Over Claims in Freedom of Money CryptoRank"
-    },
-    {
-      "title": "News Explorer — Binance Founder Changpeng Zhao Receives Pardon From President Trump Following Money Laundering Conviction",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdU1JbU9rTzJJQWY3WFZ3WEZ4b000dmZNQUhDN19wUUJpbFNQQ1lWWEpaYm1NanRvNXMyREtlRzIzU3drdmdTUnBnSXJZeXNnNEc2UHJQYTdia3NxWVA1Q2ZVQWZtNldVbU9XSlVYQmJKc1hrSUVyR3hBRklHMl9IN1MwaDZtN3BURkFZT1ZFcG51TEU5TzRYT3d2SXdMdEdLSDItcWZURVNuTTZuU2NpQjczYnczVTVjQm43TFV6d1dUUWhTaC1fbHVsdklLdlZVXzc3cDdTZnBtYktMSk5IaEJ5dVI3aTNFcFJGQ09Zd3pVTXJjN1FNU3hvYw?oc=5\" target=\"_blank\">News Explorer — Binance Founder Changpeng Zhao Receives Pardon From President Trump Following Money Laundering Conviction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdU1JbU9rTzJJQWY3WFZ3WEZ4b000dmZNQUhDN19wUUJpbFNQQ1lWWEpaYm1NanRvNXMyREtlRzIzU3drdmdTUnBnSXJZeXNnNEc2UHJQYTdia3NxWVA1Q2ZVQWZtNldVbU9XSlVYQmJKc1hrSUVyR3hBRklHMl9IN1MwaDZtN3BURkFZT1ZFcG51TEU5TzRYT3d2SXdMdEdLSDItcWZURVNuTTZuU2NpQjczYnczVTVjQm43TFV6d1dUUWhTaC1fbHVsdklLdlZVXzc3cDdTZnBtYktMSk5IaEJ5dVI3aTNFcFJGQ09Zd3pVTXJjN1FNU3hvYw?oc=5",
-      "source": "Decrypt",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-12T00:05:30+00:00",
-      "tags": [],
-      "key_quote": "News Explorer — Binance Founder Changpeng Zhao Receives Pardon From President Trump Following Money Laundering Conviction Decrypt"
-    },
-    {
-      "title": "Crypto Regulation Heats Up As Coinbase CEO Supports CLARITY Act",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORHIzNmlYSmhYckZXM3ZJU2JUazBQS0Zpa1I4R3NSQWNtT3pWUlRSZkpqVm00YzBxemxJN045ZGpnOEJRRG5mUUZVcDhpWDFtc2dDN0Fva1lnTkdJVDczcXE3b0lPemhOeG9UWHJmT0E4ZlB6WFRubE4tcXBVbnhfaG8wb1hfWHo4OUhuOHZxTXI2ZXlDd1pCUUU2ODJVQ0EyZlFr?oc=5\" target=\"_blank\">Crypto Regulation Heats Up As Coinbase CEO Supports CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORHIzNmlYSmhYckZXM3ZJU2JUazBQS0Zpa1I4R3NSQWNtT3pWUlRSZkpqVm00YzBxemxJN045ZGpnOEJRRG5mUUZVcDhpWDFtc2dDN0Fva1lnTkdJVDczcXE3b0lPemhOeG9UWHJmT0E4ZlB6WFRubE4tcXBVbnhfaG8wb1hfWHo4OUhuOHZxTXI2ZXlDd1pCUUU2ODJVQ0EyZlFr?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-11T17:05:41+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Crypto Regulation Heats Up As Coinbase CEO Supports CLARITY Act CryptoRank"
     }
   ]
 }
