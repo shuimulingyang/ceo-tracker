@@ -1,14 +1,41 @@
 {
-  "updated_at": "2026-06-18T11:41:07Z",
+  "updated_at": "2026-06-18T14:37:32Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 332,
-    "CZ": 78,
-    "Star Xu": 8,
+    "Brian Armstrong": 335,
+    "CZ": 76,
+    "Star Xu": 7,
     "Ben Zhou": 31,
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Why Coinbase CEO Brian Armstrong believes bitcoin has bottomed",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORl8zd1l4WEc1VTVQUlpNSU81b0dPZ2hvb2xJTmkwYlJYbXAxNF9rZXpWc0xYUXVYT2E3ekZKSDAzZVpaNUYxbXVIWS1nbkRMOVFFQnB6SFc0YjVQWUtWQWJMZ3hDeW8zSHNKaHJ4NXVuZnRNZm1YTDl1QS1sLWJiNjVqSExzdzVxRlZ0bXdmeWFrelZ0ajdxSXR6b1JLWnEtLXBabHJtQ0NvTFdfc2c?oc=5\" target=\"_blank\">Why Coinbase CEO Brian Armstrong believes bitcoin has bottomed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORl8zd1l4WEc1VTVQUlpNSU81b0dPZ2hvb2xJTmkwYlJYbXAxNF9rZXpWc0xYUXVYT2E3ekZKSDAzZVpaNUYxbXVIWS1nbkRMOVFFQnB6SFc0YjVQWUtWQWJMZ3hDeW8zSHNKaHJ4NXVuZnRNZm1YTDl1QS1sLWJiNjVqSExzdzVxRlZ0bXdmeWFrelZ0ajdxSXR6b1JLWnEtLXBabHJtQ0NvTFdfc2c?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-18T13:58:50+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Why Coinbase CEO Brian Armstrong believes bitcoin has bottomed Yahoo Finance"
+    },
+    {
+      "title": "Coinbase CEO on bitcoin bottom, AI agents, and his war of words with JPMorgan CEO",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN2lrSi1ndDdOdHlJTWZXZ3djQnlNVFVEaFozdDdBbXlxVnhJeHlTN01GNElWZmNqX0VHZUVXcWFKRUNlWktUYnZYWDVEOG93RnVtLVJUMFpGNnlVQnF5UzgxM243WXpJY1NYXzdlQkZwTlRpM21XMVNqZHV0SWhYLWlRdU1tNElnb2JubzdGLVdlUVYtNmtMTHVhVVJDS3dfVnQwWlM3UFFzS01lRmFSNzVmZnNiNGlBNUVPZWlGQ3hkamxweFJ6VEFBUTdFS25BTUE?oc=5\" target=\"_blank\">Coinbase CEO on bitcoin bottom, AI agents, and his war of words with JPMorgan CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN2lrSi1ndDdOdHlJTWZXZ3djQnlNVFVEaFozdDdBbXlxVnhJeHlTN01GNElWZmNqX0VHZUVXcWFKRUNlWktUYnZYWDVEOG93RnVtLVJUMFpGNnlVQnF5UzgxM243WXpJY1NYXzdlQkZwTlRpM21XMVNqZHV0SWhYLWlRdU1tNElnb2JubzdGLVdlUVYtNmtMTHVhVVJDS3dfVnQwWlM3UFFzS01lRmFSNzVmZnNiNGlBNUVPZWlGQ3hkamxweFJ6VEFBUTdFS25BTUE?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-18T13:22:34+00:00",
+      "tags": [
+        "Bitcoin",
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO on bitcoin bottom, AI agents, and his war of words with JPMorgan CEO Yahoo Finance"
+    },
     {
       "title": "Coinbase CEO responds to Jamie Dimon: \"My door is open\"",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUm1QN0xacE4xRk5EZURXQWMybUJnVnN2bFRxRXpFa09IbEFwWVNBb0pXeTNWTFQwV3ZEcFhLWmJHVDF6bGFjc3NiTHBiZDIxTTB2MWZEOG5SUFZ5Y1BaLW50RWZJeHRMVXV2Q1E3NTlIUVc1ZlRTS2JhWlNGRG84RHJiMDNFalVIWnZj?oc=5\" target=\"_blank\">Coinbase CEO responds to Jamie Dimon: \"My door is open\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
@@ -47,6 +74,17 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Changpeng Zhao urges 24-hour trading for tokenised stocks, calls on governments to issue stablecoins 디지털투데이"
+    },
+    {
+      "title": "Mark Cuban Says 'Just Sell Em Memecoins' To Brian Armstrong After Coinbase CEO Demands Reforms Of Investor Laws That Favor 'Rich' Investors",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNU21qWXZtMmdyeWV1eEJXbXphcnViY1R4NjRFQ203WFVhZENIQ2RGQVpXZllzbm9LUTgzSjJwYk1DOXNPdW9iNVh2Nmg0NkxuZjJTWF83Y25KellvT0kxVWRvM2JLZ0pULWdWUTk4eW1rVTduRHkwN0dVbkVzWGF4WEE1WFhQWVdQV1FTMW1UenlYeGRH?oc=5\" target=\"_blank\">Mark Cuban Says 'Just Sell Em Memecoins' To Brian Armstrong After Coinbase CEO Demands Reforms Of Investor Laws That Favor 'Rich' Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU21qWXZtMmdyeWV1eEJXbXphcnViY1R4NjRFQ203WFVhZENIQ2RGQVpXZllzbm9LUTgzSjJwYk1DOXNPdW9iNVh2Nmg0NkxuZjJTWF83Y25KellvT0kxVWRvM2JLZ0pULWdWUTk4eW1rVTduRHkwN0dVbkVzWGF4WEE1WFhQWVdQV1FTMW1UenlYeGRH?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-18T02:31:00+00:00",
+      "tags": [],
+      "key_quote": "Mark Cuban Says 'Just Sell Em Memecoins' To Brian Armstrong After Coinbase CEO Demands Reforms Of Investor Laws That Favor 'Rich' Investors Yahoo Finance"
     },
     {
       "title": "Coinbase CEO’s Bullish Bitcoin Prediction Faces On-Chain Pushback",
@@ -6119,42 +6157,6 @@
         "Web3"
       ],
       "key_quote": "Brian Armstrong Backs CLARITY Act After Rejecting It Twice — What Changed Yellow.com"
-    },
-    {
-      "title": "Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPTXhKTE1VQzdkSmc3RmlJUV8yRV96bUdSZ2tyOURVMndOUVhWRXNQUy1FYzZBT2VGZFpHMHdjOS0zZjBJc00yckUtcEUxdDR6MjFRTE5ucVFBa3VjdEJtR2RwNkVDN0xvakZVQkFTeHJRYnZiMkRyaTZLRFFLN3Mtb2x4WDV3TmNZenVZSG11RVhNQjNGc2RLZnhQbW1wMEF1c1hTeGZzc0JhdmlkR1pPUmJpcEZheV9BMFRJREpWVzhtd18tM2tnUkR4U1Bxem8?oc=5\" target=\"_blank\">Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Africa.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTXhKTE1VQzdkSmc3RmlJUV8yRV96bUdSZ2tyOURVMndOUVhWRXNQUy1FYzZBT2VGZFpHMHdjOS0zZjBJc00yckUtcEUxdDR6MjFRTE5ucVFBa3VjdEJtR2RwNkVDN0xvakZVQkFTeHJRYnZiMkRyaTZLRFFLN3Mtb2x4WDV3TmNZenVZSG11RVhNQjNGc2RLZnhQbW1wMEF1c1hTeGZzc0JhdmlkR1pPUmJpcEZheV9BMFRJREpWVzhtd18tM2tnUkR4U1Bxem8?oc=5",
-      "source": "Africa.com",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-13T00:00:05+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance Africa.com"
-    },
-    {
-      "title": "Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Imp",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSllCb1JVNENYZS1WcEpIcDEySER2T2FFTXlzYTZlb0gxZWRSbjVMRG92WGVGdEZpQW9GTFhkbGlFMThfYzR5dFdBM014YnpnMmF3Sk16bHBJQ01YN0ZDQ0ViZHM4a0Z6UEprM0J0ZFZqaHNOM0xHSE1LVFBuU1N2QUlBVVJwZ1RYN1pIS3huUWV0RG9qaE5PX0oxX3NJOU9yZmtzcFBBVVVOcWc?oc=5\" target=\"_blank\">Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Imp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSllCb1JVNENYZS1WcEpIcDEySER2T2FFTXlzYTZlb0gxZWRSbjVMRG92WGVGdEZpQW9GTFhkbGlFMThfYzR5dFdBM014YnpnMmF3Sk16bHBJQ01YN0ZDQ0ViZHM4a0Z6UEprM0J0ZFZqaHNOM0xHSE1LVFBuU1N2QUlBVVJwZ1RYN1pIS3huUWV0RG9qaE5PX0oxX3NJOU9yZmtzcFBBVVVOcWc?oc=5",
-      "source": "Benzinga",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-12T19:01:19+00:00",
-      "tags": [],
-      "key_quote": "Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Imp Benzinga"
-    },
-    {
-      "title": "OKX CEO Rips CZ Bitcoin Story as Dispute Escalates",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KWmVmYlBoQnpRYlRpbFlkUHgydExpRjJNUHVXR1hUNER2NWphNjBHcFdBRmlLTkFGMk1TbDhwN0lsNHpGV0RDUmNRLUpsenc?oc=5\" target=\"_blank\">OKX CEO Rips CZ Bitcoin Story as Dispute Escalates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mexc.co</font>",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KWmVmYlBoQnpRYlRpbFlkUHgydExpRjJNUHVXR1hUNER2NWphNjBHcFdBRmlLTkFGMk1TbDhwN0lsNHpGV0RDUmNRLUpsenc?oc=5",
-      "source": "mexc.co",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-04-12T17:05:34+00:00",
-      "tags": [
-        "Bitcoin",
-        "DeFi"
-      ],
-      "key_quote": "OKX CEO Rips CZ Bitcoin Story as Dispute Escalates mexc.co"
     }
   ]
 }
