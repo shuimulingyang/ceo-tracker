@@ -1,14 +1,53 @@
 {
-  "updated_at": "2026-06-18T07:21:47Z",
+  "updated_at": "2026-06-18T11:41:07Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 332,
-    "CZ": 77,
-    "Star Xu": 9,
+    "CZ": 78,
+    "Star Xu": 8,
     "Ben Zhou": 31,
     "Richard Teng": 51
   },
   "articles": [
+    {
+      "title": "Coinbase CEO responds to Jamie Dimon: \"My door is open\"",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUm1QN0xacE4xRk5EZURXQWMybUJnVnN2bFRxRXpFa09IbEFwWVNBb0pXeTNWTFQwV3ZEcFhLWmJHVDF6bGFjc3NiTHBiZDIxTTB2MWZEOG5SUFZ5Y1BaLW50RWZJeHRMVXV2Q1E3NTlIUVc1ZlRTS2JhWlNGRG84RHJiMDNFalVIWnZj?oc=5\" target=\"_blank\">Coinbase CEO responds to Jamie Dimon: \"My door is open\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUm1QN0xacE4xRk5EZURXQWMybUJnVnN2bFRxRXpFa09IbEFwWVNBb0pXeTNWTFQwV3ZEcFhLWmJHVDF6bGFjc3NiTHBiZDIxTTB2MWZEOG5SUFZ5Y1BaLW50RWZJeHRMVXV2Q1E3NTlIUVc1ZlRTS2JhWlNGRG84RHJiMDNFalVIWnZj?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-18T11:00:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO responds to Jamie Dimon: \"My door is open\" Yahoo Finance Singapore"
+    },
+    {
+      "title": "Beyond bitcoin: Coinbase CEO talks future with AI",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmdueUIyYU44djBGNnRmUElCbnpVU1lWcm9rcUY5Y2ZDMUtCZE1JMzgyVEdVYmQxYXlmbXE5U0pybk1oUmNFdFZLTlRTdVM3TXFHMTdWNmxqZ2xKc2pwLU1aV0ZxTkNybXlaWHBJZ1czTmJMTFltT2V1dHowZHl1OGxQM1h3dkk?oc=5\" target=\"_blank\">Beyond bitcoin: Coinbase CEO talks future with AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWmdueUIyYU44djBGNnRmUElCbnpVU1lWcm9rcUY5Y2ZDMUtCZE1JMzgyVEdVYmQxYXlmbXE5U0pybk1oUmNFdFZLTlRTdVM3TXFHMTdWNmxqZ2xKc2pwLU1aV0ZxTkNybXlaWHBJZ1czTmJMTFltT2V1dHowZHl1OGxQM1h3dkk?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-18T10:00:00+00:00",
+      "tags": [
+        "Bitcoin",
+        "AI"
+      ],
+      "key_quote": "Beyond bitcoin: Coinbase CEO talks future with AI Yahoo Finance"
+    },
+    {
+      "title": "Changpeng Zhao urges 24-hour trading for tokenised stocks, calls on governments to issue stablecoins",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUHRTY3NvTFZrclZmcXppTHdVbnJqZ3RVZFVtSmRSbVJVb1N3dzVQRGRjeXAtRzZzc2JWZkdvY0RlNnEzU1lyeFZYVkhkcENvRDRSUHRocldLeG9UTHhadjlFREdzaUZLZXVBTzFPeEY4WlBwUmNrRmoxbnpJc0xqR0hHZkhkTW9MdlhLNEM2bkVrRWRqM01yQzhRS1VVVGxTajJXUk92WTRfeG5ZLVFZVGIxcTlOVGRNZXVRS2FaRVpIdmc5MmR1ekpnX0J6Z1VVRXNKeU1IQ1Q4bkty?oc=5\" target=\"_blank\">Changpeng Zhao urges 24-hour trading for tokenised stocks, calls on governments to issue stablecoins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUHRTY3NvTFZrclZmcXppTHdVbnJqZ3RVZFVtSmRSbVJVb1N3dzVQRGRjeXAtRzZzc2JWZkdvY0RlNnEzU1lyeFZYVkhkcENvRDRSUHRocldLeG9UTHhadjlFREdzaUZLZXVBTzFPeEY4WlBwUmNrRmoxbnpJc0xqR0hHZkhkTW9MdlhLNEM2bkVrRWRqM01yQzhRS1VVVGxTajJXUk92WTRfeG5ZLVFZVGIxcTlOVGRNZXVRS2FaRVpIdmc5MmR1ekpnX0J6Z1VVRXNKeU1IQ1Q4bkty?oc=5",
+      "source": "디지털투데이",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-18T06:43:48+00:00",
+      "tags": [
+        "监管 Regulation",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Changpeng Zhao urges 24-hour trading for tokenised stocks, calls on governments to issue stablecoins 디지털투데이"
+    },
     {
       "title": "Coinbase CEO’s Bullish Bitcoin Prediction Faces On-Chain Pushback",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmRBWG5JZmFKZjBEa3pZczQ3RXczVjZVOUJMOVlvQWQtUGVtU2Rhc1J1bjhzOFQtWERqVnVoblRJem9MeHhHeF82N2QwdUpDbmdsNmFpb1VBQURVaTdWQ0hNVU12ck15UkRqZmlod0dYSV8wVlpPUWg2SzVtOTdKeS13ZDZ3OF9vS3lxMkpEamxkbm1xXzdpUzN3dW1Ed3VHUmExNWtRZw?oc=5\" target=\"_blank\">Coinbase CEO’s Bullish Bitcoin Prediction Faces On-Chain Pushback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -6116,39 +6155,6 @@
         "DeFi"
       ],
       "key_quote": "OKX CEO Rips CZ Bitcoin Story as Dispute Escalates mexc.co"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE95TmVrbExZa2ZKTXcwcm1kVThFWHN6cWpNelR4a1h5SUVtbjByNENpRmxSZV90dXh4UU9zQ1RhYWdFUm1KZFo3R1RmZFk4bDJlRE9zbG14bGc0TWN4OEZUNGhESWE?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95TmVrbExZa2ZKTXcwcm1kVThFWHN6cWpNelR4a1h5SUVtbjByNENpRmxSZV90dXh4UU9zQ1RhYWdFUm1KZFo3R1RmZFk4bDJlRE9zbG14bGc0TWN4OEZUNGhESWE?oc=5",
-      "source": "Binance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-12T13:20:48+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill Binance"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1ZKOUFweER5YTRReHhXVTVTTVlwbFlFTWNRbW5uZHF5ai1OSE1rWWVFTWhHcjBmaFNwODZ3amotbFVsX2ZIRkVma0NocG8wQ2hUVHJqYzVZTHhxVkU3amZubkJvOXRueWpsWFc1WWMwT0pLRVJxVWJ4YjJBRDJ5bXNrVVhPWUs4cF9XVkVKM2d2OFNaaDZzMkV5WTd2Skt4SEE?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1ZKOUFweER5YTRReHhXVTVTTVlwbFlFTWNRbW5uZHF5ai1OSE1rWWVFTWhHcjBmaFNwODZ3amotbFVsX2ZIRkVma0NocG8wQ2hUVHJqYzVZTHhxVkU3amZubkJvOXRueWpsWFc1WWMwT0pLRVJxVWJ4YjJBRDJ5bXNrVVhPWUs4cF9XVkVKM2d2OFNaaDZzMkV5WTd2Skt4SEE?oc=5",
-      "source": "Blockonomi",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-12T13:14:48+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong Drops Opposition and Backs the CLARITY Act Bill Blockonomi"
-    },
-    {
-      "title": "OKX CEO Criticizes CZ Over Claims in Freedom of Money",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1g4Yy1SUGljc0RIUVpZdzJ1UWJGWDRlRUhBVloyWktNd1pMQjhCdEpfY0hHWkwweE1paTllR19fMnVObnhkLW5kMjR5Z3N4TmljMHpHMW14bHduUlhlMWNxbmtlblRjUGUtM1V1b25HemE3VmtmaS1RcDU5Q3lTbGpWeFBsRkdMbDA4QTdRbDlXektnM3JheVhn?oc=5\" target=\"_blank\">OKX CEO Criticizes CZ Over Claims in Freedom of Money</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1g4Yy1SUGljc0RIUVpZdzJ1UWJGWDRlRUhBVloyWktNd1pMQjhCdEpfY0hHWkwweE1paTllR19fMnVObnhkLW5kMjR5Z3N4TmljMHpHMW14bHduUlhlMWNxbmtlblRjUGUtM1V1b25HemE3VmtmaS1RcDU5Q3lTbGpWeFBsRkdMbDA4QTdRbDlXektnM3JheVhn?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "Star Xu",
-      "exchange": "OKX",
-      "published_at": "2026-04-12T05:03:08+00:00",
-      "tags": [],
-      "key_quote": "OKX CEO Criticizes CZ Over Claims in Freedom of Money CryptoRank"
     }
   ]
 }
