@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-06-20T22:06:25Z",
+  "updated_at": "2026-06-20T23:56:25Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 340,
     "CZ": 77,
+    "Brian Armstrong": 340,
     "Star Xu": 7,
     "Ben Zhou": 31,
     "Richard Teng": 45
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao Proposes Freezing Satoshi’s Bitcoin to Counter Quantum Computing Threat",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNMm9TMUs1MDRCMXI5QnpOTnJvWEozbWw5V0h5NkYxeTJGQ3lyTHBiRjBaamxvNV85bDdwcU8zTU5SZzMzQVRndGVBdGExNUs2Y1VoTlF6TjJselRsR0VBN3Y4TFdFQ2N1enRyU210blNiYzNiang0ZF9aYlAwaGwxTEFtY3BIQ2JZUW0yaTZKUkZkWGtZ?oc=5\" target=\"_blank\">Changpeng Zhao Proposes Freezing Satoshi’s Bitcoin to Counter Quantum Computing Threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMm9TMUs1MDRCMXI5QnpOTnJvWEozbWw5V0h5NkYxeTJGQ3lyTHBiRjBaamxvNV85bDdwcU8zTU5SZzMzQVRndGVBdGExNUs2Y1VoTlF6TjJselRsR0VBN3Y4TFdFQ2N1enRyU210blNiYzNiang0ZF9aYlAwaGwxTEFtY3BIQ2JZUW0yaTZKUkZkWGtZ?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-20T15:30:58+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Changpeng Zhao Proposes Freezing Satoshi’s Bitcoin to Counter Quantum Computing Threat CryptoRank"
+    },
     {
       "title": "Coinbase CEO Wants A Financial Literacy Test To Let Anyone Invest In Private Companies, Not Just The Rich",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPekZMNHNfV1lUTWJkVWVHclJOR0VmR05KdWdxVXNiRzhDMnNOai1JNWJzNExsR3JwR3JQTU02d0lDVGpwbDBDT0w1ZmctOE4tWVJwOGdnNHlWaG1CeFdva0VnekoxVDRmX0tVUGc2ZVF5aTFzQVpfb2dNalJzU1hXdWZzd21QSHdFRE0wcUJ2aHJWaS1YaGRSWWVDdk9ReG92QkV2RXdEMmprU0U2M2c5TC13X1NZaUFuNHctOFNEZjZ2aGkyUXgtSDhhMmNLUjhnV0tjcUlCTE92UWJKa1FZQmRRTnJuYUlvR25OQ0N4QmZlck53QXhZTw?oc=5\" target=\"_blank\">Coinbase CEO Wants A Financial Literacy Test To Let Anyone Invest In Private Companies, Not Just The Rich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
@@ -6143,17 +6156,6 @@
       "published_at": "2026-04-14T07:00:59+00:00",
       "tags": [],
       "key_quote": "PRESS RELEASE | Changpeng Zhao (CZ) Releases ‘Freedom of Money,’ a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance BitKE"
-    },
-    {
-      "title": "Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwNBVV95cUxQVFlZT25UeUptZjR1RnVZTXRxSE5vcGNhZV9iVmlzTVhIWTl6eWtCODVmd3pWY1I2TVRhcllqbXRGWWJ0cWJhQkdNeGtVZ01wOFlIMFhLYlJnMTVVYmRuakphc3g4MUJGRzRobjk2aGZGdVI5Z1dpc0pNUFNKVHUtM09fMGNXSzhrOUF3R1JSVWpDaHNGSEdqQzlEOWJhSFpOdHBOcVFuQS1kaFhza1NIbDN1bE9yVWdHZE1RQUlZOEs2X1VKUmxQc1pXcm9Cbk01bTdwNXVmV21YMjIycUxFZk5VMmVkYzhwbUhvbFdXZG0yNUhMVE9XVUlBTUhxVzRabm5acEViRGY5YkV0RVd3a05MZTBpY2RhdjlwQkNYODhGVnVzSDUzcjVUbWtGT1VCUTItY0tYNHpGbVhBMHJILXVyNWpJd1NfNlRpR0lHRVZodG95bTk4U2pBNVlTQ01Mb09ncGpDMFh4RWtqVnlmZFJyM05SQ2hVRUJNRjJ3MUVkQmhiTkkzT2dPczhfTFMteDk5OGNyYXFOSUt5UDJlQWVQV0FmaHFPQng5czFzU1p3U0s0Z1pMazNjd9IBuwNBVV95cUxQVFlZT25UeUptZjR1RnVZTXRxSE5vcGNhZV9iVmlzTVhIWTl6eWtCODVmd3pWY1I2TVRhcllqbXRGWWJ0cWJhQkdNeGtVZ01wOFlIMFhLYlJnMTVVYmRuakphc3g4MUJGRzRobjk2aGZGdVI5Z1dpc0pNUFNKVHUtM09fMGNXSzhrOUF3R1JSVWpDaHNGSEdqQzlEOWJhSFpOdHBOcVFuQS1kaFhza1NIbDN1bE9yVWdHZE1RQUlZOEs2X1VKUmxQc1pXcm9Cbk01bTdwNXVmV21YMjIycUxFZk5VMmVkYzhwbUhvbFdXZG0yNUhMVE9XVUlBTUhxVzRabm5acEViRGY5YkV0RVd3a05MZTBpY2RhdjlwQkNYODhGVnVzSDUzcjVUbWtGT1VCUTItY0tYNHpGbVhBMHJILXVyNWpJd1NfNlRpR0lHRVZodG95bTk4U2pBNVlTQ01Mb09ncGpDMFh4RWtqVnlmZFJyM05SQ2hVRUJNRjJ3MUVkQmhiTkkzT2dPczhfTFMteDk5OGNyYXFOSUt5UDJlQWVQV0FmaHFPQng5czFzU1p3U0s0Z1pMazNjdw?oc=5\" target=\"_blank\">Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Social News XYZ</font>",
-      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQVFlZT25UeUptZjR1RnVZTXRxSE5vcGNhZV9iVmlzTVhIWTl6eWtCODVmd3pWY1I2TVRhcllqbXRGWWJ0cWJhQkdNeGtVZ01wOFlIMFhLYlJnMTVVYmRuakphc3g4MUJGRzRobjk2aGZGdVI5Z1dpc0pNUFNKVHUtM09fMGNXSzhrOUF3R1JSVWpDaHNGSEdqQzlEOWJhSFpOdHBOcVFuQS1kaFhza1NIbDN1bE9yVWdHZE1RQUlZOEs2X1VKUmxQc1pXcm9Cbk01bTdwNXVmV21YMjIycUxFZk5VMmVkYzhwbUhvbFdXZG0yNUhMVE9XVUlBTUhxVzRabm5acEViRGY5YkV0RVd3a05MZTBpY2RhdjlwQkNYODhGVnVzSDUzcjVUbWtGT1VCUTItY0tYNHpGbVhBMHJILXVyNWpJd1NfNlRpR0lHRVZodG95bTk4U2pBNVlTQ01Mb09ncGpDMFh4RWtqVnlmZFJyM05SQ2hVRUJNRjJ3MUVkQmhiTkkzT2dPczhfTFMteDk5OGNyYXFOSUt5UDJlQWVQV0FmaHFPQng5czFzU1p3U0s0Z1pMazNjd9IBuwNBVV95cUxQVFlZT25UeUptZjR1RnVZTXRxSE5vcGNhZV9iVmlzTVhIWTl6eWtCODVmd3pWY1I2TVRhcllqbXRGWWJ0cWJhQkdNeGtVZ01wOFlIMFhLYlJnMTVVYmRuakphc3g4MUJGRzRobjk2aGZGdVI5Z1dpc0pNUFNKVHUtM09fMGNXSzhrOUF3R1JSVWpDaHNGSEdqQzlEOWJhSFpOdHBOcVFuQS1kaFhza1NIbDN1bE9yVWdHZE1RQUlZOEs2X1VKUmxQc1pXcm9Cbk01bTdwNXVmV21YMjIycUxFZk5VMmVkYzhwbUhvbFdXZG0yNUhMVE9XVUlBTUhxVzRabm5acEViRGY5YkV0RVd3a05MZTBpY2RhdjlwQkNYODhGVnVzSDUzcjVUbWtGT1VCUTItY0tYNHpGbVhBMHJILXVyNWpJd1NfNlRpR0lHRVZodG95bTk4U2pBNVlTQ01Mb09ncGpDMFh4RWtqVnlmZFJyM05SQ2hVRUJNRjJ3MUVkQmhiTkkzT2dPczhfTFMteDk5OGNyYXFOSUt5UDJlQWVQV0FmaHFPQng5czFzU1p3U0s0Z1pMazNjdw?oc=5",
-      "source": "Social News XYZ",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-13T18:17:06+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao (CZ) Releases Freedom of Money, a Memoir Reflecting on the Rise of Crypto and the Story Behind Binance Social News XYZ"
     }
   ]
 }
