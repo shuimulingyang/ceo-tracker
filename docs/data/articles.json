@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-20T02:00:11Z",
+  "updated_at": "2026-06-20T06:50:31Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 340,
-    "CZ": 77,
+    "Brian Armstrong": 341,
+    "CZ": 76,
     "Star Xu": 7,
     "Ben Zhou": 31,
     "Richard Teng": 45
@@ -247,6 +247,17 @@
         "DeFi"
       ],
       "key_quote": "Coinbase CEO Armstrong Calls Accredited-Investor Rules a 'Regressive Tax' thedefiant.io"
+    },
+    {
+      "title": "Coinbase CEO on tokenized stock launch: Opens US equity access to global investors",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmIyU1BLamJ1RGRGdm9UeWFYSlBYUlowUk9yMkZhaTBVLWE2czNMVDJMaTc4ZEZ1NHVDT3ZMdTRPOFlvLXI4ZUZjcDhzeVh6NXpHclZIOTVBWEFvS0FXOUZZWFR0UzVwRHhKZFRnbzh2VXlaT2dkTXhfVGFBNnJJRWtRa2szZ0FhWVRNSUdWUGIxcjluNmRYb1pLa3Y5Y3lXeTNEQkVKSFdSVkxOWFdtYlRtd1ppVXRxTnQ2NS1Ed1paZE1RdkRTQTRPR2VSRXR1?oc=5\" target=\"_blank\">Coinbase CEO on tokenized stock launch: Opens US equity access to global investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmIyU1BLamJ1RGRGdm9UeWFYSlBYUlowUk9yMkZhaTBVLWE2czNMVDJMaTc4ZEZ1NHVDT3ZMdTRPOFlvLXI4ZUZjcDhzeVh6NXpHclZIOTVBWEFvS0FXOUZZWFR0UzVwRHhKZFRnbzh2VXlaT2dkTXhfVGFBNnJJRWtRa2szZ0FhWVRNSUdWUGIxcjluNmRYb1pLa3Y5Y3lXeTNEQkVKSFdSVkxOWFdtYlRtd1ppVXRxTnQ2NS1Ed1paZE1RdkRTQTRPR2VSRXR1?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-16T15:18:31+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO on tokenized stock launch: Opens US equity access to global investors MSN"
     },
     {
       "title": "Coinbase CEO on tokenized stock launch: Opens U.S. equity access to global investors",
@@ -6142,17 +6153,6 @@
         "市场 Market"
       ],
       "key_quote": "Ripple (XRP) Price Prediction: Coinbase CEO Armstrong Reverses Position on Federal Crypto Framework openPR.com"
-    },
-    {
-      "title": "THE LIFE OF CZ (Changpeng Zhao)",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uTDB2NnhnM0hnaE5HRFBlN1hTNmhmNmQ2WGkzeGFSWUlrX3dJMmkwRnpadW4yWDJMcXZFZ2pzT3BDQ1JaZW9hcWhkZXN4YTR4S1BGYmNkbGJXV1BlMVRhUEhCWTc?oc=5\" target=\"_blank\">THE LIFE OF CZ (Changpeng Zhao)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uTDB2NnhnM0hnaE5HRFBlN1hTNmhmNmQ2WGkzeGFSWUlrX3dJMmkwRnpadW4yWDJMcXZFZ2pzT3BDQ1JaZW9hcWhkZXN4YTR4S1BGYmNkbGJXV1BlMVRhUEhCWTc?oc=5",
-      "source": "Binance",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-13T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "THE LIFE OF CZ (Changpeng Zhao) Binance"
     }
   ]
 }
