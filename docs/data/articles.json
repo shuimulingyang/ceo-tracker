@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T02:44:41Z",
+  "updated_at": "2026-06-21T07:21:15Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 341,
@@ -9,6 +9,19 @@
     "Richard Teng": 45
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT1UxZTlWX3cxekFnYm53ek5NR05RQ05jNzNPejQ2bktaNmJsbFk0U0FaTjdLT3ZRcEtUejZXS0c0b3FmaDliWUZTRjRmcm1HeGw1TTVINHhiYlNReVcxLU5BRG40VFRtaHBESDdUVTAtaTdhbTZFTDhiakJXTGdlaVo4dXFldndX?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT1UxZTlWX3cxekFnYm53ek5NR05RQ05jNzNPejQ2bktaNmJsbFk0U0FaTjdLT3ZRcEtUejZXS0c0b3FmaDliWUZTRjRmcm1HeGw1TTVINHhiYlNReVcxLU5BRG40VFRtaHBESDdUVTAtaTdhbTZFTDhiakJXTGdlaVo4dXFldndX?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-21T03:11:09+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers' AOL.com"
+    },
     {
       "title": "Brian Armstrong: The threat of quantum computing to bitcoin is exaggerated",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wMGx2Y2t3TEJMMUdYLUVjWmdaOXp6SHNEM0o4U1N5d3NiNlVVSnh0MFRvcWU2ZmZpZzlLNVZfOTYxdDh5dzlrSFRicU5YSDFWS2FGME5jWG8zZFdTbWliNTlvNNIBY0FVX3lxTE5wMGx2Y2t3TEJMMUdYLUVjWmdaOXp6SHNEM0o4U1N5d3NiNlVVSnh0MFRvcWU2ZmZpZzlLNVZfOTYxdDh5dzlrSFRicU5YSDFWS2FGME5jWG8zZFdTbWliNTlvNA?oc=5\" target=\"_blank\">Brian Armstrong: The threat of quantum computing to bitcoin is exaggerated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
@@ -6148,17 +6161,6 @@
       "published_at": "2026-04-14T07:34:39+00:00",
       "tags": [],
       "key_quote": "Ripple and Coinbase CEOs Back CLARITY Act as Senate Vote Nears National Today"
-    },
-    {
-      "title": "Ripple and Coinbase CEOs Both Back the CLARITY Act — Is a Senate Vote Finally Coming?",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2dqQW9qTXQ0Wk1iTEtYY1pmT3VpMmUxc0U1T3RCcll6Nk95SEJqUmNzOFQ4YURaZnJjN1BmdTBiZk5JVlNrVm55aXdRZ0d1UkJMYUQxVHEweU02akJpSmtON0Y4X0h1UlF3Mi1vWnRwblVlcHlJdUJxcTJfR1hKVnFhR0F2U3Nma3dESWpnT1RQRkhkXzBTU21yZnRsRkxMSXB6M1JpaU1yMGs?oc=5\" target=\"_blank\">Ripple and Coinbase CEOs Both Back the CLARITY Act — Is a Senate Vote Finally Coming?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2dqQW9qTXQ0Wk1iTEtYY1pmT3VpMmUxc0U1T3RCcll6Nk95SEJqUmNzOFQ4YURaZnJjN1BmdTBiZk5JVlNrVm55aXdRZ0d1UkJMYUQxVHEweU02akJpSmtON0Y4X0h1UlF3Mi1vWnRwblVlcHlJdUJxcTJfR1hKVnFhR0F2U3Nma3dESWpnT1RQRkhkXzBTU21yZnRsRkxMSXB6M1JpaU1yMGs?oc=5",
-      "source": "CoinCentral",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-14T07:12:55+00:00",
-      "tags": [],
-      "key_quote": "Ripple and Coinbase CEOs Both Back the CLARITY Act — Is a Senate Vote Finally Coming?"
     }
   ]
 }
