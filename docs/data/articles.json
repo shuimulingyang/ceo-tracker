@@ -1,14 +1,29 @@
 {
-  "updated_at": "2026-06-22T00:02:06Z",
+  "updated_at": "2026-06-22T06:15:49Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 341,
     "CZ": 76,
+    "Brian Armstrong": 341,
     "Star Xu": 7,
     "Ben Zhou": 31,
     "Richard Teng": 45
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao on Bitcoin: Market Cycle, Artificial Intelligence, and Quantum Risks",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnl1RWppaHNaeEhQeklGM0FFYjB1WDlseGo5Mzdic1dXcjVBZm1Ib2dYN3ZiSGVnNVBOdXQyLWNMVHdFeFFBTXVOQm9OdFhQSjF1ZXFaYWlpU01LbGZUQnFGUmhiNFozTFktbWdEVGh4LVpqdnBLSmNyY0NZVHd1MVJjZ0xydlRYSFJldjgzUXQ2VU1EY1MyQ0xwODVHVUg5VmZqS1U4V1huRHctWUNWb3NiNUx0UnVtd0xjWWVR?oc=5\" target=\"_blank\">Changpeng Zhao on Bitcoin: Market Cycle, Artificial Intelligence, and Quantum Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinspot.io</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnl1RWppaHNaeEhQeklGM0FFYjB1WDlseGo5Mzdic1dXcjVBZm1Ib2dYN3ZiSGVnNVBOdXQyLWNMVHdFeFFBTXVOQm9OdFhQSjF1ZXFaYWlpU01LbGZUQnFGUmhiNFozTFktbWdEVGh4LVpqdnBLSmNyY0NZVHd1MVJjZ0xydlRYSFJldjgzUXQ2VU1EY1MyQ0xwODVHVUg5VmZqS1U4V1huRHctWUNWb3NiNUx0UnVtd0xjWWVR?oc=5",
+      "source": "Coinspot.io",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-21T09:44:48+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market",
+        "AI"
+      ],
+      "key_quote": "Changpeng Zhao on Bitcoin: Market Cycle, Artificial Intelligence, and Quantum Risks Coinspot.io"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers'",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT1UxZTlWX3cxekFnYm53ek5NR05RQ05jNzNPejQ2bktaNmJsbFk0U0FaTjdLT3ZRcEtUejZXS0c0b3FmaDliWUZTRjRmcm1HeGw1TTVINHhiYlNReVcxLU5BRG40VFRtaHBESDdUVTAtaTdhbTZFTDhiakJXTGdlaVo4dXFldndX?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
@@ -59,6 +74,17 @@
       "published_at": "2026-06-20T13:06:14+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Wants A Financial Literacy Test To Let Anyone Invest In Private Companies, Not Just The Rich TradingView"
+    },
+    {
+      "title": "Coinbase CEO Wants A Financial Literacy Test To Let Anyone Invest In Private Companies, Not Just The Rich",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTJ1UGlJMk5IY2Q0TWJEeUFfZV93WDdvYl9POUwyelBRTFVLYWR3dFZTMWswcENYcU9QR3gxa0drZHZkUklqaGVvcFpPMmRUTHB3MFNWNk00Sm5WZjd3TnlMdDRIRWhya0ZEZ3dTTXM4M2N3cE5Ud2ljQWlKTUVyWktrd0wzbXU4dWhIczB5UF9XcmpWQ3NvNlVwT2Vwb3AyR2REQw?oc=5\" target=\"_blank\">Coinbase CEO Wants A Financial Literacy Test To Let Anyone Invest In Private Companies, Not Just The Rich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTJ1UGlJMk5IY2Q0TWJEeUFfZV93WDdvYl9POUwyelBRTFVLYWR3dFZTMWswcENYcU9QR3gxa0drZHZkUklqaGVvcFpPMmRUTHB3MFNWNk00Sm5WZjd3TnlMdDRIRWhya0ZEZ3dTTXM4M2N3cE5Ud2ljQWlKTUVyWktrd0wzbXU4dWhIczB5UF9XcmpWQ3NvNlVwT2Vwb3AyR2REQw?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-20T13:06:14+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Wants A Financial Literacy Test To Let Anyone Invest In Private Companies, Not Just The Rich Yahoo Finance"
     },
     {
       "title": "Changpeng Zhao: 50% Bitcoin Drop Is Normal in Four-Year Cycle, Each Cycle Builds on Higher Lows",
@@ -6137,30 +6163,6 @@
         "市场 Market"
       ],
       "key_quote": "Binance Founder Changpeng Zhao (CZ) Speaks Out for the First Time Following Bitcoin’s Rally Cryptonews.net"
-    },
-    {
-      "title": "Binance’s Changpeng Zhao Reveals Why He Went All-In on Bitcoin Early",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0g3a1NmMzdXZU13MXFjbklFdVAwb1AwWUM1R3RPazZXZXlXMENxb2YxUGJKbmx3S01oa19TQkxLS2JCT05haW5NeHdGVVVnVklOSWRuY0YyQnNhN01tT1NJZGtXYkRRLWxfR2MtUkxtQXc5MHpmR1p4ekk3cTNGQlItTlNWbkdnNU5GR0xMUzdiblJaejFwYQ?oc=5\" target=\"_blank\">Binance’s Changpeng Zhao Reveals Why He Went All-In on Bitcoin Early</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Watcher Guru</font>",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0g3a1NmMzdXZU13MXFjbklFdVAwb1AwWUM1R3RPazZXZXlXMENxb2YxUGJKbmx3S01oa19TQkxLS2JCT05haW5NeHdGVVVnVklOSWRuY0YyQnNhN01tT1NJZGtXYkRRLWxfR2MtUkxtQXc5MHpmR1p4ekk3cTNGQlItTlNWbkdnNU5GR0xMUzdiblJaejFwYQ?oc=5",
-      "source": "Watcher Guru",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-14T12:37:06+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Binance’s Changpeng Zhao Reveals Why He Went All-In on Bitcoin Early Watcher Guru"
-    },
-    {
-      "title": "Ripple and Coinbase CEOs Back CLARITY Act as Senate Vote Nears",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDJyN1puMTVBaWVsS1JsYWhZVi1hV2ZmekFzd0JNSlMzamFFOG4yV3lKNjNvY2Vuc0lhd3Z3QURpaE5fQkJSQ05xVklNWXk3Q0s4X2Y3eUFTQTh2eUZNZHpQc0pvOF9vRHgzaTN1alRvaUxYRXBHbXgydy1VQWY2RDRrNkI3bHRLUzJIQWpxRjU3ZGR3c1VzbENOQm5KYUF5dEpLcFE4X05YS2VyenVPYmdVdVF4ZlBObEhKcUJzdw?oc=5\" target=\"_blank\">Ripple and Coinbase CEOs Back CLARITY Act as Senate Vote Nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDJyN1puMTVBaWVsS1JsYWhZVi1hV2ZmekFzd0JNSlMzamFFOG4yV3lKNjNvY2Vuc0lhd3Z3QURpaE5fQkJSQ05xVklNWXk3Q0s4X2Y3eUFTQTh2eUZNZHpQc0pvOF9vRHgzaTN1alRvaUxYRXBHbXgydy1VQWY2RDRrNkI3bHRLUzJIQWpxRjU3ZGR3c1VzbENOQm5KYUF5dEpLcFE4X05YS2VyenVPYmdVdVF4ZlBObEhKcUJzdw?oc=5",
-      "source": "National Today",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-14T07:34:39+00:00",
-      "tags": [],
-      "key_quote": "Ripple and Coinbase CEOs Back CLARITY Act as Senate Vote Nears National Today"
     }
   ]
 }
