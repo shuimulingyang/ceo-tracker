@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-23T10:24:51Z",
+  "updated_at": "2026-06-23T13:32:51Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 345,
-    "CZ": 75,
+    "CZ": 76,
     "Star Xu": 7,
-    "Ben Zhou": 28,
+    "Ben Zhou": 27,
     "Richard Teng": 45
   },
   "articles": [
@@ -47,6 +47,17 @@
     },
     {
       "title": "Binance founder Changpeng Zhao on crypto winters, his stint in jail, and his future",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEhMbDJsRXVaTC1STlMxR2RWLWxnM2xWZkVFZ2pESGZuWjNfakVMX1Q3N0RXVEd3RVljaThkS2JZbl9SSE4tMGZyeGE3Nm1pdUg0Y0VxWVFjcjN5cW5ZanB1YU9mblB5MU1VSjMzWkZCaVlUblM2VmxUOXhJbnVZX3BsUWRnWjQ?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao on crypto winters, his stint in jail, and his future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEhMbDJsRXVaTC1STlMxR2RWLWxnM2xWZkVFZ2pESGZuWjNfakVMX1Q3N0RXVEd3RVljaThkS2JZbl9SSE4tMGZyeGE3Nm1pdUg0Y0VxWVFjcjN5cW5ZanB1YU9mblB5MU1VSjMzWkZCaVlUblM2VmxUOXhJbnVZX3BsUWRnWjQ?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-22T13:33:05+00:00",
+      "tags": [],
+      "key_quote": "Binance founder Changpeng Zhao on crypto winters, his stint in jail, and his future AOL.com"
+    },
+    {
+      "title": "Binance founder Changpeng Zhao on crypto winters, his stint in jail, and his future",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNndMV21hQjNudTQ5ZGJkVkJvcnFHNlVLM255bVNtY2poMnZoaUlzODd2U0E3SFZIemM5Q0RfY3ZOUW5zaHpRQTg0WFRTSkFLaDJEUElNMEFnWmg2UkxxdXBjQWlKN19oRldEOW1nWGhIWE9heTZTSlRHdlpLWHJlM21JZ0gyT2VickNMWVZncUJRNi1Hb2x0UEkyU3Jha3R5eHZ4UHNoaTZEYU1HSF9uN0NhYkR3QW9UNG9aWEhSY3p3X0RzdUNoeUZYSE5yRkFvZG1RRQ?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao on crypto winters, his stint in jail, and his future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNndMV21hQjNudTQ5ZGJkVkJvcnFHNlVLM255bVNtY2poMnZoaUlzODd2U0E3SFZIemM5Q0RfY3ZOUW5zaHpRQTg0WFRTSkFLaDJEUElNMEFnWmg2UkxxdXBjQWlKN19oRldEOW1nWGhIWE9heTZTSlRHdlpLWHJlM21JZ0gyT2VickNMWVZncUJRNi1Hb2x0UEkyU3Jha3R5eHZ4UHNoaTZEYU1HSF9uN0NhYkR3QW9UNG9aWEhSY3p3X0RzdUNoeUZYSE5yRkFvZG1RRQ?oc=5",
       "source": "Yahoo Finance",
@@ -55,6 +66,17 @@
       "published_at": "2026-06-22T13:23:36+00:00",
       "tags": [],
       "key_quote": "Binance founder Changpeng Zhao on crypto winters, his stint in jail, and his future Yahoo Finance"
+    },
+    {
+      "title": "Binance founder Changpeng Zhao on crypto winters, his stint in jail, and his future",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOczE5TE9kT2ozMkstN29yUDlMZ0ZET1YwbC1rNVRJMmV4dFoyRzFwZ2hhcThlZWZzR1VLemJMelJVRXJHZkZvcGFUU2lFSTNLQ0hxRExoZ3lQN0p5TU54b1p1Zk1QWVhVcnJHTE9lOXRBQlBiUWdLcW9NZ09sWFdOSURCNW9jQkpPa0hfX0o1eUx0U1JTWFhvazRPeEFrU1AxbWZ4N3NtbHhWRExKV3l1ZVdFVEl5UnZXRlBTUmxTcTZ6cTJ4Wkw2bkxB?oc=5\" target=\"_blank\">Binance founder Changpeng Zhao on crypto winters, his stint in jail, and his future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOczE5TE9kT2ozMkstN29yUDlMZ0ZET1YwbC1rNVRJMmV4dFoyRzFwZ2hhcThlZWZzR1VLemJMelJVRXJHZkZvcGFUU2lFSTNLQ0hxRExoZ3lQN0p5TU54b1p1Zk1QWVhVcnJHTE9lOXRBQlBiUWdLcW9NZ09sWFdOSURCNW9jQkpPa0hfX0o1eUx0U1JTWFhvazRPeEFrU1AxbWZ4N3NtbHhWRExKV3l1ZVdFVEl5UnZXRlBTUmxTcTZ6cTJ4Wkw2bkxB?oc=5",
+      "source": "Yahoo Finance UK",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-22T13:23:36+00:00",
+      "tags": [],
+      "key_quote": "Binance founder Changpeng Zhao on crypto winters, his stint in jail, and his future Yahoo Finance UK"
     },
     {
       "title": "Changpeng Zhao on Bitcoin: Market Cycle, Artificial Intelligence, and Quantum Risks",
@@ -6139,28 +6161,6 @@
         "市场 Market"
       ],
       "key_quote": "CZ Binance Square AMA Q&A Transcript: Entrepreneurship, Direction, Bear Market Investing, and Opportunities for Ordinary People PANews"
-    },
-    {
-      "title": "Binance Founder Changpeng Zhao Publishes Memoir, Addresses Guilty Plea",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUpJQUgtWEFOcFlieHRHR2dCdHZGcHhsREhkMmpFOXRaZkpIRk5MNGhkUTNzdzliRHBYajB0ZVdGSkR0LTRNbHdHR0tSZmlMNFFjWGQ2RzloUzVaWjVFOERRMF9QbzBZeVczN2JkWWx0cjg0cy1vUlhqV0t1cHdmVHhFWFFfT3d4MkdOby1jcVAwVTB6dDVwLXRNNk1BUWJPMDV3aFZqT1F1bUhhaTRJOGtTaDFxZlQ3NHZVLVZVQVZadmZucXJtLW8zaTZqelYx?oc=5\" target=\"_blank\">Binance Founder Changpeng Zhao Publishes Memoir, Addresses Guilty Plea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Today</font>",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUpJQUgtWEFOcFlieHRHR2dCdHZGcHhsREhkMmpFOXRaZkpIRk5MNGhkUTNzdzliRHBYajB0ZVdGSkR0LTRNbHdHR0tSZmlMNFFjWGQ2RzloUzVaWjVFOERRMF9QbzBZeVczN2JkWWx0cjg0cy1vUlhqV0t1cHdmVHhFWFFfT3d4MkdOby1jcVAwVTB6dDVwLXRNNk1BUWJPMDV3aFZqT1F1bUhhaTRJOGtTaDFxZlQ3NHZVLVZVQVZadmZucXJtLW8zaTZqelYx?oc=5",
-      "source": "National Today",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-15T15:15:29+00:00",
-      "tags": [],
-      "key_quote": "Binance Founder Changpeng Zhao Publishes Memoir, Addresses Guilty Plea National Today"
-    },
-    {
-      "title": "Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSUpXRW9OR2JPTzZRZVd5Mm1XU1FoWV9FS2Z2VVpMVUZaaV8yaUZ4TE9DekFOV2s5aU5yWjkxalB0TTAzZjJ3VGxtSkhBQVRPN05JTkV4U2ZVRUdkNkZxdXV3SzRhdFU5M052bGdGZmlNbFBZMmhyZzZPVWgyZEZva29TYlNrZ2x0QW5KU3BlWGUxR0pzaGNIaXJxMmJ5bDBvZGliaVZBWm5Nbk1pbF90cUZJdlFaU3BpMzV2RzdiRnF2bnFsNlhXaktoZERWMHphUVRoVkN6NnNPZVgyZjd3WQ?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSUpXRW9OR2JPTzZRZVd5Mm1XU1FoWV9FS2Z2VVpMVUZaaV8yaUZ4TE9DekFOV2s5aU5yWjkxalB0TTAzZjJ3VGxtSkhBQVRPN05JTkV4U2ZVRUdkNkZxdXV3SzRhdFU5M052bGdGZmlNbFBZMmhyZzZPVWgyZEZva29TYlNrZ2x0QW5KU3BlWGUxR0pzaGNIaXJxMmJ5bDBvZGliaVZBWm5Nbk1pbF90cUZJdlFaU3BpMzV2RzdiRnF2bnFsNlhXaktoZERWMHphUVRoVkN6NnNPZVgyZjd3WQ?oc=5",
-      "source": "PR Newswire",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-04-15T14:26:00+00:00",
-      "tags": [],
-      "key_quote": "Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026 PR Newswire"
     }
   ]
 }
