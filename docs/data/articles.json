@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-24T01:53:01Z",
+  "updated_at": "2026-06-24T05:54:59Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 345,
-    "CZ": 76,
+    "Brian Armstrong": 346,
+    "CZ": 75,
     "Star Xu": 7,
     "Ben Zhou": 27,
     "Richard Teng": 45
@@ -1288,6 +1288,17 @@
       "published_at": "2026-06-06T16:05:00+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO: Banks Got What They Wanted — Now Pass The CLARITY Act Stocktwits"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Says Banks Got 'A Lot Of What They Asked For' In CLARITY Act Compromise",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ2tzUE1EYWFBOUI1UTVVYmlvSVVITWpadHFpa3hHR2gwYVplNDFGTGJreEdDX05YVTA0MV93d25YZmZBWEp2ZS1WWXZ2ZWtyeE9lQ0dSdDFZUUNMaHpqc2lzdUtEUjNhZEJnbFZvOVcyWGdHSXdwV0ZZclVFSkpaajdycXoxT0xDU2JBYTJ0RFNmOUJCMEhyNmpkTmEzOGM?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says Banks Got 'A Lot Of What They Asked For' In CLARITY Act Compromise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ2tzUE1EYWFBOUI1UTVVYmlvSVVITWpadHFpa3hHR2gwYVplNDFGTGJreEdDX05YVTA0MV93d25YZmZBWEp2ZS1WWXZ2ZWtyeE9lQ0dSdDFZUUNMaHpqc2lzdUtEUjNhZEJnbFZvOVcyWGdHSXdwV0ZZclVFSkpaajdycXoxT0xDU2JBYTJ0RFNmOUJCMEhyNmpkTmEzOGM?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-06T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Says Banks Got 'A Lot Of What They Asked For' In CLARITY Act Compromise Yahoo Finance"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Says Crypto Is Bigger Than Just Bitcoin As BTC Plunges 26% In A Month: 'Will",
@@ -6148,19 +6159,6 @@
       "published_at": "2026-04-16T06:42:14+00:00",
       "tags": [],
       "key_quote": "Binance Founder Changpeng Zhao Shares His Cryptocurrency Strategies – With Exclusive Insights Cryptonews.net"
-    },
-    {
-      "title": "CZ Binance Square AMA Q&A Transcript: Entrepreneurship, Direction, Bear Market Investing, and Opportunities for Ordinary People",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5RWEhwVUEtX3FMUW5VQ3FpbU9PNzFqNHNQeFpSeFM5U18yeUExWk5yMUVXbWZCRWNpbC0xUlJQbU9MLVNvdlNwUnp6UlM5SGtpZGg4T2c2VjZ5eEd1QnlTZUJleVhPZ1VuOUhHRDBGNWlWVENfOXJtZk14MTl1cGM?oc=5\" target=\"_blank\">CZ Binance Square AMA Q&amp;A Transcript: Entrepreneurship, Direction, Bear Market Investing, and Opportunities for Ordinary People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PANews</font>",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RWEhwVUEtX3FMUW5VQ3FpbU9PNzFqNHNQeFpSeFM5U18yeUExWk5yMUVXbWZCRWNpbC0xUlJQbU9MLVNvdlNwUnp6UlM5SGtpZGg4T2c2VjZ5eEd1QnlTZUJleVhPZ1VuOUhHRDBGNWlWVENfOXJtZk14MTl1cGM?oc=5",
-      "source": "PANews",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-15T15:38:55+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "CZ Binance Square AMA Q&A Transcript: Entrepreneurship, Direction, Bear Market Investing, and Opportunities for Ordinary People PANews"
     }
   ]
 }
