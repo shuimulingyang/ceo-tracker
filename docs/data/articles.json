@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-06-24T05:54:59Z",
+  "updated_at": "2026-06-24T08:48:09Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 346,
-    "CZ": 75,
+    "Brian Armstrong": 347,
+    "CZ": 74,
     "Star Xu": 7,
     "Ben Zhou": 27,
     "Richard Teng": 45
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Says Founders Must Be Willing To Be ‘Vilified’ To Build Anything Meaningful",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSmI0Yy1tdWR6OTNfck1sdXBHX2lzVXRCc19LbUZyM0phVmxGZWhiYnRZNThHYkFMcWdjS08yczBfeFp6RjVKUmNGOXhaTjdHek9UcGN1djItMjRnSTBuMjVYbXlDMWp5Mk1oMWdTWEpxWkF4OWxJVkNXMW5hT09CcWRvTjhPcW1PNURDTndlSnNKb0ZyTTR4ZG9kV0ZQeXg2V2lxM0s3bm9EUkhkaEN1d2pxbjVKbFhwdzNDLWtIeXF4TWMwdjl6LUVlZUFhelRvbFdnemtNNEdoVHFURnpBcjA5a3NsNWFXbUVr?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says Founders Must Be Willing To Be ‘Vilified’ To Build Anything Meaningful</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSmI0Yy1tdWR6OTNfck1sdXBHX2lzVXRCc19LbUZyM0phVmxGZWhiYnRZNThHYkFMcWdjS08yczBfeFp6RjVKUmNGOXhaTjdHek9UcGN1djItMjRnSTBuMjVYbXlDMWp5Mk1oMWdTWEpxWkF4OWxJVkNXMW5hT09CcWRvTjhPcW1PNURDTndlSnNKb0ZyTTR4ZG9kV0ZQeXg2V2lxM0s3bm9EUkhkaEN1d2pxbjVKbFhwdzNDLWtIeXF4TWMwdjl6LUVlZUFhelRvbFdnemtNNEdoVHFURnpBcjA5a3NsNWFXbUVr?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-24T07:27:28+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Says Founders Must Be Willing To Be ‘Vilified’ To Build Anything Meaningful Benzinga"
+    },
     {
       "title": "Coinbase launches AI-enabled financial platform for money management, Brian Armstrong notes",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOZkNvNHItYmtQZHBDTngxVVk5djlwYVhHb3cwMTZIRkxON2RwaGxxLXBsZW5HNXZveXJmakZXeWZzZ0xYa0xHZ1d0aTduaDBMY21qVEN4ajYySG5HOVBnbzNQU1daUUZRMUJIMVBScmpyWk1LeUFRcXFic2ZEZGJUUDdlUEZpOVlzVC1PYmdtMEw?oc=5\" target=\"_blank\">Coinbase launches AI-enabled financial platform for money management, Brian Armstrong notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
@@ -6148,17 +6159,6 @@
       "published_at": "2026-04-16T07:00:00+00:00",
       "tags": [],
       "key_quote": "Richard Teng：Binance TradFi 永续合约正在快速扩张，已占据主流 TradFi 期货的约 4.9% CryptoRank"
-    },
-    {
-      "title": "Binance Founder Changpeng Zhao Shares His Cryptocurrency Strategies – With Exclusive Insights",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pY1llS2FEdTJSY2tCM3c5NUhqdFhUbndSSXlscTRsVWdVSW93bTN4ejVMSnhxSHl3ZDFpUXhBYUZTUzEyVDc0akp6emY5akdub1h0VG8xTnc?oc=5\" target=\"_blank\">Binance Founder Changpeng Zhao Shares His Cryptocurrency Strategies – With Exclusive Insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pY1llS2FEdTJSY2tCM3c5NUhqdFhUbndSSXlscTRsVWdVSW93bTN4ejVMSnhxSHl3ZDFpUXhBYUZTUzEyVDc0akp6emY5akdub1h0VG8xTnc?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-16T06:42:14+00:00",
-      "tags": [],
-      "key_quote": "Binance Founder Changpeng Zhao Shares His Cryptocurrency Strategies – With Exclusive Insights Cryptonews.net"
     }
   ]
 }
