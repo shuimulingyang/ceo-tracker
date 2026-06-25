@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-06-25T13:55:16Z",
+  "updated_at": "2026-06-25T16:12:24Z",
   "total": 500,
   "by_ceo": {
+    "Ben Zhou": 28,
     "CZ": 74,
-    "Brian Armstrong": 347,
+    "Brian Armstrong": 346,
     "Star Xu": 9,
-    "Ben Zhou": 27,
     "Richard Teng": 43
   },
   "articles": [
+    {
+      "title": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPWjhkVHJRcUxIbEp4RnE5YmNmeS1NUUZuMjVCTndYbndVTmZyeUd2bXRBSlZORGl0bzF0SEo4ajNOVzNueW92YlBvUlc3NVlNR0tSRThaM3VkTTd2Sy00by1yNWFDajRhWTR1Wk9TMDNoV2FhRGc1Vkt1NUMtUlltdnhUMTRpQzh2cHRTc0tHUWp3LTJIZEltTzFOSjh1RGFsam9KRW9ybzJTdWN1RVZ4NEdLUU1zbExFa1E?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWjhkVHJRcUxIbEp4RnE5YmNmeS1NUUZuMjVCTndYbndVTmZyeUd2bXRBSlZORGl0bzF0SEo4ajNOVzNueW92YlBvUlc3NVlNR0tSRThaM3VkTTd2Sy00by1yNWFDajRhWTR1Wk9TMDNoV2FhRGc1Vkt1NUMtUlltdnhUMTRpQzh2cHRTc0tHUWp3LTJIZEltTzFOSjh1RGFsam9KRW9ybzJTdWN1RVZ4NEdLUU1zbExFa1E?oc=5",
+      "source": "PR Newswire",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-06-25T13:57:00+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading PR Newswire"
+    },
     {
       "title": "Changpeng Zhao's Transformation After Prison: New Strategies and Future Insights",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFdxeGhyWTJ5SVlvNV8wVnc2TnJ4Y2d4UGdhakhBQUppQ2RNckhUWUU2MXZhbDc3cmJxVWRrOXRkbDJFNjRvbGpDZFNGQnNRcjY2Zk9BdjNnU1JZcDllLXV0dUtmODktZnFRVkVfc0VqT05YVmNKQV9Qam5ZWFkwS0hZejdWaU0wSVN5dV93RHR3LTdiRlJxay04WlViTnlKa2FJNjVndFJ1dGNxU2YyNEFRX3ZoREFkNlhadnVXQVF3b0NsSUFmU2NR?oc=5\" target=\"_blank\">Changpeng Zhao's Transformation After Prison: New Strategies and Future Insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Value The Markets</font>",
@@ -6144,20 +6155,6 @@
       "published_at": "2026-04-19T02:01:00+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao’s memoir is key to understanding the future of crypto New York Post"
-    },
-    {
-      "title": "Coinbase Stock Forecast as Brian Armstrong Predicts New Dawn for Agentic Commerce",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VLUZXWU5xMmhRdzFhMFBUYWJZQnRmNllldEdYZmlLMXVSWmo4OE82Qk01M0ZWUkZZQkJBZjdBZ1J0Y2FoS3IwVg?oc=5\" target=\"_blank\">Coinbase Stock Forecast as Brian Armstrong Predicts New Dawn for Agentic Commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VLUZXWU5xMmhRdzFhMFBUYWJZQnRmNllldEdYZmlLMXVSWmo4OE82Qk01M0ZWUkZZQkJBZjdBZ1J0Y2FoS3IwVg?oc=5",
-      "source": "MEXC",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-17T23:26:42+00:00",
-      "tags": [
-        "市场 Market",
-        "AI"
-      ],
-      "key_quote": "Coinbase Stock Forecast as Brian Armstrong Predicts New Dawn for Agentic Commerce MEXC"
     }
   ]
 }
