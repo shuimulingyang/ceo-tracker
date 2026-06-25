@@ -1,14 +1,49 @@
 {
-  "updated_at": "2026-06-25T18:59:00Z",
+  "updated_at": "2026-06-25T20:53:36Z",
   "total": 500,
   "by_ceo": {
-    "Ben Zhou": 28,
-    "CZ": 74,
-    "Brian Armstrong": 346,
+    "Ben Zhou": 31,
+    "CZ": 73,
+    "Brian Armstrong": 344,
     "Star Xu": 9,
     "Richard Teng": 43
   },
   "articles": [
+    {
+      "title": "The future of exchanges lies in liquidity, not tokenization, says Bybit CEO Ben Zhou at Point Zero Forum",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mMVd3d3RDeWVFbnY3TVVCTlJjUXA4M3VQUkljQTF2cnVNS2R5UktJWXZuQUd4ODZFZ1NrckhCWmtha3NKeG9hX3FHMHZsT01EWjR2eXFpYw?oc=5\" target=\"_blank\">The future of exchanges lies in liquidity, not tokenization, says Bybit CEO Ben Zhou at Point Zero Forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mMVd3d3RDeWVFbnY3TVVCTlJjUXA4M3VQUkljQTF2cnVNS2R5UktJWXZuQUd4ODZFZ1NrckhCWmtha3NKeG9hX3FHMHZsT01EWjR2eXFpYw?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-06-25T20:01:46+00:00",
+      "tags": [],
+      "key_quote": "The future of exchanges lies in liquidity, not tokenization, says Bybit CEO Ben Zhou at Point Zero Forum Cryptonews.net"
+    },
+    {
+      "title": "Bybit CEO Stresses Evolution Of Exchanges Into Liquidity Networks",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNVnROR1IydWdsVDJ3UUh3SEF0MUc0UnNFWFpvYzF1dkFyVy00dG9tYzdZdnNfT2xqZ3h4OHRWMUNVZW1rWWZUdkVUQl9RUVFGMXR4eFc0X2s0OHFRankySzNnY1oxa2F0Mlg4YXBZMllKU3NNQjFWY0ZoNGxxWTgxOURHX2N5SEZEdjB5OHEtVWh5VEgxQWZybnVtTjh2QQ?oc=5\" target=\"_blank\">Bybit CEO Stresses Evolution Of Exchanges Into Liquidity Networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BlockchainReporter</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVnROR1IydWdsVDJ3UUh3SEF0MUc0UnNFWFpvYzF1dkFyVy00dG9tYzdZdnNfT2xqZ3h4OHRWMUNVZW1rWWZUdkVUQl9RUVFGMXR4eFc0X2s0OHFRankySzNnY1oxa2F0Mlg4YXBZMllKU3NNQjFWY0ZoNGxxWTgxOURHX2N5SEZEdjB5OHEtVWh5VEgxQWZybnVtTjh2QQ?oc=5",
+      "source": "BlockchainReporter",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-06-25T16:03:30+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "Bybit CEO Stresses Evolution Of Exchanges Into Liquidity Networks BlockchainReporter"
+    },
+    {
+      "title": "Bybit CEO: Exchanges That Stay Pure Trading Venues Will Get Left Behind",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSFFrUFNoNjJOYXBsWldlT1lOSTdmV3hERWJ4b1JoUTJGWGJZRmR0aUIxTGJQV3k1OEEwak1IMXg0Wnd1U3VtbjBuaU4wNFdhaEpYeW5XdmVXcnE4Y2xSNmlUNG8ybHhSYnlkRW1Ucm4wekN1Nkd2UTdLZVFxak1yUmE4T09WWHAxdmd6aXM2YzVSa2NEUlQtLWhPYmFQUHpuSHZZNw?oc=5\" target=\"_blank\">Bybit CEO: Exchanges That Stay Pure Trading Venues Will Get Left Behind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BlockchainReporter</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSFFrUFNoNjJOYXBsWldlT1lOSTdmV3hERWJ4b1JoUTJGWGJZRmR0aUIxTGJQV3k1OEEwak1IMXg0Wnd1U3VtbjBuaU4wNFdhaEpYeW5XdmVXcnE4Y2xSNmlUNG8ybHhSYnlkRW1Ucm4wekN1Nkd2UTdLZVFxak1yUmE4T09WWHAxdmd6aXM2YzVSa2NEUlQtLWhPYmFQUHpuSHZZNw?oc=5",
+      "source": "BlockchainReporter",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-06-25T16:03:30+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO: Exchanges That Stay Pure Trading Venues Will Get Left Behind BlockchainReporter"
+    },
     {
       "title": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPWjhkVHJRcUxIbEp4RnE5YmNmeS1NUUZuMjVCTndYbndVTmZyeUd2bXRBSlZORGl0bzF0SEo4ajNOVzNueW92YlBvUlc3NVlNR0tSRThaM3VkTTd2Sy00by1yNWFDajRhWTR1Wk9TMDNoV2FhRGc1Vkt1NUMtUlltdnhUMTRpQzh2cHRTc0tHUWp3LTJIZEltTzFOSjh1RGFsam9KRW9ybzJTdWN1RVZ4NEdLUU1zbExFa1E?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
@@ -6120,41 +6155,6 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong said the AI agents are modeled after former executives Fred Ehrsam and Balaji Srinivasan."
-    },
-    {
-      "title": "Coinbase is testing AI agents that show up on Slack and email",
-      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase is testing AI agents that show up on Slack and email\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc0YzYtMmE4Ni03Njg5LWFjYjctMTU0ZDdlYmE3YTg5LmpwZw==.jpg\" /></p><p>Brian Armstrong has now predicted that AI agents will not only transact onchain more than humans but will outnumber employees at his company very soon.</p>",
-      "url": "https://cointelegraph.com/news/coinbase-introduces-two-ai-agents-assist-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-20T06:07:01+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Brian Armstrong has now predicted that AI agents will not only transact onchain more than humans but will outnumber employees at his company very soon."
-    },
-    {
-      "title": "Changpeng Zhao's Memoir: A Key to Crypto's Future",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFZ3U0FqaWhYUFJ3V3Zjb0lZd29PSXZ6SVR1UlR3ajFPUXZSTWE5TjRhNExCajhxVHBscnpMY05ZUlk0U3U5eFFndk4zalNKSFNjdFI3WGEtSjU2Z205V016TXVXTEl1c3VOVFhBRnlIZjItaDFFMTV6YXhFcndvcVlVZURQMV9FUjQtUmlHdTJoUVd4MGtDY1FOOFhSbkFwb3BuTw?oc=5\" target=\"_blank\">Changpeng Zhao's Memoir: A Key to Crypto's Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phemex</font>",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFZ3U0FqaWhYUFJ3V3Zjb0lZd29PSXZ6SVR1UlR3ajFPUXZSTWE5TjRhNExCajhxVHBscnpMY05ZUlk0U3U5eFFndk4zalNKSFNjdFI3WGEtSjU2Z205V016TXVXTEl1c3VOVFhBRnlIZjItaDFFMTV6YXhFcndvcVlVZURQMV9FUjQtUmlHdTJoUVd4MGtDY1FOOFhSbkFwb3BuTw?oc=5",
-      "source": "Phemex",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-19T19:06:44+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao's Memoir: A Key to Crypto's Future Phemex"
-    },
-    {
-      "title": "Coinbase is late to stocks—but CEO Brian Armstrong says it will win in the long run",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdF9yaThiYWFIRHFsVnpKRFp6dWplSXpXSWpUZk9PTDdJeUU4VnZZeXkzV3V5V2NJTWh1Q2NSd3ZYNFJ2QTJqTzBXNjhSampsU3VHczdRYjNoOC03RHp1emZSTzRSTEc5YWx1bUZ0QXNUaGJsVXhfc2dFbk9yOHctaGk0eHg?oc=5\" target=\"_blank\">Coinbase is late to stocks—but CEO Brian Armstrong says it will win in the long run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdF9yaThiYWFIRHFsVnpKRFp6dWplSXpXSWpUZk9PTDdJeUU4VnZZeXkzV3V5V2NJTWh1Q2NSd3ZYNFJ2QTJqTzBXNjhSampsU3VHczdRYjNoOC03RHp1emZSTzRSTEc5YWx1bUZ0QXNUaGJsVXhfc2dFbk9yOHctaGk0eHg?oc=5",
-      "source": "AOL.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-19T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase is late to stocks—but CEO Brian Armstrong says it will win in the long run AOL.com"
     }
   ]
 }
