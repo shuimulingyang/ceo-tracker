@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-06-25T01:56:41Z",
+  "updated_at": "2026-06-25T05:57:50Z",
   "total": 500,
   "by_ceo": {
-    "Star Xu": 9,
     "Brian Armstrong": 347,
+    "Star Xu": 9,
     "CZ": 74,
-    "Ben Zhou": 26,
-    "Richard Teng": 44
+    "Ben Zhou": 27,
+    "Richard Teng": 43
   },
   "articles": [
+    {
+      "title": "Coinbase CEO says broken finance is pushing users to crypto",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOWERIMGZKX0ZrVG4tUEg1QTZ0bjZqU1ZWMXVoZm9DTnEtMk5DVTFCSHBBb3JZejhHRVVSODJERmIwMk1ndWZsbHRhbEUxMUp2SGUydExpejl3dW45RWM2emQ5Y1BWcEMwM3BDZWowQXN4ejdodVZldXpfdXJXMEFMRUwxNFk2QUE?oc=5\" target=\"_blank\">Coinbase CEO says broken finance is pushing users to crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWERIMGZKX0ZrVG4tUEg1QTZ0bjZqU1ZWMXVoZm9DTnEtMk5DVTFCSHBBb3JZejhHRVVSODJERmIwMk1ndWZsbHRhbEUxMUp2SGUydExpejl3dW45RWM2emQ5Y1BWcEMwM3BDZWowQXN4ejdodVZldXpfdXJXMEFMRUwxNFk2QUE?oc=5",
+      "source": "crypto.news",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-25T05:33:43+00:00",
+      "tags": [
+        "DeFi"
+      ],
+      "key_quote": "Coinbase CEO says broken finance is pushing users to crypto crypto.news"
+    },
     {
       "title": "Why OKX CEO Questions Binance’s Compliance Culture",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE50cWIzcUI5VDFRSDgzd25YYzR5bU9qZnNjUmRuQUhSMkplWU02b201Q3Q4Q2h4ZWdMdE9ScmFPbnd4NjdyNXU1WDRPSERKX3hVZEYwRzlFdGNZOC1leWNNVlo5TDBMSEFJUElVdFRMYVhnMjhJU1JtRktFVlZqM0k?oc=5\" target=\"_blank\">Why OKX CEO Questions Binance’s Compliance Culture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coinfomania</font>",
@@ -1030,6 +1043,19 @@
         "监管 Regulation"
       ],
       "key_quote": "Brian Armstrong Says Coinbase Is First CFTC-Approved Global Perps Platform Coinfomania"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3hBVGNoZWFUQ2Z6SXlDY2R4ZVJlYmVrUHE0LWxDejE4dGd2SFgyaWt0YzRsemFRZTFfRElRVVF0QzFPcW0yRThXUjdWWEZ1YU52MUxGV2tldXYtZlpSdFBNaVZpc043TnA4VllMWm5CVUc4VHlVMGhyS2hkZjlJWU5TTWFYdHVDdlhNNUVyaFc4WFUxUi1nYVFwcEVPUURjeDk5OG5qT1p4dUk1VkdXUWhn?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3hBVGNoZWFUQ2Z6SXlDY2R4ZVJlYmVrUHE0LWxDejE4dGd2SFgyaWt0YzRsemFRZTFfRElRVVF0QzFPcW0yRThXUjdWWEZ1YU52MUxGV2tldXYtZlpSdFBNaVZpc043TnA4VllMWm5CVUc4VHlVMGhyS2hkZjlJWU5TTWFYdHVDdlhNNUVyaFc4WFUxUi1nYVFwcEVPUURjeDk5OG5qT1p4dUk1VkdXUWhn?oc=5",
+      "source": "CCN.com",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-06-11T07:00:00+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026 CCN.com"
     },
     {
       "title": "Brian Armstrong Says Coinbase Processes $1T in Stablecoin Payments Annually",
@@ -6136,31 +6162,6 @@
         "AI"
       ],
       "key_quote": "Coinbase receives conditional nod to operate as national trust company—CEO Brian Armstrong says 'we're not becoming a bank' MSN"
-    },
-    {
-      "title": "Brian Armstrong Says Agentic Commerce Will Fuel Digital Dollar Demand Soon",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWFUSG1QVU5oUjRhRW85UWlXaGNOVkl0N3lFcUY1b3l6Q0NaVzcyUjY1M2pCUzJtdGJ0aU8yNV9jZjJfdlNoOW9DWnZSbTlaRkpDbk9YVVp5REVOWUFkSndVTE1kd1ZRekY3YUhobXRVZmRWQ1RoVVREZXJxcWNVY0FxcTljcE5MXzRGSFdSMzhyMGZWVGdJOXRwT0ZUbTBs?oc=5\" target=\"_blank\">Brian Armstrong Says Agentic Commerce Will Fuel Digital Dollar Demand Soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWFUSG1QVU5oUjRhRW85UWlXaGNOVkl0N3lFcUY1b3l6Q0NaVzcyUjY1M2pCUzJtdGJ0aU8yNV9jZjJfdlNoOW9DWnZSbTlaRkpDbk9YVVp5REVOWUFkSndVTE1kd1ZRekY3YUhobXRVZmRWQ1RoVVREZXJxcWNVY0FxcTljcE5MXzRGSFdSMzhyMGZWVGdJOXRwT0ZUbTBs?oc=5",
-      "source": "CoinCentral",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-16T21:20:35+00:00",
-      "tags": [],
-      "key_quote": "Brian Armstrong Says Agentic Commerce Will Fuel Digital Dollar Demand Soon CoinCentral"
-    },
-    {
-      "title": "Inside Binance’s plan to become a global financial super app",
-      "content": "<p>Richard Teng explains why crypto fundamentals remain strong, how regulation is driving global adoption, and where Binance is headed next.</p>",
-      "url": "https://www.theblock.co/post/397806/inside-binances-plan-to-become-a-global-financial-super-app?utm_source=rss&utm_medium=rss",
-      "source": "The Block",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-16T20:20:45+00:00",
-      "tags": [
-        "监管 Regulation",
-        "机构 Institutional"
-      ],
-      "key_quote": "Richard Teng explains why crypto fundamentals remain strong, how regulation is driving global adoption, and where Binance is headed next."
     }
   ]
 }
