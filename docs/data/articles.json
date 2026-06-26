@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-06-26T18:19:19Z",
+  "updated_at": "2026-06-26T20:24:08Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 349,
+    "Brian Armstrong": 350,
     "Ben Zhou": 33,
     "CZ": 73,
     "Star Xu": 9,
-    "Richard Teng": 36
+    "Richard Teng": 35
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Base platform updates help Coinbase recover from early pressure despite weak momentum",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlVQZ3hvTklNMEpyMnZsUVhCTTdMQVRqYTJZOGpaaEdVazBPdDJRbk1TZWdDamZoNjJoVmM0QzZwSXFGMmctMU1JekZrTnc1QnhzUDhXdzNIZzJwSXN6elRpMlAwUFlzVnRkRzVDeFB5Y25aNThPaTdsaWJZSmFpTFdHb0VVV01icjJQVnplUGtkNDJ0dlVQdDZ3?oc=5\" target=\"_blank\">Brian Armstrong Base platform updates help Coinbase recover from early pressure despite weak momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlVQZ3hvTklNMEpyMnZsUVhCTTdMQVRqYTJZOGpaaEdVazBPdDJRbk1TZWdDamZoNjJoVmM0QzZwSXFGMmctMU1JekZrTnc1QnhzUDhXdzNIZzJwSXN6elRpMlAwUFlzVnRkRzVDeFB5Y25aNThPaTdsaWJZSmFpTFdHb0VVV01icjJQVnplUGtkNDJ0dlVQdDZ3?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-26T19:02:23+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong Base platform updates help Coinbase recover from early pressure despite weak momentum Traders Union"
+    },
     {
       "title": "Brian Armstrong supports GOP at fundraising dinner with JD Vance",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3VLbFNmTnd6VExSOVRGNzFJVTZwZDVyQjlON2JVMWVjVWMwRFpOSG8yd2REUGpEeThXNF94a19xMUVSVC11WFpBaFA1NW1saTdFV3NPZDY0U0NONFdmby1ncGN3bXZ0X2VyWDFHVXRTbU5GNzlWSnlHQUlUV3NwdElYajVJcW92S25DTQ?oc=5\" target=\"_blank\">Brian Armstrong supports GOP at fundraising dinner with JD Vance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Protos | Informed crypto news</font>",
@@ -6136,19 +6147,6 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Binance Co-CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses Binance"
-    },
-    {
-      "title": "Binance CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wNWNZTHFQNmNUbzh6TE1VUzFoTnlxakRmV29Ha3RzbXR6VkZKc2QyTHVlbjI0emo3MVo3ZzQwdFk4WTBpZ251ZnFXalhOS0NJY1YxWUZlU2Rsc2NVeVdCSlRSMWowVlV3?oc=5\" target=\"_blank\">Binance CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wNWNZTHFQNmNUbzh6TE1VUzFoTnlxakRmV29Ha3RzbXR6VkZKc2QyTHVlbjI0emo3MVo3ZzQwdFk4WTBpZ251ZnFXalhOS0NJY1YxWUZlU2Rsc2NVeVdCSlRSMWowVlV3?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-20T08:45:31+00:00",
-      "tags": [
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "Binance CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses Binance"
     }
   ]
 }
