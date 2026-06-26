@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-26T16:03:53Z",
+  "updated_at": "2026-06-26T18:19:19Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 348,
+    "Brian Armstrong": 349,
     "Ben Zhou": 33,
     "CZ": 73,
     "Star Xu": 9,
-    "Richard Teng": 37
+    "Richard Teng": 36
   },
   "articles": [
     {
@@ -22,6 +22,20 @@
         "机构 Institutional"
       ],
       "key_quote": "Brian Armstrong supports GOP at fundraising dinner with JD Vance Protos | Informed crypto news"
+    },
+    {
+      "title": "Coinbase CEO Challenges Banking Sector Over Crypto Legislation",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGlVWU9ZaFVOek5GREZQY2FtalJ0UzItY2ZQd1RDSmVINWNNYUo5ZGpnbTg5ajRMNE1adGZ4MUxubV8zLVg3WXpLN25ROFpwRVI3VmdELXdqQnJ4LXZzU1dCUE12TzU5ODcyR0RlQllCRFVlajJqc0NndEdyWDIzT0dTRUlWMjVuNEVvOTFab0hWYXkta1EtV2xCd2tlWmFVSUU2TUl6eFYtbEhjSVhCcVEzTFQ?oc=5\" target=\"_blank\">Coinbase CEO Challenges Banking Sector Over Crypto Legislation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Value The Markets</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGlVWU9ZaFVOek5GREZQY2FtalJ0UzItY2ZQd1RDSmVINWNNYUo5ZGpnbTg5ajRMNE1adGZ4MUxubV8zLVg3WXpLN25ROFpwRVI3VmdELXdqQnJ4LXZzU1dCUE12TzU5ODcyR0RlQllCRFVlajJqc0NndEdyWDIzT0dTRUlWMjVuNEVvOTFab0hWYXkta1EtV2xCd2tlWmFVSUU2TUl6eFYtbEhjSVhCcVEzTFQ?oc=5",
+      "source": "Value The Markets",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-26T11:29:50+00:00",
+      "tags": [
+        "监管 Regulation",
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Challenges Banking Sector Over Crypto Legislation Value The Markets"
     },
     {
       "title": "Coinbase CEO Brian Armstrong criticizes banks for undermining Trump’s crypto agenda",
@@ -6135,19 +6149,6 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Binance CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses Binance"
-    },
-    {
-      "title": "Dyrektor generalny Binance, Richard Teng: Stablecoiny są przyszłością płatności transgranicznych, gdy Hongkong przyznaje pierwsze licencje dla emitentów",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0V1pFRjlSc01MZG9razZpYkFhOVdGQWozV2UtSmxKZkh5dzJIRnRGV1FzSDVNRm4za0NCWmh4U09yZllIZ0pVTW9iT3ZjckFwU09mdzZ3UGwxWVRrZXFNdmNwM0s?oc=5\" target=\"_blank\">Dyrektor generalny Binance, Richard Teng: Stablecoiny są przyszłością płatności transgranicznych, gdy Hongkong przyznaje pierwsze licencje dla emitentów</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0V1pFRjlSc01MZG9razZpYkFhOVdGQWozV2UtSmxKZkh5dzJIRnRGV1FzSDVNRm4za0NCWmh4U09yZllIZ0pVTW9iT3ZjckFwU09mdzZ3UGwxWVRrZXFNdmNwM0s?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-20T08:45:31+00:00",
-      "tags": [
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "Dyrektor generalny Binance, Richard Teng: Stablecoiny są przyszłością płatności transgranicznych, gdy Hongkong przyznaje pierwsze licencje dla emitentów Binance"
     }
   ]
 }
