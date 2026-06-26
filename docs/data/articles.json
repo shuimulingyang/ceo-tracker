@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-25T22:12:58Z",
+  "updated_at": "2026-06-26T00:01:36Z",
   "total": 500,
   "by_ceo": {
-    "Ben Zhou": 31,
+    "Ben Zhou": 32,
     "CZ": 73,
-    "Brian Armstrong": 344,
+    "Brian Armstrong": 343,
     "Star Xu": 9,
     "Richard Teng": 43
   },
@@ -43,6 +43,17 @@
       "published_at": "2026-06-25T16:03:30+00:00",
       "tags": [],
       "key_quote": "Bybit CEO: Exchanges That Stay Pure Trading Venues Will Get Left Behind BlockchainReporter"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUtoSzRudG1zU1ZpMzkyQ1JkUHJiNmNlNTk0M19fMVEzUVNkd2xpYm5leEUzV2cwcktnblJYcl81YUlIMmptZXNrV2xRUmthRGJOWmlNWjFSVHZkS0R5NEF3YXNUOE85YnVkNFFFOXVpR3BXR1JWT2tkT3ZKXy1LczY1ckNyT3FQSk5Vc1pCUU1mSVp3VFhIdk0tVWdHZUJQcmlzYjhXRzNOcGV5aGJQSjgwNUlQUmd1eHhKbE5KcTg?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUtoSzRudG1zU1ZpMzkyQ1JkUHJiNmNlNTk0M19fMVEzUVNkd2xpYm5leEUzV2cwcktnblJYcl81YUlIMmptZXNrV2xRUmthRGJOWmlNWjFSVHZkS0R5NEF3YXNUOE85YnVkNFFFOXVpR3BXR1JWT2tkT3ZKXy1LczY1ckNyT3FQSk5Vc1pCUU1mSVp3VFhIdk0tVWdHZUJQcmlzYjhXRzNOcGV5aGJQSjgwNUlQUmd1eHhKbE5KcTg?oc=5",
+      "source": "PR Newswire",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-06-25T14:19:00+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading PR Newswire"
     },
     {
       "title": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading",
@@ -6142,19 +6153,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Binance Co-CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\" Binance"
-    },
-    {
-      "title": "Coinbase tests AI agents that offer high-level feedback to staff",
-      "content": "<p>Coinbase CEO Brian Armstrong said the AI agents are modeled after former executives Fred Ehrsam and Balaji Srinivasan.</p>",
-      "url": "https://www.theblock.co/post/398038/coinbase-tests-ai-agents?utm_source=rss&utm_medium=rss",
-      "source": "The Block",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-20T06:16:49+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong said the AI agents are modeled after former executives Fred Ehrsam and Balaji Srinivasan."
     }
   ]
 }
