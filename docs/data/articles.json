@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-26T00:01:36Z",
+  "updated_at": "2026-06-26T05:00:11Z",
   "total": 500,
   "by_ceo": {
-    "Ben Zhou": 32,
+    "Ben Zhou": 33,
+    "Brian Armstrong": 345,
     "CZ": 73,
-    "Brian Armstrong": 343,
     "Star Xu": 9,
-    "Richard Teng": 43
+    "Richard Teng": 40
   },
   "articles": [
     {
@@ -19,6 +19,19 @@
       "published_at": "2026-06-25T20:01:46+00:00",
       "tags": [],
       "key_quote": "The future of exchanges lies in liquidity, not tokenization, says Bybit CEO Ben Zhou at Point Zero Forum Cryptonews.net"
+    },
+    {
+      "title": "Coinbase CEO Wants To End The 'Rich Get Richer' Rule For Investing In Private Companies",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXJ0VXVha1JXc1ZrS1VYUEsxRnRLaE1uSjdLbUtkbzNxbzhWdnp6dXlVVXBJUGttdS0tQWczTnNzYTVld1J5UnNwTUlWdnFtTnIwRXFHYnR0ZWY5ZW1pS0RqRkJhSVQ0NXBUVnZFVXFwem5qUDdNbEkxTVo0UngwRDNIYVNXXzJ6ZllETXB0em5lQ2tlOFhUdzUwMmlqTG9uQlgtUFlpcHo0Mm9iLW9HUjRKVG9fZ0RVcExtRmx4RQ?oc=5\" target=\"_blank\">Coinbase CEO Wants To End The 'Rich Get Richer' Rule For Investing In Private Companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXJ0VXVha1JXc1ZrS1VYUEsxRnRLaE1uSjdLbUtkbzNxbzhWdnp6dXlVVXBJUGttdS0tQWczTnNzYTVld1J5UnNwTUlWdnFtTnIwRXFHYnR0ZWY5ZW1pS0RqRkJhSVQ0NXBUVnZFVXFwem5qUDdNbEkxTVo0UngwRDNIYVNXXzJ6ZllETXB0em5lQ2tlOFhUdzUwMmlqTG9uQlgtUFlpcHo0Mm9iLW9HUjRKVG9fZ0RVcExtRmx4RQ?oc=5",
+      "source": "Stocktwits",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-25T19:53:15+00:00",
+      "tags": [
+        "Web3"
+      ],
+      "key_quote": "Coinbase CEO Wants To End The 'Rich Get Richer' Rule For Investing In Private Companies Stocktwits"
     },
     {
       "title": "Bybit CEO Stresses Evolution Of Exchanges Into Liquidity Networks",
@@ -43,6 +56,17 @@
       "published_at": "2026-06-25T16:03:30+00:00",
       "tags": [],
       "key_quote": "Bybit CEO: Exchanges That Stay Pure Trading Venues Will Get Left Behind BlockchainReporter"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQaThiOGFxUzFQY3ZwTVBidEdtbVlJUjMtOVduaktnd0Y2Y2dyMXIzaXlnMXVYM1QwMUE0X2J3c0poSnd5VXlzN1JabG9fQ2RpbU5MRHJ0Vmx1a25rdVBpRUR2Sk1Xa1ZrakhuZHprZ0JESk1hMEJsUTJzVDJfLVhCQ2pPbEVIU2puSXh0ZmZUQTFCR25aNVVZVmpJLVU?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yellow.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaThiOGFxUzFQY3ZwTVBidEdtbVlJUjMtOVduaktnd0Y2Y2dyMXIzaXlnMXVYM1QwMUE0X2J3c0poSnd5VXlzN1JabG9fQ2RpbU5MRHJ0Vmx1a25rdVBpRUR2Sk1Xa1ZrakhuZHprZ0JESk1hMEJsUTJzVDJfLVhCQ2pPbEVIU2puSXh0ZmZUQTFCR25aNVVZVmpJLVU?oc=5",
+      "source": "Yellow.com",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-06-25T15:03:40+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading Yellow.com"
     },
     {
       "title": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading",
@@ -910,6 +934,19 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase CEO Armstrong Turns Bullish Ahead Of BOJ Decision Stocktwits"
+    },
+    {
+      "title": "Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONG1obEt4SmtSSTlkOXZyM0EwMU0tZWJZOGxwVjRTX1gxcVRKNHZuS0p3Tkg1WjdpTUpONi16VE9XdDRHS3l5Wnlsdy1kRXE0dF9Nd2ZCUUp4bnFMQ2VUWDFBZUViVWtBZGw5MGlBbWlVWXFSa1l3ZGVfdF82dkpBQ0dqOWM1WlVwMElHU3hlQ29UNDFJbHhlTmE0UVlxb1pmc09FTXZEdWNFcFZ4Y09yMUxqclo?oc=5\" target=\"_blank\">Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONG1obEt4SmtSSTlkOXZyM0EwMU0tZWJZOGxwVjRTX1gxcVRKNHZuS0p3Tkg1WjdpTUpONi16VE9XdDRHS3l5Wnlsdy1kRXE0dF9Nd2ZCUUp4bnFMQ2VUWDFBZUViVWtBZGw5MGlBbWlVWXFSa1l3ZGVfdF82dkpBQ0dqOWM1WlVwMElHU3hlQ29UNDFJbHhlTmE0UVlxb1pmc09FTXZEdWNFcFZ4Y09yMUxqclo?oc=5",
+      "source": "CoinDesk",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-15T07:00:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase's Brian Armstrong says bitcoin may have bottomed at $60,000 CoinDesk"
     },
     {
       "title": "Brian Armstrong Is 'Bullish As Ever' On Bitcoin, Coinbase CEO Predicts BTC Price Will Be 'Much Higher' In 20230",
@@ -6114,45 +6151,6 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Binance CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses Binance"
-    },
-    {
-      "title": "Binance Co-CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNaVZaNk04Mll4RHpKTXdCOFg1MlpDelRZOTc4R0MwM1R6cXRTSGRQekxRN1FjSVFNY0N5Vi1DS3dVYktERE1Kd3RvcEVVdndQczlvTmtRSEg5aXdGMTh1OGlQUmdybnVLVVVSSEV4X2Q5RWUyLVBPVmdVc0Etdm01bXJGc21BV0hxNGY4ZDJHWXVtY1NxeVZURFpabmFjLU9kZllRdmFURU5DUllNTDFtMnpLTHM0ajFCODF5QkRLSEowY3EyY2REYXJoWVFTRHdHYXF0OGJTbm82T3ZBampLUHhXUzRjVFJuSElMUl8xRmNFdzF5d21INV8xZXpEeFUxeDVDT1JqTmxyOFdJVVNmYWd6VUVRUQ?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNaVZaNk04Mll4RHpKTXdCOFg1MlpDelRZOTc4R0MwM1R6cXRTSGRQekxRN1FjSVFNY0N5Vi1DS3dVYktERE1Kd3RvcEVVdndQczlvTmtRSEg5aXdGMTh1OGlQUmdybnVLVVVSSEV4X2Q5RWUyLVBPVmdVc0Etdm01bXJGc21BV0hxNGY4ZDJHWXVtY1NxeVZURFpabmFjLU9kZllRdmFURU5DUllNTDFtMnpLTHM0ajFCODF5QkRLSEowY3EyY2REYXJoWVFTRHdHYXF0OGJTbm82T3ZBampLUHhXUzRjVFJuSElMUl8xRmNFdzF5d21INV8xZXpEeFUxeDVDT1JqTmxyOFdJVVNmYWd6VUVRUQ?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-20T08:45:31+00:00",
-      "tags": [
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "Binance Co-CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses Binance"
-    },
-    {
-      "title": "Binance CEO Richard Teng Announces Huge Increase in Traditional Asset-Based Futures! Here Are the Details",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE45dGFFRVJtUmN0aDJYcjd4a3J3Y2l2TW1YeXladjJsVWVPeG1FcUEzN2F3VUtDZEpNMGNhNGdNVDdvQVFjZHZ2S1ZnTk1TUDJJd3ZHYTROVQ?oc=5\" target=\"_blank\">Binance CEO Richard Teng Announces Huge Increase in Traditional Asset-Based Futures! Here Are the Details</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45dGFFRVJtUmN0aDJYcjd4a3J3Y2l2TW1YeXladjJsVWVPeG1FcUEzN2F3VUtDZEpNMGNhNGdNVDdvQVFjZHZ2S1ZnTk1TUDJJd3ZHYTROVQ?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-20T07:51:01+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Binance CEO Richard Teng Announces Huge Increase in Traditional Asset-Based Futures!"
-    },
-    {
-      "title": "Binance Co-CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\"",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMlRuOUlGVjdYeTNpZFY3ZGx3WG1nY3JzLTJzY2RzUHNVdUx0RU1GYXlTSHN5blFjd1kzSGpQSENSQ09OTmhPZU5Qblc1cHFDd0YxUEdNNTJHTlNrb1N3bUl6eHM?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hMlRuOUlGVjdYeTNpZFY3ZGx3WG1nY3JzLTJzY2RzUHNVdUx0RU1GYXlTSHN5blFjd1kzSGpQSENSQ09OTmhPZU5Qblc1cHFDd0YxUEdNNTJHTlNrb1N3bUl6eHM?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Binance Co-CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\" Binance"
     }
   ]
 }
