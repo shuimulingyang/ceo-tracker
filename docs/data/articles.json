@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-06-26T11:35:36Z",
+  "updated_at": "2026-06-26T13:53:27Z",
   "total": 500,
   "by_ceo": {
+    "Brian Armstrong": 347,
     "Ben Zhou": 33,
-    "Brian Armstrong": 346,
     "CZ": 73,
     "Star Xu": 9,
-    "Richard Teng": 39
+    "Richard Teng": 38
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong criticizes banks for undermining Trump’s crypto agenda",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOb19XcXQ2VUJSTXNyeVdxWnRiYmNjTWNEdG1VUjlMbmo0d3Q3NExxdTBuXzJ4RzZQR2xkTVM3YWxjM1VRM1piODF6Wm5sS2pCTnlDU2h3ZmJkTElFTm1tLS00b3RHWnlsV1JOQnlWc1hIc2tpQWZ5aWc2eUp6ZDFzSlVINGFwSWk1Q3Jyb2xaQQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong criticizes banks for undermining Trump’s crypto agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb19XcXQ2VUJSTXNyeVdxWnRiYmNjTWNEdG1VUjlMbmo0d3Q3NExxdTBuXzJ4RzZQR2xkTVM3YWxjM1VRM1piODF6Wm5sS2pCTnlDU2h3ZmJkTElFTm1tLS00b3RHWnlsV1JOQnlWc1hIc2tpQWZ5aWc2eUp6ZDFzSlVINGFwSWk1Q3Jyb2xaQQ?oc=5",
+      "source": "Crypto Briefing",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-26T11:27:58+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong criticizes banks for undermining Trump’s crypto agenda Crypto Briefing"
+    },
     {
       "title": "The future of exchanges lies in liquidity, not tokenization, says Bybit CEO Ben Zhou at Point Zero Forum",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mMVd3d3RDeWVFbnY3TVVCTlJjUXA4M3VQUkljQTF2cnVNS2R5UktJWXZuQUd4ODZFZ1NrckhCWmtha3NKeG9hX3FHMHZsT01EWjR2eXFpYw?oc=5\" target=\"_blank\">The future of exchanges lies in liquidity, not tokenization, says Bybit CEO Ben Zhou at Point Zero Forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
@@ -6128,19 +6139,6 @@
       "title": "Binance Co-CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XT1FuNUZLSkV6eV9SNHZVMjN3YWtGVUkzTGlZZWhlWjJpanZoNXllY0JBcFV3SHQtLUZUTm0xOERJWXBIUGY2QjFtN3pObFBqTlRIbmY1cWswZlhCWW9IQ3NTRGJ6clBJ?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XT1FuNUZLSkV6eV9SNHZVMjN3YWtGVUkzTGlZZWhlWjJpanZoNXllY0JBcFV3SHQtLUZUTm0xOERJWXBIUGY2QjFtN3pObFBqTlRIbmY1cWswZlhCWW9IQ3NTRGJ6clBJ?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-20T08:45:31+00:00",
-      "tags": [
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "Binance Co-CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses Binance"
-    },
-    {
-      "title": "Binance Co-CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oVjRKQW5WcGtaTnJuUmE2Tl9xVWZfblFsWG5SbHJvR3hHZlVEeUd6VUhIUU51UnNPRHBDNVJxUXgwemV6SFllNnA2bTN5NWdYM05YRGh0eFhNcFplaDlWMno0cG82Sk1j?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng: Stablecoins Are the Future of Cross-Border Payments as Hong Kong Grants First Issuer Licenses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oVjRKQW5WcGtaTnJuUmE2Tl9xVWZfblFsWG5SbHJvR3hHZlVEeUd6VUhIUU51UnNPRHBDNVJxUXgwemV6SFllNnA2bTN5NWdYM05YRGh0eFhNcFplaDlWMno0cG82Sk1j?oc=5",
       "source": "Binance",
       "ceo_name": "Richard Teng",
       "exchange": "Binance",
