@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-06-27T17:55:15Z",
+  "updated_at": "2026-06-27T18:58:27Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 355,
+    "Brian Armstrong": 356,
     "Ben Zhou": 33,
     "CZ": 73,
     "Star Xu": 9,
-    "Richard Teng": 30
+    "Richard Teng": 29
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Halved AI Costs, Calls Bitcoin Downturn a Cool Breeze",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE12OWI2SEJZZm45eGRfR0JXX242Wi1iWTdEdHp1dDBicG9ZOTYzREVHR3FKdkdrWFNGWmFERnlEd3NSUHR4NXc0Q1MxQ1N6ajl0RFBqTk0zWkduMTQ?oc=5\" target=\"_blank\">Coinbase CEO Halved AI Costs, Calls Bitcoin Downturn a Cool Breeze</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12OWI2SEJZZm45eGRfR0JXX242Wi1iWTdEdHp1dDBicG9ZOTYzREVHR3FKdkdrWFNGWmFERnlEd3NSUHR4NXc0Q1MxQ1N6ajl0RFBqTk0zWkduMTQ?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-27T18:24:17+00:00",
+      "tags": [
+        "Bitcoin",
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO Halved AI Costs, Calls Bitcoin Downturn a Cool Breeze Cryptonews.net"
+    },
     {
       "title": "Coinbase CEO Halved AI Costs, Calls Bitcoin Downturn a Cool Breeze",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWkxaGFzU1dvNzRKUlFkV184TkhiczNUYjFHaGgtdXJ1Y0FHU08zRFJ4SDViLWx5enFCeXI3bzNIZW00UjVaMEZiWkt0eVBRS2k1OXMwWnBNMDk4LTJuWjdoQk5PQk43T1pjTlJqREZid1A2aFdhZTFiMExOWjdhSnN0QUJJdWw2UXhCLTUxdVJJRkRGejR3Zw?oc=5\" target=\"_blank\">Coinbase CEO Halved AI Costs, Calls Bitcoin Downturn a Cool Breeze</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -6142,19 +6156,6 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Binance Co-CEO Richard Teng at Hong Kong Web3 Festival 2026: Stablecoins, TradFi convergence, regulation, and why AI's native currency is crypto Binance"
-    },
-    {
-      "title": "Binance CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\"",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE41SHhFb1ZSQWlHay1vaEdKNmtJUUc0Q0diTlVsanFNblNneV9neTlKM0pCUDZjeEU5bUNGY1Q0Mms1WEk1Qy1CX3hBSm9xREJqdGF2ZndPRS1SQVRPOGZaTkhuVFY?oc=5\" target=\"_blank\">Binance CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41SHhFb1ZSQWlHay1vaEdKNmtJUUc0Q0diTlVsanFNblNneV9neTlKM0pCUDZjeEU5bUNGY1Q0Mms1WEk1Qy1CX3hBSm9xREJqdGF2ZndPRS1SQVRPOGZaTkhuVFY?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-20T09:03:42+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Binance CEO Richard Teng praises Hong Kong's crypto regulation leadership and calls global legislative clarity \"a movement in the right direction\" Binance"
     }
   ]
 }
