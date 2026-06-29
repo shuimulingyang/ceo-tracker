@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-06-29T20:45:00Z",
+  "updated_at": "2026-06-29T22:01:20Z",
   "total": 500,
   "by_ceo": {
+    "Ben Zhou": 33,
     "Brian Armstrong": 357,
-    "CZ": 74,
+    "CZ": 73,
     "Richard Teng": 28,
-    "Ben Zhou": 32,
     "Star Xu": 9
   },
   "articles": [
+    {
+      "title": "Bybit CEO Ben Zhou refutes reports of EEA service halt, confirms MiCAR compliance",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9sdkJQU0Vlb3J2dS1ENDg2UjFzNjYyQndlcjE5YjlJVjRGTHdVQnFqcE1OTDF3cERWbW1keHRCN2VFZC1ldEVSUlVrbTltRzFkZXV0cE9KbFkwSExad1hVZEZJM1EzdkRkd0RDVEZnUl9oZTFEXzJXTDdPdw?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou refutes reports of EEA service halt, confirms MiCAR compliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sdkJQU0Vlb3J2dS1ENDg2UjFzNjYyQndlcjE5YjlJVjRGTHdVQnFqcE1OTDF3cERWbW1keHRCN2VFZC1ldEVSUlVrbTltRzFkZXV0cE9KbFkwSExad1hVZEZJM1EzdkRkd0RDVEZnUl9oZTFEXzJXTDdPdw?oc=5",
+      "source": "Crypto Briefing",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-06-29T21:07:01+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Bybit CEO Ben Zhou refutes reports of EEA service halt, confirms MiCAR compliance Crypto Briefing"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong: 1,200 AI Agents Now Work Full-Time at the Crypto Giant",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE15Sk5qT1JzN2lMZzB0V2hhR1FzdDI3UHY4bE11bEx4ZUw3R2Z3V2pBOGM3RktFU2RDV0o1SVNtNkxfeDVZRDZMRFhJeDdCWG8zaWhnNF9vbm12Y0U?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong: 1,200 AI Agents Now Work Full-Time at the Crypto Giant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font>",
@@ -6119,19 +6132,6 @@
       "exchange": "Binance",
       "published_at": "2026-04-24T03:26:35+00:00",
       "tags": [],
-      "key_quote": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure MSN"
-    },
-    {
-      "title": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxNbUh4dV9nb0M1azVDX2drWWY3UzZmVWZlM1l4aVJIdTM5a0JvYVdFRFlMdy1ZQjdNS1U2V0pqN2Nld2p1MXV1dExIejBwSWpYU2c5LWRIVnY4anhmbU5oam1pR1RMd09oeDZLaTZOcFJOSFJDNFVaNk1vb0luRmNEOE5TbEZOLXMzZ2plVjZmQWVwNFVST2tZdFdtc1I2Z0xZaU8tWnl5Z3owSTJNYzFRR3lUUmJ2Ym42Si1tTHV2Z3lZVkJvR3ZYWUFqS3JYcmxfUDFEelA3d3oxQ3RRYmVhQUl4djZJX2c3TVNLMi1GMzFOSUZDR3FQVzVnLXU1d0EwbDliSmhURGZnM0t2cldNYVFYWUJOUkowbUJ3VHhRZTViZDNYN0U2N1BVeDZRd3pLbk9fZC0zc3RpeG5rR1diakVlNjE2TEYxeFNJQjhVLWJyY2NtazBKS0ZDUzdGRGkzYXdaZVNKNHB0Z2FUNnY5NVdrX19JWVhjVHVKem1ieXkyQkgzMzlYdnE4c1VlUQ?oc=5\" target=\"_blank\">Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNbUh4dV9nb0M1azVDX2drWWY3UzZmVWZlM1l4aVJIdTM5a0JvYVdFRFlMdy1ZQjdNS1U2V0pqN2Nld2p1MXV1dExIejBwSWpYU2c5LWRIVnY4anhmbU5oam1pR1RMd09oeDZLaTZOcFJOSFJDNFVaNk1vb0luRmNEOE5TbEZOLXMzZ2plVjZmQWVwNFVST2tZdFdtc1I2Z0xZaU8tWnl5Z3owSTJNYzFRR3lUUmJ2Ym42Si1tTHV2Z3lZVkJvR3ZYWUFqS3JYcmxfUDFEelA3d3oxQ3RRYmVhQUl4djZJX2c3TVNLMi1GMzFOSUZDR3FQVzVnLXU1d0EwbDliSmhURGZnM0t2cldNYVFYWUJOUkowbUJ3VHhRZTViZDNYN0U2N1BVeDZRd3pLbk9fZC0zc3RpeG5rR1diakVlNjE2TEYxeFNJQjhVLWJyY2NtazBKS0ZDUzdGRGkzYXdaZVNKNHB0Z2FUNnY5NVdrX19JWVhjVHVKem1ieXkyQkgzMzlYdnE4c1VlUQ?oc=5",
-      "source": "MSN",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-23T22:55:27+00:00",
-      "tags": [
-        "DeFi"
-      ],
       "key_quote": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure MSN"
     }
   ]
