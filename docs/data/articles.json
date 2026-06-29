@@ -1,14 +1,51 @@
 {
-  "updated_at": "2026-06-29T02:34:29Z",
+  "updated_at": "2026-06-29T07:17:36Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 72,
-    "Brian Armstrong": 359,
+    "CZ": 73,
+    "Brian Armstrong": 358,
     "Richard Teng": 28,
     "Ben Zhou": 32,
     "Star Xu": 9
   },
   "articles": [
+    {
+      "title": "According to Changpeng Zhao, there are three reasons why the crypto market declined in 2026.",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVVIbk80SjdFR21NcFZyZkY1OTRheURfUmJ1eUNDaG0zcDZZaFNPX3ZuaXI0dHFLUUxVdk8xVWlPcGxiVlpKSGlXTWJhb3NHSktVenZuckZ1REVQckxyaFpqVkhrcmxzWlg3c3lMcmpmOVJ5dW5ibUd6cl9SUWphR0NZSENwVGphcUhBeDdpbWEtUUFocGlXYzRaX0pLYTFCOXNHVUJTSW1zRXotOE5iRW83NEY?oc=5\" target=\"_blank\">According to Changpeng Zhao, there are three reasons why the crypto market declined in 2026.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointribune</font>",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVVIbk80SjdFR21NcFZyZkY1OTRheURfUmJ1eUNDaG0zcDZZaFNPX3ZuaXI0dHFLUUxVdk8xVWlPcGxiVlpKSGlXTWJhb3NHSktVenZuckZ1REVQckxyaFpqVkhrcmxzWlg3c3lMcmpmOVJ5dW5ibUd6cl9SUWphR0NZSENwVGphcUhBeDdpbWEtUUFocGlXYzRaX0pLYTFCOXNHVUJTSW1zRXotOE5iRW83NEY?oc=5",
+      "source": "Cointribune",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-29T06:05:00+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "According to Changpeng Zhao, there are three reasons why the crypto market declined in 2026."
+    },
+    {
+      "title": "Coinbase CEO Outlines Five Ways to Lower AI Spend",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUpYNDdJN0lFNXhGWEp2cEdMYXBWMEFvNjZkbE5YZWNFZTA3bEdfQjN3QlhVWGN0bzI2d3dRZW9UY2JPQmNGZFBLTm9zZE5ubzh5X2hiU3QyY0dyZjN3NTRfWW4zWGxJeGo3RGZNb0pDQkZLOFd2UHlxdEhEZmtyWHFLMlc1ZFVjNlNGU3lJYW01Ylp3RlE?oc=5\" target=\"_blank\">Coinbase CEO Outlines Five Ways to Lower AI Spend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Let's Data Science</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUpYNDdJN0lFNXhGWEp2cEdMYXBWMEFvNjZkbE5YZWNFZTA3bEdfQjN3QlhVWGN0bzI2d3dRZW9UY2JPQmNGZFBLTm9zZE5ubzh5X2hiU3QyY0dyZjN3NTRfWW4zWGxJeGo3RGZNb0pDQkZLOFd2UHlxdEhEZmtyWHFLMlc1ZFVjNlNGU3lJYW01Ylp3RlE?oc=5",
+      "source": "Let's Data Science",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-29T06:04:46+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO Outlines Five Ways to Lower AI Spend Let's Data Science"
+    },
+    {
+      "title": "CZ Changpeng Zhao disputes Forbes net worth ranking",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYzU1YTYxRUprSDFYQ0dmWmlwUk9qWUdCSUkxaVhDY2Q4dmpqSHJ4Tzk1NkJyMkFDZXdrUjRLQmdkYVpWTko2SnFaZnRVRW5rSGl5RzlsaTdtRHJhTDllckhIMENydjhqbFhxMmEydlpvT1pvWWpkbkVHUjN5eVhGa19aajZmRGFVSENmaFVvUDd3Y1R5cGhpLWJkN0k?oc=5\" target=\"_blank\">CZ Changpeng Zhao disputes Forbes net worth ranking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYzU1YTYxRUprSDFYQ0dmWmlwUk9qWUdCSUkxaVhDY2Q4dmpqSHJ4Tzk1NkJyMkFDZXdrUjRLQmdkYVpWTko2SnFaZnRVRW5rSGl5RzlsaTdtRHJhTDllckhIMENydjhqbFhxMmEydlpvT1pvWWpkbkVHUjN5eVhGa19aajZmRGFVSENmaFVvUDd3Y1R5cGhpLWJkN0k?oc=5",
+      "source": "디지털투데이",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-29T02:16:46+00:00",
+      "tags": [],
+      "key_quote": "CZ Changpeng Zhao disputes Forbes net worth ranking 디지털투데이"
+    },
     {
       "title": "Crypto Billionaire Changpeng Zhao Isn't Chasing Fame, Legacy, Money Or Power, But Here's What He Wants To",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaFRuZVAzcmtUU3RWdHZPMnJtUlZ0dXJXQWNodG12dWhIRVc5cnI3eGtGM3FWTU5wT080S2RlOEVnRWd3dlJucTFEUVhXTUVnam5tQ1ZiY0Z0a21RTl9sX2laOW0yLTREbkFkU3lJcTRHWG1QbnkwdmRrX3c1ckVUeUN1RVBmZFNweWZBWU5nRUN4WGxmRG5zc1dYUVoxcjM4WGdtclEycENwbXkyN3gxSGZhUGJKbWFCSG9OZE5tX3N0OFdzTWlhc3dDSTBtbmxDM3djUVhxUHR0S2JqU3E0WjlKcnRWZFowZGc?oc=5\" target=\"_blank\">Crypto Billionaire Changpeng Zhao Isn't Chasing Fame, Legacy, Money Or Power, But Here's What He Wants To</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -30,6 +67,17 @@
       "published_at": "2026-06-28T12:01:58+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Armstrong Comments on Betting Promotion Concerns in the Base App Yahoo Finance"
+    },
+    {
+      "title": "Coinbase CEO Armstrong Comments on Betting Promotion Concerns in the Base App",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE53Y3U2QWNPREx2TlV0ZGtZWlFia1NvUjg2UjVfc0ticUs0MXdnT3l5WjZORUR6dVlmeG9ZYW1vVDRYWWZlT2l3WkhlTm1KSmZQS0RqQVd6VHNLUGF3RzJrQS11NDJwLU9uM3AxUmxR?oc=5\" target=\"_blank\">Coinbase CEO Armstrong Comments on Betting Promotion Concerns in the Base App</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53Y3U2QWNPREx2TlV0ZGtZWlFia1NvUjg2UjVfc0ticUs0MXdnT3l5WjZORUR6dVlmeG9ZYW1vVDRYWWZlT2l3WkhlTm1KSmZQS0RqQVd6VHNLUGF3RzJrQS11NDJwLU9uM3AxUmxR?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-28T12:01:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Armstrong Comments on Betting Promotion Concerns in the Base App BeInCrypto"
     },
     {
       "title": "Coinbase CEO responds to criticism over betting prompts in app",
@@ -6090,59 +6138,6 @@
         "Ethereum"
       ],
       "key_quote": "Why Satoshi’s Identity No Longer Matters: Strategy and Coinbase CEOs Signal the End of the Hunt Cryptonews.net"
-    },
-    {
-      "title": "Changpeng Zhao’s Memoir Is Key to Understanding Crypto",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3pFc3NPaDZETGQzWElDRWlTWXFXRl9xMFJpTGplQ1lnUFRrUUI2ZFZlZDlRNDZ5b1JDN2w2WWJkVDJyQkFCY2hyWWxpSkhZc3pCSWFqU0tua3Vmc3d1c1dib0dfZTZlWlJHLWEwMXdHRG5DaDJRQVc3clc3TThiM2xrLXJ4Q2tsNVl2Y3dzNThNNnJLYlU5ODBkTlhlck9TWjFiM01KUGVxcXlsc2hr?oc=5\" target=\"_blank\">Changpeng Zhao’s Memoir Is Key to Understanding Crypto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RealClearMarkets</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3pFc3NPaDZETGQzWElDRWlTWXFXRl9xMFJpTGplQ1lnUFRrUUI2ZFZlZDlRNDZ5b1JDN2w2WWJkVDJyQkFCY2hyWWxpSkhZc3pCSWFqU0tua3Vmc3d1c1dib0dfZTZlWlJHLWEwMXdHRG5DaDJRQVc3clc3TThiM2xrLXJ4Q2tsNVl2Y3dzNThNNnJLYlU5ODBkTlhlck9TWjFiM01KUGVxcXlsc2hr?oc=5",
-      "source": "RealClearMarkets",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-21T19:24:27+00:00",
-      "tags": [
-        "市场 Market",
-        "Layer2"
-      ],
-      "key_quote": "Changpeng Zhao’s Memoir Is Key to Understanding Crypto RealClearMarkets"
-    },
-    {
-      "title": "Brian Armstrong: Quantum readiness research for blockchains moves forward with community involvement",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTVRYXZfc0pFazBIaXhLTzNuVU1PNF82X1F3U0ZQUVNoSHBDN0NTS3JydzJfUjZvdURZRldEM3hHRWZtampiNHpfZ1ZIS1dLYnA2ZmJwclgwaWVmSC1vTHd0WEhoN2hLdnBIRzBRODQxX0hkV0ZLQkx4WFB2QnhUOU5NN0Q1T3pUaVNIUEhSVWpZemhPMEktczhlbw?oc=5\" target=\"_blank\">Brian Armstrong: Quantum readiness research for blockchains moves forward with community involvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTVRYXZfc0pFazBIaXhLTzNuVU1PNF82X1F3U0ZQUVNoSHBDN0NTS3JydzJfUjZvdURZRldEM3hHRWZtampiNHpfZ1ZIS1dLYnA2ZmJwclgwaWVmSC1vTHd0WEhoN2hLdnBIRzBRODQxX0hkV0ZLQkx4WFB2QnhUOU5NN0Q1T3pUaVNIUEhSVWpZemhPMEktczhlbw?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-21T18:48:10+00:00",
-      "tags": [],
-      "key_quote": "Brian Armstrong: Quantum readiness research for blockchains moves forward with community involvement Traders Union"
-    },
-    {
-      "title": "Coinbase CEO predicts G20 nations to adopt Bitcoin reserves soon",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0o1Wnl5ZmtBVS1uQThTN3VaVW9CN01PVkVnMTdQLTNUYW9jVlhsLVVBVTdnN21IUzV5XzBsc1FObW5vdS1SS181cE41RWVtam40REFzbW1TSTFvSHJtTm9pX0s3endJM1JNdXNWQzZXSi1KNVNfMkNFLXVJN1pBaVVkVWI2S0t5OVAtalZBdjlLTlg4ZFMw?oc=5\" target=\"_blank\">Coinbase CEO predicts G20 nations to adopt Bitcoin reserves soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0o1Wnl5ZmtBVS1uQThTN3VaVW9CN01PVkVnMTdQLTNUYW9jVlhsLVVBVTdnN21IUzV5XzBsc1FObW5vdS1SS181cE41RWVtam40REFzbW1TSTFvSHJtTm9pX0s3endJM1JNdXNWQzZXSi1KNVNfMkNFLXVJN1pBaVVkVWI2S0t5OVAtalZBdjlLTlg4ZFMw?oc=5",
-      "source": "Crypto Briefing",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-21T17:29:40+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO predicts G20 nations to adopt Bitcoin reserves soon Crypto Briefing"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4wJBVV95cUxNVEp3VUtmUS1tSFZQNndUcXJNT2ZrWllKaUpMc0xpLWFRTVlMNmk0cjZxY1BkWVdaZ0djVWQzdUMyMVhDcDZUcl9GWDYwZ0ZTS1dsSHhxTnlPWFUxOG1KVmMtY0VDQXM5b21SMGJkZ0k5bDRBMGFpQlZLTHVIR0ZXSk1zZzQ3U0lMaUVTZlUwRjFKdDc5QmUtNUQ1di1tUGlBR1ZvaXVCazJmcWR5Y1RzTnNsZEc1ODA1YTVWeThvSVpRcHM1SU9iTXJhUTlXb2dIRVNfOGl1cms5SjQ0REl6QXUtUWNRRnZBWlUzelo4V21PRHdvN19MR1hGaE1GVlI3OExFbmhqOE9RMTFrcWJVRmdsQ2RJZjR1Z3RZTG9NR3FxbjQ5dlBGSU84Z0taMmFkWDdBai1zdTRYNWZWdElZUXhxN3pYT19Jb1ZUc011ZG5BdEhnb0ZHbG9NUDNwVDdMRHNN?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNVEp3VUtmUS1tSFZQNndUcXJNT2ZrWllKaUpMc0xpLWFRTVlMNmk0cjZxY1BkWVdaZ0djVWQzdUMyMVhDcDZUcl9GWDYwZ0ZTS1dsSHhxTnlPWFUxOG1KVmMtY0VDQXM5b21SMGJkZ0k5bDRBMGFpQlZLTHVIR0ZXSk1zZzQ3U0lMaUVTZlUwRjFKdDc5QmUtNUQ1di1tUGlBR1ZvaXVCazJmcWR5Y1RzTnNsZEc1ODA1YTVWeThvSVpRcHM1SU9iTXJhUTlXb2dIRVNfOGl1cms5SjQ0REl6QXUtUWNRRnZBWlUzelo4V21PRHdvN19MR1hGaE1GVlI3OExFbmhqOE9RMTFrcWJVRmdsQ2RJZjR1Z3RZTG9NR3FxbjQ5dlBGSU84Z0taMmFkWDdBai1zdTRYNWZWdElZUXhxN3pYT19Jb1ZUc011ZG5BdEhnb0ZHbG9NUDNwVDdMRHNN?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-21T16:38:58+00:00",
-      "tags": [
-        "Ethereum",
-        "DeFi",
-        "AI"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants MSN"
     }
   ]
 }
