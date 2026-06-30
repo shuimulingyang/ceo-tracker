@@ -1,14 +1,42 @@
 {
-  "updated_at": "2026-06-29T23:48:39Z",
+  "updated_at": "2026-06-30T01:57:27Z",
   "total": 500,
   "by_ceo": {
-    "Ben Zhou": 33,
-    "Brian Armstrong": 357,
     "CZ": 73,
+    "Brian Armstrong": 358,
+    "Ben Zhou": 32,
     "Richard Teng": 28,
     "Star Xu": 9
   },
   "articles": [
+    {
+      "title": "Binance Founder Changpeng Zhao (CZ) Links Current Crypto Market Pressures to AI Investment Flows, Global Instability, Recurring Market Patterns",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOWk9teDZXcFE4aFRsX21ELXNFZFlQNHBHZ0Z5aXRmTW9WaUUwVG9sTm5WM045bTNUd3hoX0RFOF9Fa04zMEJjNnpLUXVpTUJmYUlWdjNfMDRBMzMzdGt3NDd4aUEtdkI2Y1BIZkh5ZUlqVndWMUozM01KOVdqaVlRQ0tUeEVOb3VnTU9QNmZhNmlYVGFITFZtY3ZIckVHc01LVXUzR1l3bS1kOUhYUmJ0bkFOVkJ1TVR0NVRQckF4WUFIU0lwNkpjd0tRMUVQbVFKTFJEelR2bmE0LUdFT0dldm4ycmZEN2tPaTFWVWdTdzhhNVhqYVV2cHdpX1d2emRzS09RYWNsTVF5UWtmYnp5QXJKMVBVTXc?oc=5\" target=\"_blank\">Binance Founder Changpeng Zhao (CZ) Links Current Crypto Market Pressures to AI Investment Flows, Global Instability, Recurring Market Patterns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crowdfund Insider</font>",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWk9teDZXcFE4aFRsX21ELXNFZFlQNHBHZ0Z5aXRmTW9WaUUwVG9sTm5WM045bTNUd3hoX0RFOF9Fa04zMEJjNnpLUXVpTUJmYUlWdjNfMDRBMzMzdGt3NDd4aUEtdkI2Y1BIZkh5ZUlqVndWMUozM01KOVdqaVlRQ0tUeEVOb3VnTU9QNmZhNmlYVGFITFZtY3ZIckVHc01LVXUzR1l3bS1kOUhYUmJ0bkFOVkJ1TVR0NVRQckF4WUFIU0lwNkpjd0tRMUVQbVFKTFJEelR2bmE0LUdFT0dldm4ycmZEN2tPaTFWVWdTdzhhNVhqYVV2cHdpX1d2emRzS09RYWNsTVF5UWtmYnp5QXJKMVBVTXc?oc=5",
+      "source": "Crowdfund Insider",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-30T01:44:12+00:00",
+      "tags": [
+        "市场 Market",
+        "机构 Institutional",
+        "AI"
+      ],
+      "key_quote": "Binance Founder Changpeng Zhao (CZ) Links Current Crypto Market Pressures to AI Investment Flows, Global Instability, Recurring Market Patterns Crowdfund Insider"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Says Tokenized Stocks Could Open US Markets To 4 Billion Unbrokered People",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNnFBMmxRTjZTbHduYVp0UExGSFJmRHZHdzkycjA5cnVnLWY2UUxNWXFGVzlsT0V4NC04YUJKY1pBMHRlaTIwVFpuMlJFbDBDMzE3UThKbG1IQ2lVVTJWWlh2YXE4bVUyRG9EdU00eDJhTURkVXA5ckludmJWSHhaVVpsWGs3WHJHNDhEWEJNNnotTXJ0Tk8tV1hhOHVnaGM?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says Tokenized Stocks Could Open US Markets To 4 Billion Unbrokered People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNnFBMmxRTjZTbHduYVp0UExGSFJmRHZHdzkycjA5cnVnLWY2UUxNWXFGVzlsT0V4NC04YUJKY1pBMHRlaTIwVFpuMlJFbDBDMzE3UThKbG1IQ2lVVTJWWlh2YXE4bVUyRG9EdU00eDJhTURkVXA5ckludmJWSHhaVVpsWGs3WHJHNDhEWEJNNnotTXJ0Tk8tV1hhOHVnaGM?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-30T00:30:00+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says Tokenized Stocks Could Open US Markets To 4 Billion Unbrokered People Yahoo Finance"
+    },
     {
       "title": "Bybit CEO Ben Zhou refutes reports of EEA service halt, confirms MiCAR compliance",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9sdkJQU0Vlb3J2dS1ENDg2UjFzNjYyQndlcjE5YjlJVjRGTHdVQnFqcE1OTDF3cERWbW1keHRCN2VFZC1ldEVSUlVrbTltRzFkZXV0cE9KbFkwSExad1hVZEZJM1EzdkRkd0RDVEZnUl9oZTFEXzJXTDdPdw?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou refutes reports of EEA service halt, confirms MiCAR compliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
@@ -6111,28 +6139,6 @@
         "监管 Regulation"
       ],
       "key_quote": "Richard Teng: API keys can expose full account access if not secured Traders Union"
-    },
-    {
-      "title": "Bybit CEO Backs Mantle Proposal to Aid Aave, Citing Industry Support in Crises",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE02ZTZKYmRNVHc1cmtGN19fNzYyaGl6UDcxWVFLQW4ycEZkMWtYb2ZzZDhtVjE5OVN3MFJkajJjaU5YeFlpRGlIb3FYaHAyWDVTOXlmNw?oc=5\" target=\"_blank\">Bybit CEO Backs Mantle Proposal to Aid Aave, Citing Industry Support in Crises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02ZTZKYmRNVHc1cmtGN19fNzYyaGl6UDcxWVFLQW4ycEZkMWtYb2ZzZDhtVjE5OVN3MFJkajJjaU5YeFlpRGlIb3FYaHAyWDVTOXlmNw?oc=5",
-      "source": "bloomingbit",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-04-24T06:53:32+00:00",
-      "tags": [],
-      "key_quote": "Bybit CEO Backs Mantle Proposal to Aid Aave, Citing Industry Support in Crises bloomingbit"
-    },
-    {
-      "title": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwNBVV95cUxQbVgtQkd5SjBoQWx0U1pHV001MGJ1ZUpNcF9MNVo3dGlTY1RUcDlmOHRXaW5aYlJvYmdnc0FUQ01RZGNud202WWJQN2k3elR1QXRSUmZoWW5nYmo5NEczTHBId042Z3YzV0pCaXBudUpobFE3Sy1rMXlYY1AtUTVfZm5ic01KenlNUmRDX2xNZ1NoQ2pGcGJOc2JpaGdSdWViVkR6STlDemlxR3BJYUQ3ZWZsNkUtODBHWnVUMjNyVDJWWTAtNk4tc3JjYXdwRXBwazlER3l3N3hsSGRpV25vdkpqeTE4VUMyOTd6dDg3SHA5S3FJZWlwN1V3WDZpOTJnX3MyRDZzSDhCeWxlOTBXZWcwMkZwLXJXZ0d1QmM2LVAxemZlYUJJbWVxTU5lODE5TzlVOFRnaEIxNldfY3JxOVV6eUhJcEtPLWRMQVJYaFdWOU15WEZjeXRnOWItX00zNENYOTZTUURtellqUlJvVnNFamJtR2J2WGpuelNfUEVZc2R5ZVp3OGZvMnhnX0hVNWF0b1kxT0dPcHloTnZaclJzUEVmM3lIcW1Z?oc=5\" target=\"_blank\">Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQbVgtQkd5SjBoQWx0U1pHV001MGJ1ZUpNcF9MNVo3dGlTY1RUcDlmOHRXaW5aYlJvYmdnc0FUQ01RZGNud202WWJQN2k3elR1QXRSUmZoWW5nYmo5NEczTHBId042Z3YzV0pCaXBudUpobFE3Sy1rMXlYY1AtUTVfZm5ic01KenlNUmRDX2xNZ1NoQ2pGcGJOc2JpaGdSdWViVkR6STlDemlxR3BJYUQ3ZWZsNkUtODBHWnVUMjNyVDJWWTAtNk4tc3JjYXdwRXBwazlER3l3N3hsSGRpV25vdkpqeTE4VUMyOTd6dDg3SHA5S3FJZWlwN1V3WDZpOTJnX3MyRDZzSDhCeWxlOTBXZWcwMkZwLXJXZ0d1QmM2LVAxemZlYUJJbWVxTU5lODE5TzlVOFRnaEIxNldfY3JxOVV6eUhJcEtPLWRMQVJYaFdWOU15WEZjeXRnOWItX00zNENYOTZTUURtellqUlJvVnNFamJtR2J2WGpuelNfUEVZc2R5ZVp3OGZvMnhnX0hVNWF0b1kxT0dPcHloTnZaclJzUEVmM3lIcW1Z?oc=5",
-      "source": "MSN",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-24T03:26:35+00:00",
-      "tags": [],
-      "key_quote": "Trump pardons Binance founder Changpeng Zhao, high-profile cryptocurrency figure MSN"
     }
   ]
 }
