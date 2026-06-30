@@ -1,14 +1,58 @@
 {
-  "updated_at": "2026-06-30T19:27:03Z",
+  "updated_at": "2026-06-30T21:20:39Z",
   "total": 500,
   "by_ceo": {
-    "Richard Teng": 29,
-    "CZ": 74,
-    "Brian Armstrong": 356,
-    "Ben Zhou": 32,
+    "CZ": 77,
+    "Richard Teng": 30,
+    "Brian Armstrong": 353,
+    "Ben Zhou": 31,
     "Star Xu": 9
   },
   "articles": [
+    {
+      "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkdINUZyc0pkUXRMd0lZOFhVRHpoSTNENnd4MXk0X3lnamFhY3hleFdqam5CN3Uxak5ZTGhZdnNWZGJDb3o3dWRWbkhNX29XYlI4YzRGSm1rSUhNeDk0VktVQlBQa2IxMTAwellVUi15YmcwV1ltX2p3SjljMkNaamVyM3VFUUZGdjBaSWFzanpoa1cyZ1HSAZ4BQVVfeXFMTnEwMkp4R0FjX2dKYXYyNU9LbWV0b0FRUnZoQ0Y3d3ZOeXMtckxUeVljUjZzcWxnWk5ZWlF5TFVpNkZ5VDNvWnU3d2VGX2RnYm1ka0plT01QbURFRFByUkpTeHctc1FkckJaSWw3UVpLR1EtX1V3Ni00akVLVjV0bEZVVGg0UXhJdXZKSTFNbTBsM09hYW9lZmQ0aVNkeHc?oc=5\" target=\"_blank\">Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkdINUZyc0pkUXRMd0lZOFhVRHpoSTNENnd4MXk0X3lnamFhY3hleFdqam5CN3Uxak5ZTGhZdnNWZGJDb3o3dWRWbkhNX29XYlI4YzRGSm1rSUhNeDk0VktVQlBQa2IxMTAwellVUi15YmcwV1ltX2p3SjljMkNaamVyM3VFUUZGdjBaSWFzanpoa1cyZ1HSAZ4BQVVfeXFMTnEwMkp4R0FjX2dKYXYyNU9LbWV0b0FRUnZoQ0Y3d3ZOeXMtckxUeVljUjZzcWxnWk5ZWlF5TFVpNkZ5VDNvWnU3d2VGX2RnYm1ka0plT01QbURFRFByUkpTeHctc1FkckJaSWw3UVpLR1EtX1V3Ni00akVLVjV0bEZVVGg0UXhJdXZKSTFNbTBsM09hYW9lZmQ0aVNkeHc?oc=5",
+      "source": "Decrypt",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-30T21:16:18+00:00",
+      "tags": [],
+      "key_quote": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters Decrypt"
+    },
+    {
+      "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
+      "content": "Crypto exchange Binance and its founder were sued for nearly $200 million in a new lawsuit filed in the United Kingdom.",
+      "url": "https://decrypt.co/372452/binance-changpeng-zhao-sued-200-million-british-investors-reuters",
+      "source": "Decrypt",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-30T21:16:18+00:00",
+      "tags": [],
+      "key_quote": "Crypto exchange Binance and its founder were sued for nearly $200 million in a new lawsuit filed in the United Kingdom."
+    },
+    {
+      "title": "Binance and Changpeng Zhao face claim from 1,700 UK investors over risky derivatives",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1PTjgwcUQxSzk3OXRvR0RGSlVkWXlCNExBSmc1NWc3blpvY3BOZUhGWlVTOUgxbDVUMnBrWEtxNlpiQk1Xdy1uUmtoQXpaV1hwMmtPVGZlb1BibVNKTTZfTTBwMkRwNlhBVnVWa2syT3NIa2R6VmVma1ZaSQ?oc=5\" target=\"_blank\">Binance and Changpeng Zhao face claim from 1,700 UK investors over risky derivatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PTjgwcUQxSzk3OXRvR0RGSlVkWXlCNExBSmc1NWc3blpvY3BOZUhGWlVTOUgxbDVUMnBrWEtxNlpiQk1Xdy1uUmtoQXpaV1hwMmtPVGZlb1BibVNKTTZfTTBwMkRwNlhBVnVWa2syT3NIa2R6VmVma1ZaSQ?oc=5",
+      "source": "Crypto Briefing",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-30T19:54:44+00:00",
+      "tags": [],
+      "key_quote": "Binance and Changpeng Zhao face claim from 1,700 UK investors over risky derivatives Crypto Briefing"
+    },
+    {
+      "title": "Ban crypto and your country falls behind: Binance's Richard Teng | Tap to know more | Inshorts",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPalFrZzZ1WDFjSGxMMWZvUjYzcGhpcFJvQ3ozRXZfNGdEczJndlVzUWJsQzg4M2U2ZjJQcVlhRDBXazRWYk9UUWM0dF9kbVVGMDJVcGx6WXdLN2UxY19EbTBfRl9mZFZSbjhpVHpWZ3BhRE9UbGstV3N1TmNVT2N1cHRUbElmci01UjdUaWhndnViYlFiZW9BOV9DTDljUEliNkRLY0lZYmJsOGJCMk9Mc9IBsAFBVV95cUxPalFrZzZ1WDFjSGxMMWZvUjYzcGhpcFJvQ3ozRXZfNGdEczJndlVzUWJsQzg4M2U2ZjJQcVlhRDBXazRWYk9UUWM0dF9kbVVGMDJVcGx6WXdLN2UxY19EbTBfRl9mZFZSbjhpVHpWZ3BhRE9UbGstV3N1TmNVT2N1cHRUbElmci01UjdUaWhndnViYlFiZW9BOV9DTDljUEliNkRLY0lZYmJsOGJCMk9Mcw?oc=5\" target=\"_blank\">Ban crypto and your country falls behind: Binance's Richard Teng | Tap to know more | Inshorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inshorts</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPalFrZzZ1WDFjSGxMMWZvUjYzcGhpcFJvQ3ozRXZfNGdEczJndlVzUWJsQzg4M2U2ZjJQcVlhRDBXazRWYk9UUWM0dF9kbVVGMDJVcGx6WXdLN2UxY19EbTBfRl9mZFZSbjhpVHpWZ3BhRE9UbGstV3N1TmNVT2N1cHRUbElmci01UjdUaWhndnViYlFiZW9BOV9DTDljUEliNkRLY0lZYmJsOGJCMk9Mc9IBsAFBVV95cUxPalFrZzZ1WDFjSGxMMWZvUjYzcGhpcFJvQ3ozRXZfNGdEczJndlVzUWJsQzg4M2U2ZjJQcVlhRDBXazRWYk9UUWM0dF9kbVVGMDJVcGx6WXdLN2UxY19EbTBfRl9mZFZSbjhpVHpWZ3BhRE9UbGstV3N1TmNVT2N1cHRUbElmci01UjdUaWhndnViYlFiZW9BOV9DTDljUEliNkRLY0lZYmJsOGJCMk9Mcw?oc=5",
+      "source": "Inshorts",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-06-30T17:32:29+00:00",
+      "tags": [],
+      "key_quote": "Ban crypto and your country falls behind: Binance's Richard Teng | Tap to know more | Inshorts Inshorts"
+    },
     {
       "title": "Crypto can save India billions in remittance fees: Richard Teng | Tap to know more | Inshorts",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG9Pc21kcFFwZDVGbGptSGRUem8tSHRCaW9Rc2hNYjBqcW5EMk5IS3hhQ3duSHFYOHp1SnFleVZpOUp2SjZlZVlkY2VWQkdaOS15YWF2N2k3WjM5bU82dnRQQWV3MHprellfemdGT0dzNUxBUlBNaFFzN0VBUEJ4RmxHVkdtUjBRXzRtbDNsVzBPdDkxWEZjVG5jR3Q5ZlFXVWF5VUpTT2piUdIBrwFBVV95cUxQSDZqYVdJQXpCcEh1TUs1MEN1a3Q3blFxaGpNMm9Qc1dDVG5rZUdzVmIxYTJJQUtqQlVIZWVFWm1YZnZ1VWpIUGRJU2EySjF2VmlwRDF3b2RTUHViSkFOY3lyQzRfdl9nY05rMk5lczB4LWdNUHhDa1hPN3hYLUJJVVE5MTNvcTlTT3RLUER0UTQ4UGZXYUlJSzFVeHFFMmZZMFViVTRwZk5HYVdVNm1v?oc=5\" target=\"_blank\">Crypto can save India billions in remittance fees: Richard Teng | Tap to know more | Inshorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inshorts</font>",
@@ -6084,58 +6128,6 @@
       "published_at": "2026-04-25T20:01:13+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong Revealed That This Teenage Obsession Prepped Him In Life For The 'Ultimate' Benzinga"
-    },
-    {
-      "title": "Coinbase CEO AI Agents to Power Future Crypto Payments Economy",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE15NlNsbm9XNzctbl9uT3ZhQ2g2UlVpeDhRUDZYMVNHRmRFVkNNZGlNZ3l0cmVnQzZqLU1kMm9HWGdUcUdpMkdLWQ?oc=5\" target=\"_blank\">Coinbase CEO AI Agents to Power Future Crypto Payments Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15NlNsbm9XNzctbl9uT3ZhQ2g2UlVpeDhRUDZYMVNHRmRFVkNNZGlNZ3l0cmVnQzZqLU1kMm9HWGdUcUdpMkdLWQ?oc=5",
-      "source": "MEXC",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-25T18:57:54+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Coinbase CEO AI Agents to Power Future Crypto Payments Economy MEXC"
-    },
-    {
-      "title": "Bybit CEO Says DeFi Is Living in a Regulatory Honeymoon",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDAxMkRPR09yZEItbTEwUnVQR2JKQ0NBQWdvd2tucU9zZFlDSFVuYzFNc1A0YnZLYW43dldrd2c1d3hudWZheUpkdjl6bVdNNVFjOUNRbFl5X3p3N3k0Sml4VDhaTnJZRXN2UTFVbTdPSjdZWFVQazYyQ1RCelZKQWJNVkNrdXZLTmpUQUFhOEZIcTllWW5Zbg?oc=5\" target=\"_blank\">Bybit CEO Says DeFi Is Living in a Regulatory Honeymoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDAxMkRPR09yZEItbTEwUnVQR2JKQ0NBQWdvd2tucU9zZFlDSFVuYzFNc1A0YnZLYW43dldrd2c1d3hudWZheUpkdjl6bVdNNVFjOUNRbFl5X3p3N3k0Sml4VDhaTnJZRXN2UTFVbTdPSjdZWFVQazYyQ1RCelZKQWJNVkNrdXZLTmpUQUFhOEZIcTllWW5Zbg?oc=5",
-      "source": "CryptoRank",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-04-25T11:52:21+00:00",
-      "tags": [
-        "监管 Regulation",
-        "DeFi"
-      ],
-      "key_quote": "Bybit CEO Says DeFi Is Living in a Regulatory Honeymoon CryptoRank"
-    },
-    {
-      "title": "AI and crypto could drive new use cases, Brian Armstrong notes",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEFQVHE3QkVLbEFBT2VxdDA2M25uZHpvTUtYeFpRbDhHSXo4Y2hseDZvUmw4V1E2ajBMcFBablMxdThmSFpUMDlSQUUtZk83blpnYmJ6VFlfNENCNkdaYnlQWXBBY2VVSkZVWlZSclZxdlpKTXpyZEd3enlaLWpxc1lhYk1makJhQVE?oc=5\" target=\"_blank\">AI and crypto could drive new use cases, Brian Armstrong notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEFQVHE3QkVLbEFBT2VxdDA2M25uZHpvTUtYeFpRbDhHSXo4Y2hseDZvUmw4V1E2ajBMcFBablMxdThmSFpUMDlSQUUtZk83blpnYmJ6VFlfNENCNkdaYnlQWXBBY2VVSkZVWlZSclZxdlpKTXpyZEd3enlaLWpxc1lhYk1makJhQVE?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-24T18:15:09+00:00",
-      "tags": [],
-      "key_quote": "AI and crypto could drive new use cases, Brian Armstrong notes Traders Union"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigANBVV95cUxQdFB0YU9GbnlQSXV3OHkxUXFxUEVIaFlhVkxjRExrck1YWE5lOHdfUjdrUVV4VzJGVUxRU2p6VWllNzhfQVFfOUh6MkRMMThDemtnUzFtcHFPQ21xRTIwcEZ4dnVWN3pkYnNyaU9VaXR0VEpZZ25xWndLMjVkcmpMaU5KSGNHUE45SVpKbHlqV3FaVG9zR3NzeTlpMFBtUUN6My1Vc1J6ZmFKNjVZVWYzT2syQThGLUNZRnFIUnJZaVJpRlBhTmR5QUZMX2F6b2FwOGc4b1U2LVY4b2YxSl9ILWZ1TGtxNnJuQnVFQ3NZSVZraGZKWHNuMWV5bmFrRFJSdW9MSXZabzhNN0xfTDRsNGpDbHBucHdPU2RsQ0JyN29WSmZ5aVZmNDZVUnpTQXJDU2VacTlNNnV6MzNvalA4Wlp2dkpjME1YSXNVaVA4dG1rM21DWHp3ZDZZYjhrMmdXMHRuYm9EUnZYcndFTE9rTWdSeC1xekVka00xRFlDM0o?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQdFB0YU9GbnlQSXV3OHkxUXFxUEVIaFlhVkxjRExrck1YWE5lOHdfUjdrUVV4VzJGVUxRU2p6VWllNzhfQVFfOUh6MkRMMThDemtnUzFtcHFPQ21xRTIwcEZ4dnVWN3pkYnNyaU9VaXR0VEpZZ25xWndLMjVkcmpMaU5KSGNHUE45SVpKbHlqV3FaVG9zR3NzeTlpMFBtUUN6My1Vc1J6ZmFKNjVZVWYzT2syQThGLUNZRnFIUnJZaVJpRlBhTmR5QUZMX2F6b2FwOGc4b1U2LVY4b2YxSl9ILWZ1TGtxNnJuQnVFQ3NZSVZraGZKWHNuMWV5bmFrRFJSdW9MSXZabzhNN0xfTDRsNGpDbHBucHdPU2RsQ0JyN29WSmZ5aVZmNDZVUnpTQXJDU2VacTlNNnV6MzNvalA4Wlp2dkpjME1YSXNVaVA4dG1rM21DWHp3ZDZZYjhrMmdXMHRuYm9EUnZYcndFTE9rTWdSeC1xekVka00xRFlDM0o?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-24T17:13:23+00:00",
-      "tags": [
-        "监管 Regulation",
-        "AI"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong fired engineers who refused to use AI assistants MSN"
     }
   ]
 }
