@@ -1,14 +1,29 @@
 {
-  "updated_at": "2026-06-30T23:00:43Z",
+  "updated_at": "2026-07-01T02:02:49Z",
   "total": 500,
   "by_ceo": {
+    "Brian Armstrong": 353,
     "CZ": 77,
     "Richard Teng": 30,
-    "Brian Armstrong": 353,
     "Ben Zhou": 31,
     "Star Xu": 9
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong says AI will enhance software security, not weaken it",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4tdVo1TmxJSlRfa293aDdxYjFFZ2VWYjc1WWF1cVVBMEUtcTdGUzZhOEdnTW8yNDhCTVBZaTh0Y3dfQ1FrOUdpdlo1cjg1S3VZU25WZHZILWVVcHNlVkcxcnZISVZOVGJ4YUNsTHA2WENmdEI3M0E?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong says AI will enhance software security, not weaken it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tdVo1TmxJSlRfa293aDdxYjFFZ2VWYjc1WWF1cVVBMEUtcTdGUzZhOEdnTW8yNDhCTVBZaTh0Y3dfQ1FrOUdpdlo1cjg1S3VZU25WZHZILWVVcHNlVkcxcnZISVZOVGJ4YUNsTHA2WENmdEI3M0E?oc=5",
+      "source": "Crypto Briefing",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-01T01:45:26+00:00",
+      "tags": [
+        "监管 Regulation",
+        "安全 Security",
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong says AI will enhance software security, not weaken it Crypto Briefing"
+    },
     {
       "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkdINUZyc0pkUXRMd0lZOFhVRHpoSTNENnd4MXk0X3lnamFhY3hleFdqam5CN3Uxak5ZTGhZdnNWZGJDb3o3dWRWbkhNX29XYlI4YzRGSm1rSUhNeDk0VktVQlBQa2IxMTAwellVUi15YmcwV1ltX2p3SjljMkNaamVyM3VFUUZGdjBaSWFzanpoa1cyZ1HSAZ4BQVVfeXFMTnEwMkp4R0FjX2dKYXYyNU9LbWV0b0FRUnZoQ0Y3d3ZOeXMtckxUeVljUjZzcWxnWk5ZWlF5TFVpNkZ5VDNvWnU3d2VGX2RnYm1ka0plT01QbURFRFByUkpTeHctc1FkckJaSWw3UVpLR1EtX1V3Ni00akVLVjV0bEZVVGg0UXhJdXZKSTFNbTBsM09hYW9lZmQ0aVNkeHc?oc=5\" target=\"_blank\">Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
@@ -6117,17 +6132,6 @@
         "Layer2"
       ],
       "key_quote": "Coinbase CEO: Stablecoins will become the default currency for AI agents MSN"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Revealed That This Teenage Obsession Prepped Him In Life For The 'Ultimate'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1FVTEZaMTlZMU54YVZRWVJ2RVl4M2JoS2RleWl6NWR0OW5QYWozdDJraG1GZnlBcXZBb1JjRjVKMEx2WlZ3VFhwV0F1SEJNYnNoX24xaFpyWDJ5U0tGdWU2YjFZdkowdHQ4a2RIaW9xamh0YnlBanpFOEkyS3dKYzVSUmhxNXdHQnFJQVRPZWctUnBFZGJvcGtVMW9mb1hmVEQxemxGR2w3cjRFOVVYczRKcE1lNDFHS0NqYl9XdVBvSXlnQ0ZUX3lzVzEyX290SThZQUJB?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Revealed That This Teenage Obsession Prepped Him In Life For The 'Ultimate'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1FVTEZaMTlZMU54YVZRWVJ2RVl4M2JoS2RleWl6NWR0OW5QYWozdDJraG1GZnlBcXZBb1JjRjVKMEx2WlZ3VFhwV0F1SEJNYnNoX24xaFpyWDJ5U0tGdWU2YjFZdkowdHQ4a2RIaW9xamh0YnlBanpFOEkyS3dKYzVSUmhxNXdHQnFJQVRPZWctUnBFZGJvcGtVMW9mb1hmVEQxemxGR2w3cjRFOVVYczRKcE1lNDFHS0NqYl9XdVBvSXlnQ0ZUX3lzVzEyX290SThZQUJB?oc=5",
-      "source": "Benzinga",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-25T20:01:13+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong Revealed That This Teenage Obsession Prepped Him In Life For The 'Ultimate' Benzinga"
     }
   ]
 }
