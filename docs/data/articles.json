@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-07-01T02:02:49Z",
+  "updated_at": "2026-07-01T06:59:47Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 353,
-    "CZ": 77,
+    "CZ": 79,
+    "Brian Armstrong": 351,
     "Richard Teng": 30,
     "Ben Zhou": 31,
     "Star Xu": 9
   },
   "articles": [
+    {
+      "title": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
+      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK crypto investors sue Binance, Changpeng Zhao for $200M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hammerbinance.jpg\" /></p><p>One Binance customer said he lost the equivalent of more than $132,000 from the crypto exchange’s derivatives offerings before restrictions were imposed on Binance.</p>",
+      "url": "https://cointelegraph.com/news/uk-crypto-investors-sue-binance-changpeng-zhao-for-potential-200m-payout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-01T02:30:07+00:00",
+      "tags": [
+        "DeFi"
+      ],
+      "key_quote": "One Binance customer said he lost the equivalent of more than $132,000 from the crypto exchange’s derivatives offerings before restrictions were imposed on Binance."
+    },
+    {
+      "title": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzZyaVd1d0F0dUN4N2NDMVdRYU5rQ0pRWENab1V6OXVnSjZQc3lLS1dnemVkbllyS00tdDRKVnNJZVlZUk42OHE4Q1htRUpDYmFSa0ZYaG5YZ2hfc2ladDdzT1QwSWRnT1hlUVptV19nUlJfQ3BmdTFFY0locDB3dFVTUW1IbnF6SzZlb1l4SlM4VzlXVlNVY25CeWZ1TzhYMXlrSHY3a2hQMWF2VXVEUjhOQjZCOHRYWVJF?oc=5\" target=\"_blank\">UK crypto investors sue Binance, Changpeng Zhao for $200M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbzZyaVd1d0F0dUN4N2NDMVdRYU5rQ0pRWENab1V6OXVnSjZQc3lLS1dnemVkbllyS00tdDRKVnNJZVlZUk42OHE4Q1htRUpDYmFSa0ZYaG5YZ2hfc2ladDdzT1QwSWRnT1hlUVptV19nUlJfQ3BmdTFFY0locDB3dFVTUW1IbnF6SzZlb1l4SlM4VzlXVlNVY25CeWZ1TzhYMXlrSHY3a2hQMWF2VXVEUjhOQjZCOHRYWVJF?oc=5",
+      "source": "TradingView",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-01T02:30:00+00:00",
+      "tags": [],
+      "key_quote": "UK crypto investors sue Binance, Changpeng Zhao for $200M TradingView"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong says AI will enhance software security, not weaken it",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4tdVo1TmxJSlRfa293aDdxYjFFZ2VWYjc1WWF1cVVBMEUtcTdGUzZhOEdnTW8yNDhCTVBZaTh0Y3dfQ1FrOUdpdlo1cjg1S3VZU25WZHZILWVVcHNlVkcxcnZISVZOVGJ4YUNsTHA2WENmdEI3M0E?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong says AI will enhance software security, not weaken it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
@@ -6102,36 +6126,6 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin helps USD's reserve status in a strange way: Coinbase CEO MSN"
-    },
-    {
-      "title": "Coinbase CEO: Stablecoins will become the default currency for AI agents",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwNBVV95cUxNbW1yTWJNM3dVYy1kNUd1c0xiUlhnbmMtMFBjVlhqOVI0X1U0M29udTdFOVNqVUUtMkNpNkxJYzdHaFpYNmdXVkVfZzdRaVN5Y3lLVE9RbFNtT0xIMUJKeEt5UE1MdlRYSUZZS2VhWUtGb0NqVjBLaHVCTnhIM0ZkWm1STUlLV1oxMHFMUjhYUjc3bkdzcEgwbEVNQ2lqcnZ0bi1IX2xlV0FLTjc2OVpaUVRDamxzVElHaTc1SkVXa2ppcHkwRHNVN3VwcFdWS0dkX19veDJ1SVdkeVRqN0ltWmxXNnlXOVNiM3g5cFBhQTk0ZDFveTVmbFNjemxFR3lJT3JaZUlfSHBjLU1uNE4yNzNHVTFTOFBWRDNRWHV3SFFrRnZ0M2tDTDFCY2RGZGl3WV9QZzNzeFN2dW1wdDZNX0lrdXBOcFIyMTBlNnhQUC1NR3R0YzBvejVsRFlhdGlaWWVJaGJkWjkwZDd6MFAyZ1ZrZ1ZIYXN0aGFiOTVkZU5ldG85NkFMY25fVTJJSjRQRElhclpSYw?oc=5\" target=\"_blank\">Coinbase CEO: Stablecoins will become the default currency for AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNbW1yTWJNM3dVYy1kNUd1c0xiUlhnbmMtMFBjVlhqOVI0X1U0M29udTdFOVNqVUUtMkNpNkxJYzdHaFpYNmdXVkVfZzdRaVN5Y3lLVE9RbFNtT0xIMUJKeEt5UE1MdlRYSUZZS2VhWUtGb0NqVjBLaHVCTnhIM0ZkWm1STUlLV1oxMHFMUjhYUjc3bkdzcEgwbEVNQ2lqcnZ0bi1IX2xlV0FLTjc2OVpaUVRDamxzVElHaTc1SkVXa2ppcHkwRHNVN3VwcFdWS0dkX19veDJ1SVdkeVRqN0ltWmxXNnlXOVNiM3g5cFBhQTk0ZDFveTVmbFNjemxFR3lJT3JaZUlfSHBjLU1uNE4yNzNHVTFTOFBWRDNRWHV3SFFrRnZ0M2tDTDFCY2RGZGl3WV9QZzNzeFN2dW1wdDZNX0lrdXBOcFIyMTBlNnhQUC1NR3R0YzBvejVsRFlhdGlaWWVJaGJkWjkwZDd6MFAyZ1ZrZ1ZIYXN0aGFiOTVkZU5ldG85NkFMY25fVTJJSjRQRElhclpSYw?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-26T08:10:00+00:00",
-      "tags": [
-        "AI",
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "Coinbase CEO: Stablecoins will become the default currency for AI agents MSN"
-    },
-    {
-      "title": "Coinbase CEO: Stablecoins will become the default currency for AI agents",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgNBVV95cUxPaVYzbzRuNnJwZjZQcUxnTUZ3SGxKaUtCcmk5NU1xQm82d3o2eFdCNlg1UWlYQy0yeV9JZDBPSFBGZWFvRnJ1VkdvQ2JCRkYzb2xpTDBSNG03QTl2T3BDUlVHZG9zLXlGWC1rbTNDZ2E1clY0ZWhGZnZkQy12RWlwZHNlb1Nyc2daUlVpZ3Y0bTlHaEdweXcwMHBwSHVPQUc1STE1aGVuVXFmTzFOZ2JXd0gxYm96QlpBT1hLMS1zcjE5YTY0M2xvd20ybUNERHgyRzRuLUhiWl9qcDc5ck92aTBQVmJUZ0VJaHZlS0FlX2tha0RtMER6bEpSXzRnd0s4aDB2LXJuZEZtX1J3STN1UGFuSW5wd2x4NTA4VnZQYmFsSlNzel9KS05mNUh2TGRJMF9wTkFvUG04aDhidHk3ZlNCbXRmbFBUUVBlbE82SzFya2tnVEQ2NmlaYUZXaGc3b214eURhWEthVC0xSkpNVW9SMDJTeDhjZHl2Tkh6V3Y3NDUzUGJGR3V3Y1dlMTdmUnVSQmtR?oc=5\" target=\"_blank\">Coinbase CEO: Stablecoins will become the default currency for AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPaVYzbzRuNnJwZjZQcUxnTUZ3SGxKaUtCcmk5NU1xQm82d3o2eFdCNlg1UWlYQy0yeV9JZDBPSFBGZWFvRnJ1VkdvQ2JCRkYzb2xpTDBSNG03QTl2T3BDUlVHZG9zLXlGWC1rbTNDZ2E1clY0ZWhGZnZkQy12RWlwZHNlb1Nyc2daUlVpZ3Y0bTlHaEdweXcwMHBwSHVPQUc1STE1aGVuVXFmTzFOZ2JXd0gxYm96QlpBT1hLMS1zcjE5YTY0M2xvd20ybUNERHgyRzRuLUhiWl9qcDc5ck92aTBQVmJUZ0VJaHZlS0FlX2tha0RtMER6bEpSXzRnd0s4aDB2LXJuZEZtX1J3STN1UGFuSW5wd2x4NTA4VnZQYmFsSlNzel9KS05mNUh2TGRJMF9wTkFvUG04aDhidHk3ZlNCbXRmbFBUUVBlbE82SzFya2tnVEQ2NmlaYUZXaGc3b214eURhWEthVC0xSkpNVW9SMDJTeDhjZHl2Tkh6V3Y3NDUzUGJGR3V3Y1dlMTdmUnVSQmtR?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-26T08:09:59+00:00",
-      "tags": [
-        "Ethereum",
-        "AI",
-        "稳定币 Stablecoin",
-        "Layer2"
-      ],
-      "key_quote": "Coinbase CEO: Stablecoins will become the default currency for AI agents MSN"
     }
   ]
 }
