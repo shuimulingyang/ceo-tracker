@@ -1,14 +1,66 @@
 {
-  "updated_at": "2026-07-01T06:59:47Z",
+  "updated_at": "2026-07-01T10:40:40Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 79,
-    "Brian Armstrong": 351,
-    "Richard Teng": 30,
-    "Ben Zhou": 31,
+    "CZ": 81,
+    "Brian Armstrong": 350,
+    "Richard Teng": 31,
+    "Ben Zhou": 29,
     "Star Xu": 9
   },
   "articles": [
+    {
+      "title": "Nearly 1,700 UK investors sue Binance, founder CZ over alleged unauthorized derivatives sales",
+      "content": "<p>Almost 1,700 investors are suing Binance and founder Changpeng Zhao in a London High Court over unauthorized crypto derivatives sale claims.</p>",
+      "url": "https://www.theblock.co/post/406842/uk-investors-sue-binance-cz?utm_source=rss&utm_medium=rss",
+      "source": "The Block",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-01T10:31:18+00:00",
+      "tags": [],
+      "key_quote": "Almost 1,700 investors are suing Binance and founder Changpeng Zhao in a London High Court over unauthorized crypto derivatives sale claims."
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Says AI Will Favor Defenders Over Attackers in Cybersecurity",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjJFczYwOVpTaDQwQ0Jjb0w1LW9QcWk4bkFDVFp1dzNLdS1JZ2VKRVVxa3J2YVBZRWtJQTIyNEdISl9YNTFXWUF5dWhwTWZ2TFhiVTZhckM2SjFEYngwTkdsOGJhZ25QQTRuWjd1akhJaWpHcEZPOHM4d2taMHJ1dnlHVF9WMFk0SWpkWmpGdlVtS2Y0N3dkeGZYUV9nSXlQNm1yYTNCWklOVm5WdTU3d1ZaRnlWNllpekZWNzgwSmFQTmExNUhtVnlhcTNhc2JqeVpnUzRTRVJYUQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says AI Will Favor Defenders Over Attackers in Cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjJFczYwOVpTaDQwQ0Jjb0w1LW9QcWk4bkFDVFp1dzNLdS1JZ2VKRVVxa3J2YVBZRWtJQTIyNEdISl9YNTFXWUF5dWhwTWZ2TFhiVTZhckM2SjFEYngwTkdsOGJhZ25QQTRuWjd1akhJaWpHcEZPOHM4d2taMHJ1dnlHVF9WMFk0SWpkWmpGdlVtS2Y0N3dkeGZYUV9nSXlQNm1yYTNCWklOVm5WdTU3d1ZaRnlWNllpekZWNzgwSmFQTmExNUhtVnlhcTNhc2JqeVpnUzRTRVJYUQ?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-01T09:13:08+00:00",
+      "tags": [
+        "监管 Regulation",
+        "安全 Security",
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says AI Will Favor Defenders Over Attackers in Cybersecurity Benzinga"
+    },
+    {
+      "title": "Changpeng Zhao Couldn’t Grab His WhatsApp Username – and Exposed a Scam Risk",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE03S1BDMGh0THRwUW9zRGM1WktmWUtLeGVMWDk2bjFWRHYwb0tmSjZaUjBRbTl6NlFTM1B2Y0ZROXhEUDJJYVBVM0g0YktUcC1yNEhyOWJSYXRabjh5bmtYR1ZEeTdpUG9w?oc=5\" target=\"_blank\">Changpeng Zhao Couldn’t Grab His WhatsApp Username – and Exposed a Scam Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03S1BDMGh0THRwUW9zRGM1WktmWUtLeGVMWDk2bjFWRHYwb0tmSjZaUjBRbTl6NlFTM1B2Y0ZROXhEUDJJYVBVM0g0YktUcC1yNEhyOWJSYXRabjh5bmtYR1ZEeTdpUG9w?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-01T08:35:00+00:00",
+      "tags": [
+        "安全 Security"
+      ],
+      "key_quote": "Changpeng Zhao Couldn’t Grab His WhatsApp Username – and Exposed a Scam Risk BeInCrypto"
+    },
+    {
+      "title": "FO529 Raj Shamani: w/ Richard Teng – Bitcoin, Crypto & De-dollarisation (Transcript)",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXI3cFh4MXdZWFJxSEdUTWpBaUVWOHc2ZDJ0TGJWTG1WeW8ybURpVTZKUE0tbURqWHY1Q2JmMmRCV3NJblE0QnR1ZDFrempKMjdlRnBVc3dINGNEdGRxRXAyZzNfdEFHdjJTYzFYOUIwcVRlb0dsWk0zWkpxeTJEN2dUTzQ1YjZTTlBOaldjRnRzNmxuWHBCbHV5NlpYdG9k?oc=5\" target=\"_blank\">FO529 Raj Shamani: w/ Richard Teng – Bitcoin, Crypto & De-dollarisation (Transcript)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Singju Post</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXI3cFh4MXdZWFJxSEdUTWpBaUVWOHc2ZDJ0TGJWTG1WeW8ybURpVTZKUE0tbURqWHY1Q2JmMmRCV3NJblE0QnR1ZDFrempKMjdlRnBVc3dINGNEdGRxRXAyZzNfdEFHdjJTYzFYOUIwcVRlb0dsWk0zWkpxeTJEN2dUTzQ1YjZTTlBOaldjRnRzNmxuWHBCbHV5NlpYdG9k?oc=5",
+      "source": "The Singju Post",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-01T07:55:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "FO529 Raj Shamani: w/ Richard Teng – Bitcoin, Crypto & De-dollarisation (Transcript) The Singju Post"
+    },
     {
       "title": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
       "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"UK crypto investors sue Binance, Changpeng Zhao for $200M\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/hammerbinance.jpg\" /></p><p>One Binance customer said he lost the equivalent of more than $132,000 from the crypto exchange’s derivatives offerings before restrictions were imposed on Binance.</p>",
@@ -438,6 +490,19 @@
         "机构 Institutional"
       ],
       "key_quote": "Brian Armstrong supports GOP at fundraising dinner with JD Vance Cryptonews.net"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Says Tokenized Stocks Could Open US Markets To 4 Billion Unbrokered People",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQjRQVVhmZ3pTUEFoTGhGa3hXMmxWcUxLdTRTLWJRaUY1R3hIX1g3LVpLRDh2V3lrVTJWSnBzc09iODFOZnlaLUZrbG1HYVAxeURTOFYzRkFadFRxaUFISThxVFo4NS1tWjlxaEFZUUNHZVMwRktmVEYxb1NuVktaRHVZTGlnb1JZbUt0bmdTcmhPUTUycm5mUW15N0laQXJCVHhuWDZMbnh4akFhS0FDYldaZktfTkJjeVBLNlNuTE1ZcWxfaG5NcWxJLUR3SlJrZHRKRk9lVXVhZVlTcERzazNVODBpUlVQNjFV?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says Tokenized Stocks Could Open US Markets To 4 Billion Unbrokered People</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQjRQVVhmZ3pTUEFoTGhGa3hXMmxWcUxLdTRTLWJRaUY1R3hIX1g3LVpLRDh2V3lrVTJWSnBzc09iODFOZnlaLUZrbG1HYVAxeURTOFYzRkFadFRxaUFISThxVFo4NS1tWjlxaEFZUUNHZVMwRktmVEYxb1NuVktaRHVZTGlnb1JZbUt0bmdTcmhPUTUycm5mUW15N0laQXJCVHhuWDZMbnh4akFhS0FDYldaZktfTkJjeVBLNlNuTE1ZcWxfaG5NcWxJLUR3SlJrZHRKRk9lVXVhZVlTcERzazNVODBpUlVQNjFV?oc=5",
+      "source": "Sahm",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-27T07:00:00+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says Tokenized Stocks Could Open US Markets To 4 Billion Unbrokered People Sahm"
     },
     {
       "title": "Is Quantum Computing a Real Threat to Bitcoin? Coinbase CEO Says No",
@@ -6061,71 +6126,6 @@
       "published_at": "2026-04-26T13:15:17+00:00",
       "tags": [],
       "key_quote": "Europe's MiCA Crypto License Rule Isn't Enough for Profitability: Bybit CEO Whalesbook"
-    },
-    {
-      "title": "Europe Crypto Ki Diwali? MiCA License Se Profit Nahi, Bybit CEO Ne Kholi Pol!",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYnhBQURaODl0T2xQYzJBWmEtcko2S2x6MWFvNW9pT0FGSU5DOUdkNVBpME81VkZIZlJYMXV0ODhQVDF0Wm9ldkx1RVNyMktjbjRYdXVhVVJmSklpNDQyUWszRkJab1doa2RfUDgtemRnR1EzaXA5bFVyQjhULVBCZzFuaXdtRzd4amEwVi1lYXdWeHJGU3hNdHozbFl6N0FSZTB2ZFZRSEJFR0NmUmoyRXU5QVBENGRLWEdyMUdaX1oxcXlrdXphYVpaX3psS3NQUHJTbGlCVWhqSEl2SGc?oc=5\" target=\"_blank\">Europe Crypto Ki Diwali? MiCA License Se Profit Nahi, Bybit CEO Ne Kholi Pol!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Whalesbook</font>",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYnhBQURaODl0T2xQYzJBWmEtcko2S2x6MWFvNW9pT0FGSU5DOUdkNVBpME81VkZIZlJYMXV0ODhQVDF0Wm9ldkx1RVNyMktjbjRYdXVhVVJmSklpNDQyUWszRkJab1doa2RfUDgtemRnR1EzaXA5bFVyQjhULVBCZzFuaXdtRzd4amEwVi1lYXdWeHJGU3hNdHozbFl6N0FSZTB2ZFZRSEJFR0NmUmoyRXU5QVBENGRLWEdyMUdaX1oxcXlrdXphYVpaX3psS3NQUHJTbGlCVWhqSEl2SGc?oc=5",
-      "source": "Whalesbook",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-04-26T13:15:17+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Europe Crypto Ki Diwali? MiCA License Se Profit Nahi, Bybit CEO Ne Kholi Pol! Whalesbook"
-    },
-    {
-      "title": "MiCA's not enough: Bybit CEO says firms need MiFID, EMI licenses for European profit",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQYmUwS2tRMlBtc0xBbmtoN3dLai1sT29iOUtlY29oOHBBUTdBWTlzZUVmWW4zZHp1VjhST0VCcERZMFIyXzRUWnhhUzVNSWo0d2ZaTEUyZ1BhWDB2aU54eVoya2h2dmYwVEVhUlNWZ0xFNUNmLWlZeFpueUwtVDllUmxKVHJMa1NxdDZQaVI4S2d1NE15dEV0TFdrV3NjVUppVlBKWFlJOWJvMTM2Y3ZqNHhjUTFrYzRpRDJCeEtEQklPeTUtMkpj?oc=5\" target=\"_blank\">MiCA's not enough: Bybit CEO says firms need MiFID, EMI licenses for European profit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYmUwS2tRMlBtc0xBbmtoN3dLai1sT29iOUtlY29oOHBBUTdBWTlzZUVmWW4zZHp1VjhST0VCcERZMFIyXzRUWnhhUzVNSWo0d2ZaTEUyZ1BhWDB2aU54eVoya2h2dmYwVEVhUlNWZ0xFNUNmLWlZeFpueUwtVDllUmxKVHJMa1NxdDZQaVI4S2d1NE15dEV0TFdrV3NjVUppVlBKWFlJOWJvMTM2Y3ZqNHhjUTFrYzRpRDJCeEtEQklPeTUtMkpj?oc=5",
-      "source": "CoinDesk",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-04-26T13:02:59+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "MiCA's not enough: Bybit CEO says firms need MiFID, EMI licenses for European profit CoinDesk"
-    },
-    {
-      "title": "Bitcoin helps USD's reserve status in a strange way: Coinbase CEO",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxOOGVDd2htVUM2N1B0dmtIcDMyWGczMy0xcmVMTU1Tdk90eGRpSVdPTGMySk14bWRObmdWUjFpZUM1MUZHbVpFVk1JeldEUFVLTzV4NmhyV2JCd3J0bFlvLVJ3ODIzR3Uxd0tIZk5JZXBxZDdjUDZKMklyVWFJZTBqY2J2VHg5NERKSWFZbUJKM1YxWW9HUnl1aFVTM1ZrdklSQXVKSEROS1AzSXFoVFlHTlhkZHduU0g5ZXhUa2ZMQ3k0MDlyODBUdUlON1BVZ0pJeFlqUmIzckxvTk9ONG5jUVBxa3hfaUpwREgwZWJRTFVabnRXZmFjaHRFMWROMWRmZm11U3ZTUFZDc0RwU09HOXRlWW9XWnpPUWxOMHotTWozWVF0bjFHY3hzNHZ0bm03RzBYRGctU0hGclBiRTNLQ3hJZlV1eFFrY2F1LWF4VVhfNEJla1BnR29tbkhSc1p1eE9DaUxpYS00WHY2QklBZEJvTW01RDl3cnlTdUxVZHpXXzgtdG5wWjAtVkFmdw?oc=5\" target=\"_blank\">Bitcoin helps USD's reserve status in a strange way: Coinbase CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOOGVDd2htVUM2N1B0dmtIcDMyWGczMy0xcmVMTU1Tdk90eGRpSVdPTGMySk14bWRObmdWUjFpZUM1MUZHbVpFVk1JeldEUFVLTzV4NmhyV2JCd3J0bFlvLVJ3ODIzR3Uxd0tIZk5JZXBxZDdjUDZKMklyVWFJZTBqY2J2VHg5NERKSWFZbUJKM1YxWW9HUnl1aFVTM1ZrdklSQXVKSEROS1AzSXFoVFlHTlhkZHduU0g5ZXhUa2ZMQ3k0MDlyODBUdUlON1BVZ0pJeFlqUmIzckxvTk9ONG5jUVBxa3hfaUpwREgwZWJRTFVabnRXZmFjaHRFMWROMWRmZm11U3ZTUFZDc0RwU09HOXRlWW9XWnpPUWxOMHotTWozWVF0bjFHY3hzNHZ0bm03RzBYRGctU0hGclBiRTNLQ3hJZlV1eFFrY2F1LWF4VVhfNEJla1BnR29tbkhSc1p1eE9DaUxpYS00WHY2QklBZEJvTW01RDl3cnlTdUxVZHpXXzgtdG5wWjAtVkFmdw?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-26T08:58:04+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Bitcoin helps USD's reserve status in a strange way: Coinbase CEO MSN"
-    },
-    {
-      "title": "Bitcoin helps USD's reserve status in a strange way: Coinbase CEO",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxPUC1HcFUzSG9PZkhtalZGYXlIVE1tQTdmczBPRkRKdFh5LXNSZG0zZXVEVGNIbExKNDV1Q0NHX3VWNjk0OFVUMmJCLVVVYmhWVjB4S2VNUkxucndEZWJFLWNkY2pHekNXeGp6Z09fNFh3dmFTelNiSnpyQk5XNDB5aEJ5dDRXanVnYnVRd2ZiR2dzTmR4N1d5bDlIYU40SnA0TGdhdFQ5SXk2WnNFMjJsSU5kWFFmVzRsNVZuV2VyNGo0XzN4aWtIWXpsNUJBLWtDZmNxMVA0eEd2ZW05TmdrQS1TcGxsYkQ2dTBxMTdwXzhvUGNEamZkZ3ZqVVVqRkozZFBRNHBqaGhoNHpTRjBubmVsSXp3WlBYX3paSFVHc0NZd3hUWTBWOUxqZEhVNGFvNE0xbHVYeWthWFZWVWRaUE9mZDY4QnJ4M25nblJ5QS1SZ3ZIYlNKd0ctNlVlU3MzM0d3WlhMWnhjcXFKbnZlZlNlWkJSSkFGNzRBZ1Q1dHhhcnlDT2ZLVFRTa25rZw?oc=5\" target=\"_blank\">Bitcoin helps USD's reserve status in a strange way: Coinbase CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPUC1HcFUzSG9PZkhtalZGYXlIVE1tQTdmczBPRkRKdFh5LXNSZG0zZXVEVGNIbExKNDV1Q0NHX3VWNjk0OFVUMmJCLVVVYmhWVjB4S2VNUkxucndEZWJFLWNkY2pHekNXeGp6Z09fNFh3dmFTelNiSnpyQk5XNDB5aEJ5dDRXanVnYnVRd2ZiR2dzTmR4N1d5bDlIYU40SnA0TGdhdFQ5SXk2WnNFMjJsSU5kWFFmVzRsNVZuV2VyNGo0XzN4aWtIWXpsNUJBLWtDZmNxMVA0eEd2ZW05TmdrQS1TcGxsYkQ2dTBxMTdwXzhvUGNEamZkZ3ZqVVVqRkozZFBRNHBqaGhoNHpTRjBubmVsSXp3WlBYX3paSFVHc0NZd3hUWTBWOUxqZEhVNGFvNE0xbHVYeWthWFZWVWRaUE9mZDY4QnJ4M25nblJ5QS1SZ3ZIYlNKd0ctNlVlU3MzM0d3WlhMWnhjcXFKbnZlZlNlWkJSSkFGNzRBZ1Q1dHhhcnlDT2ZLVFRTa25rZw?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-26T08:12:15+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Bitcoin helps USD's reserve status in a strange way: Coinbase CEO MSN"
-    },
-    {
-      "title": "Bitcoin helps USD's reserve status in a strange way: Coinbase CEO",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxQU2xlSlNraGtQUEtsTXMtMFN2a0Vtc28wekludlR2Zk5RUnlRVHVEOHZSdzZEX18tSjE0QjFHTXZ2Vmp5WXZOY0x6RFdhMTYxM0tXU0ZJOFJjdXVoSWJXRnNHdVJ5ZmprbzZMMHl0N3BFX1g1WE5aTGhjVlVaNnhzTFFjQ0l5WlRSSGZtank0d0liS2FjZkYtalU4Zk9wQlZibkpqV2VEOHJkMnE2QlMzZVBudkpWM3VCZEVwUTczOERwazBONWhwcy03UkNybF9JUnBQWXA4d0FjQllZX19LM0htLW1HUDRWM1NqR3UtazhhUWFKWHVQV3ZyelEzWjRsR0V6OWRiUWdXVUY2MWcxeXBhSnNXS0ZTTkl0TGtkWEpxZ1FyYnZ6OWJzUlVDRjJHWDNaMWNBV2RmUDh2ZTRlcUFybkdlVnJaNTNSV0dsblo5NGctSVNZTVptSjlEeEdWZk5OVDBoM1lMazFUSU5ySjZjUTJCb1Y5bmRRZ3RhblhaRFhQRkhrTFI2WlE?oc=5\" target=\"_blank\">Bitcoin helps USD's reserve status in a strange way: Coinbase CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQU2xlSlNraGtQUEtsTXMtMFN2a0Vtc28wekludlR2Zk5RUnlRVHVEOHZSdzZEX18tSjE0QjFHTXZ2Vmp5WXZOY0x6RFdhMTYxM0tXU0ZJOFJjdXVoSWJXRnNHdVJ5ZmprbzZMMHl0N3BFX1g1WE5aTGhjVlVaNnhzTFFjQ0l5WlRSSGZtank0d0liS2FjZkYtalU4Zk9wQlZibkpqV2VEOHJkMnE2QlMzZVBudkpWM3VCZEVwUTczOERwazBONWhwcy03UkNybF9JUnBQWXA4d0FjQllZX19LM0htLW1HUDRWM1NqR3UtazhhUWFKWHVQV3ZyelEzWjRsR0V6OWRiUWdXVUY2MWcxeXBhSnNXS0ZTTkl0TGtkWEpxZ1FyYnZ6OWJzUlVDRjJHWDNaMWNBV2RmUDh2ZTRlcUFybkdlVnJaNTNSV0dsblo5NGctSVNZTVptSjlEeEdWZk5OVDBoM1lMazFUSU5ySjZjUTJCb1Y5bmRRZ3RhblhaRFhQRkhrTFI2WlE?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-26T08:12:14+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Bitcoin helps USD's reserve status in a strange way: Coinbase CEO MSN"
     }
   ]
 }
