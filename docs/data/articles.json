@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-01T10:40:40Z",
+  "updated_at": "2026-07-01T13:28:49Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 81,
-    "Brian Armstrong": 350,
-    "Richard Teng": 31,
-    "Ben Zhou": 29,
+    "CZ": 82,
+    "Brian Armstrong": 349,
+    "Richard Teng": 32,
+    "Ben Zhou": 28,
     "Star Xu": 9
   },
   "articles": [
@@ -49,9 +49,35 @@
       "key_quote": "Changpeng Zhao Couldn’t Grab His WhatsApp Username – and Exposed a Scam Risk BeInCrypto"
     },
     {
+      "title": "UK Investors File $200M Lawsuit Against Binance and Changpeng Zhao",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB1YUUzWXBLSWprR1lwNFR4cHJzZk1aMzQtMy1tMVlFNlVoTFJDR0VOQnlyTHo1c1R6SC1OR0dYYm1ZejNqaUNtRHFOam9Ga0JVaXJjeGlVbFY4VW0xblhtR1JLUk5seWd3V1ZFaGxBdkw4TEtERDhR?oc=5\" target=\"_blank\">UK Investors File $200M Lawsuit Against Binance and Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Foundation</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1YUUzWXBLSWprR1lwNFR4cHJzZk1aMzQtMy1tMVlFNlVoTFJDR0VOQnlyTHo1c1R6SC1OR0dYYm1ZejNqaUNtRHFOam9Ga0JVaXJjeGlVbFY4VW0xblhtR1JLUk5seWd3V1ZFaGxBdkw4TEtERDhR?oc=5",
+      "source": "Bitcoin Foundation",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-01T08:00:09+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "UK Investors File $200M Lawsuit Against Binance and Changpeng Zhao Bitcoin Foundation"
+    },
+    {
       "title": "FO529 Raj Shamani: w/ Richard Teng – Bitcoin, Crypto & De-dollarisation (Transcript)",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXI3cFh4MXdZWFJxSEdUTWpBaUVWOHc2ZDJ0TGJWTG1WeW8ybURpVTZKUE0tbURqWHY1Q2JmMmRCV3NJblE0QnR1ZDFrempKMjdlRnBVc3dINGNEdGRxRXAyZzNfdEFHdjJTYzFYOUIwcVRlb0dsWk0zWkpxeTJEN2dUTzQ1YjZTTlBOaldjRnRzNmxuWHBCbHV5NlpYdG9k?oc=5\" target=\"_blank\">FO529 Raj Shamani: w/ Richard Teng – Bitcoin, Crypto & De-dollarisation (Transcript)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Singju Post</font>",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXI3cFh4MXdZWFJxSEdUTWpBaUVWOHc2ZDJ0TGJWTG1WeW8ybURpVTZKUE0tbURqWHY1Q2JmMmRCV3NJblE0QnR1ZDFrempKMjdlRnBVc3dINGNEdGRxRXAyZzNfdEFHdjJTYzFYOUIwcVRlb0dsWk0zWkpxeTJEN2dUTzQ1YjZTTlBOaldjRnRzNmxuWHBCbHV5NlpYdG9k?oc=5",
+      "source": "The Singju Post",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-01T07:55:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "FO529 Raj Shamani: w/ Richard Teng – Bitcoin, Crypto & De-dollarisation (Transcript) The Singju Post"
+    },
+    {
+      "title": "FO529 Raj Shamani: w/ Richard Teng – Bitcoin, Crypto & De-dollarisation (Transcript)",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNUZ0LWpqVWVlTzQ5bjRSWEpSb2dqWjRNeEYxUHplY1hyRW9oWWpZYy1iUk9MU1k0YkcyNG5hc3RuNUNGSFpTcjR1bTNFWGZqQlUyVVdOVXhNM2pfQnRiNllGNTcyellycnFxNm1hZzROeER6eGRFejRuR1AwRXJ5WnZGS3hMazhKVnBydndMdklOQjFib1ZDWVp0MnBWSnltQXlyLXFR?oc=5\" target=\"_blank\">FO529 Raj Shamani: w/ Richard Teng – Bitcoin, Crypto & De-dollarisation (Transcript)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Singju Post</font>",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNUZ0LWpqVWVlTzQ5bjRSWEpSb2dqWjRNeEYxUHplY1hyRW9oWWpZYy1iUk9MU1k0YkcyNG5hc3RuNUNGSFpTcjR1bTNFWGZqQlUyVVdOVXhNM2pfQnRiNllGNTcyellycnFxNm1hZzROeER6eGRFejRuR1AwRXJ5WnZGS3hMazhKVnBydndMdklOQjFib1ZDWVp0MnBWSnltQXlyLXFR?oc=5",
       "source": "The Singju Post",
       "ceo_name": "Richard Teng",
       "exchange": "Binance",
@@ -99,6 +125,17 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong says AI will enhance software security, not weaken it Crypto Briefing"
+    },
+    {
+      "title": "Binance and Changpeng Zhao sued by 1,700 UK investors for £150M over unapproved crypto derivatives",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9NR05ZOERXUldWREpiTFdRZ25nRThpV0tpWW1ZRXA1SW1tb3JJOXpMWGtiVUExV2ZwRzFlWFBWclU1VDNXTEExd1h4RDhXWGRIZEtuaWtraER2R1pXVWphdlpRanpMOXdMd0p1RnB3?oc=5\" target=\"_blank\">Binance and Changpeng Zhao sued by 1,700 UK investors for £150M over unapproved crypto derivatives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NR05ZOERXUldWREpiTFdRZ25nRThpV0tpWW1ZRXA1SW1tb3JJOXpMWGtiVUExV2ZwRzFlWFBWclU1VDNXTEExd1h4RDhXWGRIZEtuaWtraER2R1pXVWphdlpRanpMOXdMd0p1RnB3?oc=5",
+      "source": "Crypto Briefing",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-30T21:54:11+00:00",
+      "tags": [],
+      "key_quote": "Binance and Changpeng Zhao sued by 1,700 UK investors for £150M over unapproved crypto derivatives Crypto Briefing"
     },
     {
       "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
@@ -6090,42 +6127,6 @@
       "published_at": "2026-04-26T17:42:18+00:00",
       "tags": [],
       "key_quote": "Bybit CEO Says MiCA License Alone Not Enough for Profit in Europe FinanceFeeds"
-    },
-    {
-      "title": "US President Trump pardons convicted Binance founder Changpeng Zhao",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxNLU9tVk9Hb2phWks2NEEySy00dmk4ZmJ3ZUI3Ry15Qk1fcUdOcXlILV9RS2FhNjItVWlkWG9ZMW5vaHRqSGViNHhXU0ZVVkpoNDdoX2o1TmVOclpJeGRpSEhrY3hrZDlzNUM0RzNwZUlrR0tMbDM3TlZMQ2hTa3MtU3V4Mjg5c2tDMkViNG90Wk1RbTVmS096M2JBa0R2X08wazNaUTQ5MWUyYkhVLTFpVHF4WVY5VTlXUmhPcEZHci1ZejdVd3JPbEg5djAtcWwydUljTzRsUElvX2ctSXJkcHNMZTB5cWZXejhjRDFhekk3RDc0bk9MM1hMVmswb0ltWVNkeDdFaTBIWW5TOHVOUjdlNTI1alNaM3BTSTVENG1wUk5xS3NadXZGNnpKUTc4T2FtVndMY0trSnpOcG1GQXZkeTllSlBHbzdNNzhJNEE3OEJRTEdfQ0lWRV9FZjNabVpWbnliREJUTmFYZG1OUnNicGxMOVlTTFJQTUlROWRzZUVLLXJJdE50c2ljZw?oc=5\" target=\"_blank\">US President Trump pardons convicted Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNLU9tVk9Hb2phWks2NEEySy00dmk4ZmJ3ZUI3Ry15Qk1fcUdOcXlILV9RS2FhNjItVWlkWG9ZMW5vaHRqSGViNHhXU0ZVVkpoNDdoX2o1TmVOclpJeGRpSEhrY3hrZDlzNUM0RzNwZUlrR0tMbDM3TlZMQ2hTa3MtU3V4Mjg5c2tDMkViNG90Wk1RbTVmS096M2JBa0R2X08wazNaUTQ5MWUyYkhVLTFpVHF4WVY5VTlXUmhPcEZHci1ZejdVd3JPbEg5djAtcWwydUljTzRsUElvX2ctSXJkcHNMZTB5cWZXejhjRDFhekk3RDc0bk9MM1hMVmswb0ltWVNkeDdFaTBIWW5TOHVOUjdlNTI1alNaM3BTSTVENG1wUk5xS3NadXZGNnpKUTc4T2FtVndMY0trSnpOcG1GQXZkeTllSlBHbzdNNzhJNEE3OEJRTEdfQ0lWRV9FZjNabVpWbnliREJUTmFYZG1OUnNicGxMOVlTTFJQTUlROWRzZUVLLXJJdE50c2ljZw?oc=5",
-      "source": "MSN",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-26T17:33:01+00:00",
-      "tags": [],
-      "key_quote": "US President Trump pardons convicted Binance founder Changpeng Zhao MSN"
-    },
-    {
-      "title": "Coinbase CEO: Big banks are trying to 'kill the competition' through crypto regulation",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggNBVV95cUxOdU9rWVE3X2tsZXMwMElyc3BaQXpFaFQ2S2hCWU1QenZDdnh5ZWxsOTF4RmpwakppS3hMWDQxbk1Lckx1bzZpUmVmakFrcWlUYjlHVVA3TG1jaFhObDJ6V25MQzFrTHF4LWF5YllTenBzeHluODlCTmVsa3pjN3BmLUM3c0hjWVZWWjNuaGFOM0Vic3pZalg4ekt1Z3JfWVhaV3RJSlNRMWM5ZU1kZDYzVHd6ZHR6bWZidWpnZmpfR25YdTVBRmFxMl9vcEhYUDREX0JfTXhUMWwwY2t0MEdHajZRenNoZmVJSzlOdzlRZi16S3d2WHltaDJxd1hQek5ualZnZWtyeDhscVBmREtDRUl2aUpqeERObjFWX0hiY2ZIR3JoOUM3VmU5SUVLWUFVUEhLM2ZOUlNwTWtZLW5oQ2owU3AzSllReU1kM1ZCMVJXTlBvanlqVlVObFJ6QXhMcmxQSXFsU0cyT3pkWG5TdGJDUzZOSXBTYldPYUVubF85UQ?oc=5\" target=\"_blank\">Coinbase CEO: Big banks are trying to 'kill the competition' through crypto regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">msn.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOdU9rWVE3X2tsZXMwMElyc3BaQXpFaFQ2S2hCWU1QenZDdnh5ZWxsOTF4RmpwakppS3hMWDQxbk1Lckx1bzZpUmVmakFrcWlUYjlHVVA3TG1jaFhObDJ6V25MQzFrTHF4LWF5YllTenBzeHluODlCTmVsa3pjN3BmLUM3c0hjWVZWWjNuaGFOM0Vic3pZalg4ekt1Z3JfWVhaV3RJSlNRMWM5ZU1kZDYzVHd6ZHR6bWZidWpnZmpfR25YdTVBRmFxMl9vcEhYUDREX0JfTXhUMWwwY2t0MEdHajZRenNoZmVJSzlOdzlRZi16S3d2WHltaDJxd1hQek5ualZnZWtyeDhscVBmREtDRUl2aUpqeERObjFWX0hiY2ZIR3JoOUM3VmU5SUVLWUFVUEhLM2ZOUlNwTWtZLW5oQ2owU3AzSllReU1kM1ZCMVJXTlBvanlqVlVObFJ6QXhMcmxQSXFsU0cyT3pkWG5TdGJDUzZOSXBTYldPYUVubF85UQ?oc=5",
-      "source": "msn.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-26T15:25:35+00:00",
-      "tags": [
-        "监管 Regulation",
-        "Layer2"
-      ],
-      "key_quote": "Coinbase CEO: Big banks are trying to 'kill the competition' through crypto regulation msn.com"
-    },
-    {
-      "title": "Europe's MiCA Crypto License Rule Isn't Enough for Profitability: Bybit CEO",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZzVXRVJOUEVobXBEYlN5c0tHZ0xkVnBVa2lpSTYzUlV2NHBscVFGSDNTVVpfU2ZHOUhQYVlFSUlzSVVLU1ZMOHQzdG5rdGpwVGpQQVdiTWF5akJSTEx1dDVHNDZKUzJ6dnNOV2MtYXpvd1FsR0ROSFFGZlphVG1yZDVIYXI1VTVjOG9wYzV2eHplWjFnY29hSDloSnhlRDFndzQ1X2NIbGhxM0NhbGtBSDVlSEVSZDJZaWNEQVhNS1Fmem1odmQ3U04xaGwyUzFkc0V6akV0dFF1X0J0?oc=5\" target=\"_blank\">Europe's MiCA Crypto License Rule Isn't Enough for Profitability: Bybit CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Whalesbook</font>",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZzVXRVJOUEVobXBEYlN5c0tHZ0xkVnBVa2lpSTYzUlV2NHBscVFGSDNTVVpfU2ZHOUhQYVlFSUlzSVVLU1ZMOHQzdG5rdGpwVGpQQVdiTWF5akJSTEx1dDVHNDZKUzJ6dnNOV2MtYXpvd1FsR0ROSFFGZlphVG1yZDVIYXI1VTVjOG9wYzV2eHplWjFnY29hSDloSnhlRDFndzQ1X2NIbGhxM0NhbGtBSDVlSEVSZDJZaWNEQVhNS1Fmem1odmQ3U04xaGwyUzFkc0V6akV0dFF1X0J0?oc=5",
-      "source": "Whalesbook",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-04-26T13:15:17+00:00",
-      "tags": [],
-      "key_quote": "Europe's MiCA Crypto License Rule Isn't Enough for Profitability: Bybit CEO Whalesbook"
     }
   ]
 }
