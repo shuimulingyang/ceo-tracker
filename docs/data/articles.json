@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-01T13:28:49Z",
+  "updated_at": "2026-07-01T16:12:31Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 82,
+    "CZ": 83,
     "Brian Armstrong": 349,
     "Richard Teng": 32,
-    "Ben Zhou": 28,
+    "Ben Zhou": 27,
     "Star Xu": 9
   },
   "articles": [
@@ -86,6 +86,17 @@
         "Bitcoin"
       ],
       "key_quote": "FO529 Raj Shamani: w/ Richard Teng – Bitcoin, Crypto & De-dollarisation (Transcript) The Singju Post"
+    },
+    {
+      "title": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGSC1PRlNaOVowQ1JqMHlkeE1VTVR2TzZBOHZFNTA1NGpCOTFiZm5UbnNDX0ZkeXVKcGhBLTRZN2REamxoTEE4TzBVLWdtTG5fb1RleTd5ZVRNRzh1YjQzb2Y2RFE?oc=5\" target=\"_blank\">UK crypto investors sue Binance, Changpeng Zhao for $200M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGSC1PRlNaOVowQ1JqMHlkeE1VTVR2TzZBOHZFNTA1NGpCOTFiZm5UbnNDX0ZkeXVKcGhBLTRZN2REamxoTEE4TzBVLWdtTG5fb1RleTd5ZVRNRzh1YjQzb2Y2RFE?oc=5",
+      "source": "Binance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-01T02:32:02+00:00",
+      "tags": [],
+      "key_quote": "UK crypto investors sue Binance, Changpeng Zhao for $200M Binance"
     },
     {
       "title": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
@@ -6116,17 +6127,6 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Brian Armstrong: Nium enables global stablecoin payments in over 190 countries Traders Union"
-    },
-    {
-      "title": "Bybit CEO Says MiCA License Alone Not Enough for Profit in Europe",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzR5SFMtS2c1N2s1aFM4bmRwcGFlNERfOS1rRXFtVmZCckR2WlNuZWhSOUlPM2F0MEhlaVJMcWlBNDVPdFRVZm1oU05RazJFQkljR1ljRm9hUDZkdmY3QzhFTFcwX3VSRGV4dFAxQUhDMjd6S08zTGg0MktKVllid2dRellLUXYzdy1VTDBTbHc2TlJKN2c?oc=5\" target=\"_blank\">Bybit CEO Says MiCA License Alone Not Enough for Profit in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzR5SFMtS2c1N2s1aFM4bmRwcGFlNERfOS1rRXFtVmZCckR2WlNuZWhSOUlPM2F0MEhlaVJMcWlBNDVPdFRVZm1oU05RazJFQkljR1ljRm9hUDZkdmY3QzhFTFcwX3VSRGV4dFAxQUhDMjd6S08zTGg0MktKVllid2dRellLUXYzdy1VTDBTbHc2TlJKN2c?oc=5",
-      "source": "FinanceFeeds",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-04-26T17:42:18+00:00",
-      "tags": [],
-      "key_quote": "Bybit CEO Says MiCA License Alone Not Enough for Profit in Europe FinanceFeeds"
     }
   ]
 }
