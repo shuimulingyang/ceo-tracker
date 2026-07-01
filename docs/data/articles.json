@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-01T18:52:24Z",
+  "updated_at": "2026-07-01T20:43:28Z",
   "total": 500,
   "by_ceo": {
-    "Star Xu": 10,
-    "CZ": 83,
-    "Brian Armstrong": 348,
+    "Star Xu": 11,
+    "CZ": 84,
+    "Brian Armstrong": 347,
     "Richard Teng": 32,
-    "Ben Zhou": 27
+    "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "OKX CEO Pushes Back on CZ’s Claim That Binance’s MiCA Failure Is Europe’s Loss",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ReWVzeUFPZGJOM0p6aHJrbGgxX2dHeHhuRGw5UkllTmd6VllLTm5zTy14STdRNURRaDh4bGF4a2t4dlNpN1ZzNElLYjFqTDJDcFdRdXZ2QQ?oc=5\" target=\"_blank\">OKX CEO Pushes Back on CZ’s Claim That Binance’s MiCA Failure Is Europe’s Loss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ReWVzeUFPZGJOM0p6aHJrbGgxX2dHeHhuRGw5UkllTmd6VllLTm5zTy14STdRNURRaDh4bGF4a2t4dlNpN1ZzNElLYjFqTDJDcFdRdXZ2QQ?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-07-01T19:53:59+00:00",
+      "tags": [],
+      "key_quote": "OKX CEO Pushes Back on CZ’s Claim That Binance’s MiCA Failure Is Europe’s Loss Cryptonews.net"
+    },
     {
       "title": "‘Ashamed of him’ – OKX CEO slams CZ as Binance gets hit with $200M UK class lawsuit",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZERiblhvWnZKOUNROHQtZkdmWlR2cWhlQlhTc2VGcDkyWGh4cjloT3VSTUdlOWZsUlAyTURfSjdTc0J0Zmk5M0hLd1JKdk9QWEdtQ0xNQkdSQm1mUFJJVjlqeTV2aUVCX0RjcU4xRV80WHAyQjdmTzZJM1lqZkFIN0hIcnNpdHZ2LVUySFJWMlpFQ3R5aWxRNUZZbnk3RWJoc0xz0gGoAUFVX3lxTE9VczlIem9meTg4cmNxUzFnVVljQWtCRzE2X1ZiVDZnd3ZNc190Nnd6em8tOU1OTm9uemcxMlM2SUkxQU5yLU1NZ2QwY09IdmJSajNMVGZmTllvM3pBUzl5dTJ3SkNZS2Q5UEE5YnZRQW93cDBiT3Z2Y2lZSzJxYnp6T1lhdUFaaHpGWFJOWFA4WTZQVzRDMi1mX0JUU0RSY2NvYngzZDZ3SQ?oc=5\" target=\"_blank\">‘Ashamed of him’ – OKX CEO slams CZ as Binance gets hit with $200M UK class lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AMBCrypto</font>",
@@ -19,6 +30,17 @@
       "published_at": "2026-07-01T18:00:25+00:00",
       "tags": [],
       "key_quote": "‘Ashamed of him’ – OKX CEO slams CZ as Binance gets hit with $200M UK class lawsuit AMBCrypto"
+    },
+    {
+      "title": "UK Investors Seek $200 Million From Binance and Changpeng Zhao Over Crypto Derivatives Lawsuit",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPajZyVVgyd09lSVdUZDBIRDNXN0FtdnlPa3doQTNyeGJ2NzcxaUJ0YnN1aEFrRmwyNEF0bXhhX3hReFkza2VJTWhOUTNyZEl6SkNoZUY4ampSWjJ4SVdtcjFUdjFBQlMyNzVZNTllUGFVU3JUQm5fb3AxZmszZ0pDSDBQbm1oQXJDcVV3Qm5ZbXdkbWVabnJ4aE5CS0huRnVNTl96N1YzTGV2ZmpmalpyZHYtMmtlMUtoUm1Od0xGdHZSeUNzM3U1bXBINA?oc=5\" target=\"_blank\">UK Investors Seek $200 Million From Binance and Changpeng Zhao Over Crypto Derivatives Lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPajZyVVgyd09lSVdUZDBIRDNXN0FtdnlPa3doQTNyeGJ2NzcxaUJ0YnN1aEFrRmwyNEF0bXhhX3hReFkza2VJTWhOUTNyZEl6SkNoZUY4ampSWjJ4SVdtcjFUdjFBQlMyNzVZNTllUGFVU3JUQm5fb3AxZmszZ0pDSDBQbm1oQXJDcVV3Qm5ZbXdkbWVabnJ4aE5CS0huRnVNTl96N1YzTGV2ZmpmalpyZHYtMmtlMUtoUm1Od0xGdHZSeUNzM3U1bXBINA?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-01T13:41:33+00:00",
+      "tags": [],
+      "key_quote": "UK Investors Seek $200 Million From Binance and Changpeng Zhao Over Crypto Derivatives Lawsuit CryptoRank"
     },
     {
       "title": "Nearly 1,700 UK investors sue Binance, founder CZ over alleged unauthorized derivatives sales",
@@ -6101,30 +6123,6 @@
         "DeFi"
       ],
       "key_quote": "Bybit CEO Ben: What Defines an Exchange's Competitive Edge? WuBlockchain"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Revealed That This Teenage Obsession Prepped Him In Life For The 'Ultimate' Game — Entrepreneurship",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOei1fYURrckp4XzRLLXh4NEtJQmZuRHVxdXdjRVNKb1UzaEJlc2o3a3V0WUdBR1h1eV9aVDM1RzdMalNSbF9wRlJWNmZEcWExa092dHpmOVR1eXo0elY4ZFlzUkRsUHBCUm14TFRZNHUxYW5aVWJvV2o4WHpXTjZMalNmeVY2eTNrQ2cyZlpKZ3JSSXFrMUgxNnQ0bWtHQW9iRjNNNA?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Revealed That This Teenage Obsession Prepped Him In Life For The 'Ultimate' Game — Entrepreneurship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOei1fYURrckp4XzRLLXh4NEtJQmZuRHVxdXdjRVNKb1UzaEJlc2o3a3V0WUdBR1h1eV9aVDM1RzdMalNSbF9wRlJWNmZEcWExa092dHpmOVR1eXo0elY4ZFlzUkRsUHBCUm14TFRZNHUxYW5aVWJvV2o4WHpXTjZMalNmeVY2eTNrQ2cyZlpKZ3JSSXFrMUgxNnQ0bWtHQW9iRjNNNA?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-27T20:31:11+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong Revealed That This Teenage Obsession Prepped Him In Life For The 'Ultimate' Game — Entrepreneurship Yahoo Finance"
-    },
-    {
-      "title": "Bybit CEO says MiCA not enough for profits",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1zZEgtaGo2SWJvWG5Kcmc5YXdMc3NTdUpfYVhDVzhyUUppbUlMbUF3eGU5MTZwbTFYOTU5U3dGS2tTMm9FWTd0dlF2RVNra1ZJbDBMSndRak1fRVlLMV9Nd2dYRFJvM1BuU0xJOEJtbVNGNVpUakp0d0lMS2Vsdw?oc=5\" target=\"_blank\">Bybit CEO says MiCA not enough for profits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">grafa.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zZEgtaGo2SWJvWG5Kcmc5YXdMc3NTdUpfYVhDVzhyUUppbUlMbUF3eGU5MTZwbTFYOTU5U3dGS2tTMm9FWTd0dlF2RVNra1ZJbDBMSndRak1fRVlLMV9Nd2dYRFJvM1BuU0xJOEJtbVNGNVpUakp0d0lMS2Vsdw?oc=5",
-      "source": "grafa.com",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-04-27T00:00:00+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Bybit CEO says MiCA not enough for profits grafa.com"
     }
   ]
 }
