@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-07-02T03:21:12Z",
+  "updated_at": "2026-07-02T06:57:00Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 86,
+    "CZ": 88,
     "Star Xu": 11,
     "Brian Armstrong": 347,
-    "Richard Teng": 31,
+    "Richard Teng": 29,
     "Ben Zhou": 25
   },
   "articles": [
+    {
+      "title": "UK Investors Sue Binance and Former CEO Changpeng Zhao for $200M",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVZJUWt6VzViRnM0Z1Y1dHEybUlkb3dud0VGYldtS1dOZlVEWGxrTTdRM2E2ZEplWWRycC1NMjRwQTl4cG1LUzI0MFJQaGlXVjFtTWRhbXZLaW02ZjZRQWExUFF1c3l2aVJYa1pONjVFa0Z2UndLbGFZUG9hTGtheVNtRGJ1S2otRnY2ZzY5aGF5a2pETC1xMWNyUlNuWXRUSE5R?oc=5\" target=\"_blank\">UK Investors Sue Binance and Former CEO Changpeng Zhao for $200M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVZJUWt6VzViRnM0Z1Y1dHEybUlkb3dud0VGYldtS1dOZlVEWGxrTTdRM2E2ZEplWWRycC1NMjRwQTl4cG1LUzI0MFJQaGlXVjFtTWRhbXZLaW02ZjZRQWExUFF1c3l2aVJYa1pONjVFa0Z2UndLbGFZUG9hTGtheVNtRGJ1S2otRnY2ZzY5aGF5a2pETC1xMWNyUlNuWXRUSE5R?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-02T01:38:43+00:00",
+      "tags": [
+        "Layer2"
+      ],
+      "key_quote": "UK Investors Sue Binance and Former CEO Changpeng Zhao for $200M CryptoRank"
+    },
     {
       "title": "UK Investors Sue Binance and Former CEO Changpeng Zhao for $200M",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaVFScXBXanNfYUVxc0YzcVlIX2l1M3dZaGNwaHE0YUtrZjVlbVhDTTF5bTJTcGJJNzlCalNkb2tHVERCdi1OTTZmUDF3OG95ekNsYk1sLVUxYWI1N0N5czJSV3M4SXFWT1V0SzBobDVhNjliREZZcS1vMFJ0ZmM3Q3RQbFItQnRYSmtNZGN0a3JyVXc?oc=5\" target=\"_blank\">UK Investors Sue Binance and Former CEO Changpeng Zhao for $200M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoPotato</font>",
@@ -32,6 +45,20 @@
       "key_quote": "Binance, Changpeng Zhao sued in UK by investors seeking 310 billion won 디지털투데이"
     },
     {
+      "title": "Changpeng Zhao Couldn’t Grab His WhatsApp Username – and Exposed a Scam Risk",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wRmJEamZzLWRlNV9oRm5waGxaMmI4RzZtSDRwZzdxRHNELVFWZ0FReVRVWEZfdzV2bmR2ZDNFY2lhNllYaDRlQnZrejZzeE9jVHNGSTNKdE9Bdw?oc=5\" target=\"_blank\">Changpeng Zhao Couldn’t Grab His WhatsApp Username – and Exposed a Scam Risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wRmJEamZzLWRlNV9oRm5waGxaMmI4RzZtSDRwZzdxRHNELVFWZ0FReVRVWEZfdzV2bmR2ZDNFY2lhNllYaDRlQnZrejZzeE9jVHNGSTNKdE9Bdw?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-01T21:59:53+00:00",
+      "tags": [
+        "DeFi",
+        "安全 Security"
+      ],
+      "key_quote": "Changpeng Zhao Couldn’t Grab His WhatsApp Username – and Exposed a Scam Risk Cryptonews.net"
+    },
+    {
       "title": "OKX CEO Pushes Back on CZ’s Claim That Binance’s MiCA Failure Is Europe’s Loss",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ReWVzeUFPZGJOM0p6aHJrbGgxX2dHeHhuRGw5UkllTmd6VllLTm5zTy14STdRNURRaDh4bGF4a2t4dlNpN1ZzNElLYjFqTDJDcFdRdXZ2QQ?oc=5\" target=\"_blank\">OKX CEO Pushes Back on CZ’s Claim That Binance’s MiCA Failure Is Europe’s Loss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ReWVzeUFPZGJOM0p6aHJrbGgxX2dHeHhuRGw5UkllTmd6VllLTm5zTy14STdRNURRaDh4bGF4a2t4dlNpN1ZzNElLYjFqTDJDcFdRdXZ2QQ?oc=5",
@@ -41,6 +68,19 @@
       "published_at": "2026-07-01T19:53:59+00:00",
       "tags": [],
       "key_quote": "OKX CEO Pushes Back on CZ’s Claim That Binance’s MiCA Failure Is Europe’s Loss Cryptonews.net"
+    },
+    {
+      "title": "Brian Armstrong: The U.S. Constitution lacks a cap on government spending growth and a requirement for currency to be backed by hard assets",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE81aEdaSUxaUk5zMWk4LWJGaWZMTzV5bkplcW92aWs5NnJwUlNTa3ptWHhIWGNXQUZEbFd1SnhxaGhRMkhydkloWkpBYTQ4UkJwbWVEbFR1SVVjNXIxSnl5aXpoVdIBY0FVX3lxTE81aEdaSUxaUk5zMWk4LWJGaWZMTzV5bkplcW92aWs5NnJwUlNTa3ptWHhIWGNXQUZEbFd1SnhxaGhRMkhydkloWkpBYTQ4UkJwbWVEbFR1SVVjNXIxSnl5aXpoVQ?oc=5\" target=\"_blank\">Brian Armstrong: The U.S. Constitution lacks a cap on government spending growth and a requirement for currency to be backed by hard assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81aEdaSUxaUk5zMWk4LWJGaWZMTzV5bkplcW92aWs5NnJwUlNTa3ptWHhIWGNXQUZEbFd1SnhxaGhRMkhydkloWkpBYTQ4UkJwbWVEbFR1SVVjNXIxSnl5aXpoVdIBY0FVX3lxTE81aEdaSUxaUk5zMWk4LWJGaWZMTzV5bkplcW92aWs5NnJwUlNTa3ptWHhIWGNXQUZEbFd1SnhxaGhRMkhydkloWkpBYTQ4UkJwbWVEbFR1SVVjNXIxSnl5aXpoVQ?oc=5",
+      "source": "Bitget",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-01T18:57:29+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Constitution lacks a cap on government spending growth and a requirement for currency to be backed by hard assets Bitget"
     },
     {
       "title": "‘Ashamed of him’ – OKX CEO slams CZ as Binance gets hit with $200M UK class lawsuit",
@@ -6083,42 +6123,6 @@
       "published_at": "2026-04-29T07:00:00+00:00",
       "tags": [],
       "key_quote": "Trump pardons Binance founder Changpeng Zhao Investment Executive"
-    },
-    {
-      "title": "People may accept stablecoins and bypass FX, Brian Armstrong notes",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOdk1yREFVM0w4YW53YTVhdnNacTlzMS0wM1FELUMyWjhLMnEzQ2g5NTJpMWtkUUhDSFRGaHBZMk5SRWJkdm5GdnlOQUdpX25nM0RjWmdvXzQzSUhsdlpmTWJDSEI4WFRxR2ZRTkFGTGU3SXFXaVZUZE92aTRRZXZETFhmRlhrbTZDUTF5SXF3azk?oc=5\" target=\"_blank\">People may accept stablecoins and bypass FX, Brian Armstrong notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdk1yREFVM0w4YW53YTVhdnNacTlzMS0wM1FELUMyWjhLMnEzQ2g5NTJpMWtkUUhDSFRGaHBZMk5SRWJkdm5GdnlOQUdpX25nM0RjWmdvXzQzSUhsdlpmTWJDSEI4WFRxR2ZRTkFGTGU3SXFXaVZUZE92aTRRZXZETFhmRlhrbTZDUTF5SXF3azk?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-29T00:15:36+00:00",
-      "tags": [
-        "ETF",
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "People may accept stablecoins and bypass FX, Brian Armstrong notes Traders Union"
-    },
-    {
-      "title": "News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EVmJqWGNsSFl5Z3JXd2xWb1lialZRT3QxSk5sMDFvTmpyNEtXRE51Rk5JODZrRVd5Q0gwaUN6Mm9lc2FMbUpWNXZZLXN4clI3eUl1NUNJYTdJZ2NmUDU0bm5QcDI4QQ?oc=5\" target=\"_blank\">News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EVmJqWGNsSFl5Z3JXd2xWb1lialZRT3QxSk5sMDFvTmpyNEtXRE51Rk5JODZrRVd5Q0gwaUN6Mm9lc2FMbUpWNXZZLXN4clI3eUl1NUNJYTdJZ2NmUDU0bm5QcDI4QQ?oc=5",
-      "source": "Decrypt",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-28T15:58:16+00:00",
-      "tags": [],
-      "key_quote": "News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng Decrypt"
-    },
-    {
-      "title": "News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMbF9RM3lhX015aVd2eGs0dTBNZDZnV0Zld19IQ2l5WjZjZ09pMzV0WUF1eUx3dl8tNzlKYzFRa1hoMlExbGRyVk11azdHSTlZX1VCOG04TzVEbFU?oc=5\" target=\"_blank\">News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMbF9RM3lhX015aVd2eGs0dTBNZDZnV0Zld19IQ2l5WjZjZ09pMzV0WUF1eUx3dl8tNzlKYzFRa1hoMlExbGRyVk11azdHSTlZX1VCOG04TzVEbFU?oc=5",
-      "source": "Decrypt",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-28T15:33:23+00:00",
-      "tags": [],
-      "key_quote": "News Explorer — Binance Co-Founder Yi He Appointed Co-CEO of Crypto Exchange Alongside Richard Teng Decrypt"
     }
   ]
 }
