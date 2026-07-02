@@ -1,14 +1,39 @@
 {
-  "updated_at": "2026-07-02T13:55:38Z",
+  "updated_at": "2026-07-02T15:57:36Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 348,
-    "CZ": 87,
+    "Brian Armstrong": 346,
+    "CZ": 89,
     "Star Xu": 11,
     "Richard Teng": 29,
     "Ben Zhou": 25
   },
   "articles": [
+    {
+      "title": "‘Hard-backed currency’ – Coinbase CEO pushes crypto for $39T debt",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHFqanlFQWFSN0REUnIxbkFIU2d3bDhqc1h5TnYxZ3pNMWJDcmZ4ejNzN0tSOUd3YnJOakp4bG9qRGJmVU1DUE40M3hDVkRSVFlEMHoxSGppOUk3dmRzZk1HeXZRdzlQY0pOZ3F1aTY2cFJsRG1NZ0hLaFpmWW5XYUJUYmhYc2MzbndN0gGQAUFVX3lxTE1Bc2paM2pUcjZMOWVhaGVsbnM3ZnIyNENEVzFoS2wyMk4yeE9sLUVOWVp2eEppZ3R5QnlrRmN4d3psUEtweEhCREdwWjNyMWJMc0FTVThRdXctT0lVRHBSb2ZVMEk5QkhEbFNjZnh5Y2xWcWs3ZGZQTS1mOGJpd2hubk5vd2JBTEc5bHJGRHNnTg?oc=5\" target=\"_blank\">‘Hard-backed currency’ – Coinbase CEO pushes crypto for $39T debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AMBCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHFqanlFQWFSN0REUnIxbkFIU2d3bDhqc1h5TnYxZ3pNMWJDcmZ4ejNzN0tSOUd3YnJOakp4bG9qRGJmVU1DUE40M3hDVkRSVFlEMHoxSGppOUk3dmRzZk1HeXZRdzlQY0pOZ3F1aTY2cFJsRG1NZ0hLaFpmWW5XYUJUYmhYc2MzbndN0gGQAUFVX3lxTE1Bc2paM2pUcjZMOWVhaGVsbnM3ZnIyNENEVzFoS2wyMk4yeE9sLUVOWVp2eEppZ3R5QnlrRmN4d3psUEtweEhCREdwWjNyMWJMc0FTVThRdXctT0lVRHBSb2ZVMEk5QkhEbFNjZnh5Y2xWcWs3ZGZQTS1mOGJpd2hubk5vd2JBTEc5bHJGRHNnTg?oc=5",
+      "source": "AMBCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-02T14:00:26+00:00",
+      "tags": [],
+      "key_quote": "‘Hard-backed currency’ – Coinbase CEO pushes crypto for $39T debt AMBCrypto"
+    },
+    {
+      "title": "Changpeng Zhao Forecasts Bitcoin’s Price Will Reach $1 Million",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTJvcDg1TWhqTExVYUc2UFJNN2lycFgyck43YmxLbHhFMXNSQlRnQUoxZTdndVp1OTNjY0FXbXpORXJZT3FtRkNzSjE2YWJBUVJGdV9UUjJFMkE1Zl9HbFJJSVNLMmxFLVBONFVjdkJ2OWpmNlk4eFYwX3BueWxoN3FVZ0dlSDVNcy12eFJwMkVSRWVsYlRFcS0zX2RRZ05UU2NoVm13?oc=5\" target=\"_blank\">Changpeng Zhao Forecasts Bitcoin’s Price Will Reach $1 Million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTJvcDg1TWhqTExVYUc2UFJNN2lycFgyck43YmxLbHhFMXNSQlRnQUoxZTdndVp1OTNjY0FXbXpORXJZT3FtRkNzSjE2YWJBUVJGdV9UUjJFMkE1Zl9HbFJJSVNLMmxFLVBONFVjdkJ2OWpmNlk4eFYwX3BueWxoN3FVZ0dlSDVNcy12eFJwMkVSRWVsYlRFcS0zX2RRZ05UU2NoVm13?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-02T13:53:00+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Changpeng Zhao Forecasts Bitcoin’s Price Will Reach $1 Million Yahoo Finance"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Says US Constitution Is Missing Two Fiscal Safeguards as Debt Tops $39 Trillion",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMUpPc1VCY3lvbDJoNHl6YkV5Q3psVVRCODRLR1ByR2lYdUNwdC1IYnhZOTAxV1AwWmRxR1h3RVo4NmxxRVFWbkV5Ry1fYXJKZnAwZWdUWnRmbUNGYjVIN2c3cXJFbjI2VXNscS10OW13UUd3aU9mN3VpaEhYVl9zQWxKX2JEc0FoNDVEZ2l0WW1qTEtCRVJRRERZUU84MjIwRkE0Mk1WTmRmVEJpWXEtcV9fUjY3VjJWZ0ZLdWRHY0NuUjdpT19SenJCRzNFaHRMWm1NS0Z4bjJzZUNVVzlaUWZ4TVBQQWVLcGN0emVjV2JyZw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says US Constitution Is Missing Two Fiscal Safeguards as Debt Tops $39 Trillion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -275,6 +300,17 @@
       "published_at": "2026-06-30T21:16:18+00:00",
       "tags": [],
       "key_quote": "Crypto exchange Binance and its founder were sued for nearly $200 million in a new lawsuit filed in the United Kingdom."
+    },
+    {
+      "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcTAySnhHQWNfZ0phdjI1T0ttZXRvQVFSdmhDRjd3dk55cy1yTFR5WWNSNnNxbGdaTllaUXlMVWk2RnlUM29adTd3ZUZfZGdibWRrSmVPTVBtREVEUHJSSlN4dy1zUWRyQlpJbDdRWktHUS1fVXc2LTRqRUtWNXRsRlVUaDRReEl1dkpJMU1tMGwzT2Fhb2VmZDRpU2R4d9IBngFBVV95cUxOcTAySnhHQWNfZ0phdjI1T0ttZXRvQVFSdmhDRjd3dk55cy1yTFR5WWNSNnNxbGdaTllaUXlMVWk2RnlUM29adTd3ZUZfZGdibWRrSmVPTVBtREVEUHJSSlN4dy1zUWRyQlpJbDdRWktHUS1fVXc2LTRqRUtWNXRsRlVUaDRReEl1dkpJMU1tMGwzT2Fhb2VmZDRpU2R4dw?oc=5\" target=\"_blank\">Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcTAySnhHQWNfZ0phdjI1T0ttZXRvQVFSdmhDRjd3dk55cy1yTFR5WWNSNnNxbGdaTllaUXlMVWk2RnlUM29adTd3ZUZfZGdibWRrSmVPTVBtREVEUHJSSlN4dy1zUWRyQlpJbDdRWktHUS1fVXc2LTRqRUtWNXRsRlVUaDRReEl1dkpJMU1tMGwzT2Fhb2VmZDRpU2R4d9IBngFBVV95cUxOcTAySnhHQWNfZ0phdjI1T0ttZXRvQVFSdmhDRjd3dk55cy1yTFR5WWNSNnNxbGdaTllaUXlMVWk2RnlUM29adTd3ZUZfZGdibWRrSmVPTVBtREVEUHJSSlN4dy1zUWRyQlpJbDdRWktHUS1fVXc2LTRqRUtWNXRsRlVUaDRReEl1dkpJMU1tMGwzT2Fhb2VmZDRpU2R4dw?oc=5",
+      "source": "Decrypt",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-30T21:16:18+00:00",
+      "tags": [],
+      "key_quote": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters Decrypt"
     },
     {
       "title": "Binance and Changpeng Zhao face claim from 1,700 UK investors over risky derivatives",
@@ -6086,43 +6122,6 @@
       "published_at": "2026-04-29T14:30:00+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO proposes surprising fix to $60B remittance fees Yahoo Finance"
-    },
-    {
-      "title": "Brian Armstrong stablecoin stance contrasts with declining Coinbase momentum",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzh6aEowSElXVzkzN1ZWMXZTMWdLb3ZiUDhHcDNNM3RyaUNUekNNbk16aVBCbmlpLWhsR21XQW43WUFHQWdNUzRNVjU2S3dUTVBqTklZa3RmdkNqMmtYdi1SeHZLekZIS3lvell6eUt3SGJuNlU0bHJVeVBOeVpvRXdvbXc4bkhleXNCWDI2M19tSURURUZV?oc=5\" target=\"_blank\">Brian Armstrong stablecoin stance contrasts with declining Coinbase momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzh6aEowSElXVzkzN1ZWMXZTMWdLb3ZiUDhHcDNNM3RyaUNUekNNbk16aVBCbmlpLWhsR21XQW43WUFHQWdNUzRNVjU2S3dUTVBqTklZa3RmdkNqMmtYdi1SeHZLekZIS3lvell6eUt3SGJuNlU0bHJVeVBOeVpvRXdvbXc4bkhleXNCWDI2M19tSURURUZV?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-29T14:04:20+00:00",
-      "tags": [
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "Brian Armstrong stablecoin stance contrasts with declining Coinbase momentum Traders Union"
-    },
-    {
-      "title": "Coinbase CEO proposes surprising fix to $60B remittance fees",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOTE5fOG5NcktKMEdkYjJIeHBxLXdJRTg0WHhyallfSU9pYWZKeW1UTUU3TlhCT2FhRTRrdEN6UWNZeGpoYktBRDJFVVNKS1VJZ1lCQWdlQjhiaW1PTHJsY1AzVkF4ckF5QWg0RmtZVl85S1hZSWtyNnAxYW8wLS1aT2dvdTlfeDlUdUFkWlNDOS14UQ?oc=5\" target=\"_blank\">Coinbase CEO proposes surprising fix to $60B remittance fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roundtable.io</font>",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTE5fOG5NcktKMEdkYjJIeHBxLXdJRTg0WHhyallfSU9pYWZKeW1UTUU3TlhCT2FhRTRrdEN6UWNZeGpoYktBRDJFVVNKS1VJZ1lCQWdlQjhiaW1PTHJsY1AzVkF4ckF5QWg0RmtZVl85S1hZSWtyNnAxYW8wLS1aT2dvdTlfeDlUdUFkWlNDOS14UQ?oc=5",
-      "source": "roundtable.io",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-29T13:39:21+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO proposes surprising fix to $60B remittance fees roundtable.io"
-    },
-    {
-      "title": "Coinbase CEO proposes surprising fix to $60B remittance fees",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPenA2MGN1djlxbnZ3cVBLZ1VBbkxvUHYzenlkc25lcUF3cXk5LTJ2cVh0SVJmTTRYVGhrUnB2a04wRGsyVkVucXpZZ2xocDg3V0FyWWt2QU5MYnA1bDEtdnNpUWY0c2ktLUFLZVFKMlUwWVY5MXZudldoX3pGeThjNGswYmYweTVkQmxRWVM0RHFmSWFTSTFmVkFReUNQU3VidXc?oc=5\" target=\"_blank\">Coinbase CEO proposes surprising fix to $60B remittance fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenA2MGN1djlxbnZ3cVBLZ1VBbkxvUHYzenlkc25lcUF3cXk5LTJ2cVh0SVJmTTRYVGhrUnB2a04wRGsyVkVucXpZZ2xocDg3V0FyWWt2QU5MYnA1bDEtdnNpUWY0c2ktLUFLZVFKMlUwWVY5MXZudldoX3pGeThjNGswYmYweTVkQmxRWVM0RHFmSWFTSTFmVkFReUNQU3VidXc?oc=5",
-      "source": "thestreet.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-29T11:30:00+00:00",
-      "tags": [
-        "Ethereum"
-      ],
-      "key_quote": "Coinbase CEO proposes surprising fix to $60B remittance fees thestreet.com"
     }
   ]
 }
