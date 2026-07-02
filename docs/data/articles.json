@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-02T09:53:46Z",
+  "updated_at": "2026-07-02T11:59:15Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 88,
+    "Brian Armstrong": 348,
+    "CZ": 87,
     "Star Xu": 11,
-    "Brian Armstrong": 347,
     "Richard Teng": 29,
     "Ben Zhou": 25
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Says US Constitution Is Missing Two Fiscal Safeguards as Debt Tops $39 Trillion",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMUpPc1VCY3lvbDJoNHl6YkV5Q3psVVRCODRLR1ByR2lYdUNwdC1IYnhZOTAxV1AwWmRxR1h3RVo4NmxxRVFWbkV5Ry1fYXJKZnAwZWdUWnRmbUNGYjVIN2c3cXJFbjI2VXNscS10OW13UUd3aU9mN3VpaEhYVl9zQWxKX2JEc0FoNDVEZ2l0WW1qTEtCRVJRRERZUU84MjIwRkE0Mk1WTmRmVEJpWXEtcV9fUjY3VjJWZ0ZLdWRHY0NuUjdpT19SenJCRzNFaHRMWm1NS0Z4bjJzZUNVVzlaUWZ4TVBQQWVLcGN0emVjV2JyZw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says US Constitution Is Missing Two Fiscal Safeguards as Debt Tops $39 Trillion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMUpPc1VCY3lvbDJoNHl6YkV5Q3psVVRCODRLR1ByR2lYdUNwdC1IYnhZOTAxV1AwWmRxR1h3RVo4NmxxRVFWbkV5Ry1fYXJKZnAwZWdUWnRmbUNGYjVIN2c3cXJFbjI2VXNscS10OW13UUd3aU9mN3VpaEhYVl9zQWxKX2JEc0FoNDVEZ2l0WW1qTEtCRVJRRERZUU84MjIwRkE0Mk1WTmRmVEJpWXEtcV9fUjY3VjJWZ0ZLdWRHY0NuUjdpT19SenJCRzNFaHRMWm1NS0Z4bjJzZUNVVzlaUWZ4TVBQQWVLcGN0emVjV2JyZw?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-02T10:36:27+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Says US Constitution Is Missing Two Fiscal Safeguards as Debt Tops $39 Trillion Benzinga"
+    },
     {
       "title": "UK Investors Sue Binance and Former CEO Changpeng Zhao for $200M",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVZJUWt6VzViRnM0Z1Y1dHEybUlkb3dud0VGYldtS1dOZlVEWGxrTTdRM2E2ZEplWWRycC1NMjRwQTl4cG1LUzI0MFJQaGlXVjFtTWRhbXZLaW02ZjZRQWExUFF1c3l2aVJYa1pONjVFa0Z2UndLbGFZUG9hTGtheVNtRGJ1S2otRnY2ZzY5aGF5a2pETC1xMWNyUlNuWXRUSE5R?oc=5\" target=\"_blank\">UK Investors Sue Binance and Former CEO Changpeng Zhao for $200M</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
@@ -6112,17 +6123,6 @@
         "Ethereum"
       ],
       "key_quote": "Coinbase CEO proposes surprising fix to $60B remittance fees thestreet.com"
-    },
-    {
-      "title": "Trump pardons Binance founder Changpeng Zhao",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0lzblREM2tURDBGekREQm5nUHFZRHJ1QnRLYW9IVFpWX1QyaGp4UlVXVk9HdU9qVFExYlJqd2VVYjk1MUYwcmNrR0FuN0pHMWxMMDhoeUI4aWZDeElNWWtxZGp0dUlxUUFITmJSYkc2ZHBDYzJxYU9iWFUxeDd5cUFVNmU5ODVLVTlENmlIZmNIcWZZSzkzSDJ4SQ?oc=5\" target=\"_blank\">Trump pardons Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investment Executive</font>",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0lzblREM2tURDBGekREQm5nUHFZRHJ1QnRLYW9IVFpWX1QyaGp4UlVXVk9HdU9qVFExYlJqd2VVYjk1MUYwcmNrR0FuN0pHMWxMMDhoeUI4aWZDeElNWWtxZGp0dUlxUUFITmJSYkc2ZHBDYzJxYU9iWFUxeDd5cUFVNmU5ODVLVTlENmlIZmNIcWZZSzkzSDJ4SQ?oc=5",
-      "source": "Investment Executive",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-29T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Trump pardons Binance founder Changpeng Zhao Investment Executive"
     }
   ]
 }
