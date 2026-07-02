@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-02T15:57:36Z",
+  "updated_at": "2026-07-02T17:39:07Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 346,
-    "CZ": 89,
+    "Brian Armstrong": 345,
+    "CZ": 90,
     "Star Xu": 11,
     "Richard Teng": 29,
     "Ben Zhou": 25
@@ -13,6 +13,17 @@
       "title": "‘Hard-backed currency’ – Coinbase CEO pushes crypto for $39T debt",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHFqanlFQWFSN0REUnIxbkFIU2d3bDhqc1h5TnYxZ3pNMWJDcmZ4ejNzN0tSOUd3YnJOakp4bG9qRGJmVU1DUE40M3hDVkRSVFlEMHoxSGppOUk3dmRzZk1HeXZRdzlQY0pOZ3F1aTY2cFJsRG1NZ0hLaFpmWW5XYUJUYmhYc2MzbndN0gGQAUFVX3lxTE1Bc2paM2pUcjZMOWVhaGVsbnM3ZnIyNENEVzFoS2wyMk4yeE9sLUVOWVp2eEppZ3R5QnlrRmN4d3psUEtweEhCREdwWjNyMWJMc0FTVThRdXctT0lVRHBSb2ZVMEk5QkhEbFNjZnh5Y2xWcWs3ZGZQTS1mOGJpd2hubk5vd2JBTEc5bHJGRHNnTg?oc=5\" target=\"_blank\">‘Hard-backed currency’ – Coinbase CEO pushes crypto for $39T debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AMBCrypto</font>",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHFqanlFQWFSN0REUnIxbkFIU2d3bDhqc1h5TnYxZ3pNMWJDcmZ4ejNzN0tSOUd3YnJOakp4bG9qRGJmVU1DUE40M3hDVkRSVFlEMHoxSGppOUk3dmRzZk1HeXZRdzlQY0pOZ3F1aTY2cFJsRG1NZ0hLaFpmWW5XYUJUYmhYc2MzbndN0gGQAUFVX3lxTE1Bc2paM2pUcjZMOWVhaGVsbnM3ZnIyNENEVzFoS2wyMk4yeE9sLUVOWVp2eEppZ3R5QnlrRmN4d3psUEtweEhCREdwWjNyMWJMc0FTVThRdXctT0lVRHBSb2ZVMEk5QkhEbFNjZnh5Y2xWcWs3ZGZQTS1mOGJpd2hubk5vd2JBTEc5bHJGRHNnTg?oc=5",
+      "source": "AMBCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-02T14:00:26+00:00",
+      "tags": [],
+      "key_quote": "‘Hard-backed currency’ – Coinbase CEO pushes crypto for $39T debt AMBCrypto"
+    },
+    {
+      "title": "‘Hard-backed currency’ – Coinbase CEO pushes crypto for $39T debt",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXNqWjNqVHI2TDllYWhlbG5zN2ZyMjRDRFcxaEtsMjJOMnhPbC1FTlladnhKaWd0eUJ5a0ZjeHd6bFBLcHhIQkRHcFozcjFiTHNBU1U4UXV3LU9JVURwUm9mVTBJOUJIRGxTY2Z4eWNsVnFrN2RmUE0tZjhiaXdobm5Ob3diQUxHOWxyRkRzZ07SAZABQVVfeXFMTUFzalozalRyNkw5ZWFoZWxuczdmcjI0Q0RXMWhLbDIyTjJ4T2wtRU5ZWnZ4SmlndHlCeWtGY3h3emxQS3B4SEJER3BaM3IxYkxzQVNVOFF1dy1PSVVEcFJvZlUwSTlCSERsU2NmeHljbFZxazdkZlBNLWY4Yml3aG5uTm93YkFMRzlsckZEc2dO?oc=5\" target=\"_blank\">‘Hard-backed currency’ – Coinbase CEO pushes crypto for $39T debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AMBCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQXNqWjNqVHI2TDllYWhlbG5zN2ZyMjRDRFcxaEtsMjJOMnhPbC1FTlladnhKaWd0eUJ5a0ZjeHd6bFBLcHhIQkRHcFozcjFiTHNBU1U4UXV3LU9JVURwUm9mVTBJOUJIRGxTY2Z4eWNsVnFrN2RmUE0tZjhiaXdobm5Ob3diQUxHOWxyRkRzZ07SAZABQVVfeXFMTUFzalozalRyNkw5ZWFoZWxuczdmcjI0Q0RXMWhLbDIyTjJ4T2wtRU5ZWnZ4SmlndHlCeWtGY3h3emxQS3B4SEJER3BaM3IxYkxzQVNVOFF1dy1PSVVEcFJvZlUwSTlCSERsU2NmeHljbFZxazdkZlBNLWY4Yml3aG5uTm93YkFMRzlsckZEc2dO?oc=5",
       "source": "AMBCrypto",
       "ceo_name": "Brian Armstrong",
       "exchange": "Coinbase",
@@ -411,6 +422,17 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong: 1,200 AI Agents Now Work Full-Time at the Crypto Giant BigGo Finance"
+    },
+    {
+      "title": "Crypto Billionaire Changpeng Zhao Isn't Chasing Fame, Legacy, Money Or Power, But Here's What He Wants To Do Instead",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOajc5RHk5WGVzNkw0dXVITnZQU1BoaVQ4bkU0aEh3NmltQzZkT1lWMU9ld3RYeEFzZVhrcmFVTXh3ZnJzRWo4X1ZDN0RsQmNHMkhEUGhEeEZyR1VlUzgwa2xTZ0RXSlNJcjh3NUJXX0ZnY2Q5VGI5X1V3dURuaGRIZzN2NVR1akVHWm5BVW1FMEl3aWZ1cmF4RlRHNHJVdklJVHV4ZTFZMUZxNzV5RFFmVkZDbzY2Xy0wTGR4RnNtZkZjMFVMZU1mZXNGUG9OZVdud3ZfdGVXOGtoTzdja0ZEVnlEUjlTVm1LRm8wamlpTzNWUFgtenc?oc=5\" target=\"_blank\">Crypto Billionaire Changpeng Zhao Isn't Chasing Fame, Legacy, Money Or Power, But Here's What He Wants To Do Instead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOajc5RHk5WGVzNkw0dXVITnZQU1BoaVQ4bkU0aEh3NmltQzZkT1lWMU9ld3RYeEFzZVhrcmFVTXh3ZnJzRWo4X1ZDN0RsQmNHMkhEUGhEeEZyR1VlUzgwa2xTZ0RXSlNJcjh3NUJXX0ZnY2Q5VGI5X1V3dURuaGRIZzN2NVR1akVHWm5BVW1FMEl3aWZ1cmF4RlRHNHJVdklJVHV4ZTFZMUZxNzV5RFFmVkZDbzY2Xy0wTGR4RnNtZkZjMFVMZU1mZXNGUG9OZVdud3ZfdGVXOGtoTzdja0ZEVnlEUjlTVm1LRm8wamlpTzNWUFgtenc?oc=5",
+      "source": "Sahm",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-29T12:57:01+00:00",
+      "tags": [],
+      "key_quote": "Crypto Billionaire Changpeng Zhao Isn't Chasing Fame, Legacy, Money Or Power, But Here's What He Wants To Do Instead Sahm"
     },
     {
       "title": "Crypto Billionaire Changpeng Zhao Isn't Chasing Fame, Legacy, Money Or Power, But Here's What He Wants To Do Instead",
@@ -6097,31 +6119,6 @@
         "Ethereum"
       ],
       "key_quote": "Brian Armstrong reveals retail users 'buying the dip' in Bitcoin, Ethereum: Coinbase CEO says, 'They have diamond hands' MSN"
-    },
-    {
-      "title": "Coinbase CEO Says Stablecoins Could Cut $60B Remittance Fees",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQVlBNGJGM3RfX0dhcUtoR25hdGpqTTBDOFItU293WUNZSzJvQ0xXeVhBYnVYN0owY29kZHZBZlhGOF9keGlzeHRSTHAzYTROby1ZendMUnFBRnVJSHB5b0k5Tms2TndiS3B4ZHVrOTdDUFZLOFFIQkdTWG5RZWZWYVEwZG1uTDN3UDUxdGtSUWp3U3RBM1ljQ1BNZUh5UdIBqwFBVV95cUxQcEZuajc5MlA0eDl2emp4QUhvcm1QdllrbDc5cXFkZlhzYVJoYmdKNjBOeV9JOVFuYXdIQ1R3bDh5dEtkOTZVN2JfOUdGazdZN3JYZ1N0NHY4WHBUTDJ3TzVLTzMzRjB6NlUtV3JNQVNBRUo2Wms2LU1nTllsUnpySjhEYjhvN0pHcVVldkc0cGFoMFFNaXByRzhYOHJXTFpYWUdmTG1uamtBaTA?oc=5\" target=\"_blank\">Coinbase CEO Says Stablecoins Could Cut $60B Remittance Fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Analytics Insight</font>",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVlBNGJGM3RfX0dhcUtoR25hdGpqTTBDOFItU293WUNZSzJvQ0xXeVhBYnVYN0owY29kZHZBZlhGOF9keGlzeHRSTHAzYTROby1ZendMUnFBRnVJSHB5b0k5Tms2TndiS3B4ZHVrOTdDUFZLOFFIQkdTWG5RZWZWYVEwZG1uTDN3UDUxdGtSUWp3U3RBM1ljQ1BNZUh5UdIBqwFBVV95cUxQcEZuajc5MlA0eDl2emp4QUhvcm1QdllrbDc5cXFkZlhzYVJoYmdKNjBOeV9JOVFuYXdIQ1R3bDh5dEtkOTZVN2JfOUdGazdZN3JYZ1N0NHY4WHBUTDJ3TzVLTzMzRjB6NlUtV3JNQVNBRUo2Wms2LU1nTllsUnpySjhEYjhvN0pHcVVldkc0cGFoMFFNaXByRzhYOHJXTFpYWUdmTG1uamtBaTA?oc=5",
-      "source": "Analytics Insight",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-29T15:30:00+00:00",
-      "tags": [
-        "稳定币 Stablecoin",
-        "Layer2"
-      ],
-      "key_quote": "Coinbase CEO Says Stablecoins Could Cut $60B Remittance Fees Analytics Insight"
-    },
-    {
-      "title": "Coinbase CEO proposes surprising fix to $60B remittance fees",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmhrQUdwbVl6ZWU0eGlDcHA1RUVSQTdRNVFUZk5IMFUyUVFWaHlheS1JOXlqVFB5LW1hNHdRY1RHRDNWV2ZTUkpUUmh1djRVUWlBMHhYTlU5TG9fdGpVdDlOeGFTWHBzSUo1cTFjdzJOcktJRTA4cUdrc0dyWnNJQ0VyOS1VTFRGX0pFb1lTTHB1ZThnMXZyZTFSUVpORi1GTDBZ?oc=5\" target=\"_blank\">Coinbase CEO proposes surprising fix to $60B remittance fees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmhrQUdwbVl6ZWU0eGlDcHA1RUVSQTdRNVFUZk5IMFUyUVFWaHlheS1JOXlqVFB5LW1hNHdRY1RHRDNWV2ZTUkpUUmh1djRVUWlBMHhYTlU5TG9fdGpVdDlOeGFTWHBzSUo1cTFjdzJOcktJRTA4cUdrc0dyWnNJQ0VyOS1VTFRGX0pFb1lTTHB1ZThnMXZyZTFSUVpORi1GTDBZ?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-04-29T14:30:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO proposes surprising fix to $60B remittance fees Yahoo Finance"
     }
   ]
 }
