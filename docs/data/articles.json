@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-03T20:09:13Z",
+  "updated_at": "2026-07-03T21:52:27Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 91,
-    "Brian Armstrong": 347,
+    "CZ": 90,
+    "Brian Armstrong": 348,
     "Star Xu": 11,
     "Richard Teng": 28,
     "Ben Zhou": 23
@@ -2086,6 +2086,19 @@
         "AI"
       ],
       "key_quote": "Bybit CEO Ben Zhou on Trust, AI, and the New Financial Platform at Paris Blockchain Week 2026 CCN.com"
+    },
+    {
+      "title": "Coinbase CEO Says Americans Drove Offshore Crypto Perps Through VPNs",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHJLTHVpdkFVZklldEhFakJZaHBTdU8ydGNib21jaFZUeXpzOVVvSG1PV0EwbGpJUjdUNGZ6MkIybzRFcGZvTGVXVWt5ZlVmeUdLY2xNUk1MLXU4Vm5GNUZUZXRDa1Y3WnpGX0lEUl8yT3gzaDlnc1ZfMl84MU8wbUZXeHVnOFBBQlNDLTlCQzlVZTlmUnUtbXpQRzh0anhEUGthWVZKY2FxaTVPcDEtUU9xTW9RdW8zVllGb3JEdTN1MjNa?oc=5\" target=\"_blank\">Coinbase CEO Says Americans Drove Offshore Crypto Perps Through VPNs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Foundation</font>",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdHJLTHVpdkFVZklldEhFakJZaHBTdU8ydGNib21jaFZUeXpzOVVvSG1PV0EwbGpJUjdUNGZ6MkIybzRFcGZvTGVXVWt5ZlVmeUdLY2xNUk1MLXU4Vm5GNUZUZXRDa1Y3WnpGX0lEUl8yT3gzaDlnc1ZfMl84MU8wbUZXeHVnOFBBQlNDLTlCQzlVZTlmUnUtbXpQRzh0anhEUGthWVZKY2FxaTVPcDEtUU9xTW9RdW8zVllGb3JEdTN1MjNa?oc=5",
+      "source": "Bitcoin Foundation",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-11T07:00:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Says Americans Drove Offshore Crypto Perps Through VPNs Bitcoin Foundation"
     },
     {
       "title": "Brian Armstrong Says Coinbase Processes $1T in Stablecoin Payments Annually",
@@ -6111,17 +6124,6 @@
       "published_at": "2026-04-30T10:30:00+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao has some scores to settle in 'Freedom of Money' thestreet.com"
-    },
-    {
-      "title": "Changpeng Zhao has some scores to settle in 'Freedom of Money'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdW9xNEUzUEdSNW1lOFlZajBTOHdNU2lMbUFXT054V1Q1T25VWU81QXN4Vmd1RVhRczE0MWM4QkNkUWF1TEFkYk1xSkZEbkJoWnJHZFBwNkZPU1FkV3h0Rktlai1ZY1JIRW9WM1JMNnhsWkVaSWtBYU9OMnJidlZTTFZrWVZRZw?oc=5\" target=\"_blank\">Changpeng Zhao has some scores to settle in 'Freedom of Money'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdW9xNEUzUEdSNW1lOFlZajBTOHdNU2lMbUFXT054V1Q1T25VWU81QXN4Vmd1RVhRczE0MWM4QkNkUWF1TEFkYk1xSkZEbkJoWnJHZFBwNkZPU1FkV3h0Rktlai1ZY1JIRW9WM1JMNnhsWkVaSWtBYU9OMnJidlZTTFZrWVZRZw?oc=5",
-      "source": "AOL.com",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-30T10:30:00+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao has some scores to settle in 'Freedom of Money' AOL.com"
     }
   ]
 }
