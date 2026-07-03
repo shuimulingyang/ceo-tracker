@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-03T13:26:27Z",
+  "updated_at": "2026-07-03T15:45:54Z",
   "total": 500,
   "by_ceo": {
+    "CZ": 91,
     "Brian Armstrong": 347,
-    "CZ": 90,
     "Star Xu": 11,
-    "Richard Teng": 29,
+    "Richard Teng": 28,
     "Ben Zhou": 23
   },
   "articles": [
+    {
+      "title": "News Explorer — Binance Founder Changpeng Zhao Says He's Been Misunderstood, Hopes to Boost US Crypto Industry",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMnJKazREaHo2c25mWnBfcW9vQ3BHTkZHVnRtNUJORUctd19ZQ0ViNzZjNzc2bXBlTmR1NW0zWTE4ZHQ0MGhySXZZdl9xZXhIWHd2dlpPVEl4MHdrR01zUnVmOGZiWXdmU2ZDb05mYnZRZjA2SUZ0RnZOOXRldDNaWUlrN3F1cm1ORkgzMHR6MTdiWXlHeERwcnd0eVVCaU5LZnFBMDFNdU9YV3BkMjUyeFFINnVBY252Sy1fQkFtN1c4VHo5Nk5qMENHM1NVd1ExT1VySlRRUThfNzRRZDRJdlNjVDhRRFI2ZFE?oc=5\" target=\"_blank\">News Explorer — Binance Founder Changpeng Zhao Says He's Been Misunderstood, Hopes to Boost US Crypto Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMnJKazREaHo2c25mWnBfcW9vQ3BHTkZHVnRtNUJORUctd19ZQ0ViNzZjNzc2bXBlTmR1NW0zWTE4ZHQ0MGhySXZZdl9xZXhIWHd2dlpPVEl4MHdrR01zUnVmOGZiWXdmU2ZDb05mYnZRZjA2SUZ0RnZOOXRldDNaWUlrN3F1cm1ORkgzMHR6MTdiWXlHeERwcnd0eVVCaU5LZnFBMDFNdU9YV3BkMjUyeFFINnVBY252Sy1fQkFtN1c4VHo5Nk5qMENHM1NVd1ExT1VySlRRUThfNzRRZDRJdlNjVDhRRFI2ZFE?oc=5",
+      "source": "Decrypt",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-02T22:24:51+00:00",
+      "tags": [],
+      "key_quote": "News Explorer — Binance Founder Changpeng Zhao Says He's Been Misunderstood, Hopes to Boost US Crypto Industry Decrypt"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Says AI Will Favor Defenders Over Attackers in Cybersecurity",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQM01YZkhGX3hzdU4tTnMtZUhxMlgtMTc1eU1ZUGI5NW51UnFGSmc3bC1zbjRseVQ5VjVzVjFwT19KZThFekQzZHM2ZUMtd3VCT095eGY3c0ZUbExyMTl1ME1qRlRVMXBlaEMwaXRGNllTQWtBNGRkd09UWFBIbWV4d0xGbkZGREZrT2k4bWFVTE0yeFdQQTlEemJ3?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says AI Will Favor Defenders Over Attackers in Cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font>",
@@ -6111,17 +6122,6 @@
       "published_at": "2026-04-30T10:30:00+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao has some scores to settle in 'Freedom of Money' AOL.com"
-    },
-    {
-      "title": "Richard Teng: Crypto ecosystem growth depends on local communities worldwide",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkRUbHc5akx2TVpuc0FSN0xXakl0eHVTd2lhQ3BIeDZwbU9RRmd0elNENC1GQXdCMDFyeDBpZ28ya25WUWNiejJQOGg0eWRXc0lDTGRYRVU2cEZ0cFVZOTJvMk9mWE8xcUhqZEIzMXZkeHB2YUdacExTajdIcl9CN3p2eU1SOUpsSEk2dHNtZWNoUFU?oc=5\" target=\"_blank\">Richard Teng: Crypto ecosystem growth depends on local communities worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkRUbHc5akx2TVpuc0FSN0xXakl0eHVTd2lhQ3BIeDZwbU9RRmd0elNENC1GQXdCMDFyeDBpZ28ya25WUWNiejJQOGg0eWRXc0lDTGRYRVU2cEZ0cFVZOTJvMk9mWE8xcUhqZEIzMXZkeHB2YUdacExTajdIcl9CN3p2eU1SOUpsSEk2dHNtZWNoUFU?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-04-30T09:45:31+00:00",
-      "tags": [],
-      "key_quote": "Richard Teng: Crypto ecosystem growth depends on local communities worldwide Traders Union"
     }
   ]
 }
