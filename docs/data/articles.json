@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-03T05:39:04Z",
+  "updated_at": "2026-07-03T08:42:08Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 346,
+    "Brian Armstrong": 347,
     "CZ": 90,
     "Star Xu": 11,
     "Richard Teng": 29,
-    "Ben Zhou": 24
+    "Ben Zhou": 23
   },
   "articles": [
     {
@@ -981,6 +981,17 @@
       "published_at": "2026-06-25T07:09:48+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO ties crypto growth to finance grafa.com"
+    },
+    {
+      "title": "Brian Armstrong Obituary",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHp5UkVkU0drZE8tb2FxQVJFQU9lN1dpZkpibkpla2FzRjRHNkZWUDlOMENtODVCMzIwbUxkX05xWjlnQ1R1WXFhUHRrTlJUc2dxQ19NbzFDUjdiZm9EYzhna1BlSGt3WW05bTNFc3BxYXo1dUMzYWdMRUtoZ01oMTBHR2NTWVlqQXBzcTVZZW9nSFU?oc=5\" target=\"_blank\">Brian Armstrong Obituary - Peterborough, ON</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dignity Memorial</font>",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHp5UkVkU0drZE8tb2FxQVJFQU9lN1dpZkpibkpla2FzRjRHNkZWUDlOMENtODVCMzIwbUxkX05xWjlnQ1R1WXFhUHRrTlJUc2dxQ19NbzFDUjdiZm9EYzhna1BlSGt3WW05bTNFc3BxYXo1dUMzYWdMRUtoZ01oMTBHR2NTWVlqQXBzcTVZZW9nSFU?oc=5",
+      "source": "Peterborough, ON - Dignity Memorial",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong Obituary - Peterborough, ON Dignity Memorial"
     },
     {
       "title": "Coinbase CEO Says More Deals Possible After $2.9 Billion Deribit Acquisition",
@@ -6111,17 +6122,6 @@
       "published_at": "2026-04-30T09:45:31+00:00",
       "tags": [],
       "key_quote": "Richard Teng: Crypto ecosystem growth depends on local communities worldwide Traders Union"
-    },
-    {
-      "title": "Bybit CEO Says Malaysia Watchlist Status Lifted After Talks With Regulators",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1U4U2hQN3N3N3AzSUVuTXdJSXp3bEw2Vjh3NFFtVU9RQnFjZl9DQUJBUFFCVUk0WDh3d2dNR2t3TUdpY1BCaUQ5a3NqdHpEZWJqd2ZZWHowMGh4TkxZM2txVmdWUjRqZmJCT2FOTHVrM2NvQ2Z6Nm9ncU10SHRaMnc3LWp6VU1LNUpMQmgyNFh5WXExY0dOVngzZGlsY291TklZ?oc=5\" target=\"_blank\">Bybit CEO Says Malaysia Watchlist Status Lifted After Talks With Regulators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1U4U2hQN3N3N3AzSUVuTXdJSXp3bEw2Vjh3NFFtVU9RQnFjZl9DQUJBUFFCVUk0WDh3d2dNR2t3TUdpY1BCaUQ5a3NqdHpEZWJqd2ZZWHowMGh4TkxZM2txVmdWUjRqZmJCT2FOTHVrM2NvQ2Z6Nm9ncU10SHRaMnc3LWp6VU1LNUpMQmgyNFh5WXExY0dOVngzZGlsY291TklZ?oc=5",
-      "source": "FinanceFeeds",
-      "ceo_name": "Ben Zhou",
-      "exchange": "Bybit",
-      "published_at": "2026-04-30T09:03:43+00:00",
-      "tags": [],
-      "key_quote": "Bybit CEO Says Malaysia Watchlist Status Lifted After Talks With Regulators FinanceFeeds"
     }
   ]
 }
