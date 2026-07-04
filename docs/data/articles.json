@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-04T10:46:27Z",
+  "updated_at": "2026-07-04T11:58:59Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 349,
-    "CZ": 89,
+    "CZ": 88,
     "Star Xu": 11,
     "Richard Teng": 28,
-    "Ben Zhou": 23
+    "Ben Zhou": 24
   },
   "articles": [
     {
@@ -924,6 +924,17 @@
       "published_at": "2026-06-25T13:57:00+00:00",
       "tags": [],
       "key_quote": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading PR Newswire"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjAyQlQ0YThUQm92UjllVF94X3dYZnpCMDNlQmRvSU5PMGRCUWYydmhLS2FkVC1MUkZfQjdNN0NaRmNsdWJhS1R2VFBTQkdpQ1Z1dUNJalQyT3FvV0ExMXMzNXlPbk93SkRqYkxXb0s2UnpzNURpMEprTFkzWVo2b3dILUE0MXo2R1NFYnB0by1lZ3M5X2lEVFltSW12NFV6Zzdab1k2SDA3VGhqZHhKdS1uNTJUQQ?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswire Canada</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjAyQlQ0YThUQm92UjllVF94X3dYZnpCMDNlQmRvSU5PMGRCUWYydmhLS2FkVC1MUkZfQjdNN0NaRmNsdWJhS1R2VFBTQkdpQ1Z1dUNJalQyT3FvV0ExMXMzNXlPbk93SkRqYkxXb0s2UnpzNURpMEprTFkzWVo2b3dILUE0MXo2R1NFYnB0by1lZ3M5X2lEVFltSW12NFV6Zzdab1k2SDA3VGhqZHhKdS1uNTJUQQ?oc=5",
+      "source": "Newswire Canada",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-06-25T13:57:00+00:00",
+      "tags": [],
+      "key_quote": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading Newswire Canada"
     },
     {
       "title": "Changpeng Zhao reflects on prison time, shifts focus to investments and education",
@@ -6115,17 +6126,6 @@
       "published_at": "2026-04-30T13:30:00+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao has some scores to settle in 'Freedom of Money' Yahoo Finance"
-    },
-    {
-      "title": "Changpeng Zhao's Memoir Reveals Truths from Prison",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHUxV2pNaU00VG9uWVJUMnJiNzhObHp6SDctTFpadDNaaGhqNUtKZXNtOVM1d2pxUkNvRnp3T2pOWDdnNXl3clhpWnNmZ0pSZjdSX2RSMDJnNmUxZEp2Rzhvdjg1dFRRU01RRkFFWGpoNGFmYmNxckVwR2t4TzBuMy1RTlhaT0VqdXF5Uw?oc=5\" target=\"_blank\">Changpeng Zhao's Memoir Reveals Truths from Prison</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intellectia AI</font>",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHUxV2pNaU00VG9uWVJUMnJiNzhObHp6SDctTFpadDNaaGhqNUtKZXNtOVM1d2pxUkNvRnp3T2pOWDdnNXl3clhpWnNmZ0pSZjdSX2RSMDJnNmUxZEp2Rzhvdjg1dFRRU01RRkFFWGpoNGFmYmNxckVwR2t4TzBuMy1RTlhaT0VqdXF5Uw?oc=5",
-      "source": "Intellectia AI",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-30T11:36:57+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao's Memoir Reveals Truths from Prison Intellectia AI"
     }
   ]
 }
