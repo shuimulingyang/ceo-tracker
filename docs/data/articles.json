@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-07-04T08:15:59Z",
+  "updated_at": "2026-07-04T10:46:27Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 90,
-    "Brian Armstrong": 348,
+    "Brian Armstrong": 349,
+    "CZ": 89,
     "Star Xu": 11,
     "Richard Teng": 28,
     "Ben Zhou": 23
   },
   "articles": [
+    {
+      "title": "Coinbase CEO: AI Makes Engineers Super Builders",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT1EwUnVUWHJVeUpVWG9LREhmVm5CLVNHNnRVZUVwQUJ6U24yVUU5MVJPWEZkazE1NFBzWmpZNEo0WG9CeXFYaTBSanItWURWZk9DblNnOFNOaEgwMUIxRzUtbDdlTEZ2dGFObVRsNWxnV2xY?oc=5\" target=\"_blank\">Coinbase CEO: AI Makes Engineers Super Builders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ababnews.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnT1EwUnVUWHJVeUpVWG9LREhmVm5CLVNHNnRVZUVwQUJ6U24yVUU5MVJPWEZkazE1NFBzWmpZNEo0WG9CeXFYaTBSanItWURWZk9DblNnOFNOaEgwMUIxRzUtbDdlTEZ2dGFObVRsNWxnV2xY?oc=5",
+      "source": "ababnews.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-04T09:51:47+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO: AI Makes Engineers Super Builders ababnews.com"
+    },
     {
       "title": "News Explorer — Binance Founder Changpeng Zhao Says He's Been Misunderstood, Hopes to Boost US Crypto Industry",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMnJKazREaHo2c25mWnBfcW9vQ3BHTkZHVnRtNUJORUctd19ZQ0ViNzZjNzc2bXBlTmR1NW0zWTE4ZHQ0MGhySXZZdl9xZXhIWHd2dlpPVEl4MHdrR01zUnVmOGZiWXdmU2ZDb05mYnZRZjA2SUZ0RnZOOXRldDNaWUlrN3F1cm1ORkgzMHR6MTdiWXlHeERwcnd0eVVCaU5LZnFBMDFNdU9YV3BkMjUyeFFINnVBY252Sy1fQkFtN1c4VHo5Nk5qMENHM1NVd1ExT1VySlRRUThfNzRRZDRJdlNjVDhRRFI2ZFE?oc=5\" target=\"_blank\">News Explorer — Binance Founder Changpeng Zhao Says He's Been Misunderstood, Hopes to Boost US Crypto Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
@@ -6113,17 +6126,6 @@
       "published_at": "2026-04-30T11:36:57+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao's Memoir Reveals Truths from Prison Intellectia AI"
-    },
-    {
-      "title": "Changpeng Zhao has some scores to settle in 'Freedom of Money'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmtyMEdkUFVlTzY3WnlLcHJzUTNwaWEwSTFxeDFuaE52Z3NqcGxucXVKdlBjd1VLeHBNb3FKdlZMN2dDVWQxTkdObDFtenhGZGlnbkozNUZUT1NNeFVhdlFKRllKSHVCSjJnV2s3YWoxUnNOdXNPamEyT3V6RVAxLWNBVnZNVHU3VXM2NFBCTTMtQUtRbE82VTVGSjVkRlpPSjNaUlBaZlc?oc=5\" target=\"_blank\">Changpeng Zhao has some scores to settle in 'Freedom of Money'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmtyMEdkUFVlTzY3WnlLcHJzUTNwaWEwSTFxeDFuaE52Z3NqcGxucXVKdlBjd1VLeHBNb3FKdlZMN2dDVWQxTkdObDFtenhGZGlnbkozNUZUT1NNeFVhdlFKRllKSHVCSjJnV2s3YWoxUnNOdXNPamEyT3V6RVAxLWNBVnZNVHU3VXM2NFBCTTMtQUtRbE82VTVGSjVkRlpPSjNaUlBaZlc?oc=5",
-      "source": "thestreet.com",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-04-30T10:30:00+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao has some scores to settle in 'Freedom of Money' thestreet.com"
     }
   ]
 }
