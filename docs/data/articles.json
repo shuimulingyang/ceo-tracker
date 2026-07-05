@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-05T05:50:16Z",
+  "updated_at": "2026-07-05T08:34:28Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 351,
-    "CZ": 86,
+    "CZ": 85,
     "Star Xu": 11,
-    "Richard Teng": 28,
+    "Richard Teng": 29,
     "Ben Zhou": 24
   },
   "articles": [
@@ -1169,6 +1169,17 @@
       "published_at": "2026-06-24T07:27:28+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong Says Founders Must Be Willing To Be ‘Vilified’ To Build Anything Meaningful Benzinga"
+    },
+    {
+      "title": "🚨𝗝𝗨𝗦𝗧 𝗜𝗡: Binance CEO Richard Teng says “Real-World Assets on blockchain have grown ~589% since early 2025!”",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZk5nMmxvVFRaWXR3S05rYmtPMGdabm9JZlY1cFI5RjVrM3lpZjFjRXN5MUdMaGFTaVRVX19GV3V2ajV1bnh5N3BOZFQwUnVKT3BzQjY0dzJnMU4yd0w0TkpPandUcFduMjBGbVBMZ3hZbkdNNnFOQjJ4REFHQTh6T3FxVnpyM2s1MGM1WHIxZThnd3Bab2lFUjlPU2FJbklMTjc5NUw3LVFpcVNBVEppLTVCS1lmUQ?oc=5\" target=\"_blank\">🚨𝗝𝗨𝗦𝗧 𝗜𝗡: Binance CEO Richard Teng says “Real-World Assets on blockchain have grown ~589% since early 2025!”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZk5nMmxvVFRaWXR3S05rYmtPMGdabm9JZlY1cFI5RjVrM3lpZjFjRXN5MUdMaGFTaVRVX19GV3V2ajV1bnh5N3BOZFQwUnVKT3BzQjY0dzJnMU4yd0w0TkpPandUcFduMjBGbVBMZ3hZbkdNNnFOQjJ4REFHQTh6T3FxVnpyM2s1MGM1WHIxZThnd3Bab2lFUjlPU2FJbklMTjc5NUw3LVFpcVNBVEppLTVCS1lmUQ?oc=5",
+      "source": "Moomoo",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-06-24T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Real-World Assets on blockchain have grown ~589% since early 2025!"
     },
     {
       "title": "Bybit CEO: ‘We Want to be Part of Vietnam’s Vibrant Crypt…",
@@ -6111,19 +6122,6 @@
         "稳定币 Stablecoin"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong urged the Senate Banking Committee to \"mark it up\" as a months-long stalemate appears to be at an end."
-    },
-    {
-      "title": "Changpeng Zhao: Freedom of Money book covers Binance, Luna, FTX, and U.S. legal saga",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2QydnRfQnJzSTcyeE9rMzIyRl9tXzdzOHdJR0FKamFwM1R3XzZpNkRTVjY1T0ZqNmlXMkxQeHRxWUNvZDlrZG5NREsyR0NELWZiR0dCOE1Xc2xYV1FmelhBaHdLUDJNaTJjeWEzbk9ncFREX3VRcGZUMENIenA3TFhuMG9FNTNCNXU0VngzTQ?oc=5\" target=\"_blank\">Changpeng Zhao: Freedom of Money book covers Binance, Luna, FTX, and U.S. legal saga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2QydnRfQnJzSTcyeE9rMzIyRl9tXzdzOHdJR0FKamFwM1R3XzZpNkRTVjY1T0ZqNmlXMkxQeHRxWUNvZDlrZG5NREsyR0NELWZiR0dCOE1Xc2xYV1FmelhBaHdLUDJNaTJjeWEzbk9ncFREX3VRcGZUMENIenA3TFhuMG9FNTNCNXU0VngzTQ?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-05-02T01:45:28+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Changpeng Zhao: Freedom of Money book covers Binance, Luna, FTX, and U.S."
     }
   ]
 }
