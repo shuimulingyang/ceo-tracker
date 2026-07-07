@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-07T13:08:37Z",
+  "updated_at": "2026-07-07T16:14:10Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 352,
-    "Richard Teng": 29,
+    "Brian Armstrong": 353,
+    "Richard Teng": 28,
     "CZ": 84,
     "Star Xu": 11,
     "Ben Zhou": 24
   },
   "articles": [
+    {
+      "title": "Coinbase CEO has one-word response to sheriffs group's sudden shift",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3Y3MDRaWTdPcjliUVdJSTdBcnJKaS14QmREVHJvOU4tQklFTVh3YnR2WHYxUEcwT1dZa0Y5RXNhQ2UwMjctTTZnMGt4WGpyV0I0X0xYYWVJUEJoRV9XODY2TExNZk1ySTBlbnpXczY4WjlQT1lQM1llVjJWaW1EZWh0aXFYWmIzQjBrcDk3ODNEQzJkZ09vZE1xZw?oc=5\" target=\"_blank\">Coinbase CEO has one-word response to sheriffs group's sudden shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3Y3MDRaWTdPcjliUVdJSTdBcnJKaS14QmREVHJvOU4tQklFTVh3YnR2WHYxUEcwT1dZa0Y5RXNhQ2UwMjctTTZnMGt4WGpyV0I0X0xYYWVJUEJoRV9XODY2TExNZk1ySTBlbnpXczY4WjlQT1lQM1llVjJWaW1EZWh0aXFYWmIzQjBrcDk3ODNEQzJkZ09vZE1xZw?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-07T15:30:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO has one-word response to sheriffs group's sudden shift Yahoo Finance"
+    },
     {
       "title": "Coinbase CEO has one-word response to sheriffs group's sudden shift",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQODQ4WXVvTGJrbnNROU5YcGQxNzNfbW5RSXI1VXBuUmw5QklzeUhvVTJLYkdhSDd3cmJXNjdvNDFlSnJadmdNUEl6dFROOUNzdzFfclNjSUxQM2NicWxEdlN6dVFnVVJ3NVY4MDZBYy1KZHBYb2p2X3RSWWFFSkFiSkhvWXFQeWxqUjFvV0g2eTRRS3F1NUJPOA?oc=5\" target=\"_blank\">Coinbase CEO has one-word response to sheriffs group's sudden shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roundtable.io</font>",
@@ -6103,17 +6114,6 @@
       "published_at": "2026-05-04T18:57:27+00:00",
       "tags": [],
       "key_quote": "Why Brian Armstrong said \"mark it up\" on CLARITY Act crypto.news"
-    },
-    {
-      "title": "Binance Co-CEO Richard Teng Lays Out Case for Crypto’s Transformational Growth",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5scXB5aTJGMTFVdGJzR1F0RlN5bXNHZHVkU2xWVDUyZWRBY09iLWo1SEVNV1lObEdJbDNna21uYURxTFVNYmhuc0hOdS04NnpKeG1tYWhhc0xkblU?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng Lays Out Case for Crypto’s Transformational Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5scXB5aTJGMTFVdGJzR1F0RlN5bXNHZHVkU2xWVDUyZWRBY09iLWo1SEVNV1lObEdJbDNna21uYURxTFVNYmhuc0hOdS04NnpKeG1tYWhhc0xkblU?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-05-04T08:31:51+00:00",
-      "tags": [],
-      "key_quote": "Binance Co-CEO Richard Teng Lays Out Case for Crypto’s Transformational Growth Cryptonews.net"
     }
   ]
 }
