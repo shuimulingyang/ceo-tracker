@@ -1,14 +1,52 @@
 {
-  "updated_at": "2026-07-08T01:17:56Z",
+  "updated_at": "2026-07-08T04:54:10Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 352,
-    "Richard Teng": 29,
+    "Brian Armstrong": 346,
+    "Richard Teng": 34,
     "CZ": 84,
-    "Star Xu": 11,
+    "Star Xu": 12,
     "Ben Zhou": 24
   },
   "articles": [
+    {
+      "title": "Coinbase CEO has one-word response to sheriffs group's sudden shift",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAxb0xJcndkRmtubU00TUh0ay1kX2RreVdIMnpBdE5Dd1F1R253VWJpNFdMbC1jNDR6M0Vwa2tKWEhsX0h5NUVHd091V3kwQU5PTVVIYVNDRDNfUnZ2NHY5YTNYRmFoY3RXT2tMcnMzQWE4cmR0V201VmNTYVkxbjQ?oc=5\" target=\"_blank\">Coinbase CEO has one-word response to sheriffs group's sudden shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxb0xJcndkRmtubU00TUh0ay1kX2RreVdIMnpBdE5Dd1F1R253VWJpNFdMbC1jNDR6M0Vwa2tKWEhsX0h5NUVHd091V3kwQU5PTVVIYVNDRDNfUnZ2NHY5YTNYRmFoY3RXT2tMcnMzQWE4cmR0V201VmNTYVkxbjQ?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-07T16:20:59+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO has one-word response to sheriffs group's sudden shift AOL.com"
+    },
+    {
+      "title": "From digital wallets to faster payments and tokenization, blockchain could reshape financial services, says Binance Co CEO Richard Teng",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOX3IzczRDYVJGc2o4ekJ6a254a0lndTVKU3RqT1g4Vll1SVZjN0t4cnVMYk5ETnc0dE9qdnBCRnNyWDQxdzRlc3A2eWZuU0dmQTI0bFA0T1dnRVRaSlI5VWZPUmthWThCdkY0bXFwYWMzMjRPQ1dyTURCbVA4U19veXM1a19IeE5mUjdUTW1zSENZNzFGc3BWQ1pWSVo4cUFhMWRnNW9xbUJlWjhlVzFuU3hqSjkxWjFodVVjeThBZ2czeS1vc1IxUmNWMUVnbG9EOF8wa0lvZWNPb3Y4OS1Wa3oxVzhiUmpDRGJYWktFWTUtelViaUY2S1dSYnYyeG4xVDJHZmlQN3hSQdIBjgJBVV95cUxQb2xvM0Rja2RCTUxfbTM0S1p1MXRGaFQ0V1Z1WFdTa256Y1RPbjhGdkdxdURGQW1vRTFOa0xzcDhQN05IRmoxMWNVeFI1bVQ4WXhWMGJPWm5VczhVTmdCR3dvcVZLdkZROHM1N3RRSEo5WjM5OFNlZWVvamQ0cDJRcWJXNGpYd3RUN2xkZ3FCRzA1U0JaRTFZUE9sQkllZXUxb0p1M196SDhQS2x6cGZxTDJKZUttWkFFdE1tM0J2Z2s0S2ljNWVKZnRsODFoa3dnTWNIa21mUEFESnNfS0VWR0EwNTQwZ1pTNS1KTUR4ZThleEQyLWE1Ylk3YW82VEZlU0xmMFBvS0dzRHFBZWc?oc=5\" target=\"_blank\">From digital wallets to faster payments and tokenization, blockchain could reshape financial services, says Binance Co CEO Richard Teng</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news24online.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOX3IzczRDYVJGc2o4ekJ6a254a0lndTVKU3RqT1g4Vll1SVZjN0t4cnVMYk5ETnc0dE9qdnBCRnNyWDQxdzRlc3A2eWZuU0dmQTI0bFA0T1dnRVRaSlI5VWZPUmthWThCdkY0bXFwYWMzMjRPQ1dyTURCbVA4U19veXM1a19IeE5mUjdUTW1zSENZNzFGc3BWQ1pWSVo4cUFhMWRnNW9xbUJlWjhlVzFuU3hqSjkxWjFodVVjeThBZ2czeS1vc1IxUmNWMUVnbG9EOF8wa0lvZWNPb3Y4OS1Wa3oxVzhiUmpDRGJYWktFWTUtelViaUY2S1dSYnYyeG4xVDJHZmlQN3hSQdIBjgJBVV95cUxQb2xvM0Rja2RCTUxfbTM0S1p1MXRGaFQ0V1Z1WFdTa256Y1RPbjhGdkdxdURGQW1vRTFOa0xzcDhQN05IRmoxMWNVeFI1bVQ4WXhWMGJPWm5VczhVTmdCR3dvcVZLdkZROHM1N3RRSEo5WjM5OFNlZWVvamQ0cDJRcWJXNGpYd3RUN2xkZ3FCRzA1U0JaRTFZUE9sQkllZXUxb0p1M196SDhQS2x6cGZxTDJKZUttWkFFdE1tM0J2Z2s0S2ljNWVKZnRsODFoa3dnTWNIa21mUEFESnNfS0VWR0EwNTQwZ1pTNS1KTUR4ZThleEQyLWE1Ylk3YW82VEZlU0xmMFBvS0dzRHFBZWc?oc=5",
+      "source": "news24online.com",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-07T16:07:05+00:00",
+      "tags": [
+        "Ethereum"
+      ],
+      "key_quote": "From digital wallets to faster payments and tokenization, blockchain could reshape financial services, says Binance Co CEO Richard Teng news24online.com"
+    },
+    {
+      "title": "Richard Teng: Crypto has become a leading financial infrastructure, not just an asset",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYzA0dE83SEt5dXlJNWRWWXU5Q1ZJbGw1LVNCUmRjQXBuZDBaRWxudGVISXU4VVBuRURrWEx1UFhkckZXaTJLSlJjSWFZRE1jcTJtc3dpTGl1OTBYTk5WeGdYUWpDMjZyamtjWjRnUXhIUDFnZlo4MGhVbGNDQzYzYVpTTDJtQnRPb0J4dmFYZU1YY0FSZlFLaHNDbkdaWnV1bVgwMnMzb0gtOTNETFZhcnRrMFJFdE9Fd2d5Y2xRVG1JZGZtZ2hiSzZSWGdWUzdLUm9IcmdCV2xCMjJ3V2wteHF6Q2YwRDllMmNPZWczdG4?oc=5\" target=\"_blank\">Richard Teng: Crypto has become a leading financial infrastructure, not just an asset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYzA0dE83SEt5dXlJNWRWWXU5Q1ZJbGw1LVNCUmRjQXBuZDBaRWxudGVISXU4VVBuRURrWEx1UFhkckZXaTJLSlJjSWFZRE1jcTJtc3dpTGl1OTBYTk5WeGdYUWpDMjZyamtjWjRnUXhIUDFnZlo4MGhVbGNDQzYzYVpTTDJtQnRPb0J4dmFYZU1YY0FSZlFLaHNDbkdaWnV1bVgwMnMzb0gtOTNETFZhcnRrMFJFdE9Fd2d5Y2xRVG1JZGZtZ2hiSzZSWGdWUzdLUm9IcmdCV2xCMjJ3V2wteHF6Q2YwRDllMmNPZWczdG4?oc=5",
+      "source": "MSN",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-07T15:40:14+00:00",
+      "tags": [
+        "ETF",
+        "AI"
+      ],
+      "key_quote": "Richard Teng: Crypto has become a leading financial infrastructure, not just an asset MSN"
+    },
     {
       "title": "Coinbase CEO has one-word response to sheriffs group's sudden shift",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3Y3MDRaWTdPcjliUVdJSTdBcnJKaS14QmREVHJvOU4tQklFTVh3YnR2WHYxUEcwT1dZa0Y5RXNhQ2UwMjctTTZnMGt4WGpyV0I0X0xYYWVJUEJoRV9XODY2TExNZk1ySTBlbnpXczY4WjlQT1lQM1llVjJWaW1EZWh0aXFYWmIzQjBrcDk3ODNEQzJkZ09vZE1xZw?oc=5\" target=\"_blank\">Coinbase CEO has one-word response to sheriffs group's sudden shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -68,6 +106,17 @@
     },
     {
       "title": "Binance CEO Richard Teng Outlines Vision for Crypto as the Future of Global Financial Infrastructure and Unveils “Financial Super App” Strategy",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WOF9HdWdPQzhNZ1gtTDJ2dG0zLVJydHZSdHlEUnBVbUZ4MHRUcFdza1prT3hWWDl6YVJFRHBYaTZMMTlEVDREbQ?oc=5\" target=\"_blank\">Binance CEO Richard Teng Outlines Vision for Crypto as the Future of Global Financial Infrastructure and Unveils “Financial Super App” Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WOF9HdWdPQzhNZ1gtTDJ2dG0zLVJydHZSdHlEUnBVbUZ4MHRUcFdza1prT3hWWDl6YVJFRHBYaTZMMTlEVDREbQ?oc=5",
+      "source": "MEXC",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-07T03:34:46+00:00",
+      "tags": [],
+      "key_quote": "Binance CEO Richard Teng Outlines Vision for Crypto as the Future of Global Financial Infrastructure and Unveils “Financial Super App” Strategy MEXC"
+    },
+    {
+      "title": "Binance CEO Richard Teng Outlines Vision for Crypto as the Future of Global Financial Infrastructure and Unveils “Financial Super App” Strategy",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRzlURnp4LVNMUVRISWw4WGJxM1RFSmZBNkpDOGxNNURxUl9GWFRrc3lnVjhMYnVtWXZEYkRnXzdSUzBfTElSWXlpY3RkMldOMW5aSUhWY1plOTA5LWE0RHExOXVwMHo1bGdhWHcxYU43REJFUmg5NXFwbWI0NGZLTlRZOUZZdDBDOXBPXzRWX1JmOG1Ta3hrNTBmLVFnQThJUHdnLVR4ZldVX29VOEpfTS1uWEstTUE1MUlTOF9KZk94bGVVZjBHcG9Uc19yQ0dwZW82cm9CZnB6RTNXNHRWaUFaY3FSdERHQll0WUZXTjltMDJDQ2tuYUpNdWEtZw?oc=5\" target=\"_blank\">Binance CEO Richard Teng Outlines Vision for Crypto as the Future of Global Financial Infrastructure and Unveils “Financial Super App” Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin World</font>",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRzlURnp4LVNMUVRISWw4WGJxM1RFSmZBNkpDOGxNNURxUl9GWFRrc3lnVjhMYnVtWXZEYkRnXzdSUzBfTElSWXlpY3RkMldOMW5aSUhWY1plOTA5LWE0RHExOXVwMHo1bGdhWHcxYU43REJFUmg5NXFwbWI0NGZLTlRZOUZZdDBDOXBPXzRWX1JmOG1Ta3hrNTBmLVFnQThJUHdnLVR4ZldVX29VOEpfTS1uWEstTUE1MUlTOF9KZk94bGVVZjBHcG9Uc19yQ0dwZW82cm9CZnB6RTNXNHRWaUFaY3FSdERHQll0WUZXTjltMDJDQ2tuYUpNdWEtZw?oc=5",
       "source": "Bitcoin World",
@@ -78,6 +127,19 @@
         "Bitcoin"
       ],
       "key_quote": "Binance CEO Richard Teng Outlines Vision for Crypto as the Future of Global Financial Infrastructure and Unveils “Financial Super App” Strategy Bitcoin World"
+    },
+    {
+      "title": "Richard Teng: MiCA is a milestone for crypto regulation in Europe",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGR0RUlJRjRhcXV4amxWVzJ4S1VsRlgzXzBYYk1kVVJDdGRST2FFd00zeVluSEVNUDVOS3d2Zjh0TllrZlREQk1Gb1JHcXF2X09TVDhGQk4wYUpXb1NSY2haNjByUDFjR0JUa1JyYXFrdzR0RUdad3N6alJFZ1ZXOWVIVHlwMDZjakRLNzk2R2Q?oc=5\" target=\"_blank\">Richard Teng: MiCA is a milestone for crypto regulation in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGR0RUlJRjRhcXV4amxWVzJ4S1VsRlgzXzBYYk1kVVJDdGRST2FFd00zeVluSEVNUDVOS3d2Zjh0TllrZlREQk1Gb1JHcXF2X09TVDhGQk4wYUpXb1NSY2haNjByUDFjR0JUa1JyYXFrdzR0RUdad3N6alJFZ1ZXOWVIVHlwMDZjakRLNzk2R2Q?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-06T13:45:31+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "Richard Teng: MiCA is a milestone for crypto regulation in Europe Traders Union"
     },
     {
       "title": "Changpeng Zhao Distances Himself From BNB Chain Memecoins TCC, CZ, and AB",
@@ -224,6 +286,20 @@
       "key_quote": "Coinbase CEO Brian Armstrong Says AI Will Favor Defenders Over Attackers in Cybersecurity Yahoo Tech"
     },
     {
+      "title": "OKX CEO Star Xu Backs Former Binance CFO Wei Why Crypto Bear Persists",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CT1Y0enNDZXEwc090WlZnRHl2TnBTU3ExblRfYTlJV3c0V0FnbzNrOU80Q01yal9QQ2FIeW1vMEkzeEtIMnpaZ1RGZGRNUUtkSjdXOWJwVVZ5NVg3VXJkbldOcVo?oc=5\" target=\"_blank\">OKX CEO Star Xu Backs Former Binance CFO Wei Why Crypto Bear Persists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CT1Y0enNDZXEwc090WlZnRHl2TnBTU3ExblRfYTlJV3c0V0FnbzNrOU80Q01yal9QQ2FIeW1vMEkzeEtIMnpaZ1RGZGRNUUtkSjdXOWJwVVZ5NVg3VXJkbldOcVo?oc=5",
+      "source": "Binance",
+      "ceo_name": "Star Xu",
+      "exchange": "OKX",
+      "published_at": "2026-07-02T15:35:34+00:00",
+      "tags": [
+        "市场 Market",
+        "Layer2"
+      ],
+      "key_quote": "OKX CEO Star Xu Backs Former Binance CFO Wei Why Crypto Bear Persists Binance"
+    },
+    {
       "title": "‘Hard-backed currency’ – Coinbase CEO pushes crypto for $39T debt",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHFqanlFQWFSN0REUnIxbkFIU2d3bDhqc1h5TnYxZ3pNMWJDcmZ4ejNzN0tSOUd3YnJOakp4bG9qRGJmVU1DUE40M3hDVkRSVFlEMHoxSGppOUk3dmRzZk1HeXZRdzlQY0pOZ3F1aTY2cFJsRG1NZ0hLaFpmWW5XYUJUYmhYc2MzbndN0gGQAUFVX3lxTE1Bc2paM2pUcjZMOWVhaGVsbnM3ZnIyNENEVzFoS2wyMk4yeE9sLUVOWVp2eEppZ3R5QnlrRmN4d3psUEtweEhCREdwWjNyMWJMc0FTVThRdXctT0lVRHBSb2ZVMEk5QkhEbFNjZnh5Y2xWcWs3ZGZQTS1mOGJpd2hubk5vd2JBTEc5bHJGRHNnTg?oc=5\" target=\"_blank\">‘Hard-backed currency’ – Coinbase CEO pushes crypto for $39T debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AMBCrypto</font>",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHFqanlFQWFSN0REUnIxbkFIU2d3bDhqc1h5TnYxZ3pNMWJDcmZ4ejNzN0tSOUd3YnJOakp4bG9qRGJmVU1DUE40M3hDVkRSVFlEMHoxSGppOUk3dmRzZk1HeXZRdzlQY0pOZ3F1aTY2cFJsRG1NZ0hLaFpmWW5XYUJUYmhYc2MzbndN0gGQAUFVX3lxTE1Bc2paM2pUcjZMOWVhaGVsbnM3ZnIyNENEVzFoS2wyMk4yeE9sLUVOWVp2eEppZ3R5QnlrRmN4d3psUEtweEhCREdwWjNyMWJMc0FTVThRdXctT0lVRHBSb2ZVMEk5QkhEbFNjZnh5Y2xWcWs3ZGZQTS1mOGJpd2hubk5vd2JBTEc5bHJGRHNnTg?oc=5",
@@ -258,6 +334,17 @@
         "市场 Market"
       ],
       "key_quote": "Changpeng Zhao Forecasts Bitcoin’s Price Will Reach $1 Million Yahoo Finance"
+    },
+    {
+      "title": "Binance pursues super app with unified financial and crypto services, Richard Teng notes",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTNwd2lBcjNCRnNwSmFwTzJ2aGR2ZF90MWQ1VlBIdklTN25hRmg0U1NPVkk4TWRtSFE3ekpxMlI4TzBwQjNtN2laTEdsWWYxT1JJRU9ScU5uMHBWdUJmT3lHcHR5Wko3aURyNW1SR3RWSXdNWTBDeG9qTGM2Z2xuYThxNTJobUhWSEE?oc=5\" target=\"_blank\">Binance pursues super app with unified financial and crypto services, Richard Teng notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTNwd2lBcjNCRnNwSmFwTzJ2aGR2ZF90MWQ1VlBIdklTN25hRmg0U1NPVkk4TWRtSFE3ekpxMlI4TzBwQjNtN2laTEdsWWYxT1JJRU9ScU5uMHBWdUJmT3lHcHR5Wko3aURyNW1SR3RWSXdNWTBDeG9qTGM2Z2xuYThxNTJobUhWSEE?oc=5",
+      "source": "Traders Union",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-02T11:00:30+00:00",
+      "tags": [],
+      "key_quote": "Binance pursues super app with unified financial and crypto services, Richard Teng notes Traders Union"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Says US Constitution Is Missing Two Fiscal Safeguards as Debt Tops $39 Trillion",
@@ -6019,103 +6106,6 @@
       "published_at": "2026-05-05T12:04:12+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong confirmed the layoffs on X, saying that the company's business remains \"volatile\" from quarter to quarter."
-    },
-    {
-      "title": "Coinbase CEO: Due to market conditions and the transition to an AI-native architecture, approximately 14% of the workforce will be laid off",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPaVcwOF9xWE5mclJ1VEtpa2tSV1NHdmVqSWtEbFR3elBZa0s4ZVItcGRvRXY0V0ZUZWZiN1BLeUNsVnNDVWZrRC1oYjZxdlMzRTh1dm1obkhsRTRuTGdQakRhbC1mbmxyeXJwN1FFYU0yLTRNSDd4bEpxMnpnSGZtbXBFbkMzXzh0QlR0TXVEQUdLbUwxR2V5UmV1bXA1alV2dzNaYVVibHBEUVZlR3hDSUFQdlJodmk3ZEV1QjJrdEMxb0pvSnF0QzlQdzdpa2FpdkhVdGRFYThubzk2VkRHdXJ4NWdWWDZEMDBDeTlESlVMcDNpQ3JSdWpmLVIzYUxYajRGYkNLNA?oc=5\" target=\"_blank\">Coinbase CEO: Due to market conditions and the transition to an AI-native architecture, approximately 14% of the workforce will be laid off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEEX</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaVcwOF9xWE5mclJ1VEtpa2tSV1NHdmVqSWtEbFR3elBZa0s4ZVItcGRvRXY0V0ZUZWZiN1BLeUNsVnNDVWZrRC1oYjZxdlMzRTh1dm1obkhsRTRuTGdQakRhbC1mbmxyeXJwN1FFYU0yLTRNSDd4bEpxMnpnSGZtbXBFbkMzXzh0QlR0TXVEQUdLbUwxR2V5UmV1bXA1alV2dzNaYVVibHBEUVZlR3hDSUFQdlJodmk3ZEV1QjJrdEMxb0pvSnF0QzlQdzdpa2FpdkhVdGRFYThubzk2VkRHdXJ4NWdWWDZEMDBDeTlESlVMcDNpQ3JSdWpmLVIzYUxYajRGYkNLNA?oc=5",
-      "source": "WEEX",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-05T12:00:05+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase CEO: Due to market conditions and the transition to an AI-native architecture, approximately 14% of the workforce will be laid off WEEX"
-    },
-    {
-      "title": "Coinbase cuts headcount by 14% citing AI acceleration",
-      "content": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdExrWlZGNGFtYm9Od2xuTG1lbGF5N3dVTTQ1SUFxNy1NT3A0c3htX0ZIczVuVTk0UXZyRmQyTVhiNWdweE5Fb0d0RmhqQWN5dF8zMS16eHdmdWFyNGQ3LWhhUm10ZGhCWlJ3eWxGb3U5MkdJaHNLWG1HSjNBRUVYcXd0QUZxZW9FTTYtdFJSZ2NzZGtCLTBwS09kb1hObEpVeUJFTGdEWnFWMENXWTRzajcwa2FvaHlRM2130gHAAUFVX3lxTE1SSE9lQm42SDhQMlVvOW5YSVloRFgzOXJlMVoyQzUtd29Nci11azd5UVkzN0xUaXlOWmNPMGZQb2JneXF1R2oxRnZaRnNZNnp0cFhMaG5vVGdZWGZzYWlLZzA5ZUZvb1lWVU5FUGFyRnBzckFvM3U4ajVwYnprRkEteUEzb1VCUzZhQWk4M3BYOFlDZEhXVlhnWEl6ZGxFcS11Ynd6cVAtbmh4cWV2SExGOEJsX1JIVFFMaXdpMnhXYg?oc=5\" target=\"_blank\">Coinbase cuts headcount by 14% citing AI acceleration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVm0zYkpmQURfczFycnJSY25jbWhoc0N5UzQzS0tpbGpjY0EtSnFXZEJjQ3VVVk5jX3ZvNG9wOXk1dElMVUstUk8yeUhXTENwNldubEd3ZFViekh2YnZMcnhwcjFDbU9tb3RTa2RvOTZGVkx0TUtIZDBwdzJUbGVCbXZPX0hRR2JFeV9DZFhqWlpxd0Zy?oc=5\" target=\"_blank\">Coinbase is laying off 14% of staff, citing AI. Read the letter from its CEO.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1XeS0zS2FMdFoybkJic3hOMTlOblRBa1lrd1VUNV9KajFNUnl6RFo2RTljZkNCd2NZQzBSNjhtRlU0YTlqVEdFXzV2YzdBWlJaOGtBR1I3OEwzZEZ6aUdaNjc2Ry1pcy1DWUNEbU5QNkhZaFVtdF8zQVlDSHFOQQ?oc=5\" target=\"_blank\">Formerly SF-headquartered crypto giant to lay off 700 workers in AI shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTJFdS1mRm9WQ0tFQ3g3SEF1cVItT2xFTGhxaHBrZF9NLTRCR3hubTlkSE9pajJ4ZkRqeVpWY2FERjRfU2FtcDFVSl9LME8xc0FmM0Y4Q3NTdXd4cHZKekJKVUlFN2Nsam8xYm8ySEZLVHhmbk10SzNYcHZIcGxzU2pFa3BNa1VLNENEYXdEX0RuaWlGaEhOU2lB?oc=5\" target=\"_blank\">Coinbase didn't just lay off 14% of its staff due to AI. It replaced managers with ‘player-coaches’ and turned its org chart upside down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOelhtdmVQTk55TU1jWXpOVTdFNXNLTEdyTEFZdmQxNXRmYUl5bi1oQzZEc3k5Q3JaVFVoVEFLR1ZuT3haM3ZyR081bmlCS2k5UmFndXZDSl9pT1NuYTdjaXBwSENIZjVKTmF0dEtfaXBGTDE1dElRZ3VrYTRadHRlWWgwblpJM2tDS1JlTU03SVZ6ZDFTODRKalRsQkJzTlBtSU5CQ2lvSTVLSVRGTTNjM0NQTWg1UUNhWFFSN1hPUm12a3J4bU9ldjBTU3pZNUxGMkt5YlNSM1VuU1JxT29XSmxGUlM?oc=5\" target=\"_blank\">Coinbase to lay off 14% of staff as CEO Brian Armstrong restructures crypto exchange for AI efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmVEQVR5Sk5UekVKNl84eFpScmdpY3JRUHZqWENPQ3ctQU9ORUlmOHFFa2VfdXN2WGZrU0NYUzNiT0dEWjduN1JYWVZETHhDcDUtMFBDZTAxbWVNNkRNXzl0WWlrbF90XzEzSlhNZFQweFItTGJodERqTy1MQXVGZEFiMFBkYUFUUFpvbDZoOUNjczFkZzA5MW9oTGg5STNDY3U2UDFnTWRlZkRjOUJnTnlOZw?oc=5\" target=\"_blank\">Coinbase will lay off 14% of its staff as AI spurs ‘a new way of working’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPcVZZckZFUl9YNlNNaFE0T3ZaYmphZTNtVlFFOGhfTTFPNTlPMVVaUjFEZWNNWXR0YXpMd1FrUlZpWFZnT0FZWTRXdTdnTDdySzYwLXJoY1RoYnFmR0hCQzJlR0x0c2tldEpVakt4R2tacjVXa0hIekNmd184MXN0a0hWUdIBiAFBVV95cUxQMUt4c1RKV3hVV0pZVUMzamtFTk1ISk5FX0g5QzJDdm9Ba1gyNW40cTRsNS1RLWo3bUVuai1WNF9fd1FDeHZWTkVZN1F2NmxYNllhRlRPMnZ3U3hLZDFub0ZvUHhIYmJJZFBaSVlUSHVmSnd6aWpIQ3dvUXFEZkpMZTBaY0prUTFX?oc=5\" target=\"_blank\">Coinbase laying off hundreds of employees, citing AI advancements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMUdiYW8xb09tWi1vZFZFSldUR3R0YTRHRkVBSkZNcEJWMktXRFlKbEJ6S1h1eHEwQUx1UnpsX084TEt5QXB1bFhnVE9FbTBMZXRFRHF5cmp6ckFibTFrYzh0TURaaUxRNDRJYzM4aUZzUVQ5X1BqcGFBYWlIZF8xQVE5djRXUVlFbDVnN2RtTW5tMzRZMkVVdWU3TjZkSHFITGJLSDB6QnJfQ011?oc=5\" target=\"_blank\">Coinbase layoffs today: Crypto giant cuts hundreds of jobs as CEO says AI is 'changing how we work'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxNQTBhcEhicTllcmtFWUtuRXBVd0Z5d1ZTbVhmRmtWcHg1S0EwaVh0N181ZkZZbk5mcVBJblliRmFPUkhWaGlieVZQRS1SY3dNS3drdGozbnF0cDJEZWdxQ3VLeDBVaWtROXNJOTVuVWVGVTJ1ckdmVVNmRHpqOHlGX21UclkyVTA0OGJadjB4aThTNmwzS0tQQUtPeUlDTVk5ZHItXzlqeEFkOHI2THktZ213SG1MZDYwV2F2Mi1sNnhhZUZfQlUzMHJBSFVLZ3lkSmpRT01oQjRjRFpwWWhPSHdEUWx4UzJITmM3TWRsWk0zMm9xNFNhbjdrNk5QX3E1T21ya0xxdkhHODlaZGVWemxEcG9DY0MybzIwT1hJSHVfSUh6UzIyNzFadVVDS19rQUpqUE8yWURrSzlhSXpMTkZId3U3RUdHQ1VzMlpSX2FmeTFs0gHaAkFVX3lxTE9JTVFJUlpZTHl2c1JXWkxfd215ZkFWNjQtY2FZV2pSV2VTYWxqblhackRKa1BlakZPS0Vmc3FHc0wtaFNhWkNjTkRid2xYd0FmNjAxRXNKX1FjWWg5MWFTWG8tRmU1SVRvMXJnRkNVdTN1a0Job0RCMG1KdmZFSU1Pd0FPajZJVVBHU2hUeEd3eDBtclpaNGhHVXdWR0FZNmlHdUlNamFHc28zdE5iejBTS2lId056aEdIbEhDbUtjLUl0MFIzbmpudFhXMi1HWXhwWVh4UjVGRHY2WmZ4bkV5alA3czRreW1GZEh6ZjJZS2FiOE41WTZOb1FvYkN1Q2VGbF9Ub3QyaGFGYUNCNWx5WUVFQm9WZzBwMnZZSjhhbTVlaXo2RDhVc3FCVEU0TUhOcDRLMi1IemZWZjhtY1RwYUJqZGl6aEFoYm00YlUtaEg0dmtOYzF0eFE?oc=5\" target=\"_blank\">Brian Armstrong, CEO of America's largest crypto exchange, Coinbase in layoff email to employees: Over th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font></li></ol>",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdExrWlZGNGFtYm9Od2xuTG1lbGF5N3dVTTQ1SUFxNy1NT3A0c3htX0ZIczVuVTk0UXZyRmQyTVhiNWdweE5Fb0d0RmhqQWN5dF8zMS16eHdmdWFyNGQ3LWhhUm10ZGhCWlJ3eWxGb3U5MkdJaHNLWG1HSjNBRUVYcXd0QUZxZW9FTTYtdFJSZ2NzZGtCLTBwS09kb1hObEpVeUJFTGdEWnFWMENXWTRzajcwa2FvaHlRM2130gHAAUFVX3lxTE1SSE9lQm42SDhQMlVvOW5YSVloRFgzOXJlMVoyQzUtd29Nci11azd5UVkzN0xUaXlOWmNPMGZQb2JneXF1R2oxRnZaRnNZNnp0cFhMaG5vVGdZWGZzYWlLZzA5ZUZvb1lWVU5FUGFyRnBzckFvM3U4ajVwYnprRkEteUEzb1VCUzZhQWk4M3BYOFlDZEhXVlhnWEl6ZGxFcS11Ynd6cVAtbmh4cWV2SExGOEJsX1JIVFFMaXdpMnhXYg?oc=5",
-      "source": "CNBC",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-05T11:48:52+00:00",
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "DeFi",
-        "市场 Market",
-        "ETF",
-        "安全 Security"
-      ],
-      "key_quote": "Coinbase cuts headcount by 14% citing AI acceleration CNBC Coinbase is laying off 14% of staff, citing AI."
-    },
-    {
-      "title": "Coinbase to lay off 700 workers as CEO Brian Armstrong restructures crypto exchange for AI efficiency",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXJXZGVIbFdBcGFrTHdyTURLM1ZaVlY1RFdFZ2Fya3lkN0JPQURad2NwaDZmT2FGUWdiQ2QzalR4bEtRVDNtdlpVczdLbG5zYndHRTBwR3lJOFFTQTBQMmUxS0FpYmpRdy1TWm9TdmcxdXF3aGs2WmVXTmNnNV8wMlNMUG5ZWnhmWm93cXd5dUhXWWNIX1l5SGFNUm94NmpINENnNjlmdDlKcXJQQ0ZHU0tiT3NDOFR4VFhXUTRLd3pGWVFpVmVZYlZUS3U0OTlrU2JCejYxVTBwcDFQTmdTVmloRXA?oc=5\" target=\"_blank\">Coinbase to lay off 700 workers as CEO Brian Armstrong restructures crypto exchange for AI efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMXJXZGVIbFdBcGFrTHdyTURLM1ZaVlY1RFdFZ2Fya3lkN0JPQURad2NwaDZmT2FGUWdiQ2QzalR4bEtRVDNtdlpVczdLbG5zYndHRTBwR3lJOFFTQTBQMmUxS0FpYmpRdy1TWm9TdmcxdXF3aGs2WmVXTmNnNV8wMlNMUG5ZWnhmWm93cXd5dUhXWWNIX1l5SGFNUm94NmpINENnNjlmdDlKcXJQQ0ZHU0tiT3NDOFR4VFhXUTRLd3pGWVFpVmVZYlZUS3U0OTlrU2JCejYxVTBwcDFQTmdTVmloRXA?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-05T11:47:36+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Coinbase to lay off 700 workers as CEO Brian Armstrong restructures crypto exchange for AI efficiency Yahoo!"
-    },
-    {
-      "title": "Coinbase Cuts 14% of Workforce, Signals AI-Driven Future",
-      "content": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Coinbase-Cuts-14-of-Workforce-Signals-AI-Driven-Future.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coinbase-cuts-14-of-workforce\" rel=\"nofollow\">Coinbase Cuts 14% of Workforce, Signals AI-Driven Future</a></p>\n<div id=\"bsf_rt_marker\"></div>\n<p>Coinbase announced a 14% reduction in its workforce on Tuesday, a decision CEO Brian Armstrong <a href=\"https://x.com/brian_armstrong/status/2051616759145185723\">described</a> as preparation for what he called a &#8220;new way of working&#8221; built on artificial intelligence—not a defensive reaction to market conditions.</p>\n\n\n\n<p>In a company-wide email, Armstrong cited two forces behind the move: the persistence of crypto market cycles and a transformation in how AI has changed the pace of internal work.&nbsp;</p>\n\n\n\n<p>Engineers at Coinbase use AI to ship in days what full teams required weeks to complete, Armstrong wrote, and the pace of that shift is an acceleration, not a plateau.</p>\n\n\n\n<p>Coinbase had 4,951 employees as of December 31, 2025, placing the number of affected workers at an estimated 693 people. Departing U.S. employees will receive a minimum of 16 weeks of base pay, plus two weeks per year of service, their next equity vest, and six months of COBRA health coverage.&nbsp;</p>\n\n\n\n<p>Employees on work visas receive extra transition support. System access was cut on the day of the announcement — a practice Armstrong acknowledged as harsh but defended as a matter of customer data protection.</p>\n\n\n\n<p>The cuts follow a pattern that traces to 2022. In June of that year, Coinbase <a href=\"https://www.npr.org/2022/06/14/1105026558/coinbase-cryptocurrency-layoffs\" rel=\"noopener\" target=\"_blank\">eliminated</a> 18% of its workforce — 1,100 roles — as crypto prices fell and recession fears mounted. In January 2023, a second major reduction of 20%, covering 950 employees, followed the collapse of FTX and a prolonged market contraction. Those two rounds cut headcount by more than 2,100 people. Each time, Armstrong positioned the pain as the foundation for a stronger company on the other side.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Coinbase: AI is changing our company</h2>\n\n\n\n<p>This round carries a structural argument the prior two did not. The 2022 and 2023 reductions were market responses. The 2026 restructuring is, in Armstrong&#8217;s framing, an AI-driven redesign of how the company operates.&nbsp;</p>\n\n\n\n<p>He has fired engineers who refused to adopt tools such as GitHub Copilot and Cursor after securing enterprise licenses for both, and has set a target of 50% AI-written code at Coinbase.&nbsp;</p>\n\n\n\n<p>The logic of the current cuts extends that mandate: if AI increases the output of a small team, a large team becomes a drag on performance.</p>\n\n\n\n<p>The org chart changes Armstrong outlined are broad. The company will flatten to no more than five layers below the CEO and COO. Every leader must carry an active individual contributor role — a &#8220;player-coach&#8221; model. Cross-functional &#8220;AI-native pods&#8221; will replace traditional team structures, with experiments in one-person teams that fold engineering, design, and product responsibilities into a single role.</p>\n\n\n\n<p>COIN shares trade near $210 in pre-market trading, a fraction of the highs the stock reached in late 2024.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coinbase-cuts-14-of-workforce\" rel=\"nofollow\">Coinbase Cuts 14% of Workforce, Signals AI-Driven Future</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-      "url": "https://bitcoinmagazine.com/news/coinbase-cuts-14-of-workforce",
-      "source": "Bitcoin Magazine",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-05T11:28:24+00:00",
-      "tags": [
-        "监管 Regulation",
-        "Bitcoin",
-        "市场 Market",
-        "AI"
-      ],
-      "key_quote": "Bitcoin Magazine Coinbase Cuts 14% of Workforce, Signals AI-Driven Future Coinbase announced a 14% reduction in its workforce on Tuesday, a decision CEO Brian Armstrong described as preparation for what he called a “new way of working” built on artif"
-    },
-    {
-      "title": "Why Brian Armstrong Is Letting 14% of Coinbase Staff Go",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0yR0U3NXdpUlZzWDMwYzZKZkd5YUxTQkFtbC1xazFJV2pHeGlYd2sxa1JtSWw4NUFILUM0a3I5VERfaldPWkVybUx2N3Z6SE1jZC03TWY3UnlTN0NQYzRoYkRZMW9uM0NESXRJR1VwWENuZnpy?oc=5\" target=\"_blank\">Why Brian Armstrong Is Letting 14% of Coinbase Staff Go</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yR0U3NXdpUlZzWDMwYzZKZkd5YUxTQkFtbC1xazFJV2pHeGlYd2sxa1JtSWw4NUFILUM0a3I5VERfaldPWkVybUx2N3Z6SE1jZC03TWY3UnlTN0NQYzRoYkRZMW9uM0NESXRJR1VwWENuZnpy?oc=5",
-      "source": "BeInCrypto",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-05T11:21:00+00:00",
-      "tags": [],
-      "key_quote": "Why Brian Armstrong Is Letting 14% of Coinbase Staff Go BeInCrypto"
-    },
-    {
-      "title": "Coinbase CEO: Flattening our org structure to 5 layers max below CEO/COO",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbllESUszNkVlZjlwYUVDQjdVOW54cF95UzV2UGNsdW10dHBnVlM4amFad2thbFV0VFdpRGNxc2NhSlQtdUxEejRwWHlYSHN2S0dZY3FEb3VQVnpsbE0zMThLNzdJMjZjNHV5T0VQT2Y4VHdPaTFzR1pQcnY5Z2FnUnlzNW5Cd21CWm1Xa1p4bFo2aG9mTDFsR2psdFA3MmlyX3pWb1hpdDVqbFdmcmFxX0ZhV3JnLUNTRUVVQkREZ2kyZw?oc=5\" target=\"_blank\">Coinbase CEO: Flattening our org structure to 5 layers max below CEO/COO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbllESUszNkVlZjlwYUVDQjdVOW54cF95UzV2UGNsdW10dHBnVlM4amFad2thbFV0VFdpRGNxc2NhSlQtdUxEejRwWHlYSHN2S0dZY3FEb3VQVnpsbE0zMThLNzdJMjZjNHV5T0VQT2Y4VHdPaTFzR1pQcnY5Z2FnUnlzNW5Cd21CWm1Xa1p4bFo2aG9mTDFsR2psdFA3MmlyX3pWb1hpdDVqbFdmcmFxX0ZhV3JnLUNTRUVVQkREZ2kyZw?oc=5",
-      "source": "marketscreener.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-05T11:01:16+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase CEO: Flattening our org structure to 5 layers max below CEO/COO marketscreener.com"
-    },
-    {
-      "title": "Coinbase Q1 Preview: Can Brian Armstrong's Crypto Giant Beat Bearish Expectations?",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGRKZjAtNWZXX3hIblhaVkhwS05IVmo3TC1wci01Z3Rkay14S2FqMmQ0V3pQckdsT3pvYWdfNmRZNmxwODdJM2pXWlBwaVdKSWpsaHczRmhyREllWkEyeWI1N2hKQ0VZQW9tdktJRzl1Q2lfRndKbmM0ZndYNjVQb0syOURmME9OQkt5X3QwU0NVNWtCekdVX2h3YV9TOVNTVGJDMGZGbF9DR01Xdlo5X3V6N0RTV3RranpubVY0ODRNRHlZTlhiNHd5bHZ4aS03Sy1oc1oycmc?oc=5\" target=\"_blank\">Coinbase Q1 Preview: Can Brian Armstrong's Crypto Giant Beat Bearish Expectations?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGRKZjAtNWZXX3hIblhaVkhwS05IVmo3TC1wci01Z3Rkay14S2FqMmQ0V3pQckdsT3pvYWdfNmRZNmxwODdJM2pXWlBwaVdKSWpsaHczRmhyREllWkEyeWI1N2hKQ0VZQW9tdktJRzl1Q2lfRndKbmM0ZndYNjVQb0syOURmME9OQkt5X3QwU0NVNWtCekdVX2h3YV9TOVNTVGJDMGZGbF9DR01Xdlo5X3V6N0RTV3RranpubVY0ODRNRHlZTlhiNHd5bHZ4aS03Sy1oc1oycmc?oc=5",
-      "source": "Benzinga",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-05T08:25:09+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase Q1 Preview: Can Brian Armstrong's Crypto Giant Beat Bearish Expectations?"
     }
   ]
 }
