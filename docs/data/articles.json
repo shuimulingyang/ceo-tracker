@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-07-08T12:10:19Z",
+  "updated_at": "2026-07-08T15:04:33Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 346,
-    "Richard Teng": 34,
-    "CZ": 84,
+    "Richard Teng": 35,
+    "Brian Armstrong": 344,
+    "CZ": 85,
     "Star Xu": 12,
     "Ben Zhou": 24
   },
   "articles": [
+    {
+      "title": "Binance's Richard Teng on crypto's role in modern financial infrastructure",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYXI3bDIxWkdocmJyUTc3QXh3SzhZZjNGR0RRdThQYkJDT0kxUnd0Y193RFJ3WmUwVEVycm1Pc0VHcE5XM2cxTXg4cUtGWGlKQ1VRcWxjbzl4TFRRWTF3bV9temk4cElkTDVPVDJ0NjRtSTJRNUdCX1VGMjV4WFZwVDlnOEp5QTJ6OFpLQVZjZUJYWGtCel9mREtIM3dQTjRyeEFkcTl3Y0NmcVR5RzNpdExsSllEUGxSQ2I3ZGhRZVU0S3l1X1llaHVuLW05ZVNfdFl4a25iNUhtMnhC0gHcAUFVX3lxTE1hcjdsMjFaR2hyYnJRNzdBeHdLOFlmM0ZHRFF1OFBiQkNPSTFSd3RjX3dEUndaZTBURXJybU9zRUdwTlczZzFNeDhxS0ZYaUpDVVFxbGNvOXhMVFFZMXdtX216aThwSWRMNU9UMnQ2NG1JMlE1R0JfVUYyNXhYVnBUOWc4SnlBMno4WktBVmNlQlhYa0J6X2ZES0gzd1BONHJ4QWRxOXdjQ2ZxVHlHM2l0TGxKWURQbFJDYjdkaFFlVTRLeXVfWWVodW4tbTllU190WXhrbmI1SG0yeEI?oc=5\" target=\"_blank\">Binance's Richard Teng on crypto's role in modern financial infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYXI3bDIxWkdocmJyUTc3QXh3SzhZZjNGR0RRdThQYkJDT0kxUnd0Y193RFJ3WmUwVEVycm1Pc0VHcE5XM2cxTXg4cUtGWGlKQ1VRcWxjbzl4TFRRWTF3bV9temk4cElkTDVPVDJ0NjRtSTJRNUdCX1VGMjV4WFZwVDlnOEp5QTJ6OFpLQVZjZUJYWGtCel9mREtIM3dQTjRyeEFkcTl3Y0NmcVR5RzNpdExsSllEUGxSQ2I3ZGhRZVU0S3l1X1llaHVuLW05ZVNfdFl4a25iNUhtMnhC0gHcAUFVX3lxTE1hcjdsMjFaR2hyYnJRNzdBeHdLOFlmM0ZHRFF1OFBiQkNPSTFSd3RjX3dEUndaZTBURXJybU9zRUdwTlczZzFNeDhxS0ZYaUpDVVFxbGNvOXhMVFFZMXdtX216aThwSWRMNU9UMnQ2NG1JMlE1R0JfVUYyNXhYVnBUOWc4SnlBMno4WktBVmNlQlhYa0J6X2ZES0gzd1BONHJ4QWRxOXdjQ2ZxVHlHM2l0TGxKWURQbFJDYjdkaFFlVTRLeXVfWWVodW4tbTllU190WXhrbmI1SG0yeEI?oc=5",
+      "source": "The Economic Times",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-08T12:11:06+00:00",
+      "tags": [
+        "DeFi"
+      ],
+      "key_quote": "Binance's Richard Teng on crypto's role in modern financial infrastructure The Economic Times"
+    },
+    {
+      "title": "Coinbase CEO has one-word response to sheriffs group's sudden shift",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBMOHhYcE5XTkc0YldMR1hDQVA3RlN3N1p3YkRLQXhQNTdFVmR1eldoazQxbHNod2l3QXJWa0JEdWR0bDhBa0djLUZUUmhsTnhMU3dCQWpHY0VORXZJVUZ5aVBmZ1RybUx5NlNIYUZVX2VTY3FpTTRjMEZhclV6Zw?oc=5\" target=\"_blank\">Coinbase CEO has one-word response to sheriffs group's sudden shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMOHhYcE5XTkc0YldMR1hDQVA3RlN3N1p3YkRLQXhQNTdFVmR1eldoazQxbHNod2l3QXJWa0JEdWR0bDhBa0djLUZUUmhsTnhMU3dCQWpHY0VORXZJVUZ5aVBmZ1RybUx5NlNIYUZVX2VTY3FpTTRjMEZhclV6Zw?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-08T07:55:32+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO has one-word response to sheriffs group's sudden shift AOL.com"
+    },
     {
       "title": "Coinbase CEO has one-word response to sheriffs group's sudden shift",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAxb0xJcndkRmtubU00TUh0ay1kX2RreVdIMnpBdE5Dd1F1R253VWJpNFdMbC1jNDR6M0Vwa2tKWEhsX0h5NUVHd091V3kwQU5PTVVIYVNDRDNfUnZ2NHY5YTNYRmFoY3RXT2tMcnMzQWE4cmR0V201VmNTYVkxbjQ?oc=5\" target=\"_blank\">Coinbase CEO has one-word response to sheriffs group's sudden shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
@@ -68,6 +92,17 @@
       "published_at": "2026-07-07T14:03:15+00:00",
       "tags": [],
       "key_quote": "Coinbase co-founder Brian Armstrong wants investors to pass a financial literacy test instead of a wealth check Crypto Briefing"
+    },
+    {
+      "title": "Changpeng Zhao Endorses SIGN-Bhutan NDI Partnership to Build Sierra Leone’s Digital Identity Platform",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QYmFSeVFyT2ZhLTFuQ1lnakprZnBsRTVmQ0NQR2E2aEZITTdEQTdLRGZWWFJaTmlQZV9PN0xNYlY2MlVvSVhUWFdMY3hnRGNSdUROejFNcENxZl9N?oc=5\" target=\"_blank\">Changpeng Zhao Endorses SIGN-Bhutan NDI Partnership to Build Sierra Leone’s Digital Identity Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QYmFSeVFyT2ZhLTFuQ1lnakprZnBsRTVmQ0NQR2E2aEZITTdEQTdLRGZWWFJaTmlQZV9PN0xNYlY2MlVvSVhUWFdMY3hnRGNSdUROejFNcENxZl9N?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-07T12:53:49+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao Endorses SIGN-Bhutan NDI Partnership to Build Sierra Leone’s Digital Identity Platform Cryptonews.net"
     },
     {
       "title": "Coinbase CEO has one-word response to sheriffs group's sudden shift",
@@ -6065,47 +6100,6 @@
         "AI"
       ],
       "key_quote": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce MSN"
-    },
-    {
-      "title": "Coinbase Cuts 14% of Staff Amid Crypto 'Down Market,' AI Adoption: CEO",
-      "content": "The crypto exchange is restructuring around artificial intelligence and flattening its org chart, CEO Brian Armstrong said.",
-      "url": "https://decrypt.co/366765/coinbase-cuts-14-of-staff-amid-crypto-down-market-ai-adoption-ceo",
-      "source": "Decrypt",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-05T12:18:41+00:00",
-      "tags": [
-        "市场 Market",
-        "AI"
-      ],
-      "key_quote": "The crypto exchange is restructuring around artificial intelligence and flattening its org chart, CEO Brian Armstrong said."
-    },
-    {
-      "title": "Brian Armstrong, CEO of America's largest crypto exchange, Coinbase in layoff email to employees: Over th",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxNQTBhcEhicTllcmtFWUtuRXBVd0Z5d1ZTbVhmRmtWcHg1S0EwaVh0N181ZkZZbk5mcVBJblliRmFPUkhWaGlieVZQRS1SY3dNS3drdGozbnF0cDJEZWdxQ3VLeDBVaWtROXNJOTVuVWVGVTJ1ckdmVVNmRHpqOHlGX21UclkyVTA0OGJadjB4aThTNmwzS0tQQUtPeUlDTVk5ZHItXzlqeEFkOHI2THktZ213SG1MZDYwV2F2Mi1sNnhhZUZfQlUzMHJBSFVLZ3lkSmpRT01oQjRjRFpwWWhPSHdEUWx4UzJITmM3TWRsWk0zMm9xNFNhbjdrNk5QX3E1T21ya0xxdkhHODlaZGVWemxEcG9DY0MybzIwT1hJSHVfSUh6UzIyNzFadVVDS19rQUpqUE8yWURrSzlhSXpMTkZId3U3RUdHQ1VzMlpSX2FmeTFs0gHaAkFVX3lxTE9JTVFJUlpZTHl2c1JXWkxfd215ZkFWNjQtY2FZV2pSV2VTYWxqblhackRKa1BlakZPS0Vmc3FHc0wtaFNhWkNjTkRid2xYd0FmNjAxRXNKX1FjWWg5MWFTWG8tRmU1SVRvMXJnRkNVdTN1a0Job0RCMG1KdmZFSU1Pd0FPajZJVVBHU2hUeEd3eDBtclpaNGhHVXdWR0FZNmlHdUlNamFHc28zdE5iejBTS2lId056aEdIbEhDbUtjLUl0MFIzbmpudFhXMi1HWXhwWVh4UjVGRHY2WmZ4bkV5alA3czRreW1GZEh6ZjJZS2FiOE41WTZOb1FvYkN1Q2VGbF9Ub3QyaGFGYUNCNWx5WUVFQm9WZzBwMnZZSjhhbTVlaXo2RDhVc3FCVEU0TUhOcDRLMi1IemZWZjhtY1RwYUJqZGl6aEFoYm00YlUtaEg0dmtOYzF0eFE?oc=5\" target=\"_blank\">Brian Armstrong, CEO of America's largest crypto exchange, Coinbase in layoff email to employees: Over th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNQTBhcEhicTllcmtFWUtuRXBVd0Z5d1ZTbVhmRmtWcHg1S0EwaVh0N181ZkZZbk5mcVBJblliRmFPUkhWaGlieVZQRS1SY3dNS3drdGozbnF0cDJEZWdxQ3VLeDBVaWtROXNJOTVuVWVGVTJ1ckdmVVNmRHpqOHlGX21UclkyVTA0OGJadjB4aThTNmwzS0tQQUtPeUlDTVk5ZHItXzlqeEFkOHI2THktZ213SG1MZDYwV2F2Mi1sNnhhZUZfQlUzMHJBSFVLZ3lkSmpRT01oQjRjRFpwWWhPSHdEUWx4UzJITmM3TWRsWk0zMm9xNFNhbjdrNk5QX3E1T21ya0xxdkhHODlaZGVWemxEcG9DY0MybzIwT1hJSHVfSUh6UzIyNzFadVVDS19rQUpqUE8yWURrSzlhSXpMTkZId3U3RUdHQ1VzMlpSX2FmeTFs0gHaAkFVX3lxTE9JTVFJUlpZTHl2c1JXWkxfd215ZkFWNjQtY2FZV2pSV2VTYWxqblhackRKa1BlakZPS0Vmc3FHc0wtaFNhWkNjTkRid2xYd0FmNjAxRXNKX1FjWWg5MWFTWG8tRmU1SVRvMXJnRkNVdTN1a0Job0RCMG1KdmZFSU1Pd0FPajZJVVBHU2hUeEd3eDBtclpaNGhHVXdWR0FZNmlHdUlNamFHc28zdE5iejBTS2lId056aEdIbEhDbUtjLUl0MFIzbmpudFhXMi1HWXhwWVh4UjVGRHY2WmZ4bkV5alA3czRreW1GZEh6ZjJZS2FiOE41WTZOb1FvYkN1Q2VGbF9Ub3QyaGFGYUNCNWx5WUVFQm9WZzBwMnZZSjhhbTVlaXo2RDhVc3FCVEU0TUhOcDRLMi1IemZWZjhtY1RwYUJqZGl6aEFoYm00YlUtaEg0dmtOYzF0eFE?oc=5",
-      "source": "The Times of India",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-05T12:17:00+00:00",
-      "tags": [
-        "Bitcoin",
-        "ETF",
-        "安全 Security",
-        "Layer2"
-      ],
-      "key_quote": "Brian Armstrong, CEO of America's largest crypto exchange, Coinbase in layoff email to employees: Over th The Times of India"
-    },
-    {
-      "title": "Coinbase cuts 14% of staff as it navigates downturn, shifts to AI-native operations",
-      "content": "<p>Coinbase CEO Brian Armstrong confirmed the layoffs on X, saying that the company's business remains \"volatile\" from quarter to quarter.</p>",
-      "url": "https://www.theblock.co/post/400023/coinbase-cuts-staff?utm_source=rss&utm_medium=rss",
-      "source": "The Block",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-05T12:04:12+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong confirmed the layoffs on X, saying that the company's business remains \"volatile\" from quarter to quarter."
     }
   ]
 }
