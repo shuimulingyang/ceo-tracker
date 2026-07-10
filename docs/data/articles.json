@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-09T22:59:50Z",
+  "updated_at": "2026-07-10T00:04:06Z",
   "total": 500,
   "by_ceo": {
-    "Richard Teng": 43,
+    "Richard Teng": 44,
     "CZ": 86,
-    "Brian Armstrong": 335,
+    "Brian Armstrong": 334,
     "Star Xu": 12,
     "Ben Zhou": 24
   },
@@ -41,6 +41,17 @@
       "published_at": "2026-07-09T12:48:37+00:00",
       "tags": [],
       "key_quote": "Can Binance Still Make It in EU? CEO Richard Teng Reveals Regulator Invitations CoinGape"
+    },
+    {
+      "title": "Binance Co-CEO Richard Teng on digital assets at Reuters NEXT Asia",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41S09lcm5qdTlXVXBuX0lBb25DMkFMaVFSdWFzZ0tvUlphV0NfaUs4OVA1cS0wekFhUE9YUDY0OUFyQ0dJQWhNYW0zWTh5bDAyUW9XanVfMXFDOTQxLUctYmFERXlQT2M?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng on digital assets at Reuters NEXT Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41S09lcm5qdTlXVXBuX0lBb25DMkFMaVFSdWFzZ0tvUlphV0NfaUs4OVA1cS0wekFhUE9YUDY0OUFyQ0dJQWhNYW0zWTh5bDAyUW9XanVfMXFDOTQxLUctYmFERXlQT2M?oc=5",
+      "source": "Reuters",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-09T10:17:12+00:00",
+      "tags": [],
+      "key_quote": "Binance Co-CEO Richard Teng on digital assets at Reuters NEXT Asia Reuters"
     },
     {
       "title": "Regulators invited Binance to seek new licenses after MiCA setback, co-CEO says",
@@ -6068,17 +6079,6 @@
         "AI"
       ],
       "key_quote": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce MSN"
-    },
-    {
-      "title": "Read the email Coinbase CEO Brian Armstrong sent when he laid off 14% of his staff",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzB3V2JoeWNtSVB3NWszcksxTldpdklRNFVmQVZ1WDdFNjd1bk55U19VZExxd2ZXS1NfZDFpZmZldTlEY1hrVkZRald5dEt5TVQzQk9mYUlGZmxnZGs4WTlsREZQeE5fMjlsUHhJLWpqRmd6dTFROFNZMnc0UmJQUVhyeVFCd2ZVaGx6N1NxT1owd214cXFady1sOUNBM2RGemlrd0hlajlJSnM0TUNuYU03SVIyR2Y0U0E?oc=5\" target=\"_blank\">Read the email Coinbase CEO Brian Armstrong sent when he laid off 14% of his staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzB3V2JoeWNtSVB3NWszcksxTldpdklRNFVmQVZ1WDdFNjd1bk55U19VZExxd2ZXS1NfZDFpZmZldTlEY1hrVkZRald5dEt5TVQzQk9mYUlGZmxnZGs4WTlsREZQeE5fMjlsUHhJLWpqRmd6dTFROFNZMnc0UmJQUVhyeVFCd2ZVaGx6N1NxT1owd214cXFady1sOUNBM2RGemlrd0hlajlJSnM0TUNuYU03SVIyR2Y0U0E?oc=5",
-      "source": "Fast Company",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-05T18:11:15+00:00",
-      "tags": [],
-      "key_quote": "Read the email Coinbase CEO Brian Armstrong sent when he laid off 14% of his staff Fast Company"
     }
   ]
 }
