@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-11T16:38:40Z",
+  "updated_at": "2026-07-11T17:43:02Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 333,
-    "Richard Teng": 46,
+    "Brian Armstrong": 332,
+    "Richard Teng": 47,
     "CZ": 85,
     "Star Xu": 12,
     "Ben Zhou": 24
   },
   "articles": [
+    {
+      "title": "Coinbase CEO has a bold take on internet's future beyond ads",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmRCZmNMeHVCblJzVl9FQXJLWW9wWVVZNkc3aUhfLTRyMU45eFpCNU9mTFVUT2RaU1JRQjEwLVU0RlpIVzdzc2lVV24wMGZQWkVka1B3S1hjeC1uUGpuNGtrU3cwbmx1d3FYaWI0Tl83dUZHVG9FcDY0WDFOd0p6QmtlQnc?oc=5\" target=\"_blank\">Coinbase CEO has a bold take on internet's future beyond ads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmRCZmNMeHVCblJzVl9FQXJLWW9wWVVZNkc3aUhfLTRyMU45eFpCNU9mTFVUT2RaU1JRQjEwLVU0RlpIVzdzc2lVV24wMGZQWkVka1B3S1hjeC1uUGpuNGtrU3cwbmx1d3FYaWI0Tl83dUZHVG9FcDY0WDFOd0p6QmtlQnc?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-11T16:45:59+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO has a bold take on internet's future beyond ads AOL.com"
+    },
     {
       "title": "Coinbase CEO has a bold take on internet's future beyond ads",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQQk96MTgtUGFSQmU2cEEyN3ZSeEZFbmoyNXJ0cFNNNDZIYjFCd053ZndSMExuR3BGY1BGcDhCNnRkeC1DYVJkZGZreThjV0FrRklLWEJPOV9wZFA4VkN3Tm0zOHZzRm5YZTlHS3BNU2h1VllWTWgtXzdDUXhxbnhFX2R3VlN5V1hURVIyUnlUQ0VrV25vV09Nb3pLRlMwdmNQMGp4bzZB?oc=5\" target=\"_blank\">Coinbase CEO has a bold take on internet's future beyond ads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
@@ -279,6 +290,19 @@
       "published_at": "2026-07-07T12:30:00+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO has one-word response to sheriffs group's sudden shift thestreet.com"
+    },
+    {
+      "title": "Richard Teng Discusses Binance’s Vision for the Future of Financial Services",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnExSS1pMHpURzYzcnNDbWVkdHRrZTg3Mms5SzRpNVZwQXhpbVlHQnAtU0hLUm9maXJ5czc3UnE4aEROVzRtUEtuMW55MGxPOU11c2pRMGNKM1FONl9RUnU3eGY4UzNPZTc3Z0NUNjBnaF9CMmxKTGlpT3V1SDhtWTJsVFF5UHdMQ01UTUd6a0g2ZXR1TzVqaUdZNHU?oc=5\" target=\"_blank\">Richard Teng Discusses Binance’s Vision for the Future of Financial Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The AI Journal</font>",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnExSS1pMHpURzYzcnNDbWVkdHRrZTg3Mms5SzRpNVZwQXhpbVlHQnAtU0hLUm9maXJ5czc3UnE4aEROVzRtUEtuMW55MGxPOU11c2pRMGNKM1FONl9RUnU3eGY4UzNPZTc3Z0NUNjBnaF9CMmxKTGlpT3V1SDhtWTJsVFF5UHdMQ01UTUd6a0g2ZXR1TzVqaUdZNHU?oc=5",
+      "source": "The AI Journal",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-07T11:20:28+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Richard Teng Discusses Binance’s Vision for the Future of Financial Services The AI Journal"
     },
     {
       "title": "Why Banks Are Dying: Richard Teng on Crypto, AI & De-dollarisation",
@@ -6057,30 +6081,6 @@
       "published_at": "2026-05-06T05:21:00+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO makes critical move before earnings Yahoo Finance Singapore"
-    },
-    {
-      "title": "Coinbase to lay off 14% of staff as CEO Brian Armstrong restructures crypto exchange for AI efficiency",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilwNBVV95cUxQNHdteFNLZU5Id0tXMzJySWoycHc1M2FqYUE2YWg0VVhwa3NlVmJMd3pCakU0UGs1VjdKSXBBQjJuT3V5cUpQbmJIUlg5MlRoakZBVlNvYjVoUVJlb29SYUQ0WUx6UlQyR1pNMU9NckRKVW1xWWowSF92OWdCX19qRVpkbExWV2d4c29MRUxpc3p0VXV1VDQwV0F4UlYtNFZDdzI2dGo2WWJsakd5QVN0OU9tcm1aVFpYQkl3MXhfM2pFQ1FhUmdjN2FlMk5hTmktR0k1VGpZd3p5aGxWNE9SZ1MtSld2MGk0VG9mQWFJUGNSLXpvT0JRbzA5bUR0T2xrNXI4SXZDWlVQa0FNNUpoTUY0YTFpUTdkcFJjdFlvSF9BVjVqUkdINkdVUW55MGludjlXZFV2Z2RvMFRYTU9fd2dtZ003Y29jemNOck1CTlUtS25PTWYzUHNjalBORTZvTzZKZGpQSFlSVHlteURjR3c2d1gxeWMwbW53YTJfMnpUMzdzdm1BT295Skd3SXpZNUg1VnNCaw?oc=5\" target=\"_blank\">Coinbase to lay off 14% of staff as CEO Brian Armstrong restructures crypto exchange for AI efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQNHdteFNLZU5Id0tXMzJySWoycHc1M2FqYUE2YWg0VVhwa3NlVmJMd3pCakU0UGs1VjdKSXBBQjJuT3V5cUpQbmJIUlg5MlRoakZBVlNvYjVoUVJlb29SYUQ0WUx6UlQyR1pNMU9NckRKVW1xWWowSF92OWdCX19qRVpkbExWV2d4c29MRUxpc3p0VXV1VDQwV0F4UlYtNFZDdzI2dGo2WWJsakd5QVN0OU9tcm1aVFpYQkl3MXhfM2pFQ1FhUmdjN2FlMk5hTmktR0k1VGpZd3p5aGxWNE9SZ1MtSld2MGk0VG9mQWFJUGNSLXpvT0JRbzA5bUR0T2xrNXI4SXZDWlVQa0FNNUpoTUY0YTFpUTdkcFJjdFlvSF9BVjVqUkdINkdVUW55MGludjlXZFV2Z2RvMFRYTU9fd2dtZ003Y29jemNOck1CTlUtS25PTWYzUHNjalBORTZvTzZKZGpQSFlSVHlteURjR3c2d1gxeWMwbW53YTJfMnpUMzdzdm1BT295Skd3SXpZNUg1VnNCaw?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-06T02:35:51+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Coinbase to lay off 14% of staff as CEO Brian Armstrong restructures crypto exchange for AI efficiency MSN"
-    },
-    {
-      "title": "Coinbase CEO makes critical move before earnings",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNcHFwTXhQVGg5X0Q1S1EwWmJIXzFCSXplai1YU1JER3BWSml3emhiU0hkSVgyMm5TNVQ2WDd3cU5DTXZPM1VEQkEyZWI0ZjZNR1JMRXVzRVV1SUJYa1M0OXFNVUdITW5lc1dtWUl1Z0FMazkycUtOVUFUWHY0eDdzZzg5aTdkUDc3NzdCd1MzWk51eFluY3c?oc=5\" target=\"_blank\">Coinbase CEO makes critical move before earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcHFwTXhQVGg5X0Q1S1EwWmJIXzFCSXplai1YU1JER3BWSml3emhiU0hkSVgyMm5TNVQ2WDd3cU5DTXZPM1VEQkEyZWI0ZjZNR1JMRXVzRVV1SUJYa1M0OXFNVUdITW5lc1dtWUl1Z0FMazkycUtOVUFUWHY0eDdzZzg5aTdkUDc3NzdCd1MzWk51eFluY3c?oc=5",
-      "source": "thestreet.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-06T02:21:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO makes critical move before earnings thestreet.com"
     }
   ]
 }
