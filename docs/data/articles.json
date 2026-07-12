@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T01:18:36Z",
+  "updated_at": "2026-07-12T05:11:32Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 332,
@@ -19,6 +19,17 @@
       "published_at": "2026-07-11T19:40:08+00:00",
       "tags": [],
       "key_quote": "Coinbase launches MiCA compliant crypto exchange in EU with 5% bonus, Brian Armstrong states Traders Union"
+    },
+    {
+      "title": "Coinbase CEO has a bold take on internet's future beyond ads",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOT2N1UVBXYTNWLUVRczVPdFYzdEZDdzlnWUY5S3g3X3NaeXJXc0pTTi1FWDc5M256cEFIMFE3VW4yWkJEQk9vNTV4OXA4Z3l5RWd5ZURUUC1xWGxmSGNwWEZNUDVkX3FQbktKOHVwX0M2S0RPSnpVcjNaR0lJSEJGa3J5NA?oc=5\" target=\"_blank\">Coinbase CEO has a bold take on internet's future beyond ads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT2N1UVBXYTNWLUVRczVPdFYzdEZDdzlnWUY5S3g3X3NaeXJXc0pTTi1FWDc5M256cEFIMFE3VW4yWkJEQk9vNTV4OXA4Z3l5RWd5ZURUUC1xWGxmSGNwWEZNUDVkX3FQbktKOHVwX0M2S0RPSnpVcjNaR0lJSEJGa3J5NA?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-11T17:57:24+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO has a bold take on internet's future beyond ads AOL.com"
     },
     {
       "title": "Coinbase CEO has a bold take on internet's future beyond ads",
@@ -6070,17 +6081,6 @@
         "AI"
       ],
       "key_quote": "Coinbase to lay off 14% of workers as CEO Brian Armstrong restructures crypto exchange for AI efficiency Yahoo Finance"
-    },
-    {
-      "title": "Coinbase CEO Warns American Workers: Mass Layoffs Are Coming to ‘Every Company’",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNVjh1ZXFXMFBRd3Q1YlF1OUYzWXljZnpOcVQ2QVdWRmhuUTAyd000UDVDSWRsYXE4blNNbm5vQ0s5RjlXU0c5MFc0WTNVWFE5cTF0YW9ZbHFJbFNlSEU1U0g4MEpmSWdybG14M25MLTBQZ2FaWVJEcnBuLU41OEhiTDFwRWhFcWwwcWZuOGxXM0MzZGFZWkxtVmdjbEt4a21mUnZOQkRrTlA2Q2JsX3hJelVFSVhVMzMxSTAzdw?oc=5\" target=\"_blank\">Coinbase CEO Warns American Workers: Mass Layoffs Are Coming to ‘Every Company’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVjh1ZXFXMFBRd3Q1YlF1OUYzWXljZnpOcVQ2QVdWRmhuUTAyd000UDVDSWRsYXE4blNNbm5vQ0s5RjlXU0c5MFc0WTNVWFE5cTF0YW9ZbHFJbFNlSEU1U0g4MEpmSWdybG14M25MLTBQZ2FaWVJEcnBuLU41OEhiTDFwRWhFcWwwcWZuOGxXM0MzZGFZWkxtVmdjbEt4a21mUnZOQkRrTlA2Q2JsX3hJelVFSVhVMzMxSTAzdw?oc=5",
-      "source": "24/7 Wall St.",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-06T15:08:09+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Warns American Workers: Mass Layoffs Are Coming to ‘Every Company’ 24/7 Wall St."
     }
   ]
 }
