@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-07-13T20:04:22Z",
+  "updated_at": "2026-07-13T21:40:43Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 334,
-    "Richard Teng": 45,
+    "Brian Armstrong": 335,
+    "Richard Teng": 44,
     "CZ": 85,
     "Star Xu": 12,
     "Ben Zhou": 24
   },
   "articles": [
+    {
+      "title": "4 Base Experiments That Flopped Before Brian Armstrong Called Time",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2RlalBXVzhzZjdlUTFyN1d4Zms1aDVqYUVqc3JEbklCemRlaWZxZGREcVV1a1p0bkFiVlFtZU5wN3VBVEU2ZmZnMFVJZTBmNG5yZ05pLVZINGhsbE45UkROVTd5bWxhWW9KdXZYU2xsN2tqZnFRU1NaS1J5TWFqS0hQam5yTnNaWVBMZ25STUJfNUMzZ0t0RnJtOEFDLVBIejI2Sw?oc=5\" target=\"_blank\">4 Base Experiments That Flopped Before Brian Armstrong Called Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2RlalBXVzhzZjdlUTFyN1d4Zms1aDVqYUVqc3JEbklCemRlaWZxZGREcVV1a1p0bkFiVlFtZU5wN3VBVEU2ZmZnMFVJZTBmNG5yZ05pLVZINGhsbE45UkROVTd5bWxhWW9KdXZYU2xsN2tqZnFRU1NaS1J5TWFqS0hQam5yTnNaWVBMZ25STUJfNUMzZ0t0RnJtOEFDLVBIejI2Sw?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-13T21:00:00+00:00",
+      "tags": [],
+      "key_quote": "4 Base Experiments That Flopped Before Brian Armstrong Called Time Yahoo Finance"
+    },
+    {
+      "title": "4 Base Experiments That Flopped Before Brian Armstrong Called Time",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9nckdpQzIteWlUNXJkRHgxNmJYb2FFek9DeTh4djVaWTRNX1h2bDgzT015WVdoeUtXdElrMVpSZ2FtM2FMQTc3b0VZZWExSEs5aDh1QTU3VXRpMWpxZEJWVG03S1E1TUFhUkw5NVlNTQ?oc=5\" target=\"_blank\">4 Base Experiments That Flopped Before Brian Armstrong Called Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nckdpQzIteWlUNXJkRHgxNmJYb2FFek9DeTh4djVaWTRNX1h2bDgzT015WVdoeUtXdElrMVpSZ2FtM2FMQTc3b0VZZWExSEs5aDh1QTU3VXRpMWpxZEJWVG03S1E1TUFhUkw5NVlNTQ?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-13T21:00:00+00:00",
+      "tags": [
+        "Ethereum"
+      ],
+      "key_quote": "4 Base Experiments That Flopped Before Brian Armstrong Called Time BeInCrypto"
+    },
     {
       "title": "Coinbase CEO Armstrong admits Base’s content coin failure, shifts focus",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQajJlWFVkS1NXbmNhMlNkZktEMEs4dXVGdjlSN1YzcDhzaXYzOEJhWjJNZUpPekQzYlJhV2VLRVlhTS1kWUxHRmR1TVp0ZGNSdUlfcW5rbkJpZ1Rob2tZVXUwZmJ3UEtVNldZbm5zblJBdG5HeFRCMHBCa25GQ0tkUVBXaDRsbGZzV1FyMVVabm15N25LRkZKSzkyZWZUdw?oc=5\" target=\"_blank\">Coinbase CEO Armstrong admits Base’s content coin failure, shifts focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
@@ -6055,33 +6079,6 @@
       "published_at": "2026-05-07T20:32:07+00:00",
       "tags": [],
       "key_quote": "Brian Armstrong strategy shift sends Coinbase near intraday low amid lawsuit pressure Traders Union"
-    },
-    {
-      "title": "Onchain economy reaches escape velocity, Brian Armstrong notes",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWtYZzRaZVk0YmNPQUFJSl84dHQ3UlhsaTJGSnk1Z2hvM0VDOTRhazJRMjNzS2lZWkhUZE40bXMzTUV5VHdaV2FOdmRzMEtHNlRlelBHTzJGZlRLZzUwTWxEd3ppTzA1bE1kYVBCRkVGZ0lhZ2hQNmRiT0s3T09VYzhISE5lYkR0blJVc21YZTAta1E?oc=5\" target=\"_blank\">Onchain economy reaches escape velocity, Brian Armstrong notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWtYZzRaZVk0YmNPQUFJSl84dHQ3UlhsaTJGSnk1Z2hvM0VDOTRhazJRMjNzS2lZWkhUZE40bXMzTUV5VHdaV2FOdmRzMEtHNlRlelBHTzJGZlRLZzUwTWxEd3ppTzA1bE1kYVBCRkVGZ0lhZ2hQNmRiT0s3T09VYzhISE5lYkR0blJVc21YZTAta1E?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-07T20:15:17+00:00",
-      "tags": [
-        "Ethereum"
-      ],
-      "key_quote": "Onchain economy reaches escape velocity, Brian Armstrong notes Traders Union"
-    },
-    {
-      "title": "Binance CEO Richard Teng Says AI Can Both Protect and Exploit Users",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNVjhsYV9nemlRMHFlR2R6MS1KNGpHUG9kdmphSE9odXdxNEZKVVdCdzRXUDJPdE9FeDQ2eEpwa1F0SDQtdHJn?oc=5\" target=\"_blank\">Binance CEO Richard Teng Says AI Can Both Protect and Exploit Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC Exchange</font>",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNVjhsYV9nemlRMHFlR2R6MS1KNGpHUG9kdmphSE9odXdxNEZKVVdCdzRXUDJPdE9FeDQ2eEpwa1F0SDQtdHJn?oc=5",
-      "source": "MEXC Exchange",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-05-07T18:25:53+00:00",
-      "tags": [
-        "安全 Security",
-        "AI"
-      ],
-      "key_quote": "Binance CEO Richard Teng Says AI Can Both Protect and Exploit Users MEXC Exchange"
     }
   ]
 }
