@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-13T05:20:26Z",
+  "updated_at": "2026-07-13T08:39:11Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 332,
-    "Richard Teng": 47,
+    "Brian Armstrong": 333,
+    "Richard Teng": 46,
     "CZ": 85,
     "Star Xu": 12,
     "Ben Zhou": 24
   },
   "articles": [
+    {
+      "title": "Coinbase CEO has a bold take on internet's future beyond ads",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZueDl6WHh5cVRLcmtZT0tEYWFqR3VxZFo4Ylc4RGZ4TzktX3B2ZVN4c1pMVVVpcDhBSnk1V3FkdERUSW5DU0ZlQkU5U1hXWUlQcTI2eTZQQ09Nanc3SDFyUlFkeXhFOGhoaWQtdHJsQXNVQkdRQmphM3I4U1VoSVo5bFo1UTRMWk9KYndRYw?oc=5\" target=\"_blank\">Coinbase CEO has a bold take on internet's future beyond ads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roundtable.io</font>",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGZueDl6WHh5cVRLcmtZT0tEYWFqR3VxZFo4Ylc4RGZ4TzktX3B2ZVN4c1pMVVVpcDhBSnk1V3FkdERUSW5DU0ZlQkU5U1hXWUlQcTI2eTZQQ09Nanc3SDFyUlFkeXhFOGhoaWQtdHJsQXNVQkdRQmphM3I4U1VoSVo5bFo1UTRMWk9KYndRYw?oc=5",
+      "source": "roundtable.io",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-13T05:59:35+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO has a bold take on internet's future beyond ads roundtable.io"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Has a New Solution to America's $39 Trillion Debt Problem. (Hint: It Involves Bitcoin.)",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxOOHROMm5QWXM3dmhSZUYtUkFhYWozdXdxaG5XSDZwUGRqSUVXQU9POXU4bWVUN0NEa1J1M0pWNXpKQlVFaGhOQ2lldXE4cDB0MTU1UUpqbmdabHpTeldxWXJsbHJRV2p5b2xGOTdnT2N6c3pXRUtUb051RTdoR3Ewdm5BLUt1bUcyVEQ2X0pMQzRYNHdKWGUwY1NTcDdjdUNwWlloOTVwS3dmY3ZSMDFCZURGbzNJUkZlTkNkSGJhS3BZMWpfNVZyWGV5VWdkRW5GMjgtcXoxWGJJVUFnSkdMSzRmbENWRnl2b1VaZEdOeFJyNXBXTEx5SktMYWlsZVBtVkYwMkZlWjh6QzVGNEFnX3JYSEVuSFhGMWNjVFlEY0JzU0k?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Has a New Solution to America's $39 Trillion Debt Problem. (Hint: It Involves Bitcoin.)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
@@ -6072,17 +6083,6 @@
       "published_at": "2026-05-07T15:35:44+00:00",
       "tags": [],
       "key_quote": "20VC x SaaStr: The Most Aggressive Quarter in American Capitalism, Palantir’s Rule of 145, and Why Brian Armstrong Just Killed the Manager-of-Managers SaaStr"
-    },
-    {
-      "title": "Richard Teng: Binance aims to become financial super app for all assets",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVVVMGtZMjlyX2Vtc2U5UXJQY1ZkeWJzZVMxSWNOSDFfbHVBakZhMHFhV1FGeEtnaWhZN2VqclJVNHFZM1FfQlI5R2pHU2poNEpVNGFyRjM0bHEwZUhwbjd1LTBpOW5SM2pWTGh4dzNkUXdnNVptb1BiNk44QllGbTd2YVFRb2dMVmhnM2hR?oc=5\" target=\"_blank\">Richard Teng: Binance aims to become financial super app for all assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVVVMGtZMjlyX2Vtc2U5UXJQY1ZkeWJzZVMxSWNOSDFfbHVBakZhMHFhV1FGeEtnaWhZN2VqclJVNHFZM1FfQlI5R2pHU2poNEpVNGFyRjM0bHEwZUhwbjd1LTBpOW5SM2pWTGh4dzNkUXdnNVptb1BiNk44QllGbTd2YVFRb2dMVmhnM2hR?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-05-07T05:57:51+00:00",
-      "tags": [],
-      "key_quote": "Richard Teng: Binance aims to become financial super app for all assets Traders Union"
     }
   ]
 }
