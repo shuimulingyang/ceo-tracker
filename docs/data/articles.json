@@ -1,14 +1,51 @@
 {
-  "updated_at": "2026-07-14T16:05:44Z",
+  "updated_at": "2026-07-14T17:53:51Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 337,
+    "Richard Teng": 45,
+    "Brian Armstrong": 336,
     "CZ": 83,
-    "Richard Teng": 44,
     "Star Xu": 12,
     "Ben Zhou": 24
   },
   "articles": [
+    {
+      "title": "Richard Teng",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9jWlI5THh2TE5mUDJxcWpHbWdOdXpLVXBKeUY0Rk1MaXVFeDdEQmRLOW5QaFdyLTNTRDBkT3VJNTNQaF9CQWFRR0Z0a2V1N0FOU3F1VUdUMThSXzlaUDBoOGRCbkZlM0lwZnVjb3Z5b0stRnZLLUE?oc=5\" target=\"_blank\">Richard Teng</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Tech Magazine</font>",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jWlI5THh2TE5mUDJxcWpHbWdOdXpLVXBKeUY0Rk1MaXVFeDdEQmRLOW5QaFdyLTNTRDBkT3VJNTNQaF9CQWFRR0Z0a2V1N0FOU3F1VUdUMThSXzlaUDBoOGRCbkZlM0lwZnVjb3Z5b0stRnZLLUE?oc=5",
+      "source": "PC Tech Magazine",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-14T16:34:36+00:00",
+      "tags": [],
+      "key_quote": "Richard Teng PC Tech Magazine"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong's poll shows most expect more Bitcoin pain",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcHNScGtWSXo0eEUxdE9DLWpEa2QxcDJBWFJYY1JsZlBQR1lUbVdreHVuNVZjSEkyandtcG83LWlZT3hsaDU3OEEtVkRlb29kMWNKNHR4Z3FOaTdiRlcyMFY0VEFDbVBDZGpsdC1sV0g3cHhYYUV5by1vekVLS3d5Uk0yRDF0UWEtazR2c2RPZjY1Z3VZRE10WVQ1eVpsQQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong's poll shows most expect more Bitcoin pain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roundtable.io</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHNScGtWSXo0eEUxdE9DLWpEa2QxcDJBWFJYY1JsZlBQR1lUbVdreHVuNVZjSEkyandtcG83LWlZT3hsaDU3OEEtVkRlb29kMWNKNHR4Z3FOaTdiRlcyMFY0VEFDbVBDZGpsdC1sV0g3cHhYYUV5by1vekVLS3d5Uk0yRDF0UWEtazR2c2RPZjY1Z3VZRE10WVQ1eVpsQQ?oc=5",
+      "source": "roundtable.io",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-14T16:34:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong's poll shows most expect more Bitcoin pain roundtable.io"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong's poll shows most expect more Bitcoin pain",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEJaTmFEeldrWVd0OWl6N2tUWDVaaktSdmx0WUVGV09IWVFJOV8xZzI2LXlLNzV3amJ6QmRBOUxya29GRzQyWUkzMWs3cXBxVUd3eWJ5dUZtbEJ0RS05bzRkYk9NNWIzM0d2N2MwMzNHNkJuTHBYS2FLUy0xME4wQ0stb2lUZzdObWxJekR4VVFJUnlNN3AyQ2o0OFd0SEJ2TmNuSVd3aWNNWnlENTJDdw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong's poll shows most expect more Bitcoin pain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEJaTmFEeldrWVd0OWl6N2tUWDVaaktSdmx0WUVGV09IWVFJOV8xZzI2LXlLNzV3amJ6QmRBOUxya29GRzQyWUkzMWs3cXBxVUd3eWJ5dUZtbEJ0RS05bzRkYk9NNWIzM0d2N2MwMzNHNkJuTHBYS2FLUy0xME4wQ0stb2lUZzdObWxJekR4VVFJUnlNN3AyQ2o0OFd0SEJ2TmNuSVd3aWNNWnlENTJDdw?oc=5",
+      "source": "thestreet.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-14T16:15:34+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong's poll shows most expect more Bitcoin pain thestreet.com"
+    },
     {
       "title": "'Is the Bitcoin Bottom In?' Coinbase CEO Brian Armstrong's Poll Gets a Bearish Answer",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWTFDR19rdVlncm82ZXk1ODhsOFV3VHpSS2pmUk50Zk1VTXZoLUxoTFhPcjJLNjRuTXhaVnQtSFRwQTVObGgzbnE5bm4zM2ZHX0RVamdtRkJEczBXc0VYMHpEQWNFSkg0QzRpWXVoemRELUdMU2Z6WkpGVE51dHFETDFYS3ZuR0RNbmtKcFEyTXp0QmxySGdCdFEwcDllSnVSVTNlTDA2dUFiU0NBVEp2UXNaQWdYSHYwR183NVQ0cml3dXV5ZDhOYWJPOXBORThQaXdGWWxSaEVSdU0?oc=5\" target=\"_blank\">'Is the Bitcoin Bottom In?' Coinbase CEO Brian Armstrong's Poll Gets a Bearish Answer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -6051,41 +6088,6 @@
       "published_at": "2026-05-08T13:02:43+00:00",
       "tags": [],
       "key_quote": "Coinbase Q1 2026: Brian Armstrong Says the Onchain Economy Has Reached Escape Velocity CryptoRank"
-    },
-    {
-      "title": "Coinbase Posts Nearly $400M Q1 Loss as CEO Brian Armstrong Aims to Shift Revenue Focus from Spot Crypto Trading",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUVp6QWl4TnZLdTdBbWlsSXAzb0kyaGU0b0hTNHo1UHB1cnBTVlY5SmVqNWdHLVpRRTNVX0RVNzltdV9LM3ppOE1jSmczR0NuekRBMFlpUlZiUlpDVTJZQjh2VG81MFNWMkRKb3NMQWM4N3BCX2tSVVNhUWZFT2U0ck8zcFdfV0JaSWRzcUtVMU1CRTF1MnprUkdYYzlPczRabktzX0prcG9QeFpTYlUtYnNTa3hkb29VdUtlWGxwMkw1eXotTENYWVNiMnA0YWZJWEJRQkp5RnBLYXNKMmpWay1PejhVRkdqemdQQVZjZzE?oc=5\" target=\"_blank\">Coinbase Posts Nearly $400M Q1 Loss as CEO Brian Armstrong Aims to Shift Revenue Focus from Spot Crypto Trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crowdfund Insider</font>",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUVp6QWl4TnZLdTdBbWlsSXAzb0kyaGU0b0hTNHo1UHB1cnBTVlY5SmVqNWdHLVpRRTNVX0RVNzltdV9LM3ppOE1jSmczR0NuekRBMFlpUlZiUlpDVTJZQjh2VG81MFNWMkRKb3NMQWM4N3BCX2tSVVNhUWZFT2U0ck8zcFdfV0JaSWRzcUtVMU1CRTF1MnprUkdYYzlPczRabktzX0prcG9QeFpTYlUtYnNTa3hkb29VdUtlWGxwMkw1eXotTENYWVNiMnA0YWZJWEJRQkp5RnBLYXNKMmpWay1PejhVRkdqemdQQVZjZzE?oc=5",
-      "source": "Crowdfund Insider",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-08T13:00:36+00:00",
-      "tags": [
-        "机构 Institutional"
-      ],
-      "key_quote": "Coinbase Posts Nearly $400M Q1 Loss as CEO Brian Armstrong Aims to Shift Revenue Focus from Spot Crypto Trading Crowdfund Insider"
-    },
-    {
-      "title": "Brian Armstrong Says Crypto Has Reached 'Escape Velocity:' Can Coinbase Grow To $300 Billion?",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWEJ5aU5HUG5VLWxhZXA5VW1DUW1iR0JoU0xZYXU1X1dOMy1uYmR0S3kwOVJZaHQ4Z3lCSGs0ZFpGU0k3R0FCazYxZEprZ1hFcmZHaW9mZWZLOUxRT09IbHdocmMtd0NCX1luOWJ4NlJvSXFOb1RUalhISk5qOWVST0pYdDl4RG1JeWdIU0t3SGJTd2RBaVpmM3R0YTEzQl83SFVaakZNT016NWh0RTF4eWpzejczT0xWNmJKMGkxdmo2UWhHTHh5aUZGZ1ZuSW0wVDRkM1FyY2dkNFdiQVZmWDFyeV8?oc=5\" target=\"_blank\">Brian Armstrong Says Crypto Has Reached 'Escape Velocity:' Can Coinbase Grow To $300 Billion?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWEJ5aU5HUG5VLWxhZXA5VW1DUW1iR0JoU0xZYXU1X1dOMy1uYmR0S3kwOVJZaHQ4Z3lCSGs0ZFpGU0k3R0FCazYxZEprZ1hFcmZHaW9mZWZLOUxRT09IbHdocmMtd0NCX1luOWJ4NlJvSXFOb1RUalhISk5qOWVST0pYdDl4RG1JeWdIU0t3SGJTd2RBaVpmM3R0YTEzQl83SFVaakZNT016NWh0RTF4eWpzejczT0xWNmJKMGkxdmo2UWhHTHh5aUZGZ1ZuSW0wVDRkM1FyY2dkNFdiQVZmWDFyeV8?oc=5",
-      "source": "Benzinga",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-08T12:15:38+00:00",
-      "tags": [],
-      "key_quote": "Brian Armstrong Says Crypto Has Reached 'Escape Velocity:' Can Coinbase Grow To $300 Billion?"
-    },
-    {
-      "title": "Coinbase reports service issues, CEO Brian Armstrong 'points finger' at AWS cloud outage",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRVBTLWI3cFZ2WEFfSGptTlJOMTA0LUt0WmRoWEQxZXBub21Oc0xLQWhMbVZzS296RWpvaUR0dlp0UjkwX0RVS2Vxb3pzS1pkbEZhX1pIc3lFOHE2UmU5aXVOdGF4OVFhYmVFTHp4N0lwRS1RVlA1OWM4aVhiandKMWN4Q05YZTlseGg1UmxEZ1ZmcFVTLWdwTmpNMnFNeEVOSzlPTGYtUHRJYnRuVjY0TTlHOVZRSFJ4elhvY2NuR190SElCUFJQcUFFTWt2bjhSckE1c1BLMG5BUVlJOGFxbE1R0gHnAUFVX3lxTFBEV09ncEFmejJaSkJGUGxmRXd4WVlkbF9nUi03T3h1czNuMXVUTGFZYjdXMUNCM2dmZkdpRV8taTVOSFA0b05DWUZrcTVsdEhVVEdLbnVPTWJuRXpIbWU3VW91ODduVW1Yc0tuN1NvTzdFOFVZTWMtdndkRTRyU2xIRzdaYXBTQ19rMWw4MW5yb0F6OF95eV9NNzdoX0syd3hRRjhEUVpxem1DM0I2dDIzRHktX2E4c3RBM3dLdnUyRUtDbGJvdmFwOUFnMm9oTGkzcThDZkpkNHNjN05DSzhQc0JJdWdibw?oc=5\" target=\"_blank\">Coinbase reports service issues, CEO Brian Armstrong 'points finger' at AWS cloud outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRVBTLWI3cFZ2WEFfSGptTlJOMTA0LUt0WmRoWEQxZXBub21Oc0xLQWhMbVZzS296RWpvaUR0dlp0UjkwX0RVS2Vxb3pzS1pkbEZhX1pIc3lFOHE2UmU5aXVOdGF4OVFhYmVFTHp4N0lwRS1RVlA1OWM4aVhiandKMWN4Q05YZTlseGg1UmxEZ1ZmcFVTLWdwTmpNMnFNeEVOSzlPTGYtUHRJYnRuVjY0TTlHOVZRSFJ4elhvY2NuR190SElCUFJQcUFFTWt2bjhSckE1c1BLMG5BUVlJOGFxbE1R0gHnAUFVX3lxTFBEV09ncEFmejJaSkJGUGxmRXd4WVlkbF9nUi03T3h1czNuMXVUTGFZYjdXMUNCM2dmZkdpRV8taTVOSFA0b05DWUZrcTVsdEhVVEdLbnVPTWJuRXpIbWU3VW91ODduVW1Yc0tuN1NvTzdFOFVZTWMtdndkRTRyU2xIRzdaYXBTQ19rMWw4MW5yb0F6OF95eV9NNzdoX0syd3hRRjhEUVpxem1DM0I2dDIzRHktX2E4c3RBM3dLdnUyRUtDbGJvdmFwOUFnMm9oTGkzcThDZkpkNHNjN05DSzhQc0JJdWdibw?oc=5",
-      "source": "The Times of India",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-08T10:58:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase reports service issues, CEO Brian Armstrong 'points finger' at AWS cloud outage The Times of India"
     }
   ]
 }
