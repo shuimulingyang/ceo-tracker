@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-14T01:08:51Z",
+  "updated_at": "2026-07-14T04:35:53Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 335,
+    "CZ": 86,
+    "Brian Armstrong": 334,
     "Richard Teng": 44,
-    "CZ": 85,
     "Star Xu": 12,
     "Ben Zhou": 24
   },
   "articles": [
+    {
+      "title": "Changpeng Zhao explains meme coin burn controversy, says he only took out digital trash",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2dzMC1OdG5obUM5N0JvSFBJV2hFUjQ3SjY0LW01dUhfemlhemJEYXlyUkc0aVZXcE1XdzZPdWFUbWN6ajN3d0FmYWVrODRFaThtenc4eXNwSWJMY1FQVkpySVFzZ0lobV91Tk5zMzdhVThKU3VvUGwwWGc2TVlIdFM4bEdlS2U1ZkV3V3JSZTFQTDcyVUF6aFdYYlQzMGpRd2lUS2Zwc1NKMnhSRHZtWDRTV3h2OUVmYzJWR0R5azY?oc=5\" target=\"_blank\">Changpeng Zhao explains meme coin burn controversy, says he only took out digital trash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2dzMC1OdG5obUM5N0JvSFBJV2hFUjQ3SjY0LW01dUhfemlhemJEYXlyUkc0aVZXcE1XdzZPdWFUbWN6ajN3d0FmYWVrODRFaThtenc4eXNwSWJMY1FQVkpySVFzZ0lobV91Tk5zMzdhVThKU3VvUGwwWGc2TVlIdFM4bEdlS2U1ZkV3V3JSZTFQTDcyVUF6aFdYYlQzMGpRd2lUS2Zwc1NKMnhSRHZtWDRTV3h2OUVmYzJWR0R5azY?oc=5",
+      "source": "디지털투데이",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-14T01:03:52+00:00",
+      "tags": [],
+      "key_quote": "Changpeng Zhao explains meme coin burn controversy, says he only took out digital trash 디지털투데이"
+    },
     {
       "title": "Coinbase CEO Admits Base ‘Messed Up’ on Content Coins, Shifts Focus to Trading and AI",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RmlmYW5SbWJHbkZBQjFJbVdibUJDOS11TU1HTDVGV3NfanJLMHJULTYySzgxSThJUlVhY0VEV2Q5UTZJZ205MWIxdW5URTdiTTBvYUtzRHRPZw?oc=5\" target=\"_blank\">Coinbase CEO Admits Base ‘Messed Up’ on Content Coins, Shifts Focus to Trading and AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
@@ -6066,17 +6077,6 @@
       "published_at": "2026-05-08T07:46:58+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao Forbes Middle East"
-    },
-    {
-      "title": "Coinbase boss Brian Armstrong fires 700 staffers in 7am email",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRm55eHNERDFzdHlYamhTRjkwUU8yR25HZnlQNExTRWRmZ0dtVDJEdWkzU1NKY2Vvdzc4ejVVNjAyMkV4MUhoaVhzUVp5NlNTaHVjNDd5MjM5ckFocHltZVNJbDZsem5TWGFuVmlyeXpTRVEtNmxHblc1U1NTRmZZQkFfTWVuZU1sbXY5ZGg2c3VTV1hHcmJlRUJKUmtsb0U3SGx3SllWM3pHUk1ENVg1b05NUnBhQWJrOEpGcl9HTF9mR1JHZWU2NmM1RXBLMGN0cVZkT3MwMW1VOVF1VGt6aUFWR0dmelJFelVINlNITdIB9AFBVV95cUxNbG9rSmtHLXpzUHFNdUZGQXFWdFlBVXlOU3FRa0l4QkljMko5NkZrY0hEamozRVhVMW84emF3MXZSV1NFMzNtdW5ZM0pfTHk4MUd0QTJMajRtVkVPaDNBRkpUYUZLVzlISl9vNnd0TUhqT1hNSkpWU0FQSXRPQ2N1RWlWWlRzNm1qNXAzVER5cGxwQnhEUGpOSzluUWZDWDJTVnlGc0tsMWlWVWRaaThuNjNFMzloVGdBLU9pSjF2MnpYR1FwT1hlNXpIN1Q4Zi1vNE5IemE1UkFTM0NBMDV3U0FQdlFBaEllZmZ1T3pxQXpqM0g3?oc=5\" target=\"_blank\">Coinbase boss Brian Armstrong fires 700 staffers in 7am email</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News.com.au</font>",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRm55eHNERDFzdHlYamhTRjkwUU8yR25HZnlQNExTRWRmZ0dtVDJEdWkzU1NKY2Vvdzc4ejVVNjAyMkV4MUhoaVhzUVp5NlNTaHVjNDd5MjM5ckFocHltZVNJbDZsem5TWGFuVmlyeXpTRVEtNmxHblc1U1NTRmZZQkFfTWVuZU1sbXY5ZGg2c3VTV1hHcmJlRUJKUmtsb0U3SGx3SllWM3pHUk1ENVg1b05NUnBhQWJrOEpGcl9HTF9mR1JHZWU2NmM1RXBLMGN0cVZkT3MwMW1VOVF1VGt6aUFWR0dmelJFelVINlNITdIB9AFBVV95cUxNbG9rSmtHLXpzUHFNdUZGQXFWdFlBVXlOU3FRa0l4QkljMko5NkZrY0hEamozRVhVMW84emF3MXZSV1NFMzNtdW5ZM0pfTHk4MUd0QTJMajRtVkVPaDNBRkpUYUZLVzlISl9vNnd0TUhqT1hNSkpWU0FQSXRPQ2N1RWlWWlRzNm1qNXAzVER5cGxwQnhEUGpOSzluUWZDWDJTVnlGc0tsMWlWVWRaaThuNjNFMzloVGdBLU9pSjF2MnpYR1FwT1hlNXpIN1Q4Zi1vNE5IemE1UkFTM0NBMDV3U0FQdlFBaEllZmZ1T3pxQXpqM0g3?oc=5",
-      "source": "News.com.au",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-08T07:00:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase boss Brian Armstrong fires 700 staffers in 7am email News.com.au"
     }
   ]
 }
