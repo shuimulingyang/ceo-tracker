@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-14T04:35:53Z",
+  "updated_at": "2026-07-14T06:59:52Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 86,
-    "Brian Armstrong": 334,
+    "Brian Armstrong": 335,
+    "CZ": 85,
     "Richard Teng": 44,
     "Star Xu": 12,
     "Ben Zhou": 24
   },
   "articles": [
+    {
+      "title": "Coinbase CEO admits Base ‘messed up’ on content coins",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1GTHZ5eDdjWFRzWFlSdzdHc1JRWmZkUkJ0al9hRF9ZbkNpSGpMNm1EeDFkTlZodkpRZ1lVZ3VsOGlYNmc1RzI1WWxLRlF4MnRDV2NUOGlUOGRIUHEweWJqUVpheUpNZjgwbzIwVlpaZU5Yczk4YWxzNmVDU1o?oc=5\" target=\"_blank\">Coinbase CEO admits Base ‘messed up’ on content coins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto News</font>",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GTHZ5eDdjWFRzWFlSdzdHc1JRWmZkUkJ0al9hRF9ZbkNpSGpMNm1EeDFkTlZodkpRZ1lVZ3VsOGlYNmc1RzI1WWxLRlF4MnRDV2NUOGlUOGRIUHEweWJqUVpheUpNZjgwbzIwVlpaZU5Yczk4YWxzNmVDU1o?oc=5",
+      "source": "Crypto News",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-14T05:26:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO admits Base ‘messed up’ on content coins Crypto News"
+    },
     {
       "title": "Changpeng Zhao explains meme coin burn controversy, says he only took out digital trash",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2dzMC1OdG5obUM5N0JvSFBJV2hFUjQ3SjY0LW01dUhfemlhemJEYXlyUkc0aVZXcE1XdzZPdWFUbWN6ajN3d0FmYWVrODRFaThtenc4eXNwSWJMY1FQVkpySVFzZ0lobV91Tk5zMzdhVThKU3VvUGwwWGc2TVlIdFM4bEdlS2U1ZkV3V3JSZTFQTDcyVUF6aFdYYlQzMGpRd2lUS2Zwc1NKMnhSRHZtWDRTV3h2OUVmYzJWR0R5azY?oc=5\" target=\"_blank\">Changpeng Zhao explains meme coin burn controversy, says he only took out digital trash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
@@ -6060,17 +6071,6 @@
       "title": "Changpeng Zhao",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE56TkFncmxQb21fVUVBNENjWnpOZDlka2tlbXVXQldBY1pfblEzbmptTFlvMERsbjEyeFE3bFN6TVVfR3k4c29xLUg3TFdkdS1pRS1UWjV0NS1UVk9JazhUbDhCaw?oc=5\" target=\"_blank\">Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes Middle East</font>",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56TkFncmxQb21fVUVBNENjWnpOZDlka2tlbXVXQldBY1pfblEzbmptTFlvMERsbjEyeFE3bFN6TVVfR3k4c29xLUg3TFdkdS1pRS1UWjV0NS1UVk9JazhUbDhCaw?oc=5",
-      "source": "Forbes Middle East",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-05-08T07:46:58+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao Forbes Middle East"
-    },
-    {
-      "title": "Changpeng Zhao",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ0ZqcnRnbFpzZU5sSElWU0dFZnk1SWYyaG1OUFNIRjdLV2p4MHlVU2dJdU1KcDNES1lUQkk5ODdwa3lHblh0R3ZGengxNk8tRXgzWVhFc29SY1M5ckJwTnNHX1hrTVZFZ0xqd2pCamo1TVJsQ2RfdFR2SVJ0VW13T2p4Tmc5dEFDcVRobVZGZUUwQQ?oc=5\" target=\"_blank\">Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes Middle East</font>",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ0ZqcnRnbFpzZU5sSElWU0dFZnk1SWYyaG1OUFNIRjdLV2p4MHlVU2dJdU1KcDNES1lUQkk5ODdwa3lHblh0R3ZGengxNk8tRXgzWVhFc29SY1M5ckJwTnNHX1hrTVZFZ0xqd2pCamo1TVJsQ2RfdFR2SVJ0VW13T2p4Tmc5dEFDcVRobVZGZUUwQQ?oc=5",
       "source": "Forbes Middle East",
       "ceo_name": "CZ",
       "exchange": "Binance",
