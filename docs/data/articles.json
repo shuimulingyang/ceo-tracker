@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T23:39:16Z",
+  "updated_at": "2026-07-14T01:08:51Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 335,
@@ -9,6 +9,19 @@
     "Ben Zhou": 24
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Admits Base ‘Messed Up’ on Content Coins, Shifts Focus to Trading and AI",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RmlmYW5SbWJHbkZBQjFJbVdibUJDOS11TU1HTDVGV3NfanJLMHJULTYySzgxSThJUlVhY0VEV2Q5UTZJZ205MWIxdW5URTdiTTBvYUtzRHRPZw?oc=5\" target=\"_blank\">Coinbase CEO Admits Base ‘Messed Up’ on Content Coins, Shifts Focus to Trading and AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RmlmYW5SbWJHbkZBQjFJbVdibUJDOS11TU1HTDVGV3NfanJLMHJULTYySzgxSThJUlVhY0VEV2Q5UTZJZ205MWIxdW5URTdiTTBvYUtzRHRPZw?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-14T00:22:44+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO Admits Base ‘Messed Up’ on Content Coins, Shifts Focus to Trading and AI Cryptonews.net"
+    },
     {
       "title": "4 Base Experiments That Flopped Before Brian Armstrong Called Time",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlZweXJMQnlRS3dCaDhvZG9Db0ZPZ2wtMzh1aWx3SkV4Zm5hWEN4ay1qcEtBck5NX01Obm1OOWhlZjdVNXZKNUdGVVNyaGM1cU0tZnE4UTBGYzA1amRHaXR1WExiWlRLUVFZbGxZUEtuZmQ3S2MyZXc5SjZuR24xZnpB?oc=5\" target=\"_blank\">4 Base Experiments That Flopped Before Brian Armstrong Called Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
@@ -1095,6 +1108,17 @@
       "published_at": "2026-06-30T17:32:26+00:00",
       "tags": [],
       "key_quote": "Ban crypto and your country falls behind: Binance's Richard Teng | Tap to know more | Inshorts Inshorts"
+    },
+    {
+      "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdnFaX0syZTVWemRLMGdxMmo0VHRzRjM2cVVLTzQyZkFTczNOZUhNWHVvWTJmNkNSZGRFNVE4Z3dFN0x4VU1jXzZEd2RnYTZTeFgyMmRfNDlaNUNiN2k1QlNCSVdUTFlhamtmSHF3VzFOcE1IMjVjV3VtLW9RcnJQUkhYOG9PaHN4b3hVaC1BdTFFVG9YdUZlYjJYRnVUUQ?oc=5\" target=\"_blank\">Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnFaX0syZTVWemRLMGdxMmo0VHRzRjM2cVVLTzQyZkFTczNOZUhNWHVvWTJmNkNSZGRFNVE4Z3dFN0x4VU1jXzZEd2RnYTZTeFgyMmRfNDlaNUNiN2k1QlNCSVdUTFlhamtmSHF3VzFOcE1IMjVjV3VtLW9RcnJQUkhYOG9PaHN4b3hVaC1BdTFFVG9YdUZlYjJYRnVUUQ?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-06-30T07:00:00+00:00",
+      "tags": [],
+      "key_quote": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters Yahoo Finance"
     },
     {
       "title": "Binance Founder Changpeng Zhao (CZ) Links Current Crypto Market Pressures to AI Investment Flows, Global Instability, Recurring Market Patterns",
@@ -6053,32 +6077,6 @@
       "published_at": "2026-05-08T07:00:00+00:00",
       "tags": [],
       "key_quote": "Coinbase boss Brian Armstrong fires 700 staffers in 7am email News.com.au"
-    },
-    {
-      "title": "ARK Invest’s Cathie Wood in Conversation with Binance’s Changpeng Zhao: AI, Stablecoins, Quantum Threats, Crypto, and the Future of Finance",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aazRZS0VWS2h1cnROeWZ2eW16MXh3NXVhTTVCd2xWbmc5Vnc5aFRKTWpLM0ZXeFFEcmRNTXFsUFR3X2NybTBvWnpobmlkSlhLcmtBQkFnanM2bnVO?oc=5\" target=\"_blank\">ARK Invest’s Cathie Wood in Conversation with Binance’s Changpeng Zhao: AI, Stablecoins, Quantum Threats, Crypto, and the Future of Finance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">深潮TechFlow</font>",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aazRZS0VWS2h1cnROeWZ2eW16MXh3NXVhTTVCd2xWbmc5Vnc5aFRKTWpLM0ZXeFFEcmRNTXFsUFR3X2NybTBvWnpobmlkSlhLcmtBQkFnanM2bnVO?oc=5",
-      "source": "深潮TechFlow",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-05-08T04:29:29+00:00",
-      "tags": [
-        "稳定币 Stablecoin"
-      ],
-      "key_quote": "ARK Invest’s Cathie Wood in Conversation with Binance’s Changpeng Zhao: AI, Stablecoins, Quantum Threats, Crypto, and the Future of Finance 深潮TechFlow"
-    },
-    {
-      "title": "Coinbase shares slide on $400M Q1 loss, revenue miss",
-      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase shares slide on $400M Q1 loss, revenue miss\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwQ3J5cHRvJTIwUmVwb3J0aW5nJTIwRmFpbHVyZXMlMjBDYW4lMjBCZSUyMEV4cGVuc2l2ZSUyQyUyMEV2ZW4lMjBDcmltaW5hbDMuanBnP3ByZWZpeD1tZWRpYSUyRmFydGljbGUtY292ZXJz.jpg\" /></p><p>Coinbase financial chief Alesia Haas said “macro conditions were genuinely tough,” while CEO Brian Armstrong highlighted a plan to diversify beyond spot trading.</p>",
-      "url": "https://cointelegraph.com/news/coinbase-shares-slide-q1-loss-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-08T04:12:44+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Coinbase financial chief Alesia Haas said “macro conditions were genuinely tough,” while CEO Brian Armstrong highlighted a plan to diversify beyond spot trading."
     }
   ]
 }
