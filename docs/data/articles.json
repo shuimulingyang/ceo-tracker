@@ -1,14 +1,39 @@
 {
-  "updated_at": "2026-07-14T12:58:25Z",
+  "updated_at": "2026-07-14T14:45:05Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 336,
-    "CZ": 84,
+    "Brian Armstrong": 337,
+    "CZ": 83,
     "Richard Teng": 44,
     "Star Xu": 12,
     "Ben Zhou": 24
   },
   "articles": [
+    {
+      "title": "'Is the Bitcoin Bottom In?' Coinbase CEO Brian Armstrong's Poll Gets a Bearish Answer",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWTFDR19rdVlncm82ZXk1ODhsOFV3VHpSS2pmUk50Zk1VTXZoLUxoTFhPcjJLNjRuTXhaVnQtSFRwQTVObGgzbnE5bm4zM2ZHX0RVamdtRkJEczBXc0VYMHpEQWNFSkg0QzRpWXVoemRELUdMU2Z6WkpGVE51dHFETDFYS3ZuR0RNbmtKcFEyTXp0QmxySGdCdFEwcDllSnVSVTNlTDA2dUFiU0NBVEp2UXNaQWdYSHYwR183NVQ0cml3dXV5ZDhOYWJPOXBORThQaXdGWWxSaEVSdU0?oc=5\" target=\"_blank\">'Is the Bitcoin Bottom In?' Coinbase CEO Brian Armstrong's Poll Gets a Bearish Answer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWTFDR19rdVlncm82ZXk1ODhsOFV3VHpSS2pmUk50Zk1VTXZoLUxoTFhPcjJLNjRuTXhaVnQtSFRwQTVObGgzbnE5bm4zM2ZHX0RVamdtRkJEczBXc0VYMHpEQWNFSkg0QzRpWXVoemRELUdMU2Z6WkpGVE51dHFETDFYS3ZuR0RNbmtKcFEyTXp0QmxySGdCdFEwcDllSnVSVTNlTDA2dUFiU0NBVEp2UXNaQWdYSHYwR183NVQ0cml3dXV5ZDhOYWJPOXBORThQaXdGWWxSaEVSdU0?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-14T13:46:03+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "'Is the Bitcoin Bottom In?' Coinbase CEO Brian Armstrong's Poll Gets a Bearish Answer Benzinga"
+    },
+    {
+      "title": "Coinbase CEO admits content coins were a mistake",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9ONDRiYWMtZUM1aDVxWjZQbVNjcG56azRHMFRtc3NoT1lZWkN1ZzlpeVd5SXlyeVpVQmNMQzk5TkhVaWZNUzNHTk5JZXZ1SlJzb1hEQy04U2NGTE84cENndHFGN1ZwNHdQZTR2emVGZmd6UEdOVkJn?oc=5\" target=\"_blank\">Coinbase CEO admits content coins were a mistake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Protos | Informed crypto news</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ONDRiYWMtZUM1aDVxWjZQbVNjcG56azRHMFRtc3NoT1lZWkN1ZzlpeVd5SXlyeVpVQmNMQzk5TkhVaWZNUzNHTk5JZXZ1SlJzb1hEQy04U2NGTE84cENndHFGN1ZwNHdQZTR2emVGZmd6UEdOVkJn?oc=5",
+      "source": "Protos | Informed crypto news",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-14T13:32:42+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO admits content coins were a mistake Protos | Informed crypto news"
+    },
     {
       "title": "Bitcoin Price Fall Below $60K? Coinbase CEO Poll Shows Most Expect Further Losses",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWRlYUlIOVdVZ3NPNmcyRzByUG9FaE5JMXc1OWxOSjBkN21GcTBtNVhZV1lrWU1WdmoyVms1dzB4S0J5MnRhYm95MFpZZ1lYSWp4cDRhN3VsbnV2TW91SU5ieTlteW1nbXZlOHVpVm1BS3pFemY2bFdKc1JyQ052WWlQWVNoMklpQllNTUltODhtRVU?oc=5\" target=\"_blank\">Bitcoin Price Fall Below $60K? Coinbase CEO Poll Shows Most Expect Further Losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CCN.com</font>",
@@ -6061,28 +6086,6 @@
       "published_at": "2026-05-08T10:58:00+00:00",
       "tags": [],
       "key_quote": "Coinbase reports service issues, CEO Brian Armstrong 'points finger' at AWS cloud outage The Times of India"
-    },
-    {
-      "title": "Changpeng Zhao Seeks to Bring Binance’s Global Liquidity to U.S. Investors",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Hb1Z0TDBrcV91NUlYVEFtTGFMX29fcF9NOFJSX0VRRVFvOXRIamVTcHlRcGZwekVSX3M3SkJsVmdjMDJSTlp1NA?oc=5\" target=\"_blank\">Changpeng Zhao Seeks to Bring Binance’s Global Liquidity to U.S. Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Hb1Z0TDBrcV91NUlYVEFtTGFMX29fcF9NOFJSX0VRRVFvOXRIamVTcHlRcGZwekVSX3M3SkJsVmdjMDJSTlp1NA?oc=5",
-      "source": "MEXC",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-05-08T10:37:37+00:00",
-      "tags": [],
-      "key_quote": "Changpeng Zhao Seeks to Bring Binance’s Global Liquidity to U.S."
-    },
-    {
-      "title": "Disney CEO thanks employees in earnings memo; Coinbase CEO tells employees he wants to reform company in layoff note",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1icVBPT1ZYSEV5ZTZWMUtZSlQ5MERLazJla1VVUW12bUxwd1ozb0pvdUo0YnRBbWd6RHdOZXBPRC1TUnF5bHF1V0tGQnRqZjg0M19VS19VWEs5TzN4MUxjcnNLLUF4Rnh5SWJodjNXbzU0bllP?oc=5\" target=\"_blank\">Disney CEO thanks employees in earnings memo; Coinbase CEO tells employees he wants to reform company in layoff note</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ragan Communications</font>",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1icVBPT1ZYSEV5ZTZWMUtZSlQ5MERLazJla1VVUW12bUxwd1ozb0pvdUo0YnRBbWd6RHdOZXBPRC1TUnF5bHF1V0tGQnRqZjg0M19VS19VWEs5TzN4MUxjcnNLLUF4Rnh5SWJodjNXbzU0bllP?oc=5",
-      "source": "Ragan Communications",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-08T10:00:31+00:00",
-      "tags": [],
-      "key_quote": "Disney CEO thanks employees in earnings memo; Coinbase CEO tells employees he wants to reform company in layoff note Ragan Communications"
     }
   ]
 }
