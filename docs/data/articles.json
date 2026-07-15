@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-07-15T17:00:18Z",
+  "updated_at": "2026-07-15T18:49:21Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 335,
+    "CZ": 84,
+    "Brian Armstrong": 334,
     "Richard Teng": 45,
-    "CZ": 83,
     "Star Xu": 12,
     "Ben Zhou": 25
   },
   "articles": [
+    {
+      "title": "US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon",
+      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tribune-hearing-congress.jpg\" /></p><p>President Donald Trump’s pick for US Attorney General faced criticism from members of the Senate Judiciary Committee on his approach to crypto enforcement and the pardon of former Binance CEO Changpeng Zhao.</p>",
+      "url": "https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-15T17:56:00+00:00",
+      "tags": [
+        "监管 Regulation"
+      ],
+      "key_quote": "President Donald Trump’s pick for US Attorney General faced criticism from members of the Senate Judiciary Committee on his approach to crypto enforcement and the pardon of former Binance CEO Changpeng Zhao."
+    },
     {
       "title": "Brian Armstrong Explains Base’s Shift From Content Coins to AI",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MYVN0emlLTThZcjVsWmktTXVyNTl1MEF6U25fcENCbmNLcmt0bjN5VU9Qa0xQbTVlZWFYLUc2YkpKRnZZdjdySEhxTTVweXdOcmlmaE02VlBidUdqSFgxNnJua9IBY0FVX3lxTE5MYVN0emlLTThZcjVsWmktTXVyNTl1MEF6U25fcENCbmNLcmt0bjN5VU9Qa0xQbTVlZWFYLUc2YkpKRnZZdjdySEhxTTVweXdOcmlmaE02VlBidUdqSFgxNnJuaw?oc=5\" target=\"_blank\">Brian Armstrong Explains Base’s Shift From Content Coins to AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
@@ -6079,17 +6092,6 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Announces AI Layoffs And The End Of “Pure Managers” Forbes"
-    },
-    {
-      "title": "Brian Armstrong sold more stock in 12 months than Coinbase’s Q1 loss",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPWFhSamtfMEZmME5YdEZEbTJDcDVfZXpHN3ExWE16SHVoMFYwcUpqcEl4YUowRmFqUWhWR0FDNFF2aE1KY0JPVHNBYWVyYUpLODI3dnBERG5uTnU4cjEtVTU1cDI5Q0E5dTFWLWo5ajExS2I2SWVoLWtENzNURjdMVnJjR1dkUlNFcTJGbWZTbE0?oc=5\" target=\"_blank\">Brian Armstrong sold more stock in 12 months than Coinbase’s Q1 loss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Protos | Informed crypto news</font>",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWFhSamtfMEZmME5YdEZEbTJDcDVfZXpHN3ExWE16SHVoMFYwcUpqcEl4YUowRmFqUWhWR0FDNFF2aE1KY0JPVHNBYWVyYUpLODI3dnBERG5uTnU4cjEtVTU1cDI5Q0E5dTFWLWo5ajExS2I2SWVoLWtENzNURjdMVnJjR1dkUlNFcTJGbWZTbE0?oc=5",
-      "source": "Protos | Informed crypto news",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-08T15:33:37+00:00",
-      "tags": [],
-      "key_quote": "Brian Armstrong sold more stock in 12 months than Coinbase’s Q1 loss Protos | Informed crypto news"
     }
   ]
 }
