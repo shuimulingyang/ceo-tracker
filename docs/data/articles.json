@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-07-15T21:44:53Z",
+  "updated_at": "2026-07-15T22:44:24Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 84,
     "Brian Armstrong": 334,
+    "CZ": 84,
     "Richard Teng": 45,
     "Star Xu": 12,
     "Ben Zhou": 25
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Asks if Bitcoin Bottom Is In, Crypto Community Can’t Agree",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXVaQkRUakJkMGlWTG5QY05kU051U2dOWmp4N1NiMk5GaGJlaFpsZHFZVHI3bXNpZXZ0eE9XMzBfbjkxa3BuZ1VIdTk5OVpJREhEeEkzczAyQXBCR0l0UldTY0oyQ0JPeTg3OFpSeW56MldSdWhpekpOcnVOc0xKLVM0V3cwQU5sWHZtZnl0RjFfR3psakNtZ3NyQ2Nja0k?oc=5\" target=\"_blank\">Brian Armstrong Asks if Bitcoin Bottom Is In, Crypto Community Can’t Agree</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoPotato</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXVaQkRUakJkMGlWTG5QY05kU051U2dOWmp4N1NiMk5GaGJlaFpsZHFZVHI3bXNpZXZ0eE9XMzBfbjkxa3BuZ1VIdTk5OVpJREhEeEkzczAyQXBCR0l0UldTY0oyQ0JPeTg3OFpSeW56MldSdWhpekpOcnVOc0xKLVM0V3cwQU5sWHZtZnl0RjFfR3psakNtZ3NyQ2Nja0k?oc=5",
+      "source": "CryptoPotato",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-15T22:10:00+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Brian Armstrong Asks if Bitcoin Bottom Is In, Crypto Community Can’t Agree CryptoPotato"
+    },
     {
       "title": "US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon",
       "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon\" class=\"type:primaryImage\" src=\"https://s3-images.ctmedia.io/media/article-covers/tribune-hearing-congress.jpg\" /></p><p>President Donald Trump’s pick for US Attorney General faced criticism from members of the Senate Judiciary Committee on his approach to crypto enforcement and the pardon of former Binance CEO Changpeng Zhao.</p>",
@@ -21,6 +34,19 @@
         "监管 Regulation"
       ],
       "key_quote": "President Donald Trump’s pick for US Attorney General faced criticism from members of the Senate Judiciary Committee on his approach to crypto enforcement and the pardon of former Binance CEO Changpeng Zhao."
+    },
+    {
+      "title": "Brian Armstrong Explains Base’s Shift From Content Coins to AI",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0poYS1UdnduWkJWMDBlWDFJLTRPNTNROThwaE0zeTdDcUFQbWcwTndCdTlLcG1mMkZzekFiRnVrV1llWC1kZS1EOE5YMWt0blN4RWM0ME91SU1NMWZUZFJHeC00Tk4yVDNkMk9OU1AwWllxbVBzTmxsa29XUGZBVml0aVBUZGRBYlFNSXZZV2hWSC1HdTdRRmtWeWtLeDY1?oc=5\" target=\"_blank\">Brian Armstrong Explains Base’s Shift From Content Coins to AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0poYS1UdnduWkJWMDBlWDFJLTRPNTNROThwaE0zeTdDcUFQbWcwTndCdTlLcG1mMkZzekFiRnVrV1llWC1kZS1EOE5YMWt0blN4RWM0ME91SU1NMWZUZFJHeC00Tk4yVDNkMk9OU1AwWllxbVBzTmxsa29XUGZBVml0aVBUZGRBYlFNSXZZV2hWSC1HdTdRRmtWeWtLeDY1?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-15T16:23:51+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Brian Armstrong Explains Base’s Shift From Content Coins to AI CryptoRank"
     },
     {
       "title": "Brian Armstrong Explains Base’s Shift From Content Coins to AI",
@@ -6069,30 +6095,6 @@
         "市场 Market"
       ],
       "key_quote": "Coinbase Says AWS Cooling Failure Crashed Exchange During Turbulent Week— CEO Brian Armstrong Calls It 'N Benzinga"
-    },
-    {
-      "title": "Coinbase CEO: Onchain Economy Has Reached Escape Velocity Amid Generational Shift",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUZXMnF3UlBsY0tMZlZTMnI2QjZUVHFKQTh6NUlYai1BWXppYXhTdzZaUVdIQ2JBbXE1ZEJtdDFGVVVvSkRlZEpNUC1EWGdBWDhERWxxdjN3TVBEUGZjMUt6aFRnSFpkWTMyb1pIRm4tNHN6amgxVklzRXp0WnZDMHRNUVJsUmhwU0tCMTJGZmUxNXFFQW1JRUROblRuazNQRWF0QjQ5Wmkxdw?oc=5\" target=\"_blank\">Coinbase CEO: Onchain Economy Has Reached Escape Velocity Amid Generational Shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin News</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUZXMnF3UlBsY0tMZlZTMnI2QjZUVHFKQTh6NUlYai1BWXppYXhTdzZaUVdIQ2JBbXE1ZEJtdDFGVVVvSkRlZEpNUC1EWGdBWDhERWxxdjN3TVBEUGZjMUt6aFRnSFpkWTMyb1pIRm4tNHN6amgxVklzRXp0WnZDMHRNUVJsUmhwU0tCMTJGZmUxNXFFQW1JRUROblRuazNQRWF0QjQ5Wmkxdw?oc=5",
-      "source": "Bitcoin News",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-09T01:33:31+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO: Onchain Economy Has Reached Escape Velocity Amid Generational Shift Bitcoin News"
-    },
-    {
-      "title": "News Explorer — Coinbase CEO Brian Armstrong Sold $540 Million in Stock Across Eight Months",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXBuT1hndkppeEd1bHVSb0RvN1hfR243YUJfenUtbVBPM2pyaHh2Uk1jal9mOWp4WS1lNmVmVi1jdTNmaklXSlltbmdKS2haSlRWYUlRWEpfNWx2NWdvcXZ0RGtMbVQteWs5aGpGWDZIcjIycVRDN19JRUVPTWpzOXMyOVFxa1FrTk14N25iSzM1OGpfXzZTSzNMM0wwWXNhUE5NUktOV1hUcFVkQS02aFFBcEtiTzdocUZQU1AtTk94eTQtdU5V?oc=5\" target=\"_blank\">News Explorer — Coinbase CEO Brian Armstrong Sold $540 Million in Stock Across Eight Months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Decrypt</font>",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXBuT1hndkppeEd1bHVSb0RvN1hfR243YUJfenUtbVBPM2pyaHh2Uk1jal9mOWp4WS1lNmVmVi1jdTNmaklXSlltbmdKS2haSlRWYUlRWEpfNWx2NWdvcXZ0RGtMbVQteWs5aGpGWDZIcjIycVRDN19JRUVPTWpzOXMyOVFxa1FrTk14N25iSzM1OGpfXzZTSzNMM0wwWXNhUE5NUktOV1hUcFVkQS02aFFBcEtiTzdocUZQU1AtTk94eTQtdU5V?oc=5",
-      "source": "Decrypt",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-08T17:51:06+00:00",
-      "tags": [],
-      "key_quote": "News Explorer — Coinbase CEO Brian Armstrong Sold $540 Million in Stock Across Eight Months Decrypt"
     }
   ]
 }
