@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T13:01:26Z",
+  "updated_at": "2026-07-15T15:14:27Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 335,
@@ -9,6 +9,33 @@
     "Ben Zhou": 25
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Explains Base’s Shift From Content Coins to AI",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MYVN0emlLTThZcjVsWmktTXVyNTl1MEF6U25fcENCbmNLcmt0bjN5VU9Qa0xQbTVlZWFYLUc2YkpKRnZZdjdySEhxTTVweXdOcmlmaE02VlBidUdqSFgxNnJua9IBY0FVX3lxTE5MYVN0emlLTThZcjVsWmktTXVyNTl1MEF6U25fcENCbmNLcmt0bjN5VU9Qa0xQbTVlZWFYLUc2YkpKRnZZdjdySEhxTTVweXdOcmlmaE02VlBidUdqSFgxNnJuaw?oc=5\" target=\"_blank\">Brian Armstrong Explains Base’s Shift From Content Coins to AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MYVN0emlLTThZcjVsWmktTXVyNTl1MEF6U25fcENCbmNLcmt0bjN5VU9Qa0xQbTVlZWFYLUc2YkpKRnZZdjdySEhxTTVweXdOcmlmaE02VlBidUdqSFgxNnJua9IBY0FVX3lxTE5MYVN0emlLTThZcjVsWmktTXVyNTl1MEF6U25fcENCbmNLcmt0bjN5VU9Qa0xQbTVlZWFYLUc2YkpKRnZZdjdySEhxTTVweXdOcmlmaE02VlBidUdqSFgxNnJuaw?oc=5",
+      "source": "Bitget",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-15T12:47:29+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Brian Armstrong Explains Base’s Shift From Content Coins to AI Bitget"
+    },
+    {
+      "title": "'Is the Bitcoin Bottom In?' Coinbase CEO Brian Armstrong's Poll Gets a Bearish Answer",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2VqSTcycG9Ob0s5Z2tUN29RaEVFR0pJNnNPTFNKMFVjanpRTjNtTUQ1dGIzN1JPOTMzMllxdUVCajZfUF9WYXZ1TlpqenU3czJWWi0wNG5JVWdaU2w2Sy1CaEo1NVhpUFMwRENoTjdxR1FqTEZhMTRIOGY5cVRNNi1nYTJlNTdjeGRWcVBoR1Q2dmFlanhRQ2lPUjFOTm8?oc=5\" target=\"_blank\">'Is the Bitcoin Bottom In?' Coinbase CEO Brian Armstrong's Poll Gets a Bearish Answer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2VqSTcycG9Ob0s5Z2tUN29RaEVFR0pJNnNPTFNKMFVjanpRTjNtTUQ1dGIzN1JPOTMzMllxdUVCajZfUF9WYXZ1TlpqenU3czJWWi0wNG5JVWdaU2w2Sy1CaEo1NVhpUFMwRENoTjdxR1FqTEZhMTRIOGY5cVRNNi1nYTJlNTdjeGRWcVBoR1Q2dmFlanhRQ2lPUjFOTm8?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-15T11:31:18+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "'Is the Bitcoin Bottom In?' Coinbase CEO Brian Armstrong's Poll Gets a Bearish Answer Yahoo Finance"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong's poll shows most expect more Bitcoin pain",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkZ0eXJFd1E0aXdBY1JOTEJUY2tUQXF3UDVKOTczWG9Gbm5ETmFXNHVSSzU4bEdPbE56MUZ2NDlXelRMeGZJVTRjQnhmamdGMFBSaG51NFpHWXhyNjlQZTkwMjhLU2s2d3JpcWtDNXlaYmZpZXRhNEdYbWVhSEEwbDZuWQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong's poll shows most expect more Bitcoin pain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
@@ -6063,31 +6090,6 @@
       "published_at": "2026-05-08T15:33:37+00:00",
       "tags": [],
       "key_quote": "Brian Armstrong sold more stock in 12 months than Coinbase’s Q1 loss Protos | Informed crypto news"
-    },
-    {
-      "title": "CLARITY Act Markup Could Arrive Next Week – Coinbase CEO Says Circle Deal Won’t Change",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbWRhWWphd2JfcFpab2tJZVBpZnd1MlJhejN3TFktUThhT1huc3RsbzItcEd5Tk15alI1dkV1U0VHWm9QY3J3dUFCVFNxMlBudGtYT3hnRVIyaEo3NHU5NzQwakJtaDRjYkRpYk5Cb29zSUF2cHNQUzgzQnd0QWdYaDUwNHhic3RRRW03SXNrX3VuajNzdUQ2eVFoLWhPZUZudERRZkxXTDJWZURPS3VOSEpyaVdDeGl3cDI5M1ljbmZSNEtkSDhmN1Y5ZTFCTmpBN2FkRw?oc=5\" target=\"_blank\">CLARITY Act Markup Could Arrive Next Week – Coinbase CEO Says Circle Deal Won’t Change</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbWRhWWphd2JfcFpab2tJZVBpZnd1MlJhejN3TFktUThhT1huc3RsbzItcEd5Tk15alI1dkV1U0VHWm9QY3J3dUFCVFNxMlBudGtYT3hnRVIyaEo3NHU5NzQwakJtaDRjYkRpYk5Cb29zSUF2cHNQUzgzQnd0QWdYaDUwNHhic3RRRW03SXNrX3VuajNzdUQ2eVFoLWhPZUZudERRZkxXTDJWZURPS3VOSEpyaVdDeGl3cDI5M1ljbmZSNEtkSDhmN1Y5ZTFCTmpBN2FkRw?oc=5",
-      "source": "Stocktwits",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-08T14:34:00+00:00",
-      "tags": [],
-      "key_quote": "CLARITY Act Markup Could Arrive Next Week – Coinbase CEO Says Circle Deal Won’t Change Stocktwits"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLThBOWFSZzJmZ3k2NDlLMm1aWGk0dTlSMlU2dWJsVklRbUxsS3o3OUZyT2xxYnRzZmFnZzRmSEZjNlc1OUpEbTc2TDYtUm5RWW5SRHI1U0N3RF9hcjR1QW9Mb1FKXy1jM3JCTElKMlR1SzdZTVcxTWVHYldmVGU3TjltbmpPNjlk?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLThBOWFSZzJmZ3k2NDlLMm1aWGk0dTlSMlU2dWJsVklRbUxsS3o3OUZyT2xxYnRzZmFnZzRmSEZjNlc1OUpEbTc2TDYtUm5RWW5SRHI1U0N3RF9hcjR1QW9Mb1FKXy1jM3JCTElKMlR1SzdZTVcxTWVHYldmVGU3TjltbmpPNjlk?oc=5",
-      "source": "AOL.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-08T13:39:40+00:00",
-      "tags": [
-        "Bitcoin",
-        "AI"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers' AOL.com"
     }
   ]
 }
