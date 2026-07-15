@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-15T11:17:30Z",
+  "updated_at": "2026-07-15T13:01:26Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 336,
+    "Brian Armstrong": 335,
     "Richard Teng": 45,
     "CZ": 83,
     "Star Xu": 12,
-    "Ben Zhou": 24
+    "Ben Zhou": 25
   },
   "articles": [
     {
@@ -1890,6 +1890,19 @@
       "published_at": "2026-06-25T07:00:00+00:00",
       "tags": [],
       "key_quote": "Brian Armstrong Obituary - Peterborough, ON Dignity Memorial"
+    },
+    {
+      "title": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNMkgwUTdzYXk4SFlLenp4eDJRTURDSDR4dkE1S1NLN1JjQU03LUw4OFNEdExfR25DZ1dweXlBbW54V3pvY3ZHd1ZUeXFxSHI0T3lKSWQ3Zm85WFgybGxhVERVRjBFZ0RHbXBwUTRNb0VnRVlYRmxtbWFnZ09yUHZoMWxfQ25zRG9jYmdKVE96ekFhZ2dGREwzVTBhWGI4R0ZIYzRPYXVXWk03UGZ6RURMOFdrYU9qYzZ3Y0o2ZWJn?oc=5\" target=\"_blank\">Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMkgwUTdzYXk4SFlLenp4eDJRTURDSDR4dkE1S1NLN1JjQU03LUw4OFNEdExfR25DZ1dweXlBbW54V3pvY3ZHd1ZUeXFxSHI0T3lKSWQ3Zm85WFgybGxhVERVRjBFZ0RHbXBwUTRNb0VnRVlYRmxtbWFnZ09yUHZoMWxfQ25zRG9jYmdKVE96ekFhZ2dGREwzVTBhWGI4R0ZIYzRPYXVXWk03UGZ6RURMOFdrYU9qYzZ3Y0o2ZWJn?oc=5",
+      "source": "PR Newswire",
+      "ceo_name": "Ben Zhou",
+      "exchange": "Bybit",
+      "published_at": "2026-06-25T07:00:00+00:00",
+      "tags": [
+        "DeFi"
+      ],
+      "key_quote": "Bybit CEO Ben Zhou: The Future of Exchanges Lies Beyond Trading PR Newswire"
     },
     {
       "title": "Coinbase CEO Says More Deals Possible After $2.9 Billion Deribit Acquisition",
@@ -6075,19 +6088,6 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers' AOL.com"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTUdsZE1Bb2NqSHpEdmRTRkNEQnBXMmREUDJsdkpXbTJhdy1MRURjSmhtaEJmQWpvYWhRTHdtYlpqNWk2cThyLXMyam5XbTdWbFNCeXF6N2VDOW90ZlFPX2pTYURaTWxPdzZmXzJ1S1VhSHRqRjlLTTZINkZGcVh0TThkckNUSmROT0lKLW1HbHpMdGU1TDI0V21wMHVkRVBQUDkybjlzNDJXMXBnRDFLbm90Zy1keXpaOGxtZVdSMXpBa1BocG14RHBMSDByeXBOR24waWhKUkhvV29adm0yaVN3R1htbnhDU2Ffbm1zN3VSOEJ1eDh5SDlJX20?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTUdsZE1Bb2NqSHpEdmRTRkNEQnBXMmREUDJsdkpXbTJhdy1MRURjSmhtaEJmQWpvYWhRTHdtYlpqNWk2cThyLXMyam5XbTdWbFNCeXF6N2VDOW90ZlFPX2pTYURaTWxPdzZmXzJ1S1VhSHRqRjlLTTZINkZGcVh0TThkckNUSmROT0lKLW1HbHpMdGU1TDI0V21wMHVkRVBQUDkybjlzNDJXMXBnRDFLbm90Zy1keXpaOGxtZVdSMXpBa1BocG14RHBMSDByeXBOR24waWhKUkhvV29adm0yaVN3R1htbnhDU2Ffbm1zN3VSOEJ1eDh5SDlJX20?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-08T13:10:06+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers' Yahoo!"
     }
   ]
 }
