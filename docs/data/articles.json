@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T01:15:10Z",
+  "updated_at": "2026-07-16T04:46:02Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 334,
@@ -21,6 +21,20 @@
         "Bitcoin"
       ],
       "key_quote": "Brian Armstrong Asks if Bitcoin Bottom Is In, Crypto Community Can’t Agree CryptoRank"
+    },
+    {
+      "title": "Brian Armstrong Asks if Bitcoin Bottom Is In, Crypto Community Can’t Agree",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIMGRXeEd1SC1tTzlYMjVKODdRSzVRbzlIZTcyN2Vjb2lkbW9UdURTUUlJcVZzM2txTDVLWEtFcUdlNjhHWnl3RlFndS04S0V4UDI3RWJVMXA?oc=5\" target=\"_blank\">Brian Armstrong Asks if Bitcoin Bottom Is In, Crypto Community Can’t Agree</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIMGRXeEd1SC1tTzlYMjVKODdRSzVRbzlIZTcyN2Vjb2lkbW9UdURTUUlJcVZzM2txTDVLWEtFcUdlNjhHWnl3RlFndS04S0V4UDI3RWJVMXA?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-15T22:34:22+00:00",
+      "tags": [
+        "Bitcoin",
+        "ETF"
+      ],
+      "key_quote": "Brian Armstrong Asks if Bitcoin Bottom Is In, Crypto Community Can’t Agree Cryptonews.net"
     },
     {
       "title": "Brian Armstrong Asks if Bitcoin Bottom Is In, Crypto Community Can’t Agree",
@@ -6084,17 +6098,6 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Calls Outage ‘Never Acceptable’ As AWS Failure Hits Crypto Firm Stocktwits"
-    },
-    {
-      "title": "Coinbase CEO: Clarity Act Unlocks Crypto Capital",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHk3M1BYZk5YWEdLNVk4bmx1UHRPbVk4VnVxUHh4WUh0azVRVXRESzlha3NGYmhPVUVMTnhUb0FTaF9KN0d3alNhRHEtZDlUeFVDb1lJa2RlcTN5X05ZdENTSmdEM2Vpa25JZG1JTHBocEZzQzNVYUJPZmpBV1pNdi1sanVyS0J0?oc=5\" target=\"_blank\">Coinbase CEO: Clarity Act Unlocks Crypto Capital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHk3M1BYZk5YWEdLNVk4bmx1UHRPbVk4VnVxUHh4WUh0azVRVXRESzlha3NGYmhPVUVMTnhUb0FTaF9KN0d3alNhRHEtZDlUeFVDb1lJa2RlcTN5X05ZdENTSmdEM2Vpa25JZG1JTHBocEZzQzNVYUJPZmpBV1pNdi1sanVyS0J0?oc=5",
-      "source": "blockchain.news",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-09T09:02:09+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO: Clarity Act Unlocks Crypto Capital blockchain.news"
     }
   ]
 }
