@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T07:11:51Z",
+  "updated_at": "2026-07-16T09:51:23Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 333,
@@ -9,6 +9,17 @@
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa0xwM1kwTFZ5akg2cC1GdWRqSHlPWEktQXpZUVZja1FEMnU2M1paMUMxcnA4OGlKbENRTVRTRjJWQ2NsZmhoaHppQ0RVYzVqMEZvdVZoNTI4ZG0yVHhRZXZLazRxV0p1bDltUDNSREE0SXZ6UF9GSXhmemVDS2hHdmZjOURLNGt4UlBvUG1NMC01cFlnTXFpYi1kZ2d6UXRVR0hCTzFmZXNPbFE2VkdiZFE4b0JOUGg3Y3lZUVlSSEFibzQ4OGtlOGZfZTFsZHhnTlM1TWlB?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa0xwM1kwTFZ5akg2cC1GdWRqSHlPWEktQXpZUVZja1FEMnU2M1paMUMxcnA4OGlKbENRTVRTRjJWQ2NsZmhoaHppQ0RVYzVqMEZvdVZoNTI4ZG0yVHhRZXZLazRxV0p1bDltUDNSREE0SXZ6UF9GSXhmemVDS2hHdmZjOURLNGt4UlBvUG1NMC01cFlnTXFpYi1kZ2d6UXRVR0hCTzFmZXNPbFE2VkdiZFE4b0JOUGg3Y3lZUVlSSEFibzQ4OGtlOGZfZTFsZHhnTlM1TWlB?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-16T09:00:44+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits' Benzinga"
+    },
     {
       "title": "Brian Armstrong Asks if Bitcoin Bottom Is In, Crypto Community Can’t Agree",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0hkRkpfOVNIX0NMQ1liUTJXVWxMV3BWb3VHUy00bHpSbEsyVDI3RzRwYWZ6bHpKUFVDVlFfNmJObkJNejFOa3k2czJjWGhIbkNCTEhKemx5QWtuQm5lUDd4QkQweVF5eVBrZ1FKRlVaMGFPUGxmb1VYSDREem9oSkt6NnZsR21wU3FsamxYcUJIM1R2ODY4UUk5MFA2OEJnZ2k4Ui1sbC1Ea1JlOFNr?oc=5\" target=\"_blank\">Brian Armstrong Asks if Bitcoin Bottom Is In, Crypto Community Can’t Agree</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
@@ -338,6 +349,19 @@
       "published_at": "2026-07-13T17:08:17+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Armstrong admits Base’s content coin failure, shifts focus Crypto Briefing"
+    },
+    {
+      "title": "Coinbase CEO Calls Outage ‘Never Acceptable’ As AWS Failure Hits Crypto Firm",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3BvREhSUzM0bGhIaUpIMUg0b2l3WGdURDNNYmlId3lLMl9HVE5DMjRrYTFCMTIzbE5UN3M1SzRaZi1zM05OME5sRndFamN6eFNITzJjMDI1c2JTeVRwLVBlTjhzd2paVXFpMnN1ekhJUHY1bGhXVGxxdTRBdlFfY2doMk9CUmV4MkJrSE5MM1dSTWw0bk1LcDJPZ1hxS2d4OHAtSnM3dnZlLW8?oc=5\" target=\"_blank\">Coinbase CEO Calls Outage ‘Never Acceptable’ As AWS Failure Hits Crypto Firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3BvREhSUzM0bGhIaUpIMUg0b2l3WGdURDNNYmlId3lLMl9HVE5DMjRrYTFCMTIzbE5UN3M1SzRaZi1zM05OME5sRndFamN6eFNITzJjMDI1c2JTeVRwLVBlTjhzd2paVXFpMnN1ekhJUHY1bGhXVGxxdTRBdlFfY2doMk9CUmV4MkJrSE5MM1dSTWw0bk1LcDJPZ1hxS2d4OHAtSnM3dnZlLW8?oc=5",
+      "source": "Stocktwits",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-13T15:35:59+00:00",
+      "tags": [
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO Calls Outage ‘Never Acceptable’ As AWS Failure Hits Crypto Firm Stocktwits"
     },
     {
       "title": "Coinbase CEO has a bold take on internet's future beyond ads",
@@ -6069,33 +6093,6 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers' AOL.com"
-    },
-    {
-      "title": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdklmOWlpTngwUzNLWTYzM002b2YxNGpBUEx3d1lISEVybGZiUVNLaHNQcDJjWmowSE9aR3h1RFVnZjg1WDg2NVBCY1daZDhKdS1VT1RSZVlZam0tRlE4M0hYUWt4SmZlcWtlSkw4aFR0cW9YZmZuNU9VWUtpQ1FGeFdRNjJsN0QyaEN4bHpBeUxfYlZVa2lMX1dPRXJ0b0pfRi1ySm5QWUh6R1p5S0NZQTVJYklETHR2bzl4aHBtTXRCdXZtelV2Z045alN5ZE14clBsY2RMVXctd1ZpLUlhOVI2MGlZcmYwUldNTmZINA?oc=5\" target=\"_blank\">Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdklmOWlpTngwUzNLWTYzM002b2YxNGpBUEx3d1lISEVybGZiUVNLaHNQcDJjWmowSE9aR3h1RFVnZjg1WDg2NVBCY1daZDhKdS1VT1RSZVlZam0tRlE4M0hYUWt4SmZlcWtlSkw4aFR0cW9YZmZuNU9VWUtpQ1FGeFdRNjJsN0QyaEN4bHpBeUxfYlZVa2lMX1dPRXJ0b0pfRi1ySm5QWUh6R1p5S0NZQTVJYklETHR2bzl4aHBtTXRCdXZtelV2Z045alN5ZE14clBsY2RMVXctd1ZpLUlhOVI2MGlZcmYwUldNTmZINA?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-09T13:02:22+00:00",
-      "tags": [
-        "Ethereum",
-        "AI"
-      ],
-      "key_quote": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce MSN"
-    },
-    {
-      "title": "Coinbase outage: Crypto trading platform goes down a day after CEO Brian Armstrong predicted a future whe",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNDJSUlNETlpuZENiMTVWWEVjTVh4NVkwV3ozdi05OERYSzFkUzVQbVRFdmg2TzhFZXR4UFVVZ0hJUS0wOUx4YVlZS1ZKNTd5U2lTTDZBbVR6WUpibUZPRjgzZkRENHIwVjBVeWJJUjkyOHBIQXBjdlEyMEhEZXRoV0FqdkgyOFRhYmc1XzNaSm1IV0lOOGlxV1g5ejNWRThUYk5jUWNIZ3MyalpfclVXRzVfc1ZRMG42VnFmeENfblI4emt6RDdMcGlONmdCaUlTcVlnQjIyZmVZV1Nkb0RSdWZkWGFhMXhtWVJnTENrbkdvY3lhSXAweU1hdHZxeXM0V0VaUG1LSERHYUNfX05jRlBtNW9qbk1JSU13OWxIY1gtTS1scnpWMWR6emx2dVZFVUtsaWxYYkxSTlNMc2hwZENkSm56MVRjenFrMFBFTVJGZjEyQVdHWtIB3gJBVV95cUxNYU9FSC1iaWMxaG91Nl9iYjhMVzk4TjRSNzhJMF9mUm95WC1oYWJGOWZvT3hQaEozdDRxblRjZW9HdzJ6MzFuQk00ZjZwNjdVZGRPOERzSWRZbUgwUFFlbmlCakJRYjBqd3daQzc2RWRkd0ZrYzJiNHJVWEoxNGRhd1J5bDZUOUlZUGFiak8yOVpTc2NaOE5sdG5OM3lsWjZLQ0Nhb3NiektSQXp0NWFqX3dnbnNuUjFISVdDVGZQTlN4cEhRNmxMcDNvTjBheldIWWhwcWZVak9kejdPSFJ3YjREYlZPT1prTWtvMkNCd1B0TjlCNWtDS0pNX2VRN1hpUWQxeUxEcWNrNVdfZU5RMVV3VnB1Z19iRnNIdUZFTDlSRFpCU2JJZlcxTmt5cWhiVzlUNkl2dDZNSXBDUHhIVldVMjFyUW05Y3hPZ2hyV0prVGhsbE9Lb1lqUXZqUQ?oc=5\" target=\"_blank\">Coinbase outage: Crypto trading platform goes down a day after CEO Brian Armstrong predicted a future whe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNDJSUlNETlpuZENiMTVWWEVjTVh4NVkwV3ozdi05OERYSzFkUzVQbVRFdmg2TzhFZXR4UFVVZ0hJUS0wOUx4YVlZS1ZKNTd5U2lTTDZBbVR6WUpibUZPRjgzZkRENHIwVjBVeWJJUjkyOHBIQXBjdlEyMEhEZXRoV0FqdkgyOFRhYmc1XzNaSm1IV0lOOGlxV1g5ejNWRThUYk5jUWNIZ3MyalpfclVXRzVfc1ZRMG42VnFmeENfblI4emt6RDdMcGlONmdCaUlTcVlnQjIyZmVZV1Nkb0RSdWZkWGFhMXhtWVJnTENrbkdvY3lhSXAweU1hdHZxeXM0V0VaUG1LSERHYUNfX05jRlBtNW9qbk1JSU13OWxIY1gtTS1scnpWMWR6emx2dVZFVUtsaWxYYkxSTlNMc2hwZENkSm56MVRjenFrMFBFTVJGZjEyQVdHWtIB3gJBVV95cUxNYU9FSC1iaWMxaG91Nl9iYjhMVzk4TjRSNzhJMF9mUm95WC1oYWJGOWZvT3hQaEozdDRxblRjZW9HdzJ6MzFuQk00ZjZwNjdVZGRPOERzSWRZbUgwUFFlbmlCakJRYjBqd3daQzc2RWRkd0ZrYzJiNHJVWEoxNGRhd1J5bDZUOUlZUGFiak8yOVpTc2NaOE5sdG5OM3lsWjZLQ0Nhb3NiektSQXp0NWFqX3dnbnNuUjFISVdDVGZQTlN4cEhRNmxMcDNvTjBheldIWWhwcWZVak9kejdPSFJ3YjREYlZPT1prTWtvMkNCd1B0TjlCNWtDS0pNX2VRN1hpUWQxeUxEcWNrNVdfZU5RMVV3VnB1Z19iRnNIdUZFTDlSRFpCU2JJZlcxTmt5cWhiVzlUNkl2dDZNSXBDUHhIVldVMjFyUW05Y3hPZ2hyV0prVGhsbE9Lb1lqUXZqUQ?oc=5",
-      "source": "The Times of India",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-09T11:58:00+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Coinbase outage: Crypto trading platform goes down a day after CEO Brian Armstrong predicted a future whe The Times of India"
     }
   ]
 }
