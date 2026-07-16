@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T21:58:05Z",
+  "updated_at": "2026-07-16T22:43:53Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 333,
@@ -9,6 +9,20 @@
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Rejects Calls for a New AI Regulatory Body",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPckZtdEg1dXJFZmFSbjB1SlN3QWk1SktheGxjaGw5ZzRGSkNLd2JtNXN0c2FWQmxRaFRoYjRiWWlKVUF5MExtdC03Z2lIZ1Jxc1JocE5ndERsN05aRkxQQV9majhuNW5WcGc4ZlZabWJKZGxaVjd5aWFIX0pzWk45eHBqaXQyd0prU0U3QkRiREhobG5QQnpMZnZKNmhaQQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Rejects Calls for a New AI Regulatory Body</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoPotato</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPckZtdEg1dXJFZmFSbjB1SlN3QWk1SktheGxjaGw5ZzRGSkNLd2JtNXN0c2FWQmxRaFRoYjRiWWlKVUF5MExtdC03Z2lIZ1Jxc1JocE5ndERsN05aRkxQQV9majhuNW5WcGc4ZlZabWJKZGxaVjd5aWFIX0pzWk45eHBqaXQyd0prU0U3QkRiREhobG5QQnpMZnZKNmhaQQ?oc=5",
+      "source": "CryptoPotato",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-16T21:49:00+00:00",
+      "tags": [
+        "监管 Regulation",
+        "AI"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Rejects Calls for a New AI Regulatory Body CryptoPotato"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa0xwM1kwTFZ5akg2cC1GdWRqSHlPWEktQXpZUVZja1FEMnU2M1paMUMxcnA4OGlKbENRTVRTRjJWQ2NsZmhoaHppQ0RVYzVqMEZvdVZoNTI4ZG0yVHhRZXZLazRxV0p1bDltUDNSREE0SXZ6UF9GSXhmemVDS2hHdmZjOURLNGt4UlBvUG1NMC01cFlnTXFpYi1kZ2d6UXRVR0hCTzFmZXNPbFE2VkdiZFE4b0JOUGg3Y3lZUVlSSEFibzQ4OGtlOGZfZTFsZHhnTlM1TWlB?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -6080,19 +6094,6 @@
         "Layer2"
       ],
       "key_quote": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce MSN"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPUlprYmE2YV9mRFpTcV93SVc4SFlESGVXUTdsZ3AweUZPX1BNZ0h2ODdVVkFwOUFONFh5VEY5YWp5RU5DS3dURUhoZ1NEUWdZWGNwRTh1WDNXanpqdTZGcEdMRnVqVGtpM3JYMU5VSmNRN1NUbDdRcHBWMFkxelRQTWNueWg2Y2s?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUlprYmE2YV9mRFpTcV93SVc4SFlESGVXUTdsZ3AweUZPX1BNZ0h2ODdVVkFwOUFONFh5VEY5YWp5RU5DS3dURUhoZ1NEUWdZWGNwRTh1WDNXanpqdTZGcEdMRnVqVGtpM3JYMU5VSmNRN1NUbDdRcHBWMFkxelRQTWNueWg2Y2s?oc=5",
-      "source": "AOL.com",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-09T13:05:39+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers' AOL.com"
     }
   ]
 }
