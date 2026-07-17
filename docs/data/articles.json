@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T09:41:56Z",
+  "updated_at": "2026-07-17T11:11:18Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 334,
@@ -9,6 +9,28 @@
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Coinbase CEO: S&P 500 Tokenization Will End Wall Street Monopoly",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vU0l0cExoamR4R0lkREtnN05sRldMaW5rLWl1cTU5RWJmVHNOd2Q1VG96MFpwdzRkZnJhRVpmVlI1bHZnMUtHRmNHS2lPZzVQcDV3bDhNZmM?oc=5\" target=\"_blank\">Coinbase CEO: S&amp;P 500 Tokenization Will End Wall Street Monopoly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vU0l0cExoamR4R0lkREtnN05sRldMaW5rLWl1cTU5RWJmVHNOd2Q1VG96MFpwdzRkZnJhRVpmVlI1bHZnMUtHRmNHS2lPZzVQcDV3bDhNZmM?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-17T10:56:52+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO: S&P 500 Tokenization Will End Wall Street Monopoly Cryptonews.net"
+    },
+    {
+      "title": "Zerodha co-founder Nikhil Kamath agrees with Coinbase CEO Brian Armstrong on how cheaper, open-source mod",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiywJBVV95cUxPSmNPUXJoUTJJbXFyOWwwdDNEN3NMTDRmdUVzMl8tZU9Da1VWRUFUbGVmNEQ3MG1vaS1iTkhTaG0wcFF0a0pMZGFnTWVpa3BySExNeUdBZnEzVFZWLTFob1pMQ3UyNWZiYnA5MXdGT21rYVZaTTNILVJ1cll6UzlFX09lS3kzRnV1cFEyY0dZLTd3RWFqT0h3VExXbFVTQlplQldFQ3pLZWY5Y1prSWdvMnNzX0xHajJLSjgzcnNOYUhhcUYwaVFfcWlaRlg4TTI3aWozZkNLNWx4dFdkOHBTUlRNNnBCLWV0QTk3c3FWNGV2Mmg5MVNTblpRbW5hYm5oSENRZEhEWXpjS1owbGZqRXE3bHhUampXUXNjZVRPc05HRVIzWnlNUUUtX05HSkFzd2VSLU1HMXhNczdDU2RpR2FLa3V0M3ctbnNZ0gHQAkFVX3lxTE81Y2JvaVFyb2otY1RWUFR4bm1DVWpCdXZ0QXNXemdwbWpBNkdKcWdNNzBvcHpDNERPdENnMVJsVm1idGZfRDlmU1ZKLXppX1dSY0dtb1RVZkRDLXNNLXhnN3lqZ3VEM2ppUTRfV282a3RTVGdWYnBONjBrV1Z2VzdrYXJsc19VZmRPS3JyLWh4OEtwVmYtT0x1bjJJTjBmZnRUTjBkcnRicFA4aWJwT3dkMTBsTHN3eURlaWxLckNmcHJmX1V0QmlxdGs4emNnenhTbVE1bWhYQXlVS3VHdGtZVjZTS0VlTkZCeVM2cVhpd2wyVGk5cFBfdFZIcGJ6MHEzWG9zMG1acnJqNFJUdUNETkFfaHBlQng5emlsejB4NTNUN1R0aDF6THdoRGRQcmJLdC1uRHlSNHcycTU4Yk5zTGhBSER3TFdoRGtaVXNCMA?oc=5\" target=\"_blank\">Zerodha co-founder Nikhil Kamath agrees with Coinbase CEO Brian Armstrong on how cheaper, open-source mod</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPSmNPUXJoUTJJbXFyOWwwdDNEN3NMTDRmdUVzMl8tZU9Da1VWRUFUbGVmNEQ3MG1vaS1iTkhTaG0wcFF0a0pMZGFnTWVpa3BySExNeUdBZnEzVFZWLTFob1pMQ3UyNWZiYnA5MXdGT21rYVZaTTNILVJ1cll6UzlFX09lS3kzRnV1cFEyY0dZLTd3RWFqT0h3VExXbFVTQlplQldFQ3pLZWY5Y1prSWdvMnNzX0xHajJLSjgzcnNOYUhhcUYwaVFfcWlaRlg4TTI3aWozZkNLNWx4dFdkOHBTUlRNNnBCLWV0QTk3c3FWNGV2Mmg5MVNTblpRbW5hYm5oSENRZEhEWXpjS1owbGZqRXE3bHhUampXUXNjZVRPc05HRVIzWnlNUUUtX05HSkFzd2VSLU1HMXhNczdDU2RpR2FLa3V0M3ctbnNZ0gHQAkFVX3lxTE81Y2JvaVFyb2otY1RWUFR4bm1DVWpCdXZ0QXNXemdwbWpBNkdKcWdNNzBvcHpDNERPdENnMVJsVm1idGZfRDlmU1ZKLXppX1dSY0dtb1RVZkRDLXNNLXhnN3lqZ3VEM2ppUTRfV282a3RTVGdWYnBONjBrV1Z2VzdrYXJsc19VZmRPS3JyLWh4OEtwVmYtT0x1bjJJTjBmZnRUTjBkcnRicFA4aWJwT3dkMTBsTHN3eURlaWxLckNmcHJmX1V0QmlxdGs4emNnenhTbVE1bWhYQXlVS3VHdGtZVjZTS0VlTkZCeVM2cVhpd2wyVGk5cFBfdFZIcGJ6MHEzWG9zMG1acnJqNFJUdUNETkFfaHBlQng5emlsejB4NTNUN1R0aDF6THdoRGRQcmJLdC1uRHlSNHcycTU4Yk5zTGhBSER3TFdoRGtaVXNCMA?oc=5",
+      "source": "The Times of India",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-17T10:28:00+00:00",
+      "tags": [],
+      "key_quote": "Zerodha co-founder Nikhil Kamath agrees with Coinbase CEO Brian Armstrong on how cheaper, open-source mod The Times of India"
+    },
     {
       "title": "Coinbase CEO Says India Should Create Regulated Rupee Stablecoin or Risk Dollar Stablecoin Adoption",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMnZqdUdydjRxS0JHa2VxNTVvb0tnUjNkZ1ZmLUVYT1c4UFdfemNHVmRyUjkwQU5peFJzcU1iT010TmJkMWJxY2ktRXZjZTNhQTVwNGhSNWhnSFVvMUdoQWpETE9EOUxzVXVtNi15c0tvN1RCZ2dLUnN3cGlJR0h1OGRZeTZfU0JfTmp1U2VpY2sxV2RSenJ5QTRXbld5VnJ2cGxkclI1d2JCQkFoemJKQ01PbnVxeHFlb09oazRHNTdneGM?oc=5\" target=\"_blank\">Coinbase CEO Says India Should Create Regulated Rupee Stablecoin or Risk Dollar Stablecoin Adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
@@ -73,6 +95,20 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Rejects Calls for a New AI Regulatory Body CryptoPotato"
+    },
+    {
+      "title": "‘Bitcoin Beats AI as an Inflation Hedge’ — Binance Founder Changpeng Zhao Warns",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNR3ZiSXR0Z1NZMWRITjFvZDlPaDFBb29rb1NrVHA0S2U2UG44ZW5oMUNzd2J2YWhwQ2xDcDdpY3pscGtIVDlNbDJDV280czIwTDlDTGlZZ2FGWkdGelgyZzBaazFkOFdwdVFQb00xUFV2R2FBQm85Y3RVSkVLc2stV05JaE94SHk5SXc5SjAyNDZ6enB4Sm9feDZqeEdCQdIBowFBVV95cUxOTFZkVk9aLVJPaXNBRGlQRXM0SzZnbHR4TjJyMzVvQWFrUEg3enRMUkxjRktYd0hndm5VTko0MHpkeFFSU3hkWDVoNjJjcXQ4ZHdZVFlMbUpoSTRMZFBGM093S2ZIRGszcWgyVnl6V3gwVXBOd2o1YUxwV0h3a3NPbk5ZbHBvTGlSdlZXTWR1WW1kakNFbjBWR2xsTXBjbXdqN0hz?oc=5\" target=\"_blank\">‘Bitcoin Beats AI as an Inflation Hedge’ — Binance Founder Changpeng Zhao Warns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZyCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR3ZiSXR0Z1NZMWRITjFvZDlPaDFBb29rb1NrVHA0S2U2UG44ZW5oMUNzd2J2YWhwQ2xDcDdpY3pscGtIVDlNbDJDV280czIwTDlDTGlZZ2FGWkdGelgyZzBaazFkOFdwdVFQb00xUFV2R2FBQm85Y3RVSkVLc2stV05JaE94SHk5SXc5SjAyNDZ6enB4Sm9feDZqeEdCQdIBowFBVV95cUxOTFZkVk9aLVJPaXNBRGlQRXM0SzZnbHR4TjJyMzVvQWFrUEg3enRMUkxjRktYd0hndm5VTko0MHpkeFFSU3hkWDVoNjJjcXQ4ZHdZVFlMbUpoSTRMZFBGM093S2ZIRGszcWgyVnl6V3gwVXBOd2o1YUxwV0h3a3NPbk5ZbHBvTGlSdlZXTWR1WW1kakNFbjBWR2xsTXBjbXdqN0hz?oc=5",
+      "source": "ZyCrypto",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-16T14:51:41+00:00",
+      "tags": [
+        "Bitcoin",
+        "AI"
+      ],
+      "key_quote": "‘Bitcoin Beats AI as an Inflation Hedge’ — Binance Founder Changpeng Zhao Warns ZyCrypto"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'",
@@ -6053,41 +6089,6 @@
       "published_at": "2026-05-12T11:52:59+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO to Brief Senate GOP Lawmakers Wednesday Crypto Economy"
-    },
-    {
-      "title": "El Futuro de las Cripto: Discusión en Vivo con Changpeng Zhao y Voces de la Industria 🧡",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjN1FrU2NhMDY5T2NGT0dDVndYV0VIQjR2WG4xWnJJZ0xkUHd3LWlwcXptUDdEREJTT1FFb1lWMU0wLTRocmY4bC1LUDhRWWdtUjZHZHljLVI0dFhycnVWNHRoV1lMb2RZ?oc=5\" target=\"_blank\">El Futuro de las Cripto: Discusión en Vivo con Changpeng Zhao y Voces de la Industria 🧡</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjN1FrU2NhMDY5T2NGT0dDVndYV0VIQjR2WG4xWnJJZ0xkUHd3LWlwcXptUDdEREJTT1FFb1lWMU0wLTRocmY4bC1LUDhRWWdtUjZHZHljLVI0dFhycnVWNHRoV1lMb2RZ?oc=5",
-      "source": "Binance",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-05-12T09:50:26+00:00",
-      "tags": [],
-      "key_quote": "El Futuro de las Cripto: Discusión en Vivo con Changpeng Zhao y Voces de la Industria 🧡 Binance"
-    },
-    {
-      "title": "Coinbase CEO to Meet Republican Senators Ahead of CLARITY Act Vote",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXaHZJTzhUZWYzbFVGRm1CU1ZQUy0xWUpaZW9Qdk5jbVlEcU13TWhGZzFVTWVPRWphSUpiU0M5NFNIcnhqXy1HWVpDWnFPU1Yzemg2SQ?oc=5\" target=\"_blank\">Coinbase CEO to Meet Republican Senators Ahead of CLARITY Act Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXaHZJTzhUZWYzbFVGRm1CU1ZQUy0xWUpaZW9Qdk5jbVlEcU13TWhGZzFVTWVPRWphSUpiU0M5NFNIcnhqXy1HWVpDWnFPU1Yzemg2SQ?oc=5",
-      "source": "bloomingbit",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-12T07:55:05+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO to Meet Republican Senators Ahead of CLARITY Act Vote bloomingbit"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong to Meet Lawmakers Ahead of Critical CLARITY Act Vote",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSElZaERwM01OUFpsdUl6bW1kNFJoa0ZRZS0wSHNIQm9Gd3NGeFl2YURzUHJRNWRUdzdzaXJhRmVlZ0JNTU1qcDMxbFRMZFluTG1uYklTNndjSExjWWtxZEFXSW5OR2hlR0xrZ1h5c2pBVm1oZ0RxU2lrb1ViQnNVRHBQbW5TUGtkLTJLT19zUTQ2ZjFNdGdnT0ptLUpyYXpVUjh0VEEyWGM5d28?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong to Meet Lawmakers Ahead of Critical CLARITY Act Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinanceFeeds</font>",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSElZaERwM01OUFpsdUl6bW1kNFJoa0ZRZS0wSHNIQm9Gd3NGeFl2YURzUHJRNWRUdzdzaXJhRmVlZ0JNTU1qcDMxbFRMZFluTG1uYklTNndjSExjWWtxZEFXSW5OR2hlR0xrZ1h5c2pBVm1oZ0RxU2lrb1ViQnNVRHBQbW5TUGtkLTJLT19zUTQ2ZjFNdGdnT0ptLUpyYXpVUjh0VEEyWGM5d28?oc=5",
-      "source": "FinanceFeeds",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-12T07:24:00+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong to Meet Lawmakers Ahead of Critical CLARITY Act Vote FinanceFeeds"
     }
   ]
 }
