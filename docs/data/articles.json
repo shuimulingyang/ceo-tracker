@@ -1,14 +1,40 @@
 {
-  "updated_at": "2026-07-17T21:38:30Z",
+  "updated_at": "2026-07-17T22:35:36Z",
   "total": 500,
   "by_ceo": {
-    "CZ": 85,
     "Brian Armstrong": 333,
+    "CZ": 85,
     "Richard Teng": 44,
     "Star Xu": 12,
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Profile of Crypto Billionaire Brian Armstrong—Coinbase CEO",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVZvU2Z0VTV0bFBvLTNUWW0xRUthS3FxNXdhclRJSHJSRDVCQS1ubERDcmFQTWFMZnlFNXNOa2dnZVlKWHBYSWw0NUVWeVg5d1ZtaGZMRWJoZjE0aDJvMFNpaVloUGRBczNaZTh3MG5xNFVhWm15bEZSdzhPV2pQVFp1ZVM?oc=5\" target=\"_blank\">Profile of Crypto Billionaire Brian Armstrong—Coinbase CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Americans for Financial Reform</font>",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVZvU2Z0VTV0bFBvLTNUWW0xRUthS3FxNXdhclRJSHJSRDVCQS1ubERDcmFQTWFMZnlFNXNOa2dnZVlKWHBYSWw0NUVWeVg5d1ZtaGZMRWJoZjE0aDJvMFNpaVloUGRBczNaZTh3MG5xNFVhWm15bEZSdzhPV2pQVFp1ZVM?oc=5",
+      "source": "Americans for Financial Reform",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-17T22:09:05+00:00",
+      "tags": [],
+      "key_quote": "Profile of Crypto Billionaire Brian Armstrong—Coinbase CEO Americans for Financial Reform"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Says Bitcoin Is 'Digital Gold,' Stablecoins Will Power AI Commerce",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLUt3XzVkdFI0djRFNWcxWnhRbDRoVW1jb1VYeFhUN3JKdWtMdlR1M1dMQ0tkTEtiYnJUX240UE41VEN3Y1BQcjZiM0dCVGdTUHZ0MDhMRmdraTNMV1l0R0FjZlRRdGpEM2c3aVBab3ZZZFZ2NU1TaHc4alRYVXZUaHUwMENjYTlNRHV0SDB6M2xmc1NaNHlla3RlVFplenBkLTFReFlsWWo0RjY4NS1VeTBwT19tOEk1a3pBRFdzS2dSblpDaS0xVmliRVAzanlFbUMtVnZJSkxCZU9PTnVwc3dhZ3RIS0ZyaHc?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says Bitcoin Is 'Digital Gold,' Stablecoins Will Power AI Commerce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLUt3XzVkdFI0djRFNWcxWnhRbDRoVW1jb1VYeFhUN3JKdWtMdlR1M1dMQ0tkTEtiYnJUX240UE41VEN3Y1BQcjZiM0dCVGdTUHZ0MDhMRmdraTNMV1l0R0FjZlRRdGpEM2c3aVBab3ZZZFZ2NU1TaHc4alRYVXZUaHUwMENjYTlNRHV0SDB6M2xmc1NaNHlla3RlVFplenBkLTFReFlsWWo0RjY4NS1VeTBwT19tOEk1a3pBRFdzS2dSblpDaS0xVmliRVAzanlFbUMtVnZJSkxCZU9PTnVwc3dhZ3RIS0ZyaHc?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-17T21:44:48+00:00",
+      "tags": [
+        "Bitcoin",
+        "AI",
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says Bitcoin Is 'Digital Gold,' Stablecoins Will Power AI Commerce Benzinga"
+    },
     {
       "title": "“Bitcoin Protects Against Inflation” – Binance Founder Changpeng Zhao Says",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjI2S1JPVFBOdFREczM5M0dvaGlnUUprUXJLV1Q2ZEtLMWJ0Zk1zNERfZVpoWGNicmpWN01MTWVaTjV3Y3drbzJ0NFZsQXFYdFBwY1NTRUt1V09pQkZQbEhtaWFZOXpKV1RqZU4wbHA1NEFCRTFLMFJPaTJkZV9xZ0dHTkU0Zlh4R1ZFUE1oZXpHd2dGNkFZNy1Mbw?oc=5\" target=\"_blank\">“Bitcoin Protects Against Inflation” – Binance Founder Changpeng Zhao Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tekedia</font>",
@@ -6060,30 +6086,6 @@
         "AI"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong compares AI agents to self-driving cars, saying they could soon be 'safer than human drivers' MSN"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong heads to Senate to advocate for crypto market structure bill",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBFMkxDZm03UGF4OW01Z2dJT3BnSmt6d1J6SnM3aWhpOW10R1dUYUJXVkhZR2xUbEhhV3ExR0R1clZmY29iUGV1ZTVzYWp3RWtUZ2FHOTB4R29hbkw2S0dUVWg3UE9nQ281UHB3?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong heads to Senate to advocate for crypto market structure bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFMkxDZm03UGF4OW01Z2dJT3BnSmt6d1J6SnM3aWhpOW10R1dUYUJXVkhZR2xUbEhhV3ExR0R1clZmY29iUGV1ZTVzYWp3RWtUZ2FHOTB4R29hbkw2S0dUVWg3UE9nQ281UHB3?oc=5",
-      "source": "Crypto Briefing",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-12T21:42:18+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong heads to Senate to advocate for crypto market structure bill Crypto Briefing"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong to address Senate GOP steering lunch on Wednesday",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5jVlZ3amhYdWN5alhvNWo0NHd5RjRGX3duVlJiYkZuNFdIWHVZQjU1TTZRaERaTVNTRWQxYXBwTUlaMzlNY2ZtMmtKWUJScWs4c2hWRnZ5dDBPSlQ0c3FvR1pnU0NySXVnN3N4dnE0X3U?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong to address Senate GOP steering lunch on Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jVlZ3amhYdWN5alhvNWo0NHd5RjRGX3duVlJiYkZuNFdIWHVZQjU1TTZRaERaTVNTRWQxYXBwTUlaMzlNY2ZtMmtKWUJScWs4c2hWRnZ5dDBPSlQ0c3FvR1pnU0NySXVnN3N4dnE0X3U?oc=5",
-      "source": "Crypto Briefing",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-12T21:13:38+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong to address Senate GOP steering lunch on Wednesday Crypto Briefing"
     }
   ]
 }
