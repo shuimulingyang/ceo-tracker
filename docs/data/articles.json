@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T23:44:14Z",
+  "updated_at": "2026-07-17T01:18:59Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 333,
@@ -9,6 +9,19 @@
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Coinbase CEO critiques banks, advocates for stablecoins as superior alternative to traditional deposits",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9ncklRUEhaZzBZY1VMc0FPUXRLYzBYdk9vYWI5VWt4Yk45eVc4N1ZYejRBbkVtOTJSaGxSYlhSQXc1b1RlZTExd1pXT2xoR0JaUXE3V09DZjRCbm50TC05d0ZzdzBPSjREQkQtc1hB?oc=5\" target=\"_blank\">Coinbase CEO critiques banks, advocates for stablecoins as superior alternative to traditional deposits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ncklRUEhaZzBZY1VMc0FPUXRLYzBYdk9vYWI5VWt4Yk45eVc4N1ZYejRBbkVtOTJSaGxSYlhSQXc1b1RlZTExd1pXT2xoR0JaUXE3V09DZjRCbm50TC05d0ZzdzBPSjREQkQtc1hB?oc=5",
+      "source": "Crypto Briefing",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-16T23:54:03+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Coinbase CEO critiques banks, advocates for stablecoins as superior alternative to traditional deposits Crypto Briefing"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Rejects Calls for a New AI Regulatory Body",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPckZtdEg1dXJFZmFSbjB1SlN3QWk1SktheGxjaGw5ZzRGSkNLd2JtNXN0c2FWQmxRaFRoYjRiWWlKVUF5MExtdC03Z2lIZ1Jxc1JocE5ndERsN05aRkxQQV9majhuNW5WcGc4ZlZabWJKZGxaVjd5aWFIX0pzWk45eHBqaXQyd0prU0U3QkRiREhobG5QQnpMZnZKNmhaQQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Rejects Calls for a New AI Regulatory Body</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoPotato</font>",
@@ -6078,19 +6091,6 @@
         "安全 Security"
       ],
       "key_quote": "DeFi hacks totaled $621 million in April 2026, Richard Teng warns Traders Union"
-    },
-    {
-      "title": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-AJBVV95cUxNZG93NmRHdnp0NXZ3UGdtOTB1YkZCSDhhVUptN1lBVE93X0ZoVkxGU19zbmRLR2JmeUF2MWdUV1pxZjlmX2Ezd21nZUFQbEJ2bkdjWnJDbjU2VUsxazBkVDh3cm1RWV8zSUtVX1VuRUczU2V1dUVPdWZubmhwSHJwRzZuZ0haa1Fma0xIaEVIODRPRzU3X2JydU9IN2UwQXpubEpzTDNJc1BLRmduYllXY1RYZ2twTDMyQWRzdko0Vi05YS1qWmxJeWZUMlpXeW16eUpCLWxyUVlWdW90TFdndGU3SF9RcHRMTEFxbGtmMkh6YUVWSUxFX2h1M2xUa2JSanZHZFk4LWJrWmN0Q01iTHA3ajQyRlVsSjZSZzVYSGdNcFFGZnRzRHB5dkg4OE13NFRuZVI1WmY3ZjV4bFJWeUl1eXAyd3VadEtVR0RVR1o0T2k0bklWUlh5bkM3SVZqejFDVzkza0t2bkFCMHpQbTVpWGxuT0g1?oc=5\" target=\"_blank\">Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNZG93NmRHdnp0NXZ3UGdtOTB1YkZCSDhhVUptN1lBVE93X0ZoVkxGU19zbmRLR2JmeUF2MWdUV1pxZjlmX2Ezd21nZUFQbEJ2bkdjWnJDbjU2VUsxazBkVDh3cm1RWV8zSUtVX1VuRUczU2V1dUVPdWZubmhwSHJwRzZuZ0haa1Fma0xIaEVIODRPRzU3X2JydU9IN2UwQXpubEpzTDNJc1BLRmduYllXY1RYZ2twTDMyQWRzdko0Vi05YS1qWmxJeWZUMlpXeW16eUpCLWxyUVlWdW90TFdndGU3SF9RcHRMTEFxbGtmMkh6YUVWSUxFX2h1M2xUa2JSanZHZFk4LWJrWmN0Q01iTHA3ajQyRlVsSjZSZzVYSGdNcFFGZnRzRHB5dkg4OE13NFRuZVI1WmY3ZjV4bFJWeUl1eXAyd3VadEtVR0RVR1o0T2k0bklWUlh5bkM3SVZqejFDVzkza0t2bkFCMHpQbTVpWGxuT0g1?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-10T00:39:51+00:00",
-      "tags": [
-        "AI"
-      ],
-      "key_quote": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce MSN"
     }
   ]
 }
