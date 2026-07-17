@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-17T01:18:59Z",
+  "updated_at": "2026-07-17T04:49:11Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 333,
+    "Brian Armstrong": 334,
     "CZ": 84,
-    "Richard Teng": 45,
+    "Richard Teng": 44,
     "Star Xu": 12,
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Base Meme Coin BRIAN Jumps 57-Fold After Coinbase CEO Changes X Profile Photo",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE03U1VFMk8wVXppTXNsek0wY2VlX0FMWms3ei1sMHVCc3RtejlKdVZXRVg3bk16RlNFeW1hRjRyU0Z3aW43dFE1SGNpWG92S0tucUF6cw?oc=5\" target=\"_blank\">Base Meme Coin BRIAN Jumps 57-Fold After Coinbase CEO Changes X Profile Photo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03U1VFMk8wVXppTXNsek0wY2VlX0FMWms3ei1sMHVCc3RtejlKdVZXRVg3bk16RlNFeW1hRjRyU0Z3aW43dFE1SGNpWG92S0tucUF6cw?oc=5",
+      "source": "bloomingbit",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-17T02:39:57+00:00",
+      "tags": [],
+      "key_quote": "Base Meme Coin BRIAN Jumps 57-Fold After Coinbase CEO Changes X Profile Photo bloomingbit"
+    },
     {
       "title": "Coinbase CEO critiques banks, advocates for stablecoins as superior alternative to traditional deposits",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9ncklRUEhaZzBZY1VMc0FPUXRLYzBYdk9vYWI5VWt4Yk45eVc4N1ZYejRBbkVtOTJSaGxSYlhSQXc1b1RlZTExd1pXT2xoR0JaUXE3V09DZjRCbm50TC05d0ZzdzBPSjREQkQtc1hB?oc=5\" target=\"_blank\">Coinbase CEO critiques banks, advocates for stablecoins as superior alternative to traditional deposits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
@@ -6077,20 +6088,6 @@
         "AI"
       ],
       "key_quote": "Coinbase layoffs: Brian Armstrong says AI is reshaping work, trims 14% workforce MSN"
-    },
-    {
-      "title": "DeFi hacks totaled $621 million in April 2026, Richard Teng warns",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEh6eWhGbEFZUTVCcmVybXR1U3F0RnlDdm1fVFVnb1IwLS01ZmpTTUUzVl9sUXR3U09SeEVncWkzNEdwQlRZWEI5ZU8wRld4bXJXT3VKYm4yLWYtRDBhN2VySENYQldweW1zWmR0TndTUUVQZ29tY3lQelZiYy1Ecm5STmltQQ?oc=5\" target=\"_blank\">DeFi hacks totaled $621 million in April 2026, Richard Teng warns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEh6eWhGbEFZUTVCcmVybXR1U3F0RnlDdm1fVFVnb1IwLS01ZmpTTUUzVl9sUXR3U09SeEVncWkzNEdwQlRZWEI5ZU8wRld4bXJXT3VKYm4yLWYtRDBhN2VySENYQldweW1zWmR0TndTUUVQZ29tY3lQelZiYy1Ecm5STmltQQ?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-05-11T07:30:28+00:00",
-      "tags": [
-        "DeFi",
-        "安全 Security"
-      ],
-      "key_quote": "DeFi hacks totaled $621 million in April 2026, Richard Teng warns Traders Union"
     }
   ]
 }
