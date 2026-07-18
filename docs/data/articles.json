@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-18T21:37:08Z",
+  "updated_at": "2026-07-18T22:34:42Z",
   "total": 500,
   "by_ceo": {
+    "Brian Armstrong": 334,
     "CZ": 85,
-    "Brian Armstrong": 333,
-    "Richard Teng": 44,
+    "Richard Teng": 43,
     "Star Xu": 12,
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzNTSXV5Q2s5TU5hUVFxX19ZMVp1M2s5T0FMS293dENKNXlobzF4dkJXVmJKVExGWUZqQ0trVmNpeGhSdXpmU25GemJidTBwcExMUDJNMk9KZmFmTjQ2cktfenh6eEpNbVMxaXU1Q2wxNGVfZkxNMlFYMXZYNGJpQzNzLXJVYThiekR1d2NXanVob3Q3QWtYYnpWMkNGU2V2?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzNTSXV5Q2s5TU5hUVFxX19ZMVp1M2s5T0FMS293dENKNXlobzF4dkJXVmJKVExGWUZqQ0trVmNpeGhSdXpmU25GemJidTBwcExMUDJNMk9KZmFmTjQ2cktfenh6eEpNbVMxaXU1Q2wxNGVfZkxNMlFYMXZYNGJpQzNzLXJVYThiekR1d2NXanVob3Q3QWtYYnpWMkNGU2V2?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-18T20:31:30+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits' Yahoo Finance"
+    },
     {
       "title": "Bitcoin offers inflation protection unlike AI, says former Binance CEO Changpeng Zhao.",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxObkdiMkpPZGFyeUpVR290NHZEVF9iNHl5czFfZjVSaGZCbE1mVnNuRDBHVVdYbW85M0lUMFRvVktyUnFyalhleEJRalhOcFFUSTN2ZTZ6N1dCWXJWSHp4azJYM3I3TTAzY3RjSGJlczZOWHFsd0pxcTdHRlhjQmhoNjlaUWhTbnhUVTNMcEY2bVU?oc=5\" target=\"_blank\">Bitcoin offers inflation protection unlike AI, says former Binance CEO Changpeng Zhao.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
@@ -6069,17 +6080,6 @@
       "title": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OcGY2aWRJelktU3dzTlVRMHljRmROVzJDXy1LNU1fYWFGQXF4UEw0MXN4WmYtTlliSmE5ZUhKSWFBbWVBT1NMeEtWR1F4QnVpdXdEdG9qLVJMM2RXS1NMbnRHbEM?oc=5\" target=\"_blank\">Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OcGY2aWRJelktU3dzTlVRMHljRmROVzJDXy1LNU1fYWFGQXF4UEw0MXN4WmYtTlliSmE5ZUhKSWFBbWVBT1NMeEtWR1F4QnVpdXdEdG9qLVJMM2RXS1NMbnRHbEM?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-05-13T12:08:19+00:00",
-      "tags": [],
-      "key_quote": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\" Binance"
-    },
-    {
-      "title": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zbFhqbktPelFTVC0tQllTTVRLVjNSQUU3UXdkendwMUVuNjk1TmdfMGhudlI4Ukx1aEJ0NjBuTVM4S0d2aUxwQ3k3bnZaUTlxN3BCU2cySXZ2TTl5VlM1QVdPQlJXUno3?oc=5\" target=\"_blank\">Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zbFhqbktPelFTVC0tQllTTVRLVjNSQUU3UXdkendwMUVuNjk1TmdfMGhudlI4Ukx1aEJ0NjBuTVM4S0d2aUxwQ3k3bnZaUTlxN3BCU2cySXZ2TTl5VlM1QVdPQlJXUno3?oc=5",
       "source": "Binance",
       "ceo_name": "Richard Teng",
       "exchange": "Binance",
