@@ -1,14 +1,76 @@
 {
-  "updated_at": "2026-07-19T01:16:16Z",
+  "updated_at": "2026-07-19T04:56:40Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 334,
-    "CZ": 85,
-    "Richard Teng": 43,
+    "CZ": 86,
+    "Richard Teng": 42,
     "Star Xu": 12,
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQT19jb05QTzFjcUdTNDZTczAta0QyZ01vbWtKT3ROZGM3X09fS1NyY19jOGttNWFYbkNzeUs4VmZjbTlOeW5RN29IYy1hY2Nsc0dJQmxFX2JocldEOUlkZkU2Z2h3cmlfaTZJamt1blhMYWpfd1hjdEprektpdVlVakwybnFLZmR6MnhQQ3JQdlpDdWhSWnZKWA?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT19jb05QTzFjcUdTNDZTczAta0QyZ01vbWtKT3ROZGM3X09fS1NyY19jOGttNWFYbkNzeUs4VmZjbTlOeW5RN29IYy1hY2Nsc0dJQmxFX2JocldEOUlkZkU2Z2h3cmlfaTZJamt1blhMYWpfd1hjdEprektpdVlVakwybnFLZmR6MnhQQ3JQdlpDdWhSWnZKWA?oc=5",
+      "source": "The Motley Fool",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-19T04:38:19+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin."
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObnllWERVaWZGMThRTEdHUTNGcW53RWduaDZSeUpYWDhDbXhKMVhjcXVWVmVpY2Q5NEl2dE1PR2VDNnpTbW9KNnk4dXN1R1NXZFhhZzRfZks4XzZJR21aR0pRV2ZuWlJMeFlnSTkycGdHYjVUbHZKSzJ4WmI3a0JtVjdFYjRpYUdjRkF5blhOTnFHa0Y1QkZob1I5SzI3TUk?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnllWERVaWZGMThRTEdHUTNGcW53RWduaDZSeUpYWDhDbXhKMVhjcXVWVmVpY2Q5NEl2dE1PR2VDNnpTbW9KNnk4dXN1R1NXZFhhZzRfZks4XzZJR21aR0pRV2ZuWlJMeFlnSTkycGdHYjVUbHZKSzJ4WmI3a0JtVjdFYjRpYUdjRkF5blhOTnFHa0Y1QkZob1I5SzI3TUk?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-19T04:35:00+00:00",
+      "tags": [
+        "Bitcoin",
+        "Layer2"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin."
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong says $60,000 is Bitcoin’s bottom",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1IV2JGVjJBLWhMTmRfU0Rxci1seDc4aUNyQkh2Y2VpSUlUaTZTLWxpdC1KdnVvZGJ1YVhJRi1WdUZLSmFTMDVJVG1tWU5uT2VMa1dMM2Njc3NEb1hvVElWeWpsZnF0VWF3Q3pQYlA2aXk?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong says $60,000 is Bitcoin’s bottom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IV2JGVjJBLWhMTmRfU0Rxci1seDc4aUNyQkh2Y2VpSUlUaTZTLWxpdC1KdnVvZGJ1YVhJRi1WdUZLSmFTMDVJVG1tWU5uT2VMa1dMM2Njc3NEb1hvVElWeWpsZnF0VWF3Q3pQYlA2aXk?oc=5",
+      "source": "Crypto Briefing",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-19T04:24:35+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong says $60,000 is Bitcoin’s bottom Crypto Briefing"
+    },
+    {
+      "title": "Coinbase CEO Changed His Profile Picture and This Meme Coin Soared 37x",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBheDlyLVRDb2h3WnJLUkFlY3Y1OG03SHRCVmRWb3lsakVpTllYcVFtZFZfakw0VEhHODlYN1hJdHdmeE1pcHljTFpLTk1ySEgxc2t0cjlKVlVWV3FZV1NCZWsteHJyRDU2eTVOZHBB?oc=5\" target=\"_blank\">Coinbase CEO Changed His Profile Picture and This Meme Coin Soared 37x</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBheDlyLVRDb2h3WnJLUkFlY3Y1OG03SHRCVmRWb3lsakVpTllYcVFtZFZfakw0VEhHODlYN1hJdHdmeE1pcHljTFpLTk1ySEgxc2t0cjlKVlVWV3FZV1NCZWsteHJyRDU2eTVOZHBB?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-19T01:21:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Changed His Profile Picture and This Meme Coin Soared 37x BeInCrypto"
+    },
+    {
+      "title": "Coinbase CEO Changed His Profile Picture and This Meme Coin Soared 37x",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1hQY0F6MU45ZEF3ODdzaDNvUkJVVHJWWmFrLVV3Z0V3Z1owTXV0a2JKRUplM240aWllbW52b2djd2tSZ0lHaXZQZ1lvdm9oNU5TaEt2X0JCUV84bVctdG1BcjJJVEJ3cU1EQW4zNExPVHZoNDNDR3lRbS0yZl9kUlgxVExJbzlaaDBkaThqVXlRX2daeWZqMlFZNGF1Ukx4QktN?oc=5\" target=\"_blank\">Coinbase CEO Changed His Profile Picture and This Meme Coin Soared 37x</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1hQY0F6MU45ZEF3ODdzaDNvUkJVVHJWWmFrLVV3Z0V3Z1owTXV0a2JKRUplM240aWllbW52b2djd2tSZ0lHaXZQZ1lvdm9oNU5TaEt2X0JCUV84bVctdG1BcjJJVEJ3cU1EQW4zNExPVHZoNDNDR3lRbS0yZl9kUlgxVExJbzlaaDBkaThqVXlRX2daeWZqMlFZNGF1Ukx4QktN?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-19T01:21:00+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Changed His Profile Picture and This Meme Coin Soared 37x Yahoo Finance"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzNTSXV5Q2s5TU5hUVFxX19ZMVp1M2s5T0FMS293dENKNXlobzF4dkJXVmJKVExGWUZqQ0trVmNpeGhSdXpmU25GemJidTBwcExMUDJNMk9KZmFmTjQ2cktfenh6eEpNbVMxaXU1Q2wxNGVfZkxNMlFYMXZYNGJpQzNzLXJVYThiekR1d2NXanVob3Q3QWtYYnpWMkNGU2V2?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
@@ -32,6 +94,19 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin offers inflation protection unlike AI, says former Binance CEO Changpeng Zhao."
+    },
+    {
+      "title": "Binance Uncovered: Changpeng Zhao and Beyond the Crypto Exchange",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MOXdkOEhyNFROLWhNeThBeHpxTGNkYllSOFRaMGlVU1Q5VTZJcmRhMFN3Z2lRZC1GNE5keG1PMEJLbGs3a0FhX1RwMVpkQmZyUUJZS2xlellGYzhwYUNJQjlETzU?oc=5\" target=\"_blank\">Binance Uncovered: Changpeng Zhao and Beyond the Crypto Exchange</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MOXdkOEhyNFROLWhNeThBeHpxTGNkYllSOFRaMGlVU1Q5VTZJcmRhMFN3Z2lRZC1GNE5keG1PMEJLbGs3a0FhX1RwMVpkQmZyUUJZS2xlellGYzhwYUNJQjlETzU?oc=5",
+      "source": "Binance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-18T10:24:23+00:00",
+      "tags": [
+        "Ethereum"
+      ],
+      "key_quote": "Binance Uncovered: Changpeng Zhao and Beyond the Crypto Exchange Binance"
     },
     {
       "title": "Nikhil Kamath Tells Brian Armstrong That Crypto Became the Thing It Was Built to Escape on the Latest Episode of People by WTF",
@@ -831,6 +906,17 @@
       "title": "Binance Co-CEO Richard Teng speaks during an interview at the Reuters NEXT conference in Singapore",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNR18tWXY5UHEtNG1rLXNHR3lQUXp1QmlRNjQtZTk5anROaUd6UGpJaU8zV2lEQUd3YUVMX1Z5MUxBUGdWTVpvZnJVRy10dzAyRnhxeDNFbUZia0t5WDlINl9XSjZhN20xRHktaUMzNU10SEE5UW5pQ0gyZjBtYjNfNW4yZVdfYXljOVF3TXdZM3h6bDJFYTVsYlY0dm1CQlBhV3U4R3BsQjJveWREdUxCc1c4REx1Z2lmdlhzZGNwajNVSG1PSmZwWmhCR3ZtcTZWR0dBOUMyNXNkVlYzOENrdFZjVTZlbFU1ZHlSUmlheEpZYVF4Z0xWQlBibkhnLXp2aXBfOGJIanhmWU1CSEwtdnBBZ0xxWU1K?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng speaks during an interview at the Reuters NEXT conference in Singapore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reutersconnect.com</font>",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNR18tWXY5UHEtNG1rLXNHR3lQUXp1QmlRNjQtZTk5anROaUd6UGpJaU8zV2lEQUd3YUVMX1Z5MUxBUGdWTVpvZnJVRy10dzAyRnhxeDNFbUZia0t5WDlINl9XSjZhN20xRHktaUMzNU10SEE5UW5pQ0gyZjBtYjNfNW4yZVdfYXljOVF3TXdZM3h6bDJFYTVsYlY0dm1CQlBhV3U4R3BsQjJveWREdUxCc1c4REx1Z2lmdlhzZGNwajNVSG1PSmZwWmhCR3ZtcTZWR0dBOUMyNXNkVlYzOENrdFZjVTZlbFU1ZHlSUmlheEpZYVF4Z0xWQlBibkhnLXp2aXBfOGJIanhmWU1CSEwtdnBBZ0xxWU1K?oc=5",
+      "source": "reutersconnect.com",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-09T06:59:00+00:00",
+      "tags": [],
+      "key_quote": "Binance Co-CEO Richard Teng speaks during an interview at the Reuters NEXT conference in Singapore reutersconnect.com"
+    },
+    {
+      "title": "Binance Co-CEO Richard Teng speaks during an interview at the Reuters NEXT conference in Singapore",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQd3dGX1RpTW1GTjFiM3RKYi1BWDdGaEFscXdtV1ZpVjF5RTBJMUp2VXlhLVJPYXJQUkdZR3U1X3g3bzEyTm9JMUlrMVRtYVQwdXhHY1Y5c0JfRXg4M2ExVWNLWUFLY3VvLUs3aG1WMUtfMmhlcjJSTWpqWTN4WXNiZTZOTXU4VFRZc1IzYnVuUkpIRi01LU1xRHNWSV9jSmVfUGxPeDJqRV9ILThNeEJTdU5ncE1uUDZzUlpLSk1ZaExiYi03LUhkeFlDY2dhZnJ4dFIxSFFQd2pYb0hDUW9OUkt5V3V1Wl90TDRXMVI0N0ltWnZ3NU9GYzNOU3doLWJPRC12UmxUc0Rzamswb3ZOUDA0dzBlaElr?oc=5\" target=\"_blank\">Binance Co-CEO Richard Teng speaks during an interview at the Reuters NEXT conference in Singapore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reutersconnect.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQd3dGX1RpTW1GTjFiM3RKYi1BWDdGaEFscXdtV1ZpVjF5RTBJMUp2VXlhLVJPYXJQUkdZR3U1X3g3bzEyTm9JMUlrMVRtYVQwdXhHY1Y5c0JfRXg4M2ExVWNLWUFLY3VvLUs3aG1WMUtfMmhlcjJSTWpqWTN4WXNiZTZOTXU4VFRZc1IzYnVuUkpIRi01LU1xRHNWSV9jSmVfUGxPeDJqRV9ILThNeEJTdU5ncE1uUDZzUlpLSk1ZaExiYi03LUhkeFlDY2dhZnJ4dFIxSFFQd2pYb0hDUW9OUkt5V3V1Wl90TDRXMVI0N0ltWnZ3NU9GYzNOU3doLWJPRC12UmxUc0Rzamswb3ZOUDA0dzBlaElr?oc=5",
       "source": "reutersconnect.com",
       "ceo_name": "Richard Teng",
       "exchange": "Binance",
@@ -6007,85 +6093,6 @@
         "Bitcoin"
       ],
       "key_quote": "Coinbase CEO says crypto bill could transform US financial system as Senate vote approaches Fox Business"
-    },
-    {
-      "title": "Coinbase CEO says crypto bill could transform US financial system as Senate vote approaches",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2ViZWNGMHZhRU5xVWdjX0dwbS1iUmE5MjVwM3lkZ2QyRjVEUjhvLVEtb3V2TGJUSmF5c3hxSGY0TkpfN2hyQjNhNTVWd25SQlZPa29xRk1oVERwY21WMkJMSWc1dThJTVZJS3pjX3BEd0VhY2djdEdwdE1Md0NqWE1lZVd0eXlTdjQtU1cwSE9vZFFuZGlwUUdSSDdBdFd5VnRRdTJBbmlnVHVlRk9ocjMxSm9DNEF6T3lxODZEUGYwNWxL0gHEAUFVX3lxTE9LZWJlY0YwdmFFTnFVZ2NfR3BtLWJSYTkyNXAzeWRnZDJGNURSOG8tUS1vdXZMYlRKYXlzeHFIZjROSl83aHJCM2E1NVZ3blJCVk9rb3FGTWhURHBjbVYyQkxJZzV1OElNVklLemNfcER3RWFjZ2N0R3B0TUx3Q2pYTWVlV3R5eVN2NC1TVzBIT29kUW5kaXBRR1JIN0F0V3lWdFF1MkFuaWdUdWVGT2hyMzFKb0M0QXpPeXE4NkRQZjA1bEs?oc=5\" target=\"_blank\">Coinbase CEO says crypto bill could transform US financial system as Senate vote approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2ViZWNGMHZhRU5xVWdjX0dwbS1iUmE5MjVwM3lkZ2QyRjVEUjhvLVEtb3V2TGJUSmF5c3hxSGY0TkpfN2hyQjNhNTVWd25SQlZPa29xRk1oVERwY21WMkJMSWc1dThJTVZJS3pjX3BEd0VhY2djdEdwdE1Md0NqWE1lZVd0eXlTdjQtU1cwSE9vZFFuZGlwUUdSSDdBdFd5VnRRdTJBbmlnVHVlRk9ocjMxSm9DNEF6T3lxODZEUGYwNWxL0gHEAUFVX3lxTE9LZWJlY0YwdmFFTnFVZ2NfR3BtLWJSYTkyNXAzeWRnZDJGNURSOG8tUS1vdXZMYlRKYXlzeHFIZjROSl83aHJCM2E1NVZ3blJCVk9rb3FGTWhURHBjbVYyQkxJZzV1OElNVklLemNfcER3RWFjZ2N0R3B0TUx3Q2pYTWVlV3R5eVN2NC1TVzBIT29kUW5kaXBRR1JIN0F0V3lWdFF1MkFuaWdUdWVGT2hyMzFKb0M0QXpPeXE4NkRQZjA1bEs?oc=5",
-      "source": "Fox Business",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T15:35:00+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO says crypto bill could transform US financial system as Senate vote approaches Fox Business"
-    },
-    {
-      "title": "Coinbase CEO signals green light as Senate crypto bill nears critical vote",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE15YkFzNVJxT1Z4bVdJMHFpbEltSzJfWUYyRmRsZEM5bmpsVkNKWlZKbHlnMW9DYVZwY084QW0yeS1Ub0VDa2gyMHRZbTlndGJSU3gxbXMxUDFSU3M?oc=5\" target=\"_blank\">Coinbase CEO signals green light as Senate crypto bill nears critical vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15YkFzNVJxT1Z4bVdJMHFpbEltSzJfWUYyRmRsZEM5bmpsVkNKWlZKbHlnMW9DYVZwY084QW0yeS1Ub0VDa2gyMHRZbTlndGJSU3gxbXMxUDFSU3M?oc=5",
-      "source": "Fox Business",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T14:42:27+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO signals green light as Senate crypto bill nears critical vote Fox Business"
-    },
-    {
-      "title": "Coinbase CEO Says CLARITY Act Is Closer Than Ever",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1veFdldTJTQ252eUIwZFl6RXhnR2QzTDhrMmk1a0tDMHlYelBmdDJsYnViWUNtend4MlVrNEttYXhDcTRLX296T1V1Wk9KaEhFVHlfOA?oc=5\" target=\"_blank\">Coinbase CEO Says CLARITY Act Is Closer Than Ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1veFdldTJTQ252eUIwZFl6RXhnR2QzTDhrMmk1a0tDMHlYelBmdDJsYnViWUNtend4MlVrNEttYXhDcTRLX296T1V1Wk9KaEhFVHlfOA?oc=5",
-      "source": "bloomingbit",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T13:45:24+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Says CLARITY Act Is Closer Than Ever bloomingbit"
-    },
-    {
-      "title": "Brian Armstrong: Bill aims to make U.S. financial system faster and more accessible",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPODdpcDlrTjRxbUNGa3l2ZHNOV25tVkU3bm5vTC15dC1EZVB5cnNhc1d6ZHlnNGNZcXBQN2FmXzRNZVZfVFdHWTNkdjNTNHRXa0RTb25lVU9VdVZVaUZFYkFOSWpNQmY3NTFOekRTc2pDUTFvdnJfbWUycWg4eHN3X05aajVJdHJEZ3c?oc=5\" target=\"_blank\">Brian Armstrong: Bill aims to make U.S. financial system faster and more accessible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPODdpcDlrTjRxbUNGa3l2ZHNOV25tVkU3bm5vTC15dC1EZVB5cnNhc1d6ZHlnNGNZcXBQN2FmXzRNZVZfVFdHWTNkdjNTNHRXa0RTb25lVU9VdVZVaUZFYkFOSWpNQmY3NTFOekRTc2pDUTFvdnJfbWUycWg4eHN3X05aajVJdHJEZ3c?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T13:34:45+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Brian Armstrong: Bill aims to make U.S. financial system faster and more accessible Traders Union"
-    },
-    {
-      "title": "Coinbase CEO issues warning to all Americans amid mass layoffs",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNWE1BQlVpOTBrSGw4alRITUF3QnU5MEVCZmR1RDMzaG1Mb2lYcUVyYUVobnFzUlpxclk3Z0I0bTVPZ09HaXlaVGR6cF9xblhlNHNxSGhnVzdIeFh4UTBDajZlYVVObnNaVHBNdWVEanZYbFppU1hKMlltcnc5a2F6cmFmUU1BVTJBd3FQN2ZwLUFaLUo4SmFXM3RLMUh5Uk96QklMV053LXFNeWVva1VSUkl5UDNDZG9CQmRIcGFvZ3cxczNhZklEaTA0OXRzMmdoTGhYRFd4ZHJKUFBXQTJ0dzkwQXR2Y0QzUXJGOVFLZlRONVVlcjVHVFRHTFdhRFNxSWpz?oc=5\" target=\"_blank\">Coinbase CEO issues warning to all Americans amid mass layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWE1BQlVpOTBrSGw4alRITUF3QnU5MEVCZmR1RDMzaG1Mb2lYcUVyYUVobnFzUlpxclk3Z0I0bTVPZ09HaXlaVGR6cF9xblhlNHNxSGhnVzdIeFh4UTBDajZlYVVObnNaVHBNdWVEanZYbFppU1hKMlltcnc5a2F6cmFmUU1BVTJBd3FQN2ZwLUFaLUo4SmFXM3RLMUh5Uk96QklMV053LXFNeWVva1VSUkl5UDNDZG9CQmRIcGFvZ3cxczNhZklEaTA0OXRzMmdoTGhYRFd4ZHJKUFBXQTJ0dzkwQXR2Y0QzUXJGOVFLZlRONVVlcjVHVFRHTFdhRFNxSWpz?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T12:41:25+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO issues warning to all Americans amid mass layoffs MSN"
-    },
-    {
-      "title": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XR3hud3dOZllqSVlLLUNiRTNteW5vY29DR3VVVDZVQWNPTngySFNwMktTbHU2d3B1bjlSUVNDQ0g0a05ieWhpTHYwSnBaSFd3dkpFLUJRN2dSZG1NWTVIUS1jUEU?oc=5\" target=\"_blank\">Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XR3hud3dOZllqSVlLLUNiRTNteW5vY29DR3VVVDZVQWNPTngySFNwMktTbHU2d3B1bjlSUVNDQ0g0a05ieWhpTHYwSnBaSFd3dkpFLUJRN2dSZG1NWTVIUS1jUEU?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-05-13T12:08:19+00:00",
-      "tags": [],
-      "key_quote": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\" Binance"
-    },
-    {
-      "title": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OcGY2aWRJelktU3dzTlVRMHljRmROVzJDXy1LNU1fYWFGQXF4UEw0MXN4WmYtTlliSmE5ZUhKSWFBbWVBT1NMeEtWR1F4QnVpdXdEdG9qLVJMM2RXS1NMbnRHbEM?oc=5\" target=\"_blank\">Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OcGY2aWRJelktU3dzTlVRMHljRmROVzJDXy1LNU1fYWFGQXF4UEw0MXN4WmYtTlliSmE5ZUhKSWFBbWVBT1NMeEtWR1F4QnVpdXdEdG9qLVJMM2RXS1NMbnRHbEM?oc=5",
-      "source": "Binance",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-05-13T12:08:19+00:00",
-      "tags": [],
-      "key_quote": "Richard Teng: Binance Has Pivoted to \"Global Infrastructure\" and the \"Most Regulated Exchange Globally\" Binance"
     }
   ]
 }
