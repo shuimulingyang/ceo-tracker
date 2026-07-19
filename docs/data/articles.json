@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T19:59:17Z",
+  "updated_at": "2026-07-19T20:43:30Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 333,
@@ -9,6 +9,20 @@
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Brian Armstrong Admits Bitcoin Didn’t Deliver Satoshi’s Vision, Something Else Did",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE44VHFyb3hYdG92R0prbGFsZ3EwSDRacENvX3pXVDFvMThUbGs3b1ViMXNJeHU3UGNBRi1ZbktROGV4Vm4xQVVfVkdXeHZYTndXbzIyQTJiVXNKQ2pVU0xTRkl4ZzM3ZkZuQmpTYlVRZGRxNmRmaGdB?oc=5\" target=\"_blank\">Brian Armstrong Admits Bitcoin Didn’t Deliver Satoshi’s Vision, Something Else Did</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44VHFyb3hYdG92R0prbGFsZ3EwSDRacENvX3pXVDFvMThUbGs3b1ViMXNJeHU3UGNBRi1ZbktROGV4Vm4xQVVfVkdXeHZYTndXbzIyQTJiVXNKQ2pVU0xTRkl4ZzM3ZkZuQmpTYlVRZGRxNmRmaGdB?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-19T20:00:00+00:00",
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "key_quote": "Brian Armstrong Admits Bitcoin Didn’t Deliver Satoshi’s Vision, Something Else Did BeInCrypto"
+    },
     {
       "title": "Bitcoin hits $59,743 low; Coinbase CEO says $60...",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNbF94c2dLNm9SMl9mUnYzWGRGamFPbExkeUVYTW5KN0V5bW15WU9haEpNWWZzcDE2OXZULVUtSmVzbXNVVy1pTThTMEZCMG14NjFMUVBpc1dBNmhyZUtUck1iODRLNzB5SDhxZ0dOZmM2bmFrSWQ5dnhzYUFFdlI4b1l4RE9MS0luTnlLSmg5N0Q4Smdpb0Y4NklxbFlVS3JGVFpqd1NZQWluT09qZGc?oc=5\" target=\"_blank\">Bitcoin hits $59,743 low; Coinbase CEO says $60...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
@@ -6080,17 +6094,6 @@
         "ETF"
       ],
       "key_quote": "It's in the best place we've seen so far…We're ready to support a markup later this week."
-    },
-    {
-      "title": "Coinbase CEO Says CLARITY Is 'Closer Than Ever' — Here's Why Crypto Investors Care",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWhPS0ltZFlEdVFUVGVFNjhyQlZ6dEFBdmZWY09BVllENzlVRTlZWWFRLWpmdWFNckVQdXpNV2xIZXZ6M2NFamJ6SUNBN3NjaGR0ekt4NWpHeFFwR3A4Y1dQTzdLckNtd0RIX0FVamY5c1hMUlowai0zeWEzcjU0QUtGQjNQYXZyUnJuS2RSVlljRW1nbERCNVhlU3NDaGRaVE5FMmVSSUp0eHZPYWRKS1l3dXUtUHFSM3dEMW9hLUpWLVF5VTFScWNaSGdKQS1oWGtRemtR?oc=5\" target=\"_blank\">Coinbase CEO Says CLARITY Is 'Closer Than Ever' — Here's Why Crypto Investors Care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQWhPS0ltZFlEdVFUVGVFNjhyQlZ6dEFBdmZWY09BVllENzlVRTlZWWFRLWpmdWFNckVQdXpNV2xIZXZ6M2NFamJ6SUNBN3NjaGR0ekt4NWpHeFFwR3A4Y1dQTzdLckNtd0RIX0FVamY5c1hMUlowai0zeWEzcjU0QUtGQjNQYXZyUnJuS2RSVlljRW1nbERCNVhlU3NDaGRaVE5FMmVSSUp0eHZPYWRKS1l3dXUtUHFSM3dEMW9hLUpWLVF5VTFScWNaSGdKQS1oWGtRemtR?oc=5",
-      "source": "Benzinga",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T17:12:56+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Says CLARITY Is 'Closer Than Ever' — Here's Why Crypto Investors Care Benzinga"
     }
   ]
 }
