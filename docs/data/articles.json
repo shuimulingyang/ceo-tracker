@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T11:01:56Z",
+  "updated_at": "2026-07-19T12:43:08Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 333,
@@ -9,6 +9,19 @@
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Bitcoin hits $59,743 low; Coinbase CEO says $60...",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNbF94c2dLNm9SMl9mUnYzWGRGamFPbExkeUVYTW5KN0V5bW15WU9haEpNWWZzcDE2OXZULVUtSmVzbXNVVy1pTThTMEZCMG14NjFMUVBpc1dBNmhyZUtUck1iODRLNzB5SDhxZ0dOZmM2bmFrSWQ5dnhzYUFFdlI4b1l4RE9MS0luTnlLSmg5N0Q4Smdpb0Y4NklxbFlVS3JGVFpqd1NZQWluT09qZGc?oc=5\" target=\"_blank\">Bitcoin hits $59,743 low; Coinbase CEO says $60...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbF94c2dLNm9SMl9mUnYzWGRGamFPbExkeUVYTW5KN0V5bW15WU9haEpNWWZzcDE2OXZULVUtSmVzbXNVVy1pTThTMEZCMG14NjFMUVBpc1dBNmhyZUtUck1iODRLNzB5SDhxZ0dOZmM2bmFrSWQ5dnhzYUFFdlI4b1l4RE9MS0luTnlLSmg5N0Q4Smdpb0Y4NklxbFlVS3JGVFpqd1NZQWluT09qZGc?oc=5",
+      "source": "Pluang",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-19T11:44:40+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Bitcoin hits $59,743 low; Coinbase CEO says $60... Pluang"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQSExWc01qNWZjS2huZ2VOQmVLSGFkSlgxWTNURTZnNnFwTVA4RmxvX05ibTlqWWhndjB0d2ZIa19CZ2QzUkRoXzZfS3gyWXpxUmVRNEVobWZ1MWtyd2cwSnFoR3NnOXNvU3JtQ3RlRm5paVhoY3BvelBWeUZXdmlmbmNDVVNUazlaZS1CSHlwV1Nqd19XdG1MLWtqVWN2VS1kNzlKREItcUxGV3RTc0d5dXExZlV4bGZTRkRJbWUwemJIX05oVGdULXRIbmcxRmlMekZPMVVNSWhVbnZWRW9VN2dTeF92b0k5Q1NaWFNFazVtbGpCZWJ1OEQ4aGRnSHJBV3FR?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
@@ -6080,17 +6093,6 @@
         "DeFi"
       ],
       "key_quote": "Crypto Bill Advances in Senate With Strong Support: Brian Armstrong thedefiant.io"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Announces US Cryptocurrency Bill is About to Become Law!",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WVWhuUWdlT09oU1ktV0dnRnRCNW1DRXU4cEszaFREMkI1dWlFU0lIaFFBZzNYZVdpaVhPX0x4THVOcW1xN0ZwRUR3R2FTZElQSGdwMWRB?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Announces US Cryptocurrency Bill is About to Become Law!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WVWhuUWdlT09oU1ktV0dnRnRCNW1DRXU4cEszaFREMkI1dWlFU0lIaFFBZzNYZVdpaVhPX0x4THVOcW1xN0ZwRUR3R2FTZElQSGdwMWRB?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T15:57:35+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong Announces US Cryptocurrency Bill is About to Become Law!"
     }
   ]
 }
