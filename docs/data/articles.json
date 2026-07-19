@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T16:40:17Z",
+  "updated_at": "2026-07-19T17:44:56Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 333,
@@ -21,6 +21,17 @@
         "Bitcoin"
       ],
       "key_quote": "Bitcoin hits $59,743 low; Coinbase CEO says $60... Pluang"
+    },
+    {
+      "title": "THIS IS HUGE: 🇺🇸Coinbase CEO Brian Armstrong says it's",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB0S1hkTUdPSUlVYXZuX3c5U24xVzl0ZFFsMkVOekNvOGhsMGdYUmdDd1JkTVE5RjIyV3RKckdzQ2FkOG15X080SHVkcTlwS3FobERXa2hHOW5FSURnc3JGUGM5TWhtbm96aXpXUzlvNXoxQQ?oc=5\" target=\"_blank\">THIS IS HUGE: 🇺🇸Coinbase CEO Brian Armstrong says it's</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KuCoin</font>",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0S1hkTUdPSUlVYXZuX3c5U24xVzl0ZFFsMkVOekNvOGhsMGdYUmdDd1JkTVE5RjIyV3RKckdzQ2FkOG15X080SHVkcTlwS3FobERXa2hHOW5FSURnc3JGUGM5TWhtbm96aXpXUzlvNXoxQQ?oc=5",
+      "source": "KuCoin",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-19T05:23:30+00:00",
+      "tags": [],
+      "key_quote": "THIS IS HUGE: 🇺🇸Coinbase CEO Brian Armstrong says it's KuCoin"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?",
@@ -6080,17 +6091,6 @@
       "published_at": "2026-05-13T17:12:56+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Says CLARITY Is 'Closer Than Ever' — Here's Why Crypto Investors Care Benzinga"
-    },
-    {
-      "title": "Coinbase CEO Says CLARITY Is 'Closer Than Ever' — Here's Why Crypto Investors Care",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbURjdlN6MFh3WDV6Ulc4cnZ0QWV0WENrQWJ0RXVIZTlPVkh0Q2NwTmd2dlhuTDZRYjZ3bVpmUDZhaGU1ekRlSkxHdXBGcXhfSnJXNk1mY0RpeW5QZTRhT1FGYmwzdzlJdlB6Q3FOb09BUUZ3TldOcUFxS211Sl9sa05jbm0?oc=5\" target=\"_blank\">Coinbase CEO Says CLARITY Is 'Closer Than Ever' — Here's Why Crypto Investors Care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbURjdlN6MFh3WDV6Ulc4cnZ0QWV0WENrQWJ0RXVIZTlPVkh0Q2NwTmd2dlhuTDZRYjZ3bVpmUDZhaGU1ekRlSkxHdXBGcXhfSnJXNk1mY0RpeW5QZTRhT1FGYmwzdzlJdlB6Q3FOb09BUUZ3TldOcUFxS211Sl9sa05jbm0?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T17:12:56+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Says CLARITY Is 'Closer Than Ever' — Here's Why Crypto Investors Care Yahoo Finance"
     }
   ]
 }
