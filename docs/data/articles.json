@@ -1,14 +1,27 @@
 {
-  "updated_at": "2026-07-19T04:56:40Z",
+  "updated_at": "2026-07-19T07:22:16Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 334,
-    "CZ": 86,
+    "Brian Armstrong": 333,
+    "CZ": 87,
     "Richard Teng": 42,
     "Star Xu": 12,
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQSExWc01qNWZjS2huZ2VOQmVLSGFkSlgxWTNURTZnNnFwTVA4RmxvX05ibTlqWWhndjB0d2ZIa19CZ2QzUkRoXzZfS3gyWXpxUmVRNEVobWZ1MWtyd2cwSnFoR3NnOXNvU3JtQ3RlRm5paVhoY3BvelBWeUZXdmlmbmNDVVNUazlaZS1CSHlwV1Nqd19XdG1MLWtqVWN2VS1kNzlKREItcUxGV3RTc0d5dXExZlV4bGZTRkRJbWUwemJIX05oVGdULXRIbmcxRmlMekZPMVVNSWhVbnZWRW9VN2dTeF92b0k5Q1NaWFNFazVtbGpCZWJ1OEQ4aGRnSHJBV3FR?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSExWc01qNWZjS2huZ2VOQmVLSGFkSlgxWTNURTZnNnFwTVA4RmxvX05ibTlqWWhndjB0d2ZIa19CZ2QzUkRoXzZfS3gyWXpxUmVRNEVobWZ1MWtyd2cwSnFoR3NnOXNvU3JtQ3RlRm5paVhoY3BvelBWeUZXdmlmbmNDVVNUazlaZS1CSHlwV1Nqd19XdG1MLWtqVWN2VS1kNzlKREItcUxGV3RTc0d5dXExZlV4bGZTRkRJbWUwemJIX05oVGdULXRIbmcxRmlMekZPMVVNSWhVbnZWRW9VN2dTeF92b0k5Q1NaWFNFazVtbGpCZWJ1OEQ4aGRnSHJBV3FR?oc=5",
+      "source": "The Globe and Mail",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-19T04:51:13+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin."
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQT19jb05QTzFjcUdTNDZTczAta0QyZ01vbWtKT3ROZGM3X09fS1NyY19jOGttNWFYbkNzeUs4VmZjbTlOeW5RN29IYy1hY2Nsc0dJQmxFX2JocldEOUlkZkU2Z2h3cmlfaTZJamt1blhMYWpfd1hjdEprektpdVlVakwybnFLZmR6MnhQQ3JQdlpDdWhSWnZKWA?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
@@ -17,6 +30,19 @@
       "ceo_name": "Brian Armstrong",
       "exchange": "Coinbase",
       "published_at": "2026-07-19T04:38:19+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin."
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPcGtFazVIN0FrMEQzUDZKVXZDYlIxZ1MxT044VUhNZXZYTmZ5ZnM5aU16QTZXaUF5UndnZVdOWkx1TEhtcms1Vzl3eWh4clF0dEFyT0phTkR1N3Y1bzhMTGJXcG4tS0k1T213X2FiMy1yYmUxY1FZZHA5LTJfTWNTOEVjX0wzVTlwT1hSWW1ITzQxdnFob19EZk9BajFPVmdKMnRyZnVTMWYyRHZXXy1jdm9OQTRnVjZNYjNiNjRGcG9aMWM4emp0d0xFdi1pY2dtdTJVZlFiNnlBcXd3UlBBY29fX0ZXb1UxMTJ0OWFBQXItTXlld25xM2RVR0gzdXR5R2J0cHVRSDBscWVQSnc?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcGtFazVIN0FrMEQzUDZKVXZDYlIxZ1MxT044VUhNZXZYTmZ5ZnM5aU16QTZXaUF5UndnZVdOWkx1TEhtcms1Vzl3eWh4clF0dEFyT0phTkR1N3Y1bzhMTGJXcG4tS0k1T213X2FiMy1yYmUxY1FZZHA5LTJfTWNTOEVjX0wzVTlwT1hSWW1ITzQxdnFob19EZk9BajFPVmdKMnRyZnVTMWYyRHZXXy1jdm9OQTRnVjZNYjNiNjRGcG9aMWM4emp0d0xFdi1pY2dtdTJVZlFiNnlBcXd3UlBBY29fX0ZXb1UxMTJ0OWFBQXItTXlld25xM2RVR0gzdXR5R2J0cHVRSDBscWVQSnc?oc=5",
+      "source": "The Globe and Mail",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-19T04:35:40+00:00",
       "tags": [
         "Bitcoin"
       ],
@@ -107,6 +133,17 @@
         "Ethereum"
       ],
       "key_quote": "Binance Uncovered: Changpeng Zhao and Beyond the Crypto Exchange Binance"
+    },
+    {
+      "title": "Binance al descubierto: Changpeng Zhao y más allá del exchange de criptomonedas",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRZy1kS1NGYklnRWxFMUk2Q2pGUlI5YXR5REotNTVxS0NpVWJzWkNQNTIxNm1pTzJrVWVMWmVkUE1nbXVUTVZfYjdOdjRocDRTbUdobXZjdkdPdk5BbkU1cDY0Y2I?oc=5\" target=\"_blank\">Binance al descubierto: Changpeng Zhao y más allá del exchange de criptomonedas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Binance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRZy1kS1NGYklnRWxFMUk2Q2pGUlI5YXR5REotNTVxS0NpVWJzWkNQNTIxNm1pTzJrVWVMWmVkUE1nbXVUTVZfYjdOdjRocDRTbUdobXZjdkdPdk5BbkU1cDY0Y2I?oc=5",
+      "source": "Binance",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-18T10:24:23+00:00",
+      "tags": [],
+      "key_quote": "Binance al descubierto: Changpeng Zhao y más allá del exchange de criptomonedas Binance"
     },
     {
       "title": "Nikhil Kamath Tells Brian Armstrong That Crypto Became the Thing It Was Built to Escape on the Latest Episode of People by WTF",
@@ -6054,45 +6091,6 @@
       "published_at": "2026-05-13T15:57:35+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Brian Armstrong Announces US Cryptocurrency Bill is About to Become Law!"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQbzV3aDZzQ0FGUDZMS2pha0lPZGk1OUJ4WHpGMlQ2aVktUDl5YUNfb0M1d01peWI1QjRua1hUOWRJWUlxbDRwV0w5WS1CVjBob1pZOGN2eDR1eEV5c0x1b01Nb0J0VVhiS1BRVjRDQk1va0NXSXpKeEJ0anhLb0pfTjhPOTRqbHM?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbzV3aDZzQ0FGUDZMS2pha0lPZGk1OUJ4WHpGMlQ2aVktUDl5YUNfb0M1d01peWI1QjRua1hUOWRJWUlxbDRwV0w5WS1CVjBob1pZOGN2eDR1eEV5c0x1b01Nb0J0VVhiS1BRVjRDQk1va0NXSXpKeEJ0anhLb0pfTjhPOTRqbHM?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T15:54:49+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical Yahoo Finance"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa2g2aFVYR0lDSEQ1ellyMHNhREJ5SHVtX191a3UtSUNUSTAzTlVMWGM1Z0ZiQ0NLajJFNEFIQ2liamhaZXFlZ00yR0NtY0x4REVqQjIzODhUekE2NUFVV1NqUkdsLUppYWVPRVh1Z1ZKaVpHTlRLQ0duQ25iWXRnVFlwZlVpQ3VrWWVBYXJTRTZ1NVFya2V6NGtkel81c3J3bWxEeDFsbWZTSkNrR2pBSUNPSUprRjV6bUZtbVpxUHFQSU1iMlQ0cm1ZdGhlZzcyZzFnc0FZd2hDeGVQeFFsT3A4ZXZuRXdXdElaQTRPRzNQSllxMHpVXw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa2g2aFVYR0lDSEQ1ellyMHNhREJ5SHVtX191a3UtSUNUSTAzTlVMWGM1Z0ZiQ0NLajJFNEFIQ2liamhaZXFlZ00yR0NtY0x4REVqQjIzODhUekE2NUFVV1NqUkdsLUppYWVPRVh1Z1ZKaVpHTlRLQ0duQ25iWXRnVFlwZlVpQ3VrWWVBYXJTRTZ1NVFya2V6NGtkel81c3J3bWxEeDFsbWZTSkNrR2pBSUNPSUprRjV6bUZtbVpxUHFQSU1iMlQ0cm1ZdGhlZzcyZzFnc0FZd2hDeGVQeFFsT3A4ZXZuRXdXdElaQTRPRzNQSllxMHpVXw?oc=5",
-      "source": "Benzinga",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T15:54:49+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Coinbase CEO Brian Armstrong Urges Senate To Pass CLARITY Act, But Prediction Markets Are Skeptical Benzinga"
-    },
-    {
-      "title": "Coinbase CEO says crypto bill could transform US financial system as Senate vote approaches",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPa094ckdiRkVNZnJZU0xFQnkxTVF2Z0xwemtuSHNSSzBsYWN3WXFka2hydElMaElma1BfdEhlcUk4bi1yN3RhRVVJbGJ0dnRIeWUtbmhwb0I2RWpPaWk5RkNFNWN3QklzekU1VGdJSlpPYS05WDkyclBtczFmV3NWdElURGxsVkNPYUNiX0ctaG1nYzMtUDc3Uzk5WHplOWw3bHNyRlUtOU1aVUNIZm9Dei1mckkzSGNqdU8ySlZ3b9IBxAFBVV95cUxPS2ViZWNGMHZhRU5xVWdjX0dwbS1iUmE5MjVwM3lkZ2QyRjVEUjhvLVEtb3V2TGJUSmF5c3hxSGY0TkpfN2hyQjNhNTVWd25SQlZPa29xRk1oVERwY21WMkJMSWc1dThJTVZJS3pjX3BEd0VhY2djdEdwdE1Md0NqWE1lZVd0eXlTdjQtU1cwSE9vZFFuZGlwUUdSSDdBdFd5VnRRdTJBbmlnVHVlRk9ocjMxSm9DNEF6T3lxODZEUGYwNWxL?oc=5\" target=\"_blank\">Coinbase CEO says crypto bill could transform US financial system as Senate vote approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa094ckdiRkVNZnJZU0xFQnkxTVF2Z0xwemtuSHNSSzBsYWN3WXFka2hydElMaElma1BfdEhlcUk4bi1yN3RhRVVJbGJ0dnRIeWUtbmhwb0I2RWpPaWk5RkNFNWN3QklzekU1VGdJSlpPYS05WDkyclBtczFmV3NWdElURGxsVkNPYUNiX0ctaG1nYzMtUDc3Uzk5WHplOWw3bHNyRlUtOU1aVUNIZm9Dei1mckkzSGNqdU8ySlZ3b9IBxAFBVV95cUxPS2ViZWNGMHZhRU5xVWdjX0dwbS1iUmE5MjVwM3lkZ2QyRjVEUjhvLVEtb3V2TGJUSmF5c3hxSGY0TkpfN2hyQjNhNTVWd25SQlZPa29xRk1oVERwY21WMkJMSWc1dThJTVZJS3pjX3BEd0VhY2djdEdwdE1Md0NqWE1lZVd0eXlTdjQtU1cwSE9vZFFuZGlwUUdSSDdBdFd5VnRRdTJBbmlnVHVlRk9ocjMxSm9DNEF6T3lxODZEUGYwNWxL?oc=5",
-      "source": "Fox Business",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T15:35:00+00:00",
-      "tags": [
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO says crypto bill could transform US financial system as Senate vote approaches Fox Business"
     }
   ]
 }
