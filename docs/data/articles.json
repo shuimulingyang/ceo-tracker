@@ -1,14 +1,29 @@
 {
-  "updated_at": "2026-07-20T08:31:25Z",
+  "updated_at": "2026-07-20T11:31:30Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 332,
-    "CZ": 87,
+    "Brian Armstrong": 333,
+    "CZ": 86,
     "Richard Teng": 43,
     "Star Xu": 12,
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Why the AI Boom Won't Crash Bitcoin: Coinbase CEO Debunks Key Mining Myth",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FMGc3ZzZaTUdCbFhVa2RNY241dzE5SVlaaEpXVDJQVXdYMVdSUTdqNnFsVXU2MTRXa25zZUVCYjhnaUpLbFhtSWt1Z2tUeXFpUUE4NkxhT2c?oc=5\" target=\"_blank\">Why the AI Boom Won't Crash Bitcoin: Coinbase CEO Debunks Key Mining Myth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FMGc3ZzZaTUdCbFhVa2RNY241dzE5SVlaaEpXVDJQVXdYMVdSUTdqNnFsVXU2MTRXa25zZUVCYjhnaUpLbFhtSWt1Z2tUeXFpUUE4NkxhT2c?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-20T10:18:45+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market",
+        "AI"
+      ],
+      "key_quote": "Why the AI Boom Won't Crash Bitcoin: Coinbase CEO Debunks Key Mining Myth Cryptonews.net"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong Says Bitcoin Will 'Mostly' Be a Measure of Inflation Fears in the Long Term",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcU9HNXBBOTM1REVQUi1ScDJicXNkdFJRQmdhd0dUTDZkdG9JNlVjWi15cU9rd3pmMDBFNkdnUzE1bXNBYkp4OF95c0k3WFhhTFZRTDEtSlduTGI2VFNhRUZtSGVvUGJXRFVEc0Z5N0VjTy1JX2tXUU1LU3hhVmVUWDZ4Ynh5cldRRmtpYjJIbkZrZ2l3M1QybWt4QmhUdXRkSzJ0QUV5cGZuWE9oaWpVWmduOTR0T0dib3FrNUNtWnM5Zl9ndmpKQTlHQldUMnVmTXBpeHVDSk1MYmd5LUFPQjBZSzhNM2NiSGdFS0tXc3NtSGFmOEFB?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says Bitcoin Will 'Mostly' Be a Measure of Inflation Fears in the Long Term</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
@@ -21,6 +36,20 @@
         "Bitcoin"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong Says Bitcoin Will 'Mostly' Be a Measure of Inflation Fears in the Long Term Benzinga"
+    },
+    {
+      "title": "Coinbase CEO: Bitcoin Price Reflects Inflation Fears, Not Mining Energy Costs",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPNUt0S0tfWFhvYlhwaWVzWjdLN0VubV93LVQ5R0YzMEp2dkZWanRlVHBPWnFocVhHLV8tamlYQU8ydjdYM19tX1UwUHVFOUlNN1NCN2dlRGxqZndCdkJEWC00OWRkUGp3UUxiX2ptUHEzcWUtYWFpUFVpbndaY19IN1lwYVB6MGs?oc=5\" target=\"_blank\">Coinbase CEO: Bitcoin Price Reflects Inflation Fears, Not Mining Energy Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNUt0S0tfWFhvYlhwaWVzWjdLN0VubV93LVQ5R0YzMEp2dkZWanRlVHBPWnFocVhHLV8tamlYQU8ydjdYM19tX1UwUHVFOUlNN1NCN2dlRGxqZndCdkJEWC00OWRkUGp3UUxiX2ptUHEzcWUtYWFpUFVpbndaY19IN1lwYVB6MGs?oc=5",
+      "source": "CryptoRank",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-20T07:57:32+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO: Bitcoin Price Reflects Inflation Fears, Not Mining Energy Costs CryptoRank"
     },
     {
       "title": "Coinbase CEO Armstrong Dismisses Chamath’s Bitcoin Mining Warning: Will Price Suffer?",
@@ -6067,30 +6096,6 @@
         "Layer2"
       ],
       "key_quote": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup MSN"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0dENHZkX3VfMUxFMW5YazdjdG1QSXdfbm4xbW8zUjNDRGZXUFhXMWpjYjAwdG9scjB2TmpaMEZMQkloUk9OM05hRHB5akU0TE5ZZEF3X0V0OVVGZmVaanR1WllEbWlDMzgwVWY2VWlEckd3N3k1aHBUcU9wTDVvU25CQy1PdnlKVXd4My1tdkN3MHgyVG9yQXBLYUk4aXJvTVJwb1NneHpHZnlwa1R1YlpvOUV3Qlp5MnN3MnVHODhTNGxxa05xcQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0dENHZkX3VfMUxFMW5YazdjdG1QSXdfbm4xbW8zUjNDRGZXUFhXMWpjYjAwdG9scjB2TmpaMEZMQkloUk9OM05hRHB5akU0TE5ZZEF3X0V0OVVGZmVaanR1WllEbWlDMzgwVWY2VWlEckd3N3k1aHBUcU9wTDVvU25CQy1PdnlKVXd4My1tdkN3MHgyVG9yQXBLYUk4aXJvTVJwb1NneHpHZnlwa1R1YlpvOUV3Qlp5MnN3MnVHODhTNGxxa05xcQ?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T21:56:58+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup MSN"
-    },
-    {
-      "title": "Binance Founder Changpeng Zhao (CZ) Shares His Biggest Regret About the Crypto Market",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE81S3lyUlRDcWhLZEVoUzBzYnJKWDNzRXM1ei1XTTcxUTA3cjZESWJaUlFuRTA5b0ZRU19ndUJSTkxNc1FGRUhZd3F2SURacWprTE9NZFBR?oc=5\" target=\"_blank\">Binance Founder Changpeng Zhao (CZ) Shares His Biggest Regret About the Crypto Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81S3lyUlRDcWhLZEVoUzBzYnJKWDNzRXM1ei1XTTcxUTA3cjZESWJaUlFuRTA5b0ZRU19ndUJSTkxNc1FGRUhZd3F2SURacWprTE9NZFBR?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-05-13T21:12:43+00:00",
-      "tags": [
-        "市场 Market"
-      ],
-      "key_quote": "Binance Founder Changpeng Zhao (CZ) Shares His Biggest Regret About the Crypto Market Cryptonews.net"
     }
   ]
 }
