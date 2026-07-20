@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T05:24:40Z",
+  "updated_at": "2026-07-20T08:31:25Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 332,
@@ -9,6 +9,33 @@
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Says Bitcoin Will 'Mostly' Be a Measure of Inflation Fears in the Long Term",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcU9HNXBBOTM1REVQUi1ScDJicXNkdFJRQmdhd0dUTDZkdG9JNlVjWi15cU9rd3pmMDBFNkdnUzE1bXNBYkp4OF95c0k3WFhhTFZRTDEtSlduTGI2VFNhRUZtSGVvUGJXRFVEc0Z5N0VjTy1JX2tXUU1LU3hhVmVUWDZ4Ynh5cldRRmtpYjJIbkZrZ2l3M1QybWt4QmhUdXRkSzJ0QUV5cGZuWE9oaWpVWmduOTR0T0dib3FrNUNtWnM5Zl9ndmpKQTlHQldUMnVmTXBpeHVDSk1MYmd5LUFPQjBZSzhNM2NiSGdFS0tXc3NtSGFmOEFB?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Says Bitcoin Will 'Mostly' Be a Measure of Inflation Fears in the Long Term</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcU9HNXBBOTM1REVQUi1ScDJicXNkdFJRQmdhd0dUTDZkdG9JNlVjWi15cU9rd3pmMDBFNkdnUzE1bXNBYkp4OF95c0k3WFhhTFZRTDEtSlduTGI2VFNhRUZtSGVvUGJXRFVEc0Z5N0VjTy1JX2tXUU1LU3hhVmVUWDZ4Ynh5cldRRmtpYjJIbkZrZ2l3M1QybWt4QmhUdXRkSzJ0QUV5cGZuWE9oaWpVWmduOTR0T0dib3FrNUNtWnM5Zl9ndmpKQTlHQldUMnVmTXBpeHVDSk1MYmd5LUFPQjBZSzhNM2NiSGdFS0tXc3NtSGFmOEFB?oc=5",
+      "source": "Benzinga",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-20T08:20:12+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Says Bitcoin Will 'Mostly' Be a Measure of Inflation Fears in the Long Term Benzinga"
+    },
+    {
+      "title": "Coinbase CEO Armstrong Dismisses Chamath’s Bitcoin Mining Warning: Will Price Suffer?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUdlZDFLT0Y3VWNoZC11VHN1NDdMWXg5NnBRaHNmLUhLX3BrRm5BRWxPUDR0aHRmZGo3S3NtRjNYMVRldmFrakthYTMwOW5RR245dnNYX3Jkb2hORFN1V2RHU0ZZS21JWllyMGF0b25IVWxGZGNwM2QxbWdoLXFiV3ByWW1lMlNpTE5oRzd2T0VWb0dBZ1o5eHh4bXZiR3dFeG5mM0YtR24?oc=5\" target=\"_blank\">Coinbase CEO Armstrong Dismisses Chamath’s Bitcoin Mining Warning: Will Price Suffer?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUdlZDFLT0Y3VWNoZC11VHN1NDdMWXg5NnBRaHNmLUhLX3BrRm5BRWxPUDR0aHRmZGo3S3NtRjNYMVRldmFrakthYTMwOW5RR245dnNYX3Jkb2hORFN1V2RHU0ZZS21JWllyMGF0b25IVWxGZGNwM2QxbWdoLXFiV3ByWW1lMlNpTE5oRzd2T0VWb0dBZ1o5eHh4bXZiR3dFeG5mM0YtR24?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-20T07:44:18+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Armstrong Dismisses Chamath’s Bitcoin Mining Warning: Will Price Suffer?"
+    },
     {
       "title": "Brian Armstrong Admits Bitcoin Didn’t Deliver Satoshi’s Vision, Something Else Did",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE44VHFyb3hYdG92R0prbGFsZ3EwSDRacENvX3pXVDFvMThUbGs3b1ViMXNJeHU3UGNBRi1ZbktROGV4Vm4xQVVfVkdXeHZYTndXbzIyQTJiVXNKQ2pVU0xTRkl4ZzM3ZkZuQmpTYlVRZGRxNmRmaGdB?oc=5\" target=\"_blank\">Brian Armstrong Admits Bitcoin Didn’t Deliver Satoshi’s Vision, Something Else Did</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
@@ -6064,30 +6091,6 @@
         "市场 Market"
       ],
       "key_quote": "Binance Founder Changpeng Zhao (CZ) Shares His Biggest Regret About the Crypto Market Cryptonews.net"
-    },
-    {
-      "title": "Coinbase CEO Unpacks The Crypto Bill’s Biggest Promise For The US Financial System",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSlEzSmRSemdkd0t0LUVpMnJ4Z0RlcUJFZk1memZDRzg3LUpNYV9IR3lERFhmVWlqSlU2bTVXbU9ibnB6bDUyTWtCN2g3MTRGNDZhZUZ4RGNWVEFaVERjWEtkZWltRU1Pb0pnd2JjMGpPclg0ejBQNjZuN3U1bF9ZTEViZDNNTnZseGpVaHlmbEFFSDI4YVFEb3ozaXRpeVI0VkkxY1piYlN1MGxYLXI4YnVJcjdWMko3YW83LWY2MUZVaksyOTczRG1IUjFSQjhkNlN6b3ZhMA?oc=5\" target=\"_blank\">Coinbase CEO Unpacks The Crypto Bill’s Biggest Promise For The US Financial System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSlEzSmRSemdkd0t0LUVpMnJ4Z0RlcUJFZk1memZDRzg3LUpNYV9IR3lERFhmVWlqSlU2bTVXbU9ibnB6bDUyTWtCN2g3MTRGNDZhZUZ4RGNWVEFaVERjWEtkZWltRU1Pb0pnd2JjMGpPclg0ejBQNjZuN3U1bF9ZTEViZDNNTnZseGpVaHlmbEFFSDI4YVFEb3ozaXRpeVI0VkkxY1piYlN1MGxYLXI4YnVJcjdWMko3YW83LWY2MUZVaksyOTczRG1IUjFSQjhkNlN6b3ZhMA?oc=5",
-      "source": "TradingView",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T19:18:16+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Unpacks The Crypto Bill’s Biggest Promise For The US Financial System TradingView"
-    },
-    {
-      "title": "Coinbase CEO: Compromise on CLARITY Act",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5xY00zWUViQ1A4UzdBa2RZSmNwR2pCaUluazlQdmxxelExdUY3X2RqeFNFTDJacFpFSHoxbG9NWWc2TmUzYWt2RUk4NDBEbmtNdXM1blByeXFzX2U4OUEtbk5YVXlNQkpXS213ZFlxZUJxc2RpckxtLQ?oc=5\" target=\"_blank\">Coinbase CEO: Compromise on CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xY00zWUViQ1A4UzdBa2RZSmNwR2pCaUluazlQdmxxelExdUY3X2RqeFNFTDJacFpFSHoxbG9NWWc2TmUzYWt2RUk4NDBEbmtNdXM1blByeXFzX2U4OUEtbk5YVXlNQkpXS213ZFlxZUJxc2RpckxtLQ?oc=5",
-      "source": "blockchain.news",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T18:55:08+00:00",
-      "tags": [
-        "Web3"
-      ],
-      "key_quote": "Coinbase CEO: Compromise on CLARITY Act blockchain.news"
     }
   ]
 }
