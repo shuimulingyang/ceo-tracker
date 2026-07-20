@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T13:40:32Z",
+  "updated_at": "2026-07-20T15:41:28Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 333,
@@ -9,6 +9,17 @@
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong clarifies social media posts are not token endorsements",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDl1ZjJVVGMwMG5YUFhBOFZQUU5iaUppaHJPS05PRGczUUVXNXdQbEdNU3Z3WWtpbEt5d3VaV1V6SHRtQ3BMbVNJVXNQOWRqaEZwQWZLXzRyTGxad3FUaXdpNzA3al9xZUh6djNwQzQzaXYxeENlYmQ4VWFfaDdWNjl3?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong clarifies social media posts are not token endorsements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDl1ZjJVVGMwMG5YUFhBOFZQUU5iaUppaHJPS05PRGczUUVXNXdQbEdNU3Z3WWtpbEt5d3VaV1V6SHRtQ3BMbVNJVXNQOWRqaEZwQWZLXzRyTGxad3FUaXdpNzA3al9xZUh6djNwQzQzaXYxeENlYmQ4VWFfaDdWNjl3?oc=5",
+      "source": "Crypto Briefing",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-20T15:20:45+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong clarifies social media posts are not token endorsements Crypto Briefing"
+    },
     {
       "title": "Why the AI Boom Won't Crash Bitcoin: Coinbase CEO Debunks Key Mining Myth",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FMGc3ZzZaTUdCbFhVa2RNY241dzE5SVlaaEpXVDJQVXdYMVdSUTdqNnFsVXU2MTRXa25zZUVCYjhnaUpLbFhtSWt1Z2tUeXFpUUE4NkxhT2c?oc=5\" target=\"_blank\">Why the AI Boom Won't Crash Bitcoin: Coinbase CEO Debunks Key Mining Myth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
@@ -73,6 +84,20 @@
       "ceo_name": "Brian Armstrong",
       "exchange": "Coinbase",
       "published_at": "2026-07-20T07:44:18+00:00",
+      "tags": [
+        "Bitcoin",
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Armstrong Dismisses Chamath’s Bitcoin Mining Warning: Will Price Suffer?"
+    },
+    {
+      "title": "Coinbase CEO Armstrong Dismisses Chamath’s Bitcoin Mining Warning: Will Price Suffer?",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9rLXZWNXBRVlliN0dGenUzWW5PbFc2Y05vQzd3UDBrVDlQX1RsRmZ4NHNtNTZienBuYXpoNHhVNFljVFRxNmt2YU90TVdVZFMxRTZhOW44YnV1OFpaZkxVdDhRNU11NHdYYm9iV3AzdEg?oc=5\" target=\"_blank\">Coinbase CEO Armstrong Dismisses Chamath’s Bitcoin Mining Warning: Will Price Suffer?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rLXZWNXBRVlliN0dGenUzWW5PbFc2Y05vQzd3UDBrVDlQX1RsRmZ4NHNtNTZienBuYXpoNHhVNFljVFRxNmt2YU90TVdVZFMxRTZhOW44YnV1OFpaZkxVdDhRNU11NHdYYm9iV3AzdEg?oc=5",
+      "source": "BeInCrypto",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-20T07:44:00+00:00",
       "tags": [
         "Bitcoin",
         "市场 Market"
@@ -6073,30 +6098,6 @@
       "published_at": "2026-05-14T00:59:20+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Backs CLARITY Act Ahead of Key Senate Vote blockchain.news"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3B6SDRrMy10YkxFdS0zRlRoYUhReFZNMHFOTmVZQzg5Z09wWFAxaG9GRVRicjlrSmw2eWxfbE9PZWFmWDQxTWNMOXRoVU9lQlpoa1B6VXVmY0VIclhOSi1NSzRIX1hYUjI3WEtaSFh5Qi1MMzVVWGZrNk9OOFlTNXAyZTNyNUdyNUcybmJ4LUdmMlo4d2xNOFkxMjBhNHhVc1R2T2FHdWRWWlI0SF9FUEF6a1d3RWhvUERYWmVZbjd3Qlc5Y29wQkdMbDgzUnFHZTBfVm9TUkQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3B6SDRrMy10YkxFdS0zRlRoYUhReFZNMHFOTmVZQzg5Z09wWFAxaG9GRVRicjlrSmw2eWxfbE9PZWFmWDQxTWNMOXRoVU9lQlpoa1B6VXVmY0VIclhOSi1NSzRIX1hYUjI3WEtaSFh5Qi1MMzVVWGZrNk9OOFlTNXAyZTNyNUdyNUcybmJ4LUdmMlo4d2xNOFkxMjBhNHhVc1R2T2FHdWRWWlI0SF9FUEF6a1d3RWhvUERYWmVZbjd3Qlc5Y29wQkdMbDgzUnFHZTBfVm9TUkQ?oc=5",
-      "source": "TradingView",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T21:56:58+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup TradingView"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
-      "content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy1pbWFnZXMuY3RtZWRpYS5pby9tZWRpYS9hcnRpY2xlLWNvdmVycy9oaS13aG8taXMtYnJpYW4tYXJtc3Ryb25nLXByb2ZpbGUtYW5kLWJpb2dyYXBoeS5qcGc=.jpg\" /></p><p>Armstrong said the bill is \"closer than ever\" to advancing in the US Congress after months of negotiations between the crypto industry and banks.</p>",
-      "url": "https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-clarity-act-thursday-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-13T21:56:58+00:00",
-      "tags": [
-        "监管 Regulation"
-      ],
-      "key_quote": "Armstrong said the bill is \"closer than ever\" to advancing in the US Congress after months of negotiations between the crypto industry and banks."
     }
   ]
 }
