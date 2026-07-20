@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-07-20T15:41:28Z",
+  "updated_at": "2026-07-20T17:12:45Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 333,
-    "CZ": 86,
+    "Brian Armstrong": 332,
+    "CZ": 87,
     "Richard Teng": 43,
     "Star Xu": 12,
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong clarifies stance on Brian Coin after 86% token crash",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE92SzVPUEJUUzJLR0VZb1ZVbVJhNXBNSzVONkdKNXh3TnRTTzZkWHV5aExRZmVrZUFVaDhwM1oyVUNvY0NrTGdnNXMxTEQxbnA4X19Za2ZfT3hJbkdxczhpX29VeEJIT0xqc1M0WnVQZkgydkxFOEVPQzdPaw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong clarifies stance on Brian Coin after 86% token crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92SzVPUEJUUzJLR0VZb1ZVbVJhNXBNSzVONkdKNXh3TnRTTzZkWHV5aExRZmVrZUFVaDhwM1oyVUNvY0NrTGdnNXMxTEQxbnA4X19Za2ZfT3hJbkdxczhpX29VeEJIT0xqc1M0WnVQZkgydkxFOEVPQzdPaw?oc=5",
+      "source": "Crypto Briefing",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-20T16:27:28+00:00",
+      "tags": [
+        "市场 Market"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong clarifies stance on Brian Coin after 86% token crash Crypto Briefing"
+    },
+    {
+      "title": "Exclusive: Changpeng Zhao on Binance, His Prison Sentence, and Crypto's Next Chapter",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1V3kwa0M5WUV1a1NJOU8xam9HRTZKQ1VhdEZ5bGN0SUtBc1hONUZCMUhtLW13XzY4NXhzam81Zm45dGR3bnhQaG9tdjFhM1lyODdyNWhRaHFoZGlsekU4YnlFcTRFdnc?oc=5\" target=\"_blank\">Exclusive: Changpeng Zhao on Binance, His Prison Sentence, and Crypto's Next Chapter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天下雜誌</font>",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1V3kwa0M5WUV1a1NJOU8xam9HRTZKQ1VhdEZ5bGN0SUtBc1hONUZCMUhtLW13XzY4NXhzam81Zm45dGR3bnhQaG9tdjFhM1lyODdyNWhRaHFoZGlsekU4YnlFcTRFdnc?oc=5",
+      "source": "天下雜誌",
+      "ceo_name": "CZ",
+      "exchange": "Binance",
+      "published_at": "2026-07-20T15:42:04+00:00",
+      "tags": [],
+      "key_quote": "Exclusive: Changpeng Zhao on Binance, His Prison Sentence, and Crypto's Next Chapter 天下雜誌"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong clarifies social media posts are not token endorsements",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQUDl1ZjJVVGMwMG5YUFhBOFZQUU5iaUppaHJPS05PRGczUUVXNXdQbEdNU3Z3WWtpbEt5d3VaV1V6SHRtQ3BMbVNJVXNQOWRqaEZwQWZLXzRyTGxad3FUaXdpNzA3al9xZUh6djNwQzQzaXYxeENlYmQ4VWFfaDdWNjl3?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong clarifies social media posts are not token endorsements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
@@ -6076,28 +6100,6 @@
         "市场 Market"
       ],
       "key_quote": "Key facts: Coinbase CEO Backs CLARITY Bill; Stocktwits Traders Bullish TradingView"
-    },
-    {
-      "title": "Coinbase CEO backs CLARITY Act before Senate markup",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0tRFMtaHoxdXJodGxobGFQaEM4ZmNZTHlEOUxCU2c3dk9iV3BEWlhGdFljQ2l0VU8xcTdheEVjNFc4SUpkdmhIU2NOZi1sWGdDWFN3MFVjXzgtQUljNVpkX1VXblRvc1JYZlU1cGNrWnczOHFDc29lZXl1ZzQ?oc=5\" target=\"_blank\">Coinbase CEO backs CLARITY Act before Senate markup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">crypto.news</font>",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tRFMtaHoxdXJodGxobGFQaEM4ZmNZTHlEOUxCU2c3dk9iV3BEWlhGdFljQ2l0VU8xcTdheEVjNFc4SUpkdmhIU2NOZi1sWGdDWFN3MFVjXzgtQUljNVpkX1VXblRvc1JYZlU1cGNrWnczOHFDc29lZXl1ZzQ?oc=5",
-      "source": "crypto.news",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-14T04:50:04+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO backs CLARITY Act before Senate markup crypto.news"
-    },
-    {
-      "title": "Coinbase CEO Backs CLARITY Act Ahead of Key Senate Vote",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1fVmpZRC02SlZSN1ZCRlFaTUVhYUd5WjlTQl8tb2l6cThrNGRkcTA2a0RfTHVtQnNibWNaMWZaVm5lbnM0bHRVTjFiY21zcmJWTXVHd2N1dEY2N0V0YXowX0FaWXgwTm1rRWpOVVVPUkdhZWs?oc=5\" target=\"_blank\">Coinbase CEO Backs CLARITY Act Ahead of Key Senate Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blockchain.news</font>",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fVmpZRC02SlZSN1ZCRlFaTUVhYUd5WjlTQl8tb2l6cThrNGRkcTA2a0RfTHVtQnNibWNaMWZaVm5lbnM0bHRVTjFiY21zcmJWTXVHd2N1dEY2N0V0YXowX0FaWXgwTm1rRWpOVVVPUkdhZWs?oc=5",
-      "source": "blockchain.news",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-14T00:59:20+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Backs CLARITY Act Ahead of Key Senate Vote blockchain.news"
     }
   ]
 }
