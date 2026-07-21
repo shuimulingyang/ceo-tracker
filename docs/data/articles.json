@@ -1,14 +1,36 @@
 {
-  "updated_at": "2026-07-21T12:16:17Z",
+  "updated_at": "2026-07-21T14:51:34Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 332,
-    "CZ": 87,
     "Richard Teng": 43,
+    "Brian Armstrong": 333,
+    "CZ": 86,
     "Star Xu": 12,
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "$100M: Richard Teng Highlights bStocks Trading Surge",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tYjdOZEl5bnhTVlk1R01ucGM2dmktbmN1bzVpM213bFlMNV83cUsxb2tJRjNXTEk1NTEyS045eEhmeVROQ1VnNW03MnJhQWFlbUdtdG9yVQ?oc=5\" target=\"_blank\">$100M: Richard Teng Highlights bStocks Trading Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tYjdOZEl5bnhTVlk1R01ucGM2dmktbmN1bzVpM213bFlMNV83cUsxb2tJRjNXTEk1NTEyS045eEhmeVROQ1VnNW03MnJhQWFlbUdtdG9yVQ?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-21T14:24:03+00:00",
+      "tags": [],
+      "key_quote": "$100M: Richard Teng Highlights bStocks Trading Surge Cryptonews.net"
+    },
+    {
+      "title": "Brian Armstrong Warns Traders Against Treating His X Account as “Alpha”",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOZi1xdzRwZVBqUlROdlN5SHZhdUxtc2xyQ2hKcGFrTmtvZTdabC1qYmJhSkJxdnBKcllCOWFuaTdzbWlSMHhfSVFlUm82MVZJYnAwZDdTS2V3dUh6TTNIV2xmOUJFc1dscVgtWmZhbTQ4ZnF1Zy1pQkgxazdDRkw5UkpQdUlRMUFmdmJUZHpITGxUWjc0ajlLN2hRODJIbFVHYjBmcQ?oc=5\" target=\"_blank\">Brian Armstrong Warns Traders Against Treating His X Account as “Alpha”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZi1xdzRwZVBqUlROdlN5SHZhdUxtc2xyQ2hKcGFrTmtvZTdabC1qYmJhSkJxdnBKcllCOWFuaTdzbWlSMHhfSVFlUm82MVZJYnAwZDdTS2V3dUh6TTNIV2xmOUJFc1dscVgtWmZhbTQ4ZnF1Zy1pQkgxazdDRkw5UkpQdUlRMUFmdmJUZHpITGxUWjc0ajlLN2hRODJIbFVHYjBmcQ?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-21T11:49:52+00:00",
+      "tags": [],
+      "key_quote": "Brian Armstrong Warns Traders Against Treating His X Account as “Alpha” Yahoo Finance"
+    },
     {
       "title": "Brian Armstrong Warns Traders Against Treating His X Account as “Alpha”",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9wNDduUGJaUHZudE1Bd3YwdGVhRnk3TDRRXzdPREVQVy1oYVA1b0x1LUdRTmw3cF9fbVVqYUVEczNuXzgtRERLSExicDhNc3JMN2U0MG9EYWluMFZDYm9oLWZKU3U1dzR6VXBTZDFDdENmMHM?oc=5\" target=\"_blank\">Brian Armstrong Warns Traders Against Treating His X Account as “Alpha”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BeInCrypto</font>",
@@ -6074,30 +6096,6 @@
         "Ethereum"
       ],
       "key_quote": "Coinbase now includes millions of assets for users, Brian Armstrong notes Traders Union"
-    },
-    {
-      "title": "Crypto Billionaire Changpeng Zhao Revealed In A Podcast He'd Never Sat In A Lamborghini—Then He Got A Surprise",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU2VFdDV6aGRSRDRMY0haS2paS1ZIVnZQSXAtZkxxRk1CNWhfRUVPLTNQUWo0MEVwOThobGExNi05OVVtc1JiMkpuS3l2XzZqMWwySnpWSXZLQ2ZwQW50RUZWT2lFdnduSmNfbzBIRDRFN3VPQzR3bWxZaE14WklldHloQWtnamJOR0VKS1JvOHdZMUdWU0dMMzJJR2Z6ZVFaZGxEM21FY1JVeE5DOTNkRXNSNDRkZGdnVlk0bDNCOFlIMF9MNnlqd3JiaURJNnpUV2dMV3NJbTA0a01oZ19IbEptOW1Bc0RHRVB6dXlzRGxEdw?oc=5\" target=\"_blank\">Crypto Billionaire Changpeng Zhao Revealed In A Podcast He'd Never Sat In A Lamborghini—Then He Got A Surprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sahm</font>",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU2VFdDV6aGRSRDRMY0haS2paS1ZIVnZQSXAtZkxxRk1CNWhfRUVPLTNQUWo0MEVwOThobGExNi05OVVtc1JiMkpuS3l2XzZqMWwySnpWSXZLQ2ZwQW50RUZWT2lFdnduSmNfbzBIRDRFN3VPQzR3bWxZaE14WklldHloQWtnamJOR0VKS1JvOHdZMUdWU0dMMzJJR2Z6ZVFaZGxEM21FY1JVeE5DOTNkRXNSNDRkZGdnVlk0bDNCOFlIMF9MNnlqd3JiaURJNnpUV2dMV3NJbTA0a01oZ19IbEptOW1Bc0RHRVB6dXlzRGxEdw?oc=5",
-      "source": "Sahm",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-05-15T07:00:00+00:00",
-      "tags": [
-        "Layer2"
-      ],
-      "key_quote": "Crypto Billionaire Changpeng Zhao Revealed In A Podcast He'd Never Sat In A Lamborghini—Then He Got A Surprise Sahm"
-    },
-    {
-      "title": "Binance aims for long-term growth, Richard Teng notes",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZng0Qk9Yd1hNYmNndTU5clJUZXBZdnl5OGpqbzlabjZhOFpscEFXMFoyTXlJaWxsY2N6R0d1YzVoc3lsQVF4dUh2MVcyYmhMNXdRdzNpc0d4ZDJtUDVTTk12VS1WNFVTamFGbDI0bE9mQVFhVExQWFBhQlNhN2pSRTZtV0ZWdTJEc1dZMEtXelE?oc=5\" target=\"_blank\">Binance aims for long-term growth, Richard Teng notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZng0Qk9Yd1hNYmNndTU5clJUZXBZdnl5OGpqbzlabjZhOFpscEFXMFoyTXlJaWxsY2N6R0d1YzVoc3lsQVF4dUh2MVcyYmhMNXdRdzNpc0d4ZDJtUDVTTk12VS1WNFVTamFGbDI0bE9mQVFhVExQWFBhQlNhN2pSRTZtV0ZWdTJEc1dZMEtXelE?oc=5",
-      "source": "Traders Union",
-      "ceo_name": "Richard Teng",
-      "exchange": "Binance",
-      "published_at": "2026-05-15T06:19:57+00:00",
-      "tags": [],
-      "key_quote": "Binance aims for long-term growth, Richard Teng notes Traders Union"
     }
   ]
 }
