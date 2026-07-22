@@ -1,14 +1,25 @@
 {
-  "updated_at": "2026-07-21T23:44:34Z",
+  "updated_at": "2026-07-22T01:14:51Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 334,
-    "CZ": 85,
+    "Brian Armstrong": 335,
+    "CZ": 84,
     "Richard Teng": 43,
     "Star Xu": 12,
     "Ben Zhou": 26
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong: Time to get Clarity Act across the finish line",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb2VzNFRFT2VIVFNMbTlMYjZXTC1NSGxOMzREdkpGS25wV3Z0VjRMN3FhVTZwc25xUzgzdlR4YjhlLU9sWFctR1YwbjE3cXRGTWd3aEtqdmlROHpPWEJqSnY4ektDUXNEU3FwVFZ2OUYxTndBQU13cl85RnZoVXUyWWgxa0p1MkNuSmxPb19CakJXMXBfbjJDdWEwb3huRDE5dFNERm44LUpjZHYybm5hY1EtMG1zZ09xSU1EVGlRQlVQbVZyMGNCWlIydWI1MGlpMUJDOTM5c3kwTHFCM1gtX25XOVc?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong: Time to get Clarity Act across the finish line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb2VzNFRFT2VIVFNMbTlMYjZXTC1NSGxOMzREdkpGS25wV3Z0VjRMN3FhVTZwc25xUzgzdlR4YjhlLU9sWFctR1YwbjE3cXRGTWd3aEtqdmlROHpPWEJqSnY4ektDUXNEU3FwVFZ2OUYxTndBQU13cl85RnZoVXUyWWgxa0p1MkNuSmxPb19CakJXMXBfbjJDdWEwb3huRDE5dFNERm44LUpjZHYybm5hY1EtMG1zZ09xSU1EVGlRQlVQbVZyMGNCWlIydWI1MGlpMUJDOTM5c3kwTHFCM1gtX25XOVc?oc=5",
+      "source": "MSN",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-21T22:18:15+00:00",
+      "tags": [],
+      "key_quote": "Coinbase CEO Brian Armstrong: Time to get Clarity Act across the finish line MSN"
+    },
     {
       "title": "Coinbase CEO Brian Armstrong: Time to get Clarity Act across the finish line",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGZyQzhWc2FiejBZZUhGdmlkWUxDdW5vdkZpaWktMGZGUE83ZDZZOFQ3Z1QtU0JkTkJwMHRUNE9kd2hNeWliSEg0ZVVwcTNlSWY2bnNuOU4zTFF3NFcwc0N2WEpqaE0xRHExTWVoeWF2UlVCUlpvODJ3c3NLUTBfeU5QdkdhV1JzMlRJbHFGSGY0eFNCcjFUX0hvNl9ZN0ZTUnI4bFJtNHZOS3pHbzRrems2MElxNnBObzQ5OXNjRVVIUQ?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong: Time to get Clarity Act across the finish line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
@@ -6085,17 +6096,6 @@
         "Bitcoin"
       ],
       "key_quote": "US President Trump pardons convicted Binance founder Changpeng Zhao MSN"
-    },
-    {
-      "title": "Crypto billionaire Changpeng Zhao revealed in a podcast he'd never sat in a Lamborghini—then he got a surprise",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWtHX3lXRWFZZ0EtN2JSNXQwbV9BeFhabnE5dFJJYVpleWd3aVQwLU4wUmJCYzEyT0xuTDNWUzNDRGYtbUJMVkd4Vmw5VUJnZ0duNXNHWlo3dGl0d2pieS1rNzJZR2V5YU5IYkdtUi1RWWxHNFh4aEtXVm92SENBMjAydndOaXZUYkpWbW1kaUs2YUpaaE45VVhCbWJTbDBDWmR5blFRSFFIMzdsLTljN1RnWFItZ1RqZ2JfWTNqbFdvX1ZKY0l5TzdKSEtjSjR0UnF3N25CZlFRbE9oT0NlbDZJdkJiU0Zwbk9oVWwxNGQ?oc=5\" target=\"_blank\">Crypto billionaire Changpeng Zhao revealed in a podcast he'd never sat in a Lamborghini—then he got a surprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUWtHX3lXRWFZZ0EtN2JSNXQwbV9BeFhabnE5dFJJYVpleWd3aVQwLU4wUmJCYzEyT0xuTDNWUzNDRGYtbUJMVkd4Vmw5VUJnZ0duNXNHWlo3dGl0d2pieS1rNzJZR2V5YU5IYkdtUi1RWWxHNFh4aEtXVm92SENBMjAydndOaXZUYkpWbW1kaUs2YUpaaE45VVhCbWJTbDBDWmR5blFRSFFIMzdsLTljN1RnWFItZ1RqZ2JfWTNqbFdvX1ZKY0l5TzdKSEtjSjR0UnF3N25CZlFRbE9oT0NlbDZJdkJiU0Zwbk9oVWwxNGQ?oc=5",
-      "source": "MSN",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-05-15T09:48:11+00:00",
-      "tags": [],
-      "key_quote": "Crypto billionaire Changpeng Zhao revealed in a podcast he'd never sat in a Lamborghini—then he got a surprise MSN"
     }
   ]
 }
