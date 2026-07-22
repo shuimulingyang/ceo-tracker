@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-07-22T22:47:45Z",
+  "updated_at": "2026-07-22T23:49:50Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 338,
-    "CZ": 82,
-    "Richard Teng": 43,
+    "Brian Armstrong": 339,
+    "Richard Teng": 44,
+    "CZ": 80,
     "Star Xu": 12,
     "Ben Zhou": 25
   },
   "articles": [
+    {
+      "title": "950K Contacts Back CLARITY Act as Coinbase CEO Says Bill Is Ready for Full Senate Vote",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6NlRFQXNpLVIwQkZwRHJoTUlZbU9yR1dqZ0N4SndiNlN3ZW44RXpJME4tLW1SX3BFeWItMnpyZUFURnhNbV80X09vNEhpX2d1dlJ5aTlR?oc=5\" target=\"_blank\">950K Contacts Back CLARITY Act as Coinbase CEO Says Bill Is Ready for Full Senate Vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6NlRFQXNpLVIwQkZwRHJoTUlZbU9yR1dqZ0N4SndiNlN3ZW44RXpJME4tLW1SX3BFeWItMnpyZUFURnhNbV80X09vNEhpX2d1dlJ5aTlR?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-22T23:22:15+00:00",
+      "tags": [],
+      "key_quote": "950K Contacts Back CLARITY Act as Coinbase CEO Says Bill Is Ready for Full Senate Vote Cryptonews.net"
+    },
+    {
+      "title": "Exploring Stablecoins: Richard Teng Engages with Mastercard on Global Accessibility",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE11MGh3NEFpOTN5QjdPWmZPUmhsZ3cydUljNlBxYWo0U0c4Y1RReWZ5M3V5Ui1mQms4aUh2Skp6bTFQaXlYSUVKbmJCb0g2TzhCSFEtQzAycw?oc=5\" target=\"_blank\">Exploring Stablecoins: Richard Teng Engages with Mastercard on Global Accessibility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11MGh3NEFpOTN5QjdPWmZPUmhsZ3cydUljNlBxYWo0U0c4Y1RReWZ5M3V5Ui1mQms4aUh2Skp6bTFQaXlYSUVKbmJCb0g2TzhCSFEtQzAycw?oc=5",
+      "source": "Cryptonews.net",
+      "ceo_name": "Richard Teng",
+      "exchange": "Binance",
+      "published_at": "2026-07-22T22:52:45+00:00",
+      "tags": [
+        "稳定币 Stablecoin"
+      ],
+      "key_quote": "Exploring Stablecoins: Richard Teng Engages with Mastercard on Global Accessibility Cryptonews.net"
+    },
     {
       "title": "Coinbase CEO: US lacks federal crypto consumer protections, CLARITY Act crucial",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFRtVVB2Q0lsOTVJQmFGc0xERThiTkNkMVNhSUtJWXV0cFFvclB5SzVHRERFckMweHR5VUFsQU54b3VmVmZDV2JFY2NwTnhGVmpxQmoxcGVFU3MyVkhtekpjSXZZTXQ3cWJwczZoOFlzN2JEVXU3aU9VRXM1cTRia09LX1Atb090YkJtejZxazJzcUdLZkNLQWxFWGJrQmtCeWx4Z3gwVU8?oc=5\" target=\"_blank\">Coinbase CEO: US lacks federal crypto consumer protections, CLARITY Act crucial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
@@ -6074,28 +6098,6 @@
       "published_at": "2026-05-16T18:05:37+00:00",
       "tags": [],
       "key_quote": "Mark Cuban Was A Crypto Skeptic Early On And Even Ignored Coinbase CEO Brian Armstrong's Reachout, But Th Benzinga"
-    },
-    {
-      "title": "How Much Is Enough Money? Binance Founder Changpeng Zhao Says This Figure Is Enough 'For Almost Everyone",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYnY5U052VFRoT2t6NVBtbnlwc0IyOGhOS0Z3R1B2UUNyNUc5NXVXbEFoNXZ2ZWpJRkQxQ0NOM0NsMUFfcHZCTC1kZExuQUNLa0hXcXVlX3NFeWNSQlVGYkh1V0Z4eHlIUXNfMS0zLWV4TlF3ZGdadE5VaGRJVkJsNS1semMxemJKTFFLZThxb3ZlNVg1b043aGxFbHc5dlFRYUkxbFkxT09zMjNsSmxqWkpYdDVvTTliLVB1a3BIM0ZUM0FPUjJnT0hZT0xSa3JtTExFOWtocHlXNjBnX0hfcDJyVFFDX254Y21Rc2wyR05GYTd6enc?oc=5\" target=\"_blank\">How Much Is Enough Money? Binance Founder Changpeng Zhao Says This Figure Is Enough 'For Almost Everyone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYnY5U052VFRoT2t6NVBtbnlwc0IyOGhOS0Z3R1B2UUNyNUc5NXVXbEFoNXZ2ZWpJRkQxQ0NOM0NsMUFfcHZCTC1kZExuQUNLa0hXcXVlX3NFeWNSQlVGYkh1V0Z4eHlIUXNfMS0zLWV4TlF3ZGdadE5VaGRJVkJsNS1semMxemJKTFFLZThxb3ZlNVg1b043aGxFbHc5dlFRYUkxbFkxT09zMjNsSmxqWkpYdDVvTTliLVB1a3BIM0ZUM0FPUjJnT0hZT0xSa3JtTExFOWtocHlXNjBnX0hfcDJyVFFDX254Y21Rc2wyR05GYTd6enc?oc=5",
-      "source": "Benzinga",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-05-16T14:01:01+00:00",
-      "tags": [],
-      "key_quote": "Binance Founder Changpeng Zhao Says This Figure Is Enough 'For Almost Everyone Benzinga"
-    },
-    {
-      "title": "How Much Is Enough Money? Binance Founder Changpeng Zhao Says This Figure Is Enough 'For Almost Everyone On Earth'",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkN1Z0hFU3lscXplN0ZSQ1RTU05vT05uZHBsYlEwM0xkTks1M0kwYWZfNFVTZXo4SGc2aXNtLVFrU0NMamEtbXg2SnVPTGE2WW14Tml0M0FoQ2IxdFZuYzhTeldmampTOTR3cThpd3RIQnhFT202a2dzSW16MHNKZ21LOFJ4TkttbzhKVzBRMFlWNWtVS05paWVzZkFudkU?oc=5\" target=\"_blank\">How Much Is Enough Money? Binance Founder Changpeng Zhao Says This Figure Is Enough 'For Almost Everyone On Earth'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkN1Z0hFU3lscXplN0ZSQ1RTU05vT05uZHBsYlEwM0xkTks1M0kwYWZfNFVTZXo4SGc2aXNtLVFrU0NMamEtbXg2SnVPTGE2WW14Tml0M0FoQ2IxdFZuYzhTeldmampTOTR3cThpd3RIQnhFT202a2dzSW16MHNKZ21LOFJ4TkttbzhKVzBRMFlWNWtVS05paWVzZkFudkU?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-05-16T14:01:01+00:00",
-      "tags": [],
-      "key_quote": "Binance Founder Changpeng Zhao Says This Figure Is Enough 'For Almost Everyone On Earth' Yahoo Finance"
     }
   ]
 }
