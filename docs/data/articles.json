@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T17:58:31Z",
+  "updated_at": "2026-07-22T19:08:36Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 336,
@@ -455,6 +455,19 @@
       "published_at": "2026-07-19T01:21:00+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Changed His Profile Picture and This Meme Coin Soared 37x Yahoo Finance"
+    },
+    {
+      "title": "'The Only Way': Coinbase CEO Brian Armstrong Champions Self-Custody to Reach 1 Billion Users",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUZXZkZFaEQ0RGZkSmlTSUJGZlluM3dQSVJVcnI4V1E0MDlPY2dyOVpUT0o0MFFMMTFTNWNPb0IxLU9UZktrX3ZiWWstWFRkc0NFZzVVaDcxNFJMdzZ3ZDVlTm5CdmtUVXhBSWs1dFYyYmhieXpYTGFodTN6OXc2eVJiVW5Hd2EzYmFTdlpmVmpVRjVGRVE0WmhqSWFRTllrUDJEVE9vd1hEc0U2SmZNTUJfWk9DZw?oc=5\" target=\"_blank\">'The Only Way': Coinbase CEO Brian Armstrong Champions Self-Custody to Reach 1 Billion Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin News</font>",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUZXZkZFaEQ0RGZkSmlTSUJGZlluM3dQSVJVcnI4V1E0MDlPY2dyOVpUT0o0MFFMMTFTNWNPb0IxLU9UZktrX3ZiWWstWFRkc0NFZzVVaDcxNFJMdzZ3ZDVlTm5CdmtUVXhBSWs1dFYyYmhieXpYTGFodTN6OXc2eVJiVW5Hd2EzYmFTdlpmVmpVRjVGRVE0WmhqSWFRTllrUDJEVE9vd1hEc0U2SmZNTUJfWk9DZw?oc=5",
+      "source": "Bitcoin News",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-19T00:30:26+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "'The Only Way': Coinbase CEO Brian Armstrong Champions Self-Custody to Reach 1 Billion Users Bitcoin News"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'",
@@ -6085,17 +6098,6 @@
       "published_at": "2026-05-15T22:40:51+00:00",
       "tags": [],
       "key_quote": "Changpeng Zhao: Binance platform offers diverse features for users Traders Union"
-    },
-    {
-      "title": "1 Billion Users: Coinbase CEO Armstrong Makes Known Ultimate Goal for Major US Crypto Exchange",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pSjl6b0lXN2tKRzhHaVZFdElMdlBHaHhyYXowZ0pJS3JwTm1TVE9ZdTZidmNkWHgyXzZYdlZlMi1xOFkwc2Q1Q3dCdEV0UkhIY19vc0s0Yw?oc=5\" target=\"_blank\">1 Billion Users: Coinbase CEO Armstrong Makes Known Ultimate Goal for Major US Crypto Exchange</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pSjl6b0lXN2tKRzhHaVZFdElMdlBHaHhyYXowZ0pJS3JwTm1TVE9ZdTZidmNkWHgyXzZYdlZlMi1xOFkwc2Q1Q3dCdEV0UkhIY19vc0s0Yw?oc=5",
-      "source": "Cryptonews.net",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-15T22:08:44+00:00",
-      "tags": [],
-      "key_quote": "1 Billion Users: Coinbase CEO Armstrong Makes Known Ultimate Goal for Major US Crypto Exchange Cryptonews.net"
     }
   ]
 }
