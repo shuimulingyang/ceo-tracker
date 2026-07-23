@@ -1,14 +1,53 @@
 {
-  "updated_at": "2026-07-23T10:07:54Z",
+  "updated_at": "2026-07-23T12:16:09Z",
   "total": 500,
   "by_ceo": {
-    "Brian Armstrong": 338,
+    "Brian Armstrong": 339,
     "Richard Teng": 45,
-    "CZ": 80,
+    "CZ": 79,
     "Star Xu": 12,
     "Ben Zhou": 25
   },
   "articles": [
+    {
+      "title": "Coinbase CEO Brian Armstrong Thinks Bitcoin May Have Hit a Bottom. Here's Why He's Right",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNeFh3YWhnVU4xWEhacEZoMFF4djFiNTdsOWEwWGlkTUxiTnBEdlZpT3BJdzBFSlM2ajQxRHU3RHJjdFhVVThDeUMxZkNVeGcyZF9KYkFCeGlSZldtVlk2bUZTWU96ZnBkSVBuQlQxZENtdk1McTUxSlFHaUxlOFNGVGhQaTNjeHpualJkelpVOE1ZUmZEMXRhR3RtWG85VDZvSkFRaUQ1QjhKM3Q1TExVM0dma2xGXzNZVnBDUGRkakM5QWlSVFVTbGd3MktTVnNoNjJkaFVJblM5YWFHV0lJb1hNOTFtV1V1MlE0d3FKaDlEMDV1UTlua1NwaUhLLXpUZVZz?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Thinks Bitcoin May Have Hit a Bottom. Here's Why He's Right</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeFh3YWhnVU4xWEhacEZoMFF4djFiNTdsOWEwWGlkTUxiTnBEdlZpT3BJdzBFSlM2ajQxRHU3RHJjdFhVVThDeUMxZkNVeGcyZF9KYkFCeGlSZldtVlk2bUZTWU96ZnBkSVBuQlQxZENtdk1McTUxSlFHaUxlOFNGVGhQaTNjeHpualJkelpVOE1ZUmZEMXRhR3RtWG85VDZvSkFRaUQ1QjhKM3Q1TExVM0dma2xGXzNZVnBDUGRkakM5QWlSVFVTbGd3MktTVnNoNjJkaFVJblM5YWFHV0lJb1hNOTFtV1V1MlE0d3FKaDlEMDV1UTlua1NwaUhLLXpUZVZz?oc=5",
+      "source": "The Globe and Mail",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-23T11:19:38+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Thinks Bitcoin May Have Hit a Bottom."
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Thinks Bitcoin May Have Hit a Bottom. Here's Why He's Right",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOVW8tU00ySGtqNHdCcm9EVW5vUW5xZmJpUzZQa3pObWdDWkZrX1I4ME1jN2xYczczSUNwZmkzVTA5MzdiMWV6SzVOUk1MWGRhTFRPSGNQWUJieTBFc0pvbzBhbmlLZ3RIRFpXNVV4WDd3bDdibzU4NFpyMHc2czdOSkk4ZXpZdw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Thinks Bitcoin May Have Hit a Bottom. Here's Why He's Right</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVW8tU00ySGtqNHdCcm9EVW5vUW5xZmJpUzZQa3pObWdDWkZrX1I4ME1jN2xYczczSUNwZmkzVTA5MzdiMWV6SzVOUk1MWGRhTFRPSGNQWUJieTBFc0pvbzBhbmlLZ3RIRFpXNVV4WDd3bDdibzU4NFpyMHc2czdOSkk4ZXpZdw?oc=5",
+      "source": "AOL.com",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-23T11:12:03+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Thinks Bitcoin May Have Hit a Bottom."
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Thinks Bitcoin May Have Hit a Bottom. Here's Why He's Right",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWF6VjNOSFJSRE93STk5SGtkT1pjQXBPek1yM05XQVBLWTE2d01LUG1fSTR4c2NWUnFESXQ5RUwxQ2FGdXgxMktoSHByc1FXODNDQmlibV9sRXdMekNDaTFvTmEtcGxHZTBoeG5HZ0lYRlhmMlhxVFFuTE1wZ1RRcm1NLV9SNFFIaTRiaXB4R3dMSkhWdmJtZw?oc=5\" target=\"_blank\">Coinbase CEO Brian Armstrong Thinks Bitcoin May Have Hit a Bottom. Here's Why He's Right</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVWF6VjNOSFJSRE93STk5SGtkT1pjQXBPek1yM05XQVBLWTE2d01LUG1fSTR4c2NWUnFESXQ5RUwxQ2FGdXgxMktoSHByc1FXODNDQmlibV9sRXdMekNDaTFvTmEtcGxHZTBoeG5HZ0lYRlhmMlhxVFFuTE1wZ1RRcm1NLV9SNFFIaTRiaXB4R3dMSkhWdmJtZw?oc=5",
+      "source": "The Motley Fool",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-23T11:11:30+00:00",
+      "tags": [
+        "Bitcoin"
+      ],
+      "key_quote": "Coinbase CEO Brian Armstrong Thinks Bitcoin May Have Hit a Bottom."
+    },
     {
       "title": "All Eyes On CLARITY Act: Why Coinbase CEO Thinks Crypto’s ‘One-Yard Line’ Moment Has Arrived",
       "content": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOM1plOVFCZ2lGMnBDSDlnUGRRUjhFaVVaQUZma1gxVGRwUHE4MFhLY0xxeTVudFZtZ0lfajhXNmQzNFYzcmtKTFUtUm00dktLSGdiR2xmWUFPTjNPclRyY2tpNDNrZXE1VWE1eFBCVjUwWlZiRmhJeWwtOXh6SGhmRmV4Ykl5Z1MxSTlCQ3RFcklYaWJBSjNSTHRvNy1nOW43OVRSOUlhSXpxa3hyNm1xUHhRVTlhNXQ1dDRzT2hPYTkwV0VvN1dYRTBEMXVqZG52TXlNN3BndEVkVkxCY1FCR3FHdExvZVVBQURGaEozMG5rWll1WHZfRFcwMTh4ZFlqUGxwMFpwNjVveDBJ?oc=5\" target=\"_blank\">All Eyes On CLARITY Act: Why Coinbase CEO Thinks Crypto’s ‘One-Yard Line’ Moment Has Arrived</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
@@ -21,6 +60,17 @@
         "DeFi"
       ],
       "key_quote": "All Eyes On CLARITY Act: Why Coinbase CEO Thinks Crypto’s ‘One-Yard Line’ Moment Has Arrived Stocktwits"
+    },
+    {
+      "title": "COIN Stock In Focus: Coinbase CEO Says CLARITY Act Is Ready For A 'Full Senate Floor Vote,' Signals Passage Within Weeks",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNbEtLMlhBZmFhb2pnWEd4M0stSnhOcUZUVnBIdEVWekRFc2R4NjQzV2ctYmc4LVkxUDBLYUNIdEZ1RERpakVHN2thMlpFQWs0VDdtejY1d3JmWUZHT3JLUm82ZjcxNG9Hcm9ocUlDZUhJa244UlBWclNQRDJIZUtjSFRXRHBoYkVWLUJjN3o3MUtqdU9HMzI2TEln?oc=5\" target=\"_blank\">COIN Stock In Focus: Coinbase CEO Says CLARITY Act Is Ready For A 'Full Senate Floor Vote,' Signals Passage Within Weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbEtLMlhBZmFhb2pnWEd4M0stSnhOcUZUVnBIdEVWekRFc2R4NjQzV2ctYmc4LVkxUDBLYUNIdEZ1RERpakVHN2thMlpFQWs0VDdtejY1d3JmWUZHT3JLUm82ZjcxNG9Hcm9ocUlDZUhJa244UlBWclNQRDJIZUtjSFRXRHBoYkVWLUJjN3o3MUtqdU9HMzI2TEln?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-23T09:16:07+00:00",
+      "tags": [],
+      "key_quote": "COIN Stock In Focus: Coinbase CEO Says CLARITY Act Is Ready For A 'Full Senate Floor Vote,' Signals Passage Within Weeks Yahoo Finance"
     },
     {
       "title": "950K Contacts Back CLARITY Act as Coinbase CEO Says Bill Is Ready for Full Senate Vote",
@@ -6049,53 +6099,6 @@
       "ceo_name": "Brian Armstrong",
       "exchange": "Coinbase",
       "published_at": "2026-05-18T00:38:08+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO issues warning to all Americans amid mass layoffs MSN"
-    },
-    {
-      "title": "Trump pardons Binance founder Changpeng Zhao",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxNZldFWFdIcDZjUS1fTjJxMlZqb00yQ0dnc01XNEtQR3ZhT0o1a0ZWXzh3ZGpjaTFOOERCOUFOb3VsRWZTVWMwREhYUTdWV2JvQ1NmdXdwbWVIYVJ5S19OMjZ1Nkc4Rm9EbTktN2toRFB2NXN4SEpuODh3bHJYOTFMUTdHVlZVMVpiamNPenR2QnB1SjUxTXhXQkJyNE1TNVZNLVNnU1hXaXVsclVBbVRzMllDdlplOExockgwd0FJNEVwQm9jRTZTNlJ6UFZHQTg2V3ptN3JWSks3QjMxRUtjNVgwMXVMSktrSE03MWRqR2RZVG4tdW5Gd05tQVFUdFZ1cjFEMzBPN3ZqWGRJUWdZMEhpUzJoNVg1SldTTDZmdjFlV3A1WW1HSkRrdW82dnc?oc=5\" target=\"_blank\">Trump pardons Binance founder Changpeng Zhao</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZldFWFdIcDZjUS1fTjJxMlZqb00yQ0dnc01XNEtQR3ZhT0o1a0ZWXzh3ZGpjaTFOOERCOUFOb3VsRWZTVWMwREhYUTdWV2JvQ1NmdXdwbWVIYVJ5S19OMjZ1Nkc4Rm9EbTktN2toRFB2NXN4SEpuODh3bHJYOTFMUTdHVlZVMVpiamNPenR2QnB1SjUxTXhXQkJyNE1TNVZNLVNnU1hXaXVsclVBbVRzMllDdlplOExockgwd0FJNEVwQm9jRTZTNlJ6UFZHQTg2V3ptN3JWSks3QjMxRUtjNVgwMXVMSktrSE03MWRqR2RZVG4tdW5Gd05tQVFUdFZ1cjFEMzBPN3ZqWGRJUWdZMEhpUzJoNVg1SldTTDZmdjFlV3A1WW1HSkRrdW82dnc?oc=5",
-      "source": "MSN",
-      "ceo_name": "CZ",
-      "exchange": "Binance",
-      "published_at": "2026-05-17T23:04:32+00:00",
-      "tags": [],
-      "key_quote": "Trump pardons Binance founder Changpeng Zhao MSN"
-    },
-    {
-      "title": "Coinbase CEO Says 'American Companies Can Finally Start To Build' If CLARITY Act Advances",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGFhaHpyUVdlNGZqRGVGb2NiSW9JZlY3UWJ0QjBRQ1paQ0ZNU0c1YnRyRU0yRnc2OTZ6VnRXRVowVUpyUG90bTVmUy1YbVlKd1VabXlkcExHa1NwRTRRNzVYakMzWEZ3WlRQWldROVRjMHM2WDBpbHhfdmlJeXF5OUpvek5yN0VIRXhORGpRU21tYlFPMkVRMGUweElBMG1rbWNr?oc=5\" target=\"_blank\">Coinbase CEO Says 'American Companies Can Finally Start To Build' If CLARITY Act Advances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGFhaHpyUVdlNGZqRGVGb2NiSW9JZlY3UWJ0QjBRQ1paQ0ZNU0c1YnRyRU0yRnc2OTZ6VnRXRVowVUpyUG90bTVmUy1YbVlKd1VabXlkcExHa1NwRTRRNzVYakMzWEZ3WlRQWldROVRjMHM2WDBpbHhfdmlJeXF5OUpvek5yN0VIRXhORGpRU21tYlFPMkVRMGUweElBMG1rbWNr?oc=5",
-      "source": "Yahoo Finance",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-17T18:01:27+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO Says 'American Companies Can Finally Start To Build' If CLARITY Act Advances Yahoo Finance"
-    },
-    {
-      "title": "Coinbase CEO says US government could hold over $1T in Bitcoin reserves",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE50RlVaYVdLb09xTHl0RWNiQ2NTTVBSWnE4VEt3S19EenkweGQ1LUtFNWpidkRrT2RPal9Xd3A3Wnpza1c0QUhNY29hbTd2bmdwSUJsR0RZRHRLbkZKQXVmVFhIZ0o0M2EtbFZjYndUbjhQNV8zTHp4cA?oc=5\" target=\"_blank\">Coinbase CEO says US government could hold over $1T in Bitcoin reserves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50RlVaYVdLb09xTHl0RWNiQ2NTTVBSWnE4VEt3S19EenkweGQ1LUtFNWpidkRrT2RPal9Xd3A3Wnpza1c0QUhNY29hbTd2bmdwSUJsR0RZRHRLbkZKQXVmVFhIZ0o0M2EtbFZjYndUbjhQNV8zTHp4cA?oc=5",
-      "source": "Crypto Briefing",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-17T10:30:12+00:00",
-      "tags": [
-        "监管 Regulation",
-        "Bitcoin"
-      ],
-      "key_quote": "Coinbase CEO says US government could hold over $1T in Bitcoin reserves Crypto Briefing"
-    },
-    {
-      "title": "Coinbase CEO issues warning to all Americans amid mass layoffs",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQZTlrSzhmeUFXNnZ6RElWblpzVDh0TjVWdmhtczVidnhDSi1zTFpjRzM1N0NpZXJ6TEtjYm11ZGZMaWE4YjlfbGp0WWZwUnZUUTZfX0lZTlF3Ymg2NlphUTZndDJCRUdIVVBVenJVdjVET3dkQlBwRkFvTlZqUmFOdHhzNlRRQnNQWmgxOUVobmZVQjRvaHR3Wkw1aG1EUnV3QWhIbmpwRnEtRHdrVXpfOWxrU19vTHlRZHpoNGJmem14Zk9oVjg3cV8tOXh3U1hWaXFLUkh4R3N1RXFfNWxyVFM5R3E5Qmt0SXBjOXhQaXAxaXRVOWJEVlhwaGdOWkhUNGtVZ0h5S0RWZw?oc=5\" target=\"_blank\">Coinbase CEO issues warning to all Americans amid mass layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZTlrSzhmeUFXNnZ6RElWblpzVDh0TjVWdmhtczVidnhDSi1zTFpjRzM1N0NpZXJ6TEtjYm11ZGZMaWE4YjlfbGp0WWZwUnZUUTZfX0lZTlF3Ymg2NlphUTZndDJCRUdIVVBVenJVdjVET3dkQlBwRkFvTlZqUmFOdHhzNlRRQnNQWmgxOUVobmZVQjRvaHR3Wkw1aG1EUnV3QWhIbmpwRnEtRHdrVXpfOWxrU19vTHlRZHpoNGJmem14Zk9oVjg3cV8tOXh3U1hWaXFLUkh4R3N1RXFfNWxyVFM5R3E5Qmt0SXBjOXhQaXAxaXRVOWJEVlhwaGdOWkhUNGtVZ0h5S0RWZw?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-17T08:25:49+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO issues warning to all Americans amid mass layoffs MSN"
     }
