@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T14:57:09Z",
+  "updated_at": "2026-07-23T16:20:40Z",
   "total": 500,
   "by_ceo": {
     "Brian Armstrong": 339,
@@ -19,6 +19,17 @@
       "published_at": "2026-07-23T12:47:03+00:00",
       "tags": [],
       "key_quote": "CLARITY Act Faces Make-or-Break Talks as Coinbase CEO Returns to Capitol Hill CCN.com"
+    },
+    {
+      "title": "XRP to $27 or $1? CLARITY Act Faces Make-or-Break Talks as Coinbase CEO Returns to Capitol Hill",
+      "content": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2x6NV9vSTNBUDFCY2lVNXVrM3ViMnppZVBDR1NQTnBEUlNGY3FFVWtDTDFXTWM3UEpLY3JndnhVT1BHMEQ0VzVrWmFYVk15b2lVaVlGTjlpVjRZb0JyS2RwS2Z5eW9DZ090Zlg4SHYtWWRJalRXOXVzcGpLRnZDUHRpZWg1Q0RJUGJCMHVR?oc=5\" target=\"_blank\">XRP to $27 or $1? CLARITY Act Faces Make-or-Break Talks as Coinbase CEO Returns to Capitol Hill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2x6NV9vSTNBUDFCY2lVNXVrM3ViMnppZVBDR1NQTnBEUlNGY3FFVWtDTDFXTWM3UEpLY3JndnhVT1BHMEQ0VzVrWmFYVk15b2lVaVlGTjlpVjRZb0JyS2RwS2Z5eW9DZ090Zlg4SHYtWWRJalRXOXVzcGpLRnZDUHRpZWg1Q0RJUGJCMHVR?oc=5",
+      "source": "Yahoo Finance",
+      "ceo_name": "Brian Armstrong",
+      "exchange": "Coinbase",
+      "published_at": "2026-07-23T12:40:57+00:00",
+      "tags": [],
+      "key_quote": "CLARITY Act Faces Make-or-Break Talks as Coinbase CEO Returns to Capitol Hill Yahoo Finance"
     },
     {
       "title": "Coinbase CEO Brian Armstrong Thinks Bitcoin May Have Hit a Bottom. Here's Why He's Right",
@@ -6092,17 +6103,6 @@
       "published_at": "2026-05-18T16:24:03+00:00",
       "tags": [],
       "key_quote": "Coinbase CEO Says Blockchain Forensics Helped Win 5 Criminal Convictions bloomingbit"
-    },
-    {
-      "title": "Coinbase CEO issues warning to all Americans amid mass layoffs",
-      "content": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3ZpUnVkWXJTelBwLTNqUTVyWEJmTV9wczdtQ0I3ZWlhWXZkN1hROXVMSTNRUW1nZURVTEw1ZUpxRDJzUlJDazFjYjFQLVBqRjI2V1pBblRKRGlnMjFoNjdPWHB3R29JV3hDUzdrbHVaNmJ0b2IwQ3VDdVMzVUJBcWpQSUpFNzB6QU5KUnlMc3YxLXNrTDFMd0tRcUFlYVdzVGtrdVpzbmgyc0h1VVhsbU5YY3FDN1FjZHZtYXlhNW9Vblk0U2FBOVZrdlJyZXNBUFkwMUU4RXhCZw?oc=5\" target=\"_blank\">Coinbase CEO issues warning to all Americans amid mass layoffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3ZpUnVkWXJTelBwLTNqUTVyWEJmTV9wczdtQ0I3ZWlhWXZkN1hROXVMSTNRUW1nZURVTEw1ZUpxRDJzUlJDazFjYjFQLVBqRjI2V1pBblRKRGlnMjFoNjdPWHB3R29JV3hDUzdrbHVaNmJ0b2IwQ3VDdVMzVUJBcWpQSUpFNzB6QU5KUnlMc3YxLXNrTDFMd0tRcUFlYVdzVGtrdVpzbmgyc0h1VVhsbU5YY3FDN1FjZHZtYXlhNW9Vblk0U2FBOVZrdlJyZXNBUFkwMUU4RXhCZw?oc=5",
-      "source": "MSN",
-      "ceo_name": "Brian Armstrong",
-      "exchange": "Coinbase",
-      "published_at": "2026-05-18T15:08:33+00:00",
-      "tags": [],
-      "key_quote": "Coinbase CEO issues warning to all Americans amid mass layoffs MSN"
     }
   ]
 }
